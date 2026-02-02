@@ -70,20 +70,34 @@ jobs:
             },
             "重點文章": [
               {
-                "標題": "Effect of SGLT2 Inhibitors on Kidney Outcomes in Patients with CKD",
+                "標題": "Effect of SGLT2 Inhibitors on Kidney Outcomes in Patients with CKD: A Randomized Controlled Trial",
                 "期刊": "New England Journal of Medicine",
                 "研究類型": "隨機對照試驗",
                 "發表日期": "2025 Jan",
                 "是否高影響力期刊": true,
-                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345678/",
+                "PICO": {
+                  "P_族群": "4,304 位患有第 3-4 期慢性腎臟病且 eGFR 25-75 mL/min/1.73m² 的成年患者",
+                  "I_介入": "Dapagliflozin 10 mg 每日一次口服",
+                  "C_對照": "安慰劑對照組",
+                  "O_結果": "複合腎臟終點（eGFR 持續下降 ≥50%、末期腎病、腎臟或心血管死亡）"
+                },
+                "中文摘要": "【研究目的】本隨機對照試驗旨在評估 SGLT2 抑制劑 dapagliflozin 對慢性腎臟病患者腎臟預後的影響。\n\n【研究方法】採用多中心、雙盲、安慰劑對照設計，納入 4,304 位 CKD 患者，隨機分配至 dapagliflozin 10mg 或安慰劑組，追蹤中位數 2.4 年。\n\n【主要結果】Dapagliflozin 組的主要複合終點發生率為 9.2%，安慰劑組為 14.5%（HR 0.61, 95% CI 0.51-0.72, P<0.001），風險降低 39%。\n\n【結論】SGLT2 抑制劑顯著降低 CKD 患者的腎臟疾病進展風險，應考慮納入 CKD 標準治療。"
               },
               {
-                "標題": "Novel Biomarkers for Early Detection of Pediatric AKI",
+                "標題": "Novel Urinary Biomarkers for Early Detection of Acute Kidney Injury in Critically Ill Children",
                 "期刊": "Pediatric Nephrology",
-                "研究類型": "世代研究",
+                "研究類型": "前瞻性世代研究",
                 "發表日期": "2025 Jan",
                 "是否高影響力期刊": true,
-                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345679/"
+                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345679/",
+                "PICO": {
+                  "P_族群": "523 位入住兒童加護病房的危重症兒童（年齡 1 個月至 18 歲）",
+                  "I_介入": "尿液 NGAL、KIM-1、IL-18 等新型生物標記檢測",
+                  "C_對照": "傳統血清肌酸酐檢測",
+                  "O_結果": "AKI 早期診斷的敏感度、特異度及 AUC"
+                },
+                "中文摘要": "【研究目的】本前瞻性世代研究旨在評估新型尿液生物標記在兒童急性腎損傷早期診斷中的價值。\n\n【研究方法】連續收錄 523 位 PICU 病童，於入院後 6、12、24 小時收集尿液檢測 NGAL、KIM-1、IL-18，並與血清肌酸酐比較。\n\n【主要結果】尿液 NGAL 在 AKI 發生前 12-24 小時即顯著升高，AUC 達 0.89，優於血清肌酸酐（AUC 0.72）。組合三種標記可將 AUC 提升至 0.93。\n\n【結論】新型尿液生物標記可早期預測兒童 AKI，有助於及時介入治療，改善預後。"
               }
             ],
             "研究想法": [

@@ -166,6 +166,57 @@ def generate_html_report(summary: Optional[dict] = None) -> str:
             color: #e65100;
             margin-bottom: 5px;
         }}
+        .pico-box {{
+            background-color: #f0f7ff;
+            border: 1px solid #b3d4fc;
+            border-radius: 8px;
+            padding: 12px;
+            margin: 10px 0;
+        }}
+        .pico-title {{
+            font-weight: bold;
+            color: #1565c0;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }}
+        .pico-item {{
+            margin: 6px 0;
+            font-size: 13px;
+            line-height: 1.5;
+        }}
+        .pico-label {{
+            display: inline-block;
+            background-color: #1565c0;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 11px;
+            margin-right: 8px;
+            min-width: 80px;
+            text-align: center;
+        }}
+        .chinese-summary {{
+            background-color: #fff8e1;
+            border-left: 4px solid #ffc107;
+            padding: 12px 15px;
+            margin: 10px 0;
+            border-radius: 0 8px 8px 0;
+            font-size: 13px;
+            line-height: 1.8;
+        }}
+        .chinese-summary-title {{
+            font-weight: bold;
+            color: #f57c00;
+            margin-bottom: 8px;
+        }}
+        .summary-section {{
+            margin: 8px 0;
+        }}
+        .summary-label {{
+            color: #e65100;
+            font-weight: bold;
+        }}
         .footer {{
             text-align: center;
             margin-top: 30px;
@@ -266,8 +317,37 @@ def generate_html_report(summary: Optional[dict] = None) -> str:
             pub_date = article.get("發表日期", "")
             is_high_impact = article.get("是否高影響力期刊", False)
             pubmed_url = article.get("PubMed連結", "")
+            pico = article.get("PICO", {})
+            chinese_summary = article.get("中文摘要", "")
 
             high_impact_badge = '<span class="high-impact">高影響力期刊</span>' if is_high_impact else ''
+
+            # PICO 格式 HTML
+            pico_html = ""
+            if pico and any(pico.values()):
+                pico_html = '<div class="pico-box"><div class="pico-title">PICO 格式分析</div>'
+                if pico.get("P_族群"):
+                    pico_html += f'<div class="pico-item"><span class="pico-label">P 族群</span>{pico["P_族群"]}</div>'
+                if pico.get("I_介入"):
+                    pico_html += f'<div class="pico-item"><span class="pico-label">I 介入</span>{pico["I_介入"]}</div>'
+                if pico.get("C_對照"):
+                    pico_html += f'<div class="pico-item"><span class="pico-label">C 對照</span>{pico["C_對照"]}</div>'
+                if pico.get("O_結果"):
+                    pico_html += f'<div class="pico-item"><span class="pico-label">O 結果</span>{pico["O_結果"]}</div>'
+                pico_html += '</div>'
+
+            # 中文摘要 HTML
+            summary_html = ""
+            if chinese_summary:
+                # 將換行轉換為 HTML
+                formatted_summary = chinese_summary.replace("\n\n", "</div><div class='summary-section'>").replace("\n", "<br>")
+                # 將【標題】轉換為粗體
+                formatted_summary = formatted_summary.replace("【", "<span class='summary-label'>").replace("】", "</span> ")
+                summary_html = f'''
+                <div class="chinese-summary">
+                    <div class="chinese-summary-title">中文摘要整理</div>
+                    <div class="summary-section">{formatted_summary}</div>
+                </div>'''
 
             html += f"""
             <div class="article">
@@ -278,6 +358,8 @@ def generate_html_report(summary: Optional[dict] = None) -> str:
                     {journal} | {study_type} | {pub_date}
                     {f'<br><a href="{pubmed_url}" target="_blank">在 PubMed 查看</a>' if pubmed_url else ''}
                 </div>
+                {pico_html}
+                {summary_html}
             </div>
 """
     else:
