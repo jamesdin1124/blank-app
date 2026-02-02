@@ -16,14 +16,26 @@ on:
         description: '每類別最大文章數'
         required: false
         default: '50'
+      send_email:
+        description: '是否發送 Email 通知'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 jobs:
   fetch-articles:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,6 +55,29 @@ jobs:
         run: |
           python fetch_weekly.py --days-back $DAYS_BACK --max-results $MAX_RESULTS
 
+      - name: Generate HTML report
+        run: |
+          python -c "
+          from email_report import generate_html_report, save_html_report
+          html = generate_html_report()
+          save_html_report(html, 'data/weekly_report.html')
+          "
+
+      - name: Commit and push data to repository
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+
+          # 檢查是否有變更
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly PubMed data update - $(date +'%Y-%m-%d')"
+            git push
+            echo "Changes committed and pushed"
+          fi
+
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -51,31 +86,54 @@ jobs:
             data/articles.json
             data/weekly_summary.json
             data/trends.json
+            data/weekly_report.html
           retention-days: 90
 
-      - name: Commit and push if changes
+      - name: Read summary for email
+        id: summary
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          git diff --staged --quiet || git commit -m "Weekly PubMed fetch - $(date +'%Y-%m-%d')"
-          git push || echo "No changes to push"
+          if [ -f data/weekly_summary.json ]; then
+            TOTAL=$(python -c "import json; d=json.load(open('data/weekly_summary.json')); print(d.get('執行摘要', {}).get('總文章數', 0))")
+            HIGH_IMPACT=$(python -c "import json; d=json.load(open('data/weekly_summary.json')); print(d.get('執行摘要', {}).get('高影響力期刊文章數', 0))")
+            echo "total=$TOTAL" >> $GITHUB_OUTPUT
+            echo "high_impact=$HIGH_IMPACT" >> $GITHUB_OUTPUT
+          else
+            echo "total=0" >> $GITHUB_OUTPUT
+            echo "high_impact=0" >> $GITHUB_OUTPUT
+          fi
 
-      - name: Generate summary
+      - name: Send email notification
+        if: ${{ github.event.inputs.send_email != 'false' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "腎臟學研究週報 - ${{ steps.summary.outputs.total }} 篇新文章 (${{ github.event.repository.updated_at || 'weekly' }})"
+          to: ${{ secrets.EMAIL_TO }}
+          from: "腎臟學研究週報 <${{ secrets.EMAIL_USERNAME }}>"
+          html_body: file://data/weekly_report.html
+          attachments: data/weekly_summary.json
+
+      - name: Generate GitHub summary
         run: |
-          echo "## Weekly Nephrology Research Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## 腎臟學研究週報" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Fetched articles on $(date +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "執行時間: $(date +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 本週統計" >> $GITHUB_STEP_SUMMARY
+          echo "- 總文章數: ${{ steps.summary.outputs.total }}" >> $GITHUB_STEP_SUMMARY
+          echo "- 高影響力期刊: ${{ steps.summary.outputs.high_impact }}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ -f data/weekly_summary.json ]; then
+            echo "### 主要發現" >> $GITHUB_STEP_SUMMARY
             python -c "
           import json
           with open('data/weekly_summary.json', 'r') as f:
               summary = json.load(f)
-          exec_summary = summary.get('執行摘要', {})
-          print(f\"- Total articles: {exec_summary.get('總文章數', 0)}\")
-          print(f\"- High-impact journals: {exec_summary.get('高影響力期刊文章數', 0)}\")
-          for finding in exec_summary.get('主要發現', [])[:3]:
-              print(f\"- {finding}\")
+          for finding in summary.get('執行摘要', {}).get('主要發現', [])[:5]:
+              print(f'- {finding}')
           " >> $GITHUB_STEP_SUMMARY
           fi
