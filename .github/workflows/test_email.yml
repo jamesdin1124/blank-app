@@ -1,0 +1,139 @@
+name: Test Email
+
+on:
+  # 只允許手動觸發
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: '測試模式 (fetch_and_send: 抓取並發送, send_only: 僅發送測試郵件)'
+        required: true
+        default: 'fetch_and_send'
+        type: choice
+        options:
+          - 'fetch_and_send'
+          - 'send_only'
+
+jobs:
+  test-email:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch articles (if fetch_and_send mode)
+        if: ${{ github.event.inputs.test_mode == 'fetch_and_send' }}
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          python fetch_weekly.py --days-back 7 --max-results 30
+
+      - name: Create test data (if send_only mode)
+        if: ${{ github.event.inputs.test_mode == 'send_only' }}
+        run: |
+          mkdir -p data
+          cat > data/weekly_summary.json << 'EOF'
+          {
+            "報告日期": "2025-01-31T12:00:00",
+            "執行摘要": {
+              "總文章數": 25,
+              "高影響力期刊文章數": 5,
+              "主要發現": [
+                "本週熱門研究主題: SGLT2 inhibitor (8篇), biomarker (6篇)",
+                "高影響力期刊發表 5 篇，包括: NEJM, Kidney Int",
+                "高品質證據: 3 篇 RCT, 2 篇統合分析"
+              ]
+            },
+            "分類統計": {
+              "兒童腎臟學": {"文章數": 10},
+              "成人腎臟學": {"文章數": 15}
+            },
+            "研究趨勢": {
+              "熱門主題": [
+                ["SGLT2 inhibitor", 8],
+                ["biomarker", 6],
+                ["machine learning", 4],
+                ["cardiovascular", 3]
+              ]
+            },
+            "重點文章": [
+              {
+                "標題": "Effect of SGLT2 Inhibitors on Kidney Outcomes in Patients with CKD",
+                "期刊": "New England Journal of Medicine",
+                "研究類型": "隨機對照試驗",
+                "發表日期": "2025 Jan",
+                "是否高影響力期刊": true,
+                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+              },
+              {
+                "標題": "Novel Biomarkers for Early Detection of Pediatric AKI",
+                "期刊": "Pediatric Nephrology",
+                "研究類型": "世代研究",
+                "發表日期": "2025 Jan",
+                "是否高影響力期刊": true,
+                "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/12345679/"
+              }
+            ],
+            "研究想法": [
+              {
+                "類型": "熱門主題延伸",
+                "關鍵詞": "SGLT2 inhibitor",
+                "想法": "目前 'SGLT2 inhibitor' 是研究熱點，可考慮在本地族群中驗證相關發現",
+                "建議研究類型": "觀察性研究"
+              }
+            ]
+          }
+          EOF
+
+      - name: Generate HTML report
+        run: |
+          python -c "
+          from email_report import generate_html_report, save_html_report
+          html = generate_html_report()
+          save_html_report(html, 'data/weekly_report.html')
+          print('HTML report generated successfully')
+          "
+
+      - name: Read summary
+        id: summary
+        run: |
+          TOTAL=$(python -c "import json; d=json.load(open('data/weekly_summary.json')); print(d.get('執行摘要', {}).get('總文章數', 0))")
+          HIGH_IMPACT=$(python -c "import json; d=json.load(open('data/weekly_summary.json')); print(d.get('執行摘要', {}).get('高影響力期刊文章數', 0))")
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          echo "high_impact=$HIGH_IMPACT" >> $GITHUB_OUTPUT
+
+      - name: Send test email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "[測試] 腎臟學研究週報 - ${{ steps.summary.outputs.total }} 篇文章"
+          to: ${{ secrets.EMAIL_TO }}
+          from: "腎臟學研究週報 <${{ secrets.EMAIL_USERNAME }}>"
+          html_body: file://data/weekly_report.html
+          attachments: data/weekly_summary.json
+
+      - name: Success message
+        run: |
+          echo "## 測試 Email 發送成功！" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 模式: ${{ github.event.inputs.test_mode }}" >> $GITHUB_STEP_SUMMARY
+          echo "- 總文章數: ${{ steps.summary.outputs.total }}" >> $GITHUB_STEP_SUMMARY
+          echo "- 高影響力期刊: ${{ steps.summary.outputs.high_impact }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "請檢查您的郵箱是否收到測試郵件。" >> $GITHUB_STEP_SUMMARY
