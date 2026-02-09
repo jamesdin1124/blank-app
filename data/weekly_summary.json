@@ -1,0 +1,684 @@
+{
+  "報告日期": "2026-02-09T08:56:48.668409",
+  "報告週期": "過去 7 天",
+  "執行摘要": {
+    "總文章數": 11,
+    "高影響力期刊文章數": 2,
+    "主要發現": [
+      "本週熱門研究主題: biomarker (3篇), mortality (3篇), cardiovascular (2篇)",
+      "高影響力期刊發表 2 篇，包括: BMC pediatrics, Lancet (London, England)",
+      "高品質證據: 2 篇 RCT, 0 篇統合分析"
+    ]
+  },
+  "分類統計": {
+    "兒童腎臟學": {
+      "文章數": 2,
+      "高影響力期刊文章數": 1,
+      "主要期刊": {
+        "Clinical journal of the American Society of Nephrology : CJASN": 1,
+        "BMC pediatrics": 1
+      }
+    },
+    "成人腎臟學": {
+      "文章數": 9,
+      "高影響力期刊文章數": 1,
+      "主要期刊": {
+        "Circulation": 1,
+        "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
+        "Antimicrobial agents and chemotherapy": 1,
+        "The Journal of antimicrobial chemotherapy": 1,
+        "Renal failure": 1
+      }
+    }
+  },
+  "研究趨勢": {
+    "熱門主題": [
+      [
+        "biomarker",
+        3
+      ],
+      [
+        "mortality",
+        3
+      ],
+      [
+        "cardiovascular",
+        2
+      ],
+      [
+        "heart failure",
+        2
+      ],
+      [
+        "inflammation",
+        1
+      ],
+      [
+        "fibrosis",
+        1
+      ],
+      [
+        "personalized",
+        1
+      ],
+      [
+        "quality of life",
+        1
+      ],
+      [
+        "proteinuria",
+        1
+      ],
+      [
+        "SGLT2 inhibitor",
+        1
+      ]
+    ],
+    "趨勢關鍵詞": {
+      "診斷技術": {
+        "biomarker": 3
+      },
+      "研究主題": {
+        "cardiovascular": 2,
+        "heart failure": 2,
+        "inflammation": 1,
+        "fibrosis": 1,
+        "personalized": 1
+      },
+      "臨床結局": {
+        "mortality": 3,
+        "quality of life": 1,
+        "proteinuria": 1
+      },
+      "治療方法": {
+        "SGLT2 inhibitor": 1,
+        "dapagliflozin": 1
+      }
+    },
+    "期刊分布": {
+      "Clinical journal of the American Society of Nephrology : CJASN": 1,
+      "BMC pediatrics": 1,
+      "Circulation": 1,
+      "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
+      "Antimicrobial agents and chemotherapy": 1,
+      "The Journal of antimicrobial chemotherapy": 1,
+      "Renal failure": 1,
+      "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology": 1,
+      "Annals of medicine": 1,
+      "Open heart": 1,
+      "Lancet (London, England)": 1
+    },
+    "文章類型": {
+      "Journal Article": 11,
+      "Multicenter Study": 4,
+      "Randomized Controlled Trial": 2,
+      "Clinical Trial, Phase I": 1,
+      "Observational Study": 1,
+      "Clinical Trial, Phase II": 1
+    }
+  },
+  "重點文章": [
+    {
+      "pmid": "41616795",
+      "標題": "TRPC6 inhibition for the treatment of focal segmental glomerulosclerosis: a randomised, placebo-controlled, phase 2 trial of BI 764198.",
+      "期刊": "Lancet (London, England)",
+      "發表日期": "2026 Feb 07",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "proteinuria response (≥25% UPCR reduction from baseline) at week 12",
+        "I_介入": "receive placebo or BI 764198 at doses of 20 mg",
+        "C_對照": "placebo over 12 weeks in participants aged 18-75 years with biopsy-confirmed primary FSGS (based on the absence of clinical evidence of secondary cause) or with a disease-causing TRPC6 variant",
+        "O_結果": "the proportion of participants with proteinuria response (≥25% UPCR reduction from baseline) at week 12"
+      },
+      "中文摘要": "【研究背景】In focal segmental glomerulosclerosis (FSGS), transient receptor potential cation channel, subfamily C, member 6 (TRPC6) overactivity might cause podocyte loss and progressive kidney function decline.\n\n【研究方法】This multicentre phase 2, double-blind, placebo-controlled, randomised controlled trial assessed BI 764198 (20 mg, 40 mg, or 80 mg once daily) versus placebo over 12 weeks in participants aged 18-75 years with biopsy-confirmed primary FSGS (based on the absence of clinical evidence of secondary caus...\n\n【主要結果】From March 10, 2022, to Sept 3, 2024, 139 participants were screened and 67 were randomly assigned to receive placebo or BI 764198 at doses of 20 mg, 40 mg, or 80 mg (five participants were randomly assigned in error and were not treated).\n\n【結論】BI 764198 lowered proteinuria and was well tolerated by participants in this trial. This is the first evidence of efficacy with a podocyte-targeted therapy in FSGS.",
+      "結構化摘要": {
+        "背景": "In focal segmental glomerulosclerosis (FSGS), transient receptor potential cation channel, subfamily C, member 6 (TRPC6) overactivity might cause podocyte loss and progressive kidney function decline. This exploratory study assessed the safety and efficacy of a novel once-daily oral selective TRPC6 inhibitor, BI 764198.",
+        "方法": "This multicentre phase 2, double-blind, placebo-controlled, randomised controlled trial assessed BI 764198 (20 mg, 40 mg, or 80 mg once daily) versus placebo over 12 weeks in participants aged 18-75 years with biopsy-confirmed primary FSGS (based on the absence of clinical evidence of secondary cause) or with a disease-causing TRPC6 variant. The study took place in 31 sites in ten countries, and random allocation was performed centrally in blocks in a 1:1:1:1 ratio and was stratified according t"
+      },
+      "相關趨勢": [
+        "臨床結局: proteinuria"
+      ],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Glomerulosclerosis, Focal Segmental",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Double-Blind Method",
+        "Aged",
+        "Adolescent",
+        "TRPC6 Cation Channel"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41616795/",
+      "DOI": "10.1016/S0140-6736(25)02255-X"
+    },
+    {
+      "pmid": "41634692",
+      "標題": "Role of renal doppler in children with idiopathic nephrotic syndrome.",
+      "期刊": "BMC pediatrics",
+      "發表日期": "2026 Feb 03",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "idiopathic nephrotic syndrome",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "at diagnosis"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to measure serial renal resistive index (RI) in pediatric patients with idiopathic nephrotic syndrome to assess its predictive value for steroid resistance and disease outcome.\n\n【研究方法】This prospective cohort study included 60 patients with idiopathic nephrotic syndrome aged 5 to < 18 years. Renal Doppler was performed on all children, and renal RI was measured at diagnosis, after 1, 3, and 6 months of diagnosis.\n\n【主要結果】The average interlobar renal RI of the right and left kidneys at diagnosis, during follow-up at 1, 3, and 6 months, was significantly higher in steroid-resistant nephrotic syndrome than in the steroid-sensitive nephrotic syndrome.\n\n【結論】Renal RI might be an effective non-invasive tool for early prediction and risk stratification of steroid resistance in pediatric patients with idiopathic nephrotic syndrome. Its utility lies in supporting earlier clinical decisions rather than replacing established diagnostic methods.",
+      "結構化摘要": {
+        "背景": "Renal Doppler can measure intrarenal vascular resistance and may help determine the degree of intrarenal damage, as well as predict subsequent kidney function impairment. However, its utility in children with an underlying kidney disease such as nephrotic syndrome has not been widely examined. This work aimed to measure serial renal resistive index (RI) in pediatric patients with idiopathic nephrotic syndrome to assess its predictive value for steroid resistance and disease outcome.",
+        "方法": "This prospective cohort study included 60 patients with idiopathic nephrotic syndrome aged 5 to < 18 years. Renal Doppler was performed on all children, and renal RI was measured at diagnosis, after 1, 3, and 6 months of diagnosis.",
+        "結果": "The average interlobar renal RI of the right and left kidneys at diagnosis, during follow-up at 1, 3, and 6 months, was significantly higher in steroid-resistant nephrotic syndrome than in the steroid-sensitive nephrotic syndrome. Meanwhile, the estimated glomerular filtration rate (GFR) was significantly lower in steroid-resistant nephrotic syndrome than in steroid-sensitive nephrotic syndrome after 6 months, with no significant difference at diagnosis, after 1 month, or 3 months. The average i",
+        "結論": "Renal RI might be an effective non-invasive tool for early prediction and risk stratification of steroid resistance in pediatric patients with idiopathic nephrotic syndrome. Its utility lies in supporting earlier clinical decisions rather than replacing established diagnostic methods."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Disease outcome",
+        "Idiopathic nephrotic syndrome",
+        "Pediatric",
+        "Renal resistive index",
+        "Steroid resistance"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41634692/",
+      "DOI": "10.1186/s12887-025-06492-w"
+    },
+    {
+      "pmid": "41651561",
+      "標題": "Renal function trajectories in 'De Novo' heart failure with reduced ejection fraction: impact on outcomes.",
+      "期刊": "Open heart",
+      "發表日期": "2026 Feb 06",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "stable or improved eGFR had lower total mortality and HF readmission rates",
+        "I_介入": "strategies to mitigate renal function decline and improve patient care",
+        "C_對照": "",
+        "O_結果": "using the CKD-Epidemiology Collaboration formula"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討Heart failure (HF) often coexists with chronic kidney disease (CKD), impacting prognosis. This study aims to evaluate renal function trajectories and their impact on major clinical outcomes in a cohort of patients hospitalised for 'de novo' HF with reduced ejection fraction (HFrEF).\n\n【研究方法】This is a prospective cohort study that included patients hospitalised for 'de novo' HFrEF at two university hospitals. Renal function was assessed using the CKD-Epidemiology Collaboration formula. Total mortality and the combined total mortality and HF readmissions were evaluated during follow-up.\n\n【主要結果】Of 370 patients, 306 were eligible. At discharge, 24.6% had estimated glomerular filtration rate (eGFR) <45 mL/min/1.73 m2. Higher eGFR at discharge was associated with better outcomes. During follow-up, 79.1% showed eGFR ≥45 mL/min/1.73 m2.\n\n【結論】In patients with 'de novo' HFrEF, renal function deterioration at discharge correlated with poorer outcomes. However, stabilisation or improvement during follow-up was linked to better prognosis.",
+      "結構化摘要": {
+        "方法": "This is a prospective cohort study that included patients hospitalised for 'de novo' HFrEF at two university hospitals. Renal function was assessed using the CKD-Epidemiology Collaboration formula. Total mortality and the combined total mortality and HF readmissions were evaluated during follow-up.",
+        "結果": "Of 370 patients, 306 were eligible. At discharge, 24.6% had estimated glomerular filtration rate (eGFR) <45 mL/min/1.73 m2. Higher eGFR at discharge was associated with better outcomes. During follow-up, 79.1% showed eGFR ≥45 mL/min/1.73 m2. Patients with stable or improved eGFR had lower total mortality and HF readmission rates. Factors associated with renal function improvement or stabilisation included less prior CKD, hypertension and younger age, higher eGFR values at discharge and more use ",
+        "結論": "In patients with 'de novo' HFrEF, renal function deterioration at discharge correlated with poorer outcomes. However, stabilisation or improvement during follow-up was linked to better prognosis. Routine renal function assessment is crucial in HFrEF management, guiding personalised treatment strategies to mitigate renal function decline and improve patient care."
+      },
+      "相關趨勢": [
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Cardiomyopathies",
+        "HEART FAILURE",
+        "Heart Failure, Systolic"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Heart Failure",
+        "Male",
+        "Female",
+        "Stroke Volume",
+        "Glomerular Filtration Rate",
+        "Prospective Studies",
+        "Aged",
+        "Renal Insufficiency, Chronic",
+        "Prognosis"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41651561/",
+      "DOI": "10.1136/openhrt-2025-003193"
+    },
+    {
+      "pmid": "41642662",
+      "標題": "Sex Associated Biomarker Differences in Chronic Kidney Disease Progression and Mortality.",
+      "期刊": "Clinical journal of the American Society of Nephrology : CJASN",
+      "發表日期": "2026 Feb 05",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "non-dialysis-dependent CKD and 84 controls from NURTuRE-CKD",
+        "I_介入": "factors",
+        "C_對照": "",
+        "O_結果": "outcomes"
+      },
+      "中文摘要": "【研究背景】Males with chronic kidney disease (CKD) experience worse outcomes than females, a difference not fully explain ed by comorbidities or sociocultural factors. We explored whether sex-based differences in biomarkers could account for this difference in risk.\n\n【研究方法】Our study included 1,680 male and 1,204 female participants with non-dialysis-dependent CKD and 84 controls from NURTuRE-CKD, a prospective multicentre cohort study. Twenty-one biomarkers relating to kidney injury and fibrosis, inflammation, and cardiovascular stress were measured.\n\n【主要結果】Sex differences in biomarker concentrations were observed in both controls and CKD participants. In male controls, higher levels of urinary Vascular Endothelial Growth Factor, Tissue Inhibitor of Metalloproteinases-1 and blood Neutrophil Gelatinase-Associated Lipocalin, soluble Cluster of Differenti...\n\n【結論】Male sex was associated with a higher risk of kidney failure and mortality, despite adjustment for demographic, clinical, and treatment factors. Males had higher levels of inflammatory and extracellular matrix deposition biomarkers.",
+      "結構化摘要": {
+        "背景": "Males with chronic kidney disease (CKD) experience worse outcomes than females, a difference not fully explain ed by comorbidities or sociocultural factors. We explored whether sex-based differences in biomarkers could account for this difference in risk.",
+        "方法": "Our study included 1,680 male and 1,204 female participants with non-dialysis-dependent CKD and 84 controls from NURTuRE-CKD, a prospective multicentre cohort study. Twenty-one biomarkers relating to kidney injury and fibrosis, inflammation, and cardiovascular stress were measured. Outcomes were kidney failure (estimated glomerular filtration rate (eGFR) <15 ml/min/1.73 m2 or kidney replacement therapy) and all-cause mortality. Multivariable Cox and Fine and Gray models assessed outcomes by sex.",
+        "結果": "Sex differences in biomarker concentrations were observed in both controls and CKD participants. In male controls, higher levels of urinary Vascular Endothelial Growth Factor, Tissue Inhibitor of Metalloproteinases-1 and blood Neutrophil Gelatinase-Associated Lipocalin, soluble Cluster of Differentiation 40, soluble Cluster of Differentiation 40 Ligand, soluble Tumour Necrosis Factor Receptor 1, Monocyte Chemoattractant Protein-1, and High-Sensitivity Cardiac Troponin T were observed. In males w",
+        "結論": "Male sex was associated with a higher risk of kidney failure and mortality, despite adjustment for demographic, clinical, and treatment factors. Males had higher levels of inflammatory and extracellular matrix deposition biomarkers. In contrast, females showed higher levels of matrix turnover and degradation markers. After adjustment for these biomarker differences, the elevated risk associated with male sex was eliminated, suggesting a biological basis for the observed sex difference in outcome"
+      },
+      "相關趨勢": [
+        "診斷技術: biomarker",
+        "研究主題: cardiovascular",
+        "研究主題: inflammation",
+        "研究主題: fibrosis",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41642662/",
+      "DOI": "10.2215/CJN.0000000979"
+    },
+    {
+      "pmid": "41389335",
+      "標題": "Associations between the triglyceride glucose-body roundness index and frailty trajectory in populations with cardiovascular-kidney-metabolic syndrome: a nationwide prospective cohort study.",
+      "期刊": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+      "發表日期": "2026 Feb 05",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "cardiovascular-kidney-metabolic (CKM) syndrome",
+        "I_介入": "target for older adults with cardiovascular-kidney-metabolic (CKM) syndrome",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究背景】Frailty is a key intervention target for older adults with cardiovascular-kidney-metabolic (CKM) syndrome. Evidence suggests that the triglyceride glucose (TyG) index and body roundness index (BRI) are associated with frailty; however, the predictive value of their combination (TyG-BRI) remains uncl...\n\n【研究方法】We analyzed data from 3687 middle-aged and older adults with CKM syndrome in the China Health and Retirement Longitudinal Study (CHARLS, 2011-2020). The frailty index serving as the outcome variable was constructed based on 30 multidimensional health deficit items.\n\n【主要結果】Three distinct frailty trajectories emerged: pre-frailty to frailty deterioration (18.8%), persistent frailty (53.7%), and pre-frailty transition to health (27.4%).\n\n【結論】The TyG-BRI may be an early metabolic biomarker for pre-frailty to frailty deterioration in individuals with CKM syndrome, particularly in older adults. These findings suggest a critical intervention window targeting metabolic dysregulation during the pre-frailty stage.",
+      "結構化摘要": {
+        "背景": "Frailty is a key intervention target for older adults with cardiovascular-kidney-metabolic (CKM) syndrome. Evidence suggests that the triglyceride glucose (TyG) index and body roundness index (BRI) are associated with frailty; however, the predictive value of their combination (TyG-BRI) remains unclear.",
+        "方法": "We analyzed data from 3687 middle-aged and older adults with CKM syndrome in the China Health and Retirement Longitudinal Study (CHARLS, 2011-2020). The frailty index serving as the outcome variable was constructed based on 30 multidimensional health deficit items. The primary exposure, the TyG-BRI index, was calculated as the product of the TyG index and the BRI. Latent growth mixture modeling was employed to identify frailty trajectories. Multivariable adjusted logistic regression was conducte",
+        "結果": "Three distinct frailty trajectories emerged: pre-frailty to frailty deterioration (18.8%), persistent frailty (53.7%), and pre-frailty transition to health (27.4%). The highest TyG-BRI quartile was associated with a higher risk of pre-frailty to frailty deterioration than the lowest quartile (OR = 2.229, 95% CI, 1.137-4.367). Subgroup analysis indicated a significant interaction between age and the association of TyG-BRI with frailty trajectories (p = .041), suggesting the need for age-specific ",
+        "結論": "The TyG-BRI may be an early metabolic biomarker for pre-frailty to frailty deterioration in individuals with CKM syndrome, particularly in older adults. These findings suggest a critical intervention window targeting metabolic dysregulation during the pre-frailty stage."
+      },
+      "相關趨勢": [
+        "診斷技術: biomarker",
+        "研究主題: cardiovascular"
+      ],
+      "關鍵詞": [
+        "Cardiovascular–kidney–metabolic syndrome",
+        "Frailty",
+        "Insulin resistance",
+        "TyG–BRI"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Frailty",
+        "Aged",
+        "Metabolic Syndrome",
+        "Middle Aged",
+        "Triglycerides",
+        "Prospective Studies",
+        "China"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41389335/",
+      "DOI": "10.1093/gerona/glaf273"
+    },
+    {
+      "pmid": "41528248",
+      "標題": "Effects of renal impairment and hemodialysis on the pharmacokinetics and safety of HRS-8427, a siderophore cephalosporin for Gram-negative bacterial infections.",
+      "期刊": "Antimicrobial agents and chemotherapy",
+      "發表日期": "2026 Feb 04",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "these indications frequently exhibit concomitant renal impairment (RI)",
+        "I_介入": "single doses of 1",
+        "C_對照": "",
+        "O_結果": "the effects of RI on the pharmacokinetics and safety of HRS-8427"
+      },
+      "中文摘要": "【摘要】HRS-8427, a development-stage siderophore cephalosporin antibiotic, is being investigated for the treatment of aerobic Gram-negative bacterial infections, encompassing urinary tract infections and pulmonary infections.",
+      "結構化摘要": {
+        "完整摘要": "HRS-8427, a development-stage siderophore cephalosporin antibiotic, is being investigated for the treatment of aerobic Gram-negative bacterial infections, encompassing urinary tract infections and pulmonary infections. Participants with these indications frequently exhibit concomitant renal impairment (RI). Data from clinical studies suggest that ~60% to ~70% of unchanged HRS-8427 is excreted renally. A phase 1, multicenter, open-label study evaluated the effects of RI on the pharmacokinetics and safety of HRS-8427. In sub-study 1, 21 participants with mild to severe RI who were not on dialysis and six participants with normal renal function received single doses of 1,000 mg HRS-8427. In sub-study 2, six participants with end-stage renal disease (ESRD) requiring hemodialysis (HD) received single doses of the 1,000 mg HRS-8427 under dialysis and non-dialysis conditions, respectively. Plasma HRS-8427 area under the concentration-time curve from zero to infinity (AUC0-∞) was ~1.2-fold, ~1"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "hemodialysis",
+        "pharmacokinetics",
+        "renal impairment",
+        "siderophore cephalosporin"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Renal Dialysis",
+        "Male",
+        "Middle Aged",
+        "Female",
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Cephalosporins",
+        "Kidney Failure, Chronic",
+        "Gram-Negative Bacterial Infections"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41528248/",
+      "DOI": "10.1128/aac.01095-25"
+    },
+    {
+      "pmid": "41206792",
+      "標題": "Dapagliflozin to Reduce Early Recurrence After Catheter Ablation for Atrial Fibrillation: The DARE-AF Randomized Clinical Trial.",
+      "期刊": "Circulation",
+      "發表日期": "2026 Feb 03",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "AF with concomitant diabetes",
+        "I_介入": "with dapagliflozin did not reduce the early recurrence of arrhythmia after catheter ablation in patients with persistent AF",
+        "C_對照": "8",
+        "O_結果": "by 7-day single-lead ECG patches"
+      },
+      "中文摘要": "【研究背景】Observational studies have suggested that SGLT2 (sodium-glucose cotransporter 2) inhibitors are associated with a lower risk of atrial fibrillation (AF) recurrence after catheter ablation in patients with AF with concomitant diabetes, heart failure, or chronic kidney disease.\n\n【研究方法】The DARE-AF trial (Dapagliflozin on Recurrence After Catheter Ablation for Atrial Fibrillation) was a prospective, open-label, parallel-assignment randomized controlled trial that enrolled 200 patients with persistent AF between July 2024 and March 2025, scheduled to undergo a first catheter ablatio...\n\n【主要結果】A total of 200 patients (mean age 58.5 years, 19.5% women, 29.0% with persistent AF ≥1 year) were randomized, and 198 patients (98 in the dapagliflozin group, 100 in the control group) were included in the primary analysis.\n\n【結論】Three-month treatment with dapagliflozin did not reduce the early recurrence of arrhythmia after catheter ablation in patients with persistent AF. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06433479.",
+      "結構化摘要": {
+        "背景": "Observational studies have suggested that SGLT2 (sodium-glucose cotransporter 2) inhibitors are associated with a lower risk of atrial fibrillation (AF) recurrence after catheter ablation in patients with AF with concomitant diabetes, heart failure, or chronic kidney disease. However, no randomized trial to date has tested whether SGLT2 inhibitors reduce AF recurrence after ablation in patients without established indications. We therefore investigated the effect of dapagliflozin on prevention o",
+        "方法": "The DARE-AF trial (Dapagliflozin on Recurrence After Catheter Ablation for Atrial Fibrillation) was a prospective, open-label, parallel-assignment randomized controlled trial that enrolled 200 patients with persistent AF between July 2024 and March 2025, scheduled to undergo a first catheter ablation procedure and without established indications for dapagliflozin (diabetes, heart failure, or chronic kidney disease). Patients were randomly assigned at a 1:1 ratio to dapagliflozin (10 mg once dail",
+        "結果": "A total of 200 patients (mean age 58.5 years, 19.5% women, 29.0% with persistent AF ≥1 year) were randomized, and 198 patients (98 in the dapagliflozin group, 100 in the control group) were included in the primary analysis. Three months after ablation, the difference in AF burden was insignificant between the dapagliflozin group and the control group (7.5±23.6% versus 8.1±25.5%; P=0.48). Atrial arrhythmia recurrence occurred in 29 patients (29.6%) in the dapagliflozin group and 28 patients (28.0",
+        "結論": "Three-month treatment with dapagliflozin did not reduce the early recurrence of arrhythmia after catheter ablation in patients with persistent AF. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06433479."
+      },
+      "相關趨勢": [
+        "治療方法: SGLT2 inhibitor",
+        "治療方法: dapagliflozin",
+        "研究主題: heart failure",
+        "臨床結局: quality of life"
+      ],
+      "關鍵詞": [
+        "SGLT2 inhibitor",
+        "atrial fibrillation",
+        "catheter ablation",
+        "recurrence"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Female",
+        "Male",
+        "Catheter Ablation",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Middle Aged",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41206792/",
+      "DOI": "10.1161/CIRCULATIONAHA.125.077447"
+    },
+    {
+      "pmid": "41252355",
+      "標題": "Increased Risk of Early-Onset Kidney Cancer in Individuals Aged 20-39 with Nonalcoholic Fatty Liver Disease: A Nationwide Cohort Study.",
+      "期刊": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+      "發表日期": "2026 Feb 03",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "both NAFLD and obesity (aHR",
+        "I_介入": "that NAFLD is a modifiable condition",
+        "C_對照": "",
+        "O_結果": "increased among individuals less than 50 years of age"
+      },
+      "中文摘要": "【研究背景】The global incidence of kidney cancer has significantly increased among individuals less than 50 years of age. However, genetic predisposition alone does not account for this trend.\n\n【研究方法】We conducted a nationwide cohort study of 5,606,357 Korean individuals, ages 20 to 39 years, who underwent national health screening between 2009 and 2012, with follow-up until December 2020. NAFLD was defined using the fatty liver index.\n\n【主要結果】During 52.4 million person-years of follow-up, 2,956 cases of early-onset kidney cancer were identified. NAFLD was associated with a higher cumulative incidence (log-rank test P < 0.01) and an increased risk of early-onset kidney cancer [adjusted HR (aHR), 1.46; 95% confidence interval (CI), 1.32-1.\n\n【結論】NAFLD may serve as an independent risk factor for early-onset kidney cancer. IMPACT: Given that NAFLD is a modifiable condition, its early detection and management may be a potential strategy to reduce the burden of early-onset kidney cancer, warranting further investigation.",
+      "結構化摘要": {
+        "背景": "The global incidence of kidney cancer has significantly increased among individuals less than 50 years of age. However, genetic predisposition alone does not account for this trend. This study investigated the association between nonalcoholic fatty liver disease (NAFLD) and the risk of early-onset kidney cancer.",
+        "方法": "We conducted a nationwide cohort study of 5,606,357 Korean individuals, ages 20 to 39 years, who underwent national health screening between 2009 and 2012, with follow-up until December 2020. NAFLD was defined using the fatty liver index. Cox proportional hazards models were used to estimate HRs for early-onset kidney cancer, adjusting for potential confounders, including age, sex, smoking, alcohol intake, physical activity, diabetes, hypertension, obesity, and chronic kidney disease (CKD).",
+        "結果": "During 52.4 million person-years of follow-up, 2,956 cases of early-onset kidney cancer were identified. NAFLD was associated with a higher cumulative incidence (log-rank test P < 0.01) and an increased risk of early-onset kidney cancer [adjusted HR (aHR), 1.46; 95% confidence interval (CI), 1.32-1.61]. The association remained consistent across subgroups stratified by age, sex, smoking status, alcohol consumption, obesity, and CKD (all P for interactions > 0.05). The risk was highest among indi",
+        "結論": "NAFLD may serve as an independent risk factor for early-onset kidney cancer. IMPACT: Given that NAFLD is a modifiable condition, its early detection and management may be a potential strategy to reduce the burden of early-onset kidney cancer, warranting further investigation."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Adult",
+        "Female",
+        "Non-alcoholic Fatty Liver Disease",
+        "Kidney Neoplasms",
+        "Risk Factors",
+        "Incidence",
+        "Young Adult",
+        "Republic of Korea"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41252355/",
+      "DOI": "10.1158/1055-9965.EPI-25-0319"
+    },
+    {
+      "pmid": "41636645",
+      "標題": "Development of a risk prediction model for vancomycin-associated acute kidney injury: a multicentre retrospective study.",
+      "期刊": "The Journal of antimicrobial chemotherapy",
+      "發表日期": "2026 Feb 02",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "renal impairment and to establish a risk score for AKI",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "that the use of tazobactam/piperacillin [HR: 3"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討To clarify the relationship between acute kidney injury (AKI) and vancomycin use in patients with renal impairment and to establish a risk score for AKI.\n\n【研究方法】In this retrospective, multicentre, observational cohort study, trough and peak blood samples were collected from patients who initiated vancomycin therapy.\n\n【主要結果】The incidence of AKI was 11.7% (99/847). No statistically significant difference was detected in the cumulative incidence of AKI among the three groups (P = 0.103). Cox proportional hazard analysis showed that the use of tazobactam/piperacillin [HR: 3.3, 95% CI (2.18-4.\n\n【結論】A risk prediction model was developed for AKI based on AUC exposure and concomitant medications, and no difference in AKI risk was observed across renal function categories.",
+      "結構化摘要": {
+        "目的": "To clarify the relationship between acute kidney injury (AKI) and vancomycin use in patients with renal impairment and to establish a risk score for AKI.",
+        "方法": "In this retrospective, multicentre, observational cohort study, trough and peak blood samples were collected from patients who initiated vancomycin therapy. The cumulative incidence of AKI within 14 days was compared among three groups classified according to renal function (estimated glomerular filtration rate ≥ 60, 30-59 and <30 mL/min/1.73 m2). The risk score and predicted probability of AKI incidence were calculated. AKI was defined in accordance with the Kidney Disease Improving Global Outc",
+        "結果": "The incidence of AKI was 11.7% (99/847). No statistically significant difference was detected in the cumulative incidence of AKI among the three groups (P = 0.103). Cox proportional hazard analysis showed that the use of tazobactam/piperacillin [HR: 3.3, 95% CI (2.18-4.99), 2 points], vasopressors/inotropes [HR: 3.0, 95% CI (2.02-4.51), 2 points] and area under the concentration-time curve (AUC) on Day 2 [500-600 µg·h/mL: HR, 2.4, 95% CI (1.50-3.89), 1 point; >600 µg·h/mL: HR, 4.4, 95% CI (2.62-",
+        "結論": "A risk prediction model was developed for AKI based on AUC exposure and concomitant medications, and no difference in AKI risk was observed across renal function categories."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Vancomycin",
+        "Acute Kidney Injury",
+        "Retrospective Studies",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Incidence"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41636645/",
+      "DOI": "10.1093/jac/dkag012"
+    },
+    {
+      "pmid": "41639018",
+      "標題": "Association between the preoperative serum albumin-to-creatinine ratio (sACR) and in-hospital mortality in perioperative patients with chronic kidney disease: a cohort study based on INSPIRE database.",
+      "期刊": "Renal failure",
+      "發表日期": "2026 Dec",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "chronic kidney disease: a cohort study based on INSPIRE database",
+        "I_介入": "",
+        "C_對照": "the lowest tertile (T1)",
+        "O_結果": "sACR was associated with a 29% reduction in mortality (adjusted HR 0"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討The serum albumin-to-creatinine ratio (sACR) is a potential biomarker for multiple diseases, yet its prognostic role in chronic kidney disease (CKD) patients undergoing surgery remains unexplored.\n\n【研究方法】This retrospective cohort study analyzed 2,611 CKD patients from the INSPIRE database (2011-2020). Patients were stratified into tertiles based on admission sACR levels.\n\n【主要結果】The cohort had a mean age of 61.1 ± 14.8 years and a median sACR of 1.2 (interquartile range: 0.7-2.6). Multivariable analysis revealed that each unit increase in sACR was associated with a 29% reduction in mortality (adjusted HR 0.71, 95% CI 0.61-0.83, p &lt; 0.001).\n\n【結論】Lower sACR levels are independently associated with higher in-hospital mortality in surgical CKD patients, exhibiting an L-shaped relationship with a critical threshold at 2.7.",
+      "結構化摘要": {
+        "目的": "The serum albumin-to-creatinine ratio (sACR) is a potential biomarker for multiple diseases, yet its prognostic role in chronic kidney disease (CKD) patients undergoing surgery remains unexplored. This study aimed to investigate the association between sACR levels and postoperative in-hospital mortality in this population.",
+        "方法": "This retrospective cohort study analyzed 2,611 CKD patients from the INSPIRE database (2011-2020). Patients were stratified into tertiles based on admission sACR levels. Multivariable Cox regression models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between sACR and mortality. Restricted cubic spline (RCS) analysis was performed to assess potential nonlinear relationships. Sensitivity analyses were conducted to verify result robustness.",
+        "結果": "The cohort had a mean age of 61.1 ± 14.8 years and a median sACR of 1.2 (interquartile range: 0.7-2.6). Multivariable analysis revealed that each unit increase in sACR was associated with a 29% reduction in mortality (adjusted HR 0.71, 95% CI 0.61-0.83, p &lt; 0.001). Compared with the lowest tertile (T1), the highest tertile (T3) demonstrated a 48% lower mortality risk (HR 0.52, 95% CI 0.33-0.82, p = 0.005). RCS analysis identified a nonlinear, L-shaped association between sACR and mortality (P",
+        "結論": "Lower sACR levels are independently associated with higher in-hospital mortality in surgical CKD patients, exhibiting an L-shaped relationship with a critical threshold at 2.7. sACR represents a practical, cost-effective early-warning biomarker for perioperative risk stratification in this high-risk population."
+      },
+      "相關趨勢": [
+        "診斷技術: biomarker",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Chronic kidney disease",
+        "albumin",
+        "creatinine",
+        "mortality",
+        "serum albumin-to-creatinine ratio"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Renal Insufficiency, Chronic",
+        "Hospital Mortality",
+        "Retrospective Studies",
+        "Creatinine",
+        "Aged",
+        "Biomarkers"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41639018/",
+      "DOI": "10.1080/0886022X.2026.2621525"
+    }
+  ],
+  "研究想法": [
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "biomarker",
+      "頻率": 3,
+      "想法": "目前 'biomarker' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "mortality",
+      "頻率": 3,
+      "想法": "目前 'mortality' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cardiovascular",
+      "頻率": 2,
+      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 2,
+      "想法": "目前 'heart failure' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "fibrosis",
+      "頻率": 1,
+      "想法": "目前 'fibrosis' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "personalized",
+      "頻率": 1,
+      "想法": "目前 'personalized' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "quality of life",
+      "頻率": 1,
+      "想法": "目前 'quality of life' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "proteinuria",
+      "頻率": 1,
+      "想法": "目前 'proteinuria' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "SGLT2 inhibitor",
+      "頻率": 1,
+      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "biomarker",
+      "頻率": 3,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "cardiovascular",
+      "頻率": 2,
+      "想法": "'cardiovascular' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "heart failure",
+      "頻率": 2,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "'inflammation' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "fibrosis",
+      "頻率": 1,
+      "想法": "'fibrosis' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "跨領域研究",
+      "關鍵詞": "兒童腎臟學 + 成人腎臟學",
+      "想法": "考慮進行兒童至成人的長期追蹤研究：\n1. 兒童期腎臟疾病對成年後的影響\n2. 早期介入對長期預後的效果\n3. 生命歷程觀點的腎臟病研究",
+      "建議研究類型": "長期追蹤世代研究"
+    },
+    {
+      "類型": "方法學創新",
+      "關鍵詞": "AI/機器學習",
+      "想法": "應用人工智慧於腎臟病研究：\n1. 建立腎功能預測模型\n2. 影像自動判讀系統\n3. 治療反應預測",
+      "建議研究類型": "回顧性資料分析 + 模型開發"
+    },
+    {
+      "類型": "方法學創新",
+      "關鍵詞": "真實世界數據",
+      "想法": "利用真實世界數據進行研究：\n1. 健保資料庫分析\n2. 電子病歷數據挖掘\n3. 多中心登錄資料分析",
+      "建議研究類型": "真實世界研究 (RWE)"
+    },
+    {
+      "類型": "高影響力研究延伸",
+      "關鍵詞": "重要發現複製與延伸",
+      "想法": "本週有 2 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "相關文章": [
+        "Role of renal doppler in children with idiopathic ",
+        "TRPC6 inhibition for the treatment of focal segmen"
+      ],
+      "建議研究類型": "驗證性研究 / 機轉研究"
+    }
+  ],
+  "MeSH詞彙分析": {
+    "Humans": 9,
+    "Female": 9,
+    "Male": 9,
+    "Middle Aged": 8,
+    "Aged": 8,
+    "Adult": 4,
+    "Prospective Studies": 3,
+    "Treatment Outcome": 3,
+    "Retrospective Studies": 3,
+    "Risk Factors": 3,
+    "Renal Insufficiency, Chronic": 3,
+    "Anti-Bacterial Agents": 2,
+    "Incidence": 2,
+    "Aged, 80 and over": 2,
+    "Creatinine": 2,
+    "Prognosis": 2,
+    "Young Adult": 2,
+    "Follow-Up Studies": 2,
+    "Kidney": 2,
+    "Glomerular Filtration Rate": 2,
+    "Atrial Fibrillation": 1,
+    "Catheter Ablation": 1,
+    "Benzhydryl Compounds": 1,
+    "Glucosides": 1,
+    "Sodium-Glucose Transporter 2 Inhibitors": 1,
+    "Recurrence": 1,
+    "Quality of Life": 1,
+    "Frailty": 1,
+    "Metabolic Syndrome": 1,
+    "Triglycerides": 1
+  }
+}

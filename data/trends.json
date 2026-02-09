@@ -1,0 +1,146 @@
+{
+  "總文章數": 11,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-02-09T08:56:48.665731",
+  "趨勢關鍵詞統計": {
+    "診斷技術": {
+      "biomarker": 3
+    },
+    "研究主題": {
+      "cardiovascular": 2,
+      "heart failure": 2,
+      "inflammation": 1,
+      "fibrosis": 1,
+      "personalized": 1
+    },
+    "臨床結局": {
+      "mortality": 3,
+      "quality of life": 1,
+      "proteinuria": 1
+    },
+    "治療方法": {
+      "SGLT2 inhibitor": 1,
+      "dapagliflozin": 1
+    }
+  },
+  "熱門主題": [
+    [
+      "biomarker",
+      3
+    ],
+    [
+      "mortality",
+      3
+    ],
+    [
+      "cardiovascular",
+      2
+    ],
+    [
+      "heart failure",
+      2
+    ],
+    [
+      "inflammation",
+      1
+    ],
+    [
+      "fibrosis",
+      1
+    ],
+    [
+      "personalized",
+      1
+    ],
+    [
+      "quality of life",
+      1
+    ],
+    [
+      "proteinuria",
+      1
+    ],
+    [
+      "SGLT2 inhibitor",
+      1
+    ],
+    [
+      "dapagliflozin",
+      1
+    ]
+  ],
+  "期刊分布": {
+    "Clinical journal of the American Society of Nephrology : CJASN": 1,
+    "BMC pediatrics": 1,
+    "Circulation": 1,
+    "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
+    "Antimicrobial agents and chemotherapy": 1,
+    "The Journal of antimicrobial chemotherapy": 1,
+    "Renal failure": 1,
+    "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology": 1,
+    "Annals of medicine": 1,
+    "Open heart": 1,
+    "Lancet (London, England)": 1
+  },
+  "文章類型分布": {
+    "Journal Article": 11,
+    "Multicenter Study": 4,
+    "Randomized Controlled Trial": 2,
+    "Clinical Trial, Phase I": 1,
+    "Observational Study": 1,
+    "Clinical Trial, Phase II": 1
+  },
+  "MeSH詞彙頻率": {
+    "Humans": 9,
+    "Female": 9,
+    "Male": 9,
+    "Middle Aged": 8,
+    "Aged": 8,
+    "Adult": 4,
+    "Prospective Studies": 3,
+    "Treatment Outcome": 3,
+    "Retrospective Studies": 3,
+    "Risk Factors": 3,
+    "Renal Insufficiency, Chronic": 3,
+    "Anti-Bacterial Agents": 2,
+    "Incidence": 2,
+    "Aged, 80 and over": 2,
+    "Creatinine": 2,
+    "Prognosis": 2,
+    "Young Adult": 2,
+    "Follow-Up Studies": 2,
+    "Kidney": 2,
+    "Glomerular Filtration Rate": 2,
+    "Atrial Fibrillation": 1,
+    "Catheter Ablation": 1,
+    "Benzhydryl Compounds": 1,
+    "Glucosides": 1,
+    "Sodium-Glucose Transporter 2 Inhibitors": 1,
+    "Recurrence": 1,
+    "Quality of Life": 1,
+    "Frailty": 1,
+    "Metabolic Syndrome": 1,
+    "Triglycerides": 1
+  },
+  "按類別統計": {
+    "兒童腎臟學": {
+      "文章數": 2,
+      "高影響力期刊文章數": 1,
+      "主要期刊": {
+        "Clinical journal of the American Society of Nephrology : CJASN": 1,
+        "BMC pediatrics": 1
+      }
+    },
+    "成人腎臟學": {
+      "文章數": 9,
+      "高影響力期刊文章數": 1,
+      "主要期刊": {
+        "Circulation": 1,
+        "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
+        "Antimicrobial agents and chemotherapy": 1,
+        "The Journal of antimicrobial chemotherapy": 1,
+        "Renal failure": 1
+      }
+    }
+  }
+}

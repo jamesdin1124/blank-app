@@ -1,0 +1,573 @@
+{
+  "pediatric_nephrology": {
+    "name": "兒童腎臟學",
+    "name_en": "Pediatric Nephrology",
+    "topics": [
+      "急性腎損傷 (AKI)",
+      "慢性腎臟病 (CKD)",
+      "腎病症候群",
+      "腎絲球腎炎",
+      "先天性腎臟異常 (CAKUT)",
+      "血液透析/腹膜透析",
+      "腎臟移植",
+      "泌尿道感染",
+      "遺傳性腎臟病",
+      "高血壓與腎臟"
+    ],
+    "articles": [
+      {
+        "pmid": "41642662",
+        "title": "Sex Associated Biomarker Differences in Chronic Kidney Disease Progression and Mortality.",
+        "abstract": "BACKGROUND: Males with chronic kidney disease (CKD) experience worse outcomes than females, a difference not fully explain ed by comorbidities or sociocultural factors. We explored whether sex-based differences in biomarkers could account for this difference in risk. METHODS: Our study included 1,680 male and 1,204 female participants with non-dialysis-dependent CKD and 84 controls from NURTuRE-CKD, a prospective multicentre cohort study. Twenty-one biomarkers relating to kidney injury and fibrosis, inflammation, and cardiovascular stress were measured. Outcomes were kidney failure (estimated glomerular filtration rate (eGFR) <15 ml/min/1.73 m2 or kidney replacement therapy) and all-cause mortality. Multivariable Cox and Fine and Gray models assessed outcomes by sex. ANCOVA compared biomarker values between males and females adjusted for eGFR and urine albumin to creatinine ratio (UACR). RESULTS: Sex differences in biomarker concentrations were observed in both controls and CKD participants. In male controls, higher levels of urinary Vascular Endothelial Growth Factor, Tissue Inhibitor of Metalloproteinases-1 and blood Neutrophil Gelatinase-Associated Lipocalin, soluble Cluster of Differentiation 40, soluble Cluster of Differentiation 40 Ligand, soluble Tumour Necrosis Factor Receptor 1, Monocyte Chemoattractant Protein-1, and High-Sensitivity Cardiac Troponin T were observed. In males with CKD, additionally higher levels of urine Collagen Type I Alpha 1, blood Kidney Injury Molecule-1, Growth Differentiation Factor-15, and N-terminal pro-B-type Natriuretic Peptide. were noted, while females with CKD showed higher urinary Osteoactivin, KIM-1, Matrix Metalloproteinase-9 and blood Fibroblast Growth Factor-23, concentrations. In Cox proportional hazards models adjusted for demographics, kidney function, comorbidities, social factors, and medications, male sex was associated with a higher risk of kidney failure (hazard ratio (HR) 1.28, 95% confidence interval (CI): 1.09-1.50) and mortality (HR 1.29, 95% CI: 1.05-1.60). Male sex was no longer associated with higher risk after adjustment for biomarker differences, kidney failure (HR 1.18, 95% CI: 0.97, 1.43) and mortality (HR 1.17, 95% CI: 0.98, 1.58). CONCLUSIONS: Male sex was associated with a higher risk of kidney failure and mortality, despite adjustment for demographic, clinical, and treatment factors. Males had higher levels of inflammatory and extracellular matrix deposition biomarkers. In contrast, females showed higher levels of matrix turnover and degradation markers. After adjustment for these biomarker differences, the elevated risk associated with male sex was eliminated, suggesting a biological basis for the observed sex difference in outcomes.",
+        "authors": [
+          "McDonnell Thomas",
+          "Onoja Anthony",
+          "Vuilleumier Nicolas",
+          "Banks Rosamonde E",
+          "Cockwell Paul",
+          "Fraser Simon Ds",
+          "Saleem Moin A",
+          "Wheeler David C",
+          "Geifman Nophar",
+          "Kalra Philip A",
+          "Taal Maarten W"
+        ],
+        "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+        "pub_date": "2026 Feb 05",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [],
+        "mesh_terms": [],
+        "doi": "10.2215/CJN.0000000979",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41642662/",
+        "fetched_at": "2026-02-09T08:56:46.337717"
+      },
+      {
+        "pmid": "41634692",
+        "title": "Role of renal doppler in children with idiopathic nephrotic syndrome.",
+        "abstract": "BACKGROUND: Renal Doppler can measure intrarenal vascular resistance and may help determine the degree of intrarenal damage, as well as predict subsequent kidney function impairment. However, its utility in children with an underlying kidney disease such as nephrotic syndrome has not been widely examined. This work aimed to measure serial renal resistive index (RI) in pediatric patients with idiopathic nephrotic syndrome to assess its predictive value for steroid resistance and disease outcome. METHODS: This prospective cohort study included 60 patients with idiopathic nephrotic syndrome aged 5 to < 18 years. Renal Doppler was performed on all children, and renal RI was measured at diagnosis, after 1, 3, and 6 months of diagnosis. RESULTS: The average interlobar renal RI of the right and left kidneys at diagnosis, during follow-up at 1, 3, and 6 months, was significantly higher in steroid-resistant nephrotic syndrome than in the steroid-sensitive nephrotic syndrome. Meanwhile, the estimated glomerular filtration rate (GFR) was significantly lower in steroid-resistant nephrotic syndrome than in steroid-sensitive nephrotic syndrome after 6 months, with no significant difference at diagnosis, after 1 month, or 3 months. The average interlobar RI at diagnosis can predict steroid resistance at a cutoff > 0.60 with 92.31% sensitivity and 85.32% specificity. Moreover, the average interlobar RI after 3 months of follow-up can predict short disease outcome at a cutoff > 0.63 with 84.62% sensitivity and 82.98% specificity. CONCLUSIONS: Renal RI might be an effective non-invasive tool for early prediction and risk stratification of steroid resistance in pediatric patients with idiopathic nephrotic syndrome. Its utility lies in supporting earlier clinical decisions rather than replacing established diagnostic methods.",
+        "authors": [
+          "El Amrousy Doaa",
+          "Attalla Rana",
+          "Elghoul Sara"
+        ],
+        "journal": "BMC pediatrics",
+        "pub_date": "2026 Feb 03",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Disease outcome",
+          "Idiopathic nephrotic syndrome",
+          "Pediatric",
+          "Renal resistive index",
+          "Steroid resistance"
+        ],
+        "mesh_terms": [],
+        "doi": "10.1186/s12887-025-06492-w",
+        "is_high_impact": true,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41634692/",
+        "fetched_at": "2026-02-09T08:56:46.337811"
+      }
+    ],
+    "count": 2,
+    "search_date": "2026-02-09T08:56:46.337854",
+    "days_back": 7
+  },
+  "adult_nephrology": {
+    "name": "成人腎臟學",
+    "name_en": "Adult Nephrology",
+    "topics": [
+      "急性腎損傷 (AKI)",
+      "慢性腎臟病 (CKD)",
+      "糖尿病腎病變",
+      "高血壓腎病變",
+      "腎絲球腎炎",
+      "血液透析",
+      "腹膜透析",
+      "腎臟移植",
+      "多囊腎",
+      "電解質異常",
+      "腎臟腫瘤"
+    ],
+    "articles": [
+      {
+        "pmid": "41206792",
+        "title": "Dapagliflozin to Reduce Early Recurrence After Catheter Ablation for Atrial Fibrillation: The DARE-AF Randomized Clinical Trial.",
+        "abstract": "BACKGROUND: Observational studies have suggested that SGLT2 (sodium-glucose cotransporter 2) inhibitors are associated with a lower risk of atrial fibrillation (AF) recurrence after catheter ablation in patients with AF with concomitant diabetes, heart failure, or chronic kidney disease. However, no randomized trial to date has tested whether SGLT2 inhibitors reduce AF recurrence after ablation in patients without established indications. We therefore investigated the effect of dapagliflozin on prevention of early recurrence of AF after catheter ablation in patients without current indications for SGLT2 inhibitors. METHODS: The DARE-AF trial (Dapagliflozin on Recurrence After Catheter Ablation for Atrial Fibrillation) was a prospective, open-label, parallel-assignment randomized controlled trial that enrolled 200 patients with persistent AF between July 2024 and March 2025, scheduled to undergo a first catheter ablation procedure and without established indications for dapagliflozin (diabetes, heart failure, or chronic kidney disease). Patients were randomly assigned at a 1:1 ratio to dapagliflozin (10 mg once daily for 3 months after the ablation) or control. The primary end point was AF burden at 3 months after ablation, assessed by 7-day single-lead ECG patches. Secondary outcomes included time to events, quality of life, and improvement of atrial remodeling. RESULTS: A total of 200 patients (mean age 58.5 years, 19.5% women, 29.0% with persistent AF ≥1 year) were randomized, and 198 patients (98 in the dapagliflozin group, 100 in the control group) were included in the primary analysis. Three months after ablation, the difference in AF burden was insignificant between the dapagliflozin group and the control group (7.5±23.6% versus 8.1±25.5%; P=0.48). Atrial arrhythmia recurrence occurred in 29 patients (29.6%) in the dapagliflozin group and 28 patients (28.0%) in the control group (hazard ratio, 1.11 [95% CI, 0.66-1.86]; P=0.70). No significant between-group differences were observed in changes in quality of life or left atrial diameter. CONCLUSIONS: Three-month treatment with dapagliflozin did not reduce the early recurrence of arrhythmia after catheter ablation in patients with persistent AF. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT06433479.",
+        "authors": [
+          "Jiang Chao",
+          "Zhao Zixu",
+          "Yang Zejun",
+          "Wang Yiping",
+          "Xu Yang",
+          "Xu Hui",
+          "Guo Hang",
+          "Wang Chi",
+          "He Liu",
+          "Xia Shijun",
+          "Kong Xiangyi",
+          "Dai Wenli",
+          "Zhang Junmeng",
+          "Zuo Song",
+          "Liu Xiaoxia",
+          "Guo Xueyuan",
+          "Liu Nian",
+          "Li Songnan",
+          "Zhou Ning",
+          "Jiang Chenxi",
+          "Tang Ribo",
+          "Sang Caihua",
+          "Zei Paul C",
+          "Long Deyong",
+          "Du Xin",
+          "Dong Jianzeng",
+          "Macle Laurent",
+          "Ma Changsheng"
+        ],
+        "journal": "Circulation",
+        "pub_date": "2026 Feb 03",
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "keywords": [
+          "SGLT2 inhibitor",
+          "atrial fibrillation",
+          "catheter ablation",
+          "recurrence"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Atrial Fibrillation",
+          "Female",
+          "Male",
+          "Catheter Ablation",
+          "Benzhydryl Compounds",
+          "Glucosides",
+          "Middle Aged",
+          "Sodium-Glucose Transporter 2 Inhibitors",
+          "Aged",
+          "Recurrence",
+          "Prospective Studies",
+          "Treatment Outcome",
+          "Quality of Life"
+        ],
+        "doi": "10.1161/CIRCULATIONAHA.125.077447",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41206792/",
+        "fetched_at": "2026-02-09T08:56:48.163985"
+      },
+      {
+        "pmid": "41389335",
+        "title": "Associations between the triglyceride glucose-body roundness index and frailty trajectory in populations with cardiovascular-kidney-metabolic syndrome: a nationwide prospective cohort study.",
+        "abstract": "BACKGROUND: Frailty is a key intervention target for older adults with cardiovascular-kidney-metabolic (CKM) syndrome. Evidence suggests that the triglyceride glucose (TyG) index and body roundness index (BRI) are associated with frailty; however, the predictive value of their combination (TyG-BRI) remains unclear. METHODS: We analyzed data from 3687 middle-aged and older adults with CKM syndrome in the China Health and Retirement Longitudinal Study (CHARLS, 2011-2020). The frailty index serving as the outcome variable was constructed based on 30 multidimensional health deficit items. The primary exposure, the TyG-BRI index, was calculated as the product of the TyG index and the BRI. Latent growth mixture modeling was employed to identify frailty trajectories. Multivariable adjusted logistic regression was conducted to explore the association between TyG-BRI and frailty trajectories. Subgroup analyses were performed to elucidate the interactions among these factors further. RESULTS: Three distinct frailty trajectories emerged: pre-frailty to frailty deterioration (18.8%), persistent frailty (53.7%), and pre-frailty transition to health (27.4%). The highest TyG-BRI quartile was associated with a higher risk of pre-frailty to frailty deterioration than the lowest quartile (OR = 2.229, 95% CI, 1.137-4.367). Subgroup analysis indicated a significant interaction between age and the association of TyG-BRI with frailty trajectories (p = .041), suggesting the need for age-specific intervention strategies. CONCLUSIONS: The TyG-BRI may be an early metabolic biomarker for pre-frailty to frailty deterioration in individuals with CKM syndrome, particularly in older adults. These findings suggest a critical intervention window targeting metabolic dysregulation during the pre-frailty stage.",
+        "authors": [
+          "Fu Zhongmin",
+          "Song Shulin",
+          "Ji Yan",
+          "Duan Lisi",
+          "Wang Ziyan",
+          "Chen Yue",
+          "Guo Yinning",
+          "Zhao Kang",
+          "Xu Xinyi",
+          "Wang Changqing",
+          "Xu Qin"
+        ],
+        "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+        "pub_date": "2026 Feb 05",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Cardiovascular–kidney–metabolic syndrome",
+          "Frailty",
+          "Insulin resistance",
+          "TyG–BRI"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Frailty",
+          "Aged",
+          "Metabolic Syndrome",
+          "Middle Aged",
+          "Triglycerides",
+          "Prospective Studies",
+          "China",
+          "Blood Glucose",
+          "Cardio-Renal Syndrome",
+          "Longitudinal Studies"
+        ],
+        "doi": "10.1093/gerona/glaf273",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41389335/",
+        "fetched_at": "2026-02-09T08:56:48.164074"
+      },
+      {
+        "pmid": "41528248",
+        "title": "Effects of renal impairment and hemodialysis on the pharmacokinetics and safety of HRS-8427, a siderophore cephalosporin for Gram-negative bacterial infections.",
+        "abstract": "HRS-8427, a development-stage siderophore cephalosporin antibiotic, is being investigated for the treatment of aerobic Gram-negative bacterial infections, encompassing urinary tract infections and pulmonary infections. Participants with these indications frequently exhibit concomitant renal impairment (RI). Data from clinical studies suggest that ~60% to ~70% of unchanged HRS-8427 is excreted renally. A phase 1, multicenter, open-label study evaluated the effects of RI on the pharmacokinetics and safety of HRS-8427. In sub-study 1, 21 participants with mild to severe RI who were not on dialysis and six participants with normal renal function received single doses of 1,000 mg HRS-8427. In sub-study 2, six participants with end-stage renal disease (ESRD) requiring hemodialysis (HD) received single doses of the 1,000 mg HRS-8427 under dialysis and non-dialysis conditions, respectively. Plasma HRS-8427 area under the concentration-time curve from zero to infinity (AUC0-∞) was ~1.2-fold, ~1.4-fold, 2.0-fold, and ~2.0-fold higher, respectively, in participants with mild, moderate, severe RI, and ESRD (without HD) relative to healthy controls. In dialysis-dependent subjects, the systemic exposure of HRS-8427 when dosed before HD was equivalent to 50.6% of that when dosed after HD. Adverse events (AEs) were mostly mild, and RI did not appear to be associated with an increased risk of AEs.CLINICAL TRIALSThis study is registered with http://www.chinadrugtrials.org.cn/ as CTR20230658.",
+        "authors": [
+          "Wu Yuanhao",
+          "Han Qiwen",
+          "Yang Haijing",
+          "Xue Jun",
+          "Wang Lili",
+          "Mao Xiaomeng",
+          "Yin Tengrui",
+          "Jiang Hao",
+          "Xu Sheng",
+          "Huang Yuanyuan",
+          "Wang Ting",
+          "He Yan",
+          "Luo Yuanyuan",
+          "Chen Wenli",
+          "Zhang Jing"
+        ],
+        "journal": "Antimicrobial agents and chemotherapy",
+        "pub_date": "2026 Feb 04",
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "hemodialysis",
+          "pharmacokinetics",
+          "renal impairment",
+          "siderophore cephalosporin"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Renal Dialysis",
+          "Male",
+          "Middle Aged",
+          "Female",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Kidney Failure, Chronic",
+          "Gram-Negative Bacterial Infections",
+          "Adult",
+          "Siderophores",
+          "Renal Insufficiency"
+        ],
+        "doi": "10.1128/aac.01095-25",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41528248/",
+        "fetched_at": "2026-02-09T08:56:48.164156"
+      },
+      {
+        "pmid": "41636645",
+        "title": "Development of a risk prediction model for vancomycin-associated acute kidney injury: a multicentre retrospective study.",
+        "abstract": "OBJECTIVES: To clarify the relationship between acute kidney injury (AKI) and vancomycin use in patients with renal impairment and to establish a risk score for AKI. METHODS: In this retrospective, multicentre, observational cohort study, trough and peak blood samples were collected from patients who initiated vancomycin therapy. The cumulative incidence of AKI within 14 days was compared among three groups classified according to renal function (estimated glomerular filtration rate ≥ 60, 30-59 and <30 mL/min/1.73 m2). The risk score and predicted probability of AKI incidence were calculated. AKI was defined in accordance with the Kidney Disease Improving Global Outcomes criteria. RESULTS: The incidence of AKI was 11.7% (99/847). No statistically significant difference was detected in the cumulative incidence of AKI among the three groups (P = 0.103). Cox proportional hazard analysis showed that the use of tazobactam/piperacillin [HR: 3.3, 95% CI (2.18-4.99), 2 points], vasopressors/inotropes [HR: 3.0, 95% CI (2.02-4.51), 2 points] and area under the concentration-time curve (AUC) on Day 2 [500-600 µg·h/mL: HR, 2.4, 95% CI (1.50-3.89), 1 point; >600 µg·h/mL: HR, 4.4, 95% CI (2.62-7.37), 3 points] were significantly related to the development of AKI. The predicted probabilities of AKI incidence were <5% (low-risk), 5% to <20% (moderate-risk), 20% to <40% (high-risk) and 40% to 67% (very high-risk), with total points of 0, 1-2, 3-4 and ≥5, respectively. CONCLUSIONS: A risk prediction model was developed for AKI based on AUC exposure and concomitant medications, and no difference in AKI risk was observed across renal function categories.",
+        "authors": [
+          "Ishigo Tomoyuki",
+          "Suzuki Ayako",
+          "Ibe Yuta",
+          "Fujii Satoshi",
+          "Fukudo Masahide",
+          "Yoshida Hiroaki",
+          "Tanaka Hiroaki",
+          "Fujihara Hisato",
+          "Yamaguchi Fumihiro",
+          "Ebihara Fumiya",
+          "Maruyama Takumi",
+          "Yagi Yusuke",
+          "Hamada Yukihiro",
+          "Samura Masaru",
+          "Nagumo Fumio",
+          "Komatsu Toshiaki",
+          "Tomizawa Atsushi",
+          "Takuma Akitoshi",
+          "Chiba Hiroaki",
+          "Nishi Yoshifumi",
+          "Igarashi Yuki",
+          "Enoki Yuki",
+          "Matsumoto Kazuaki"
+        ],
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "pub_date": "2026 Feb 02",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Vancomycin",
+          "Acute Kidney Injury",
+          "Retrospective Studies",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Incidence",
+          "Risk Assessment",
+          "Adult",
+          "Risk Factors",
+          "Aged, 80 and over"
+        ],
+        "doi": "10.1093/jac/dkag012",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41636645/",
+        "fetched_at": "2026-02-09T08:56:48.164245"
+      },
+      {
+        "pmid": "41639018",
+        "title": "Association between the preoperative serum albumin-to-creatinine ratio (sACR) and in-hospital mortality in perioperative patients with chronic kidney disease: a cohort study based on INSPIRE database.",
+        "abstract": "Objective: The serum albumin-to-creatinine ratio (sACR) is a potential biomarker for multiple diseases, yet its prognostic role in chronic kidney disease (CKD) patients undergoing surgery remains unexplored. This study aimed to investigate the association between sACR levels and postoperative in-hospital mortality in this population. Methods: This retrospective cohort study analyzed 2,611 CKD patients from the INSPIRE database (2011-2020). Patients were stratified into tertiles based on admission sACR levels. Multivariable Cox regression models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between sACR and mortality. Restricted cubic spline (RCS) analysis was performed to assess potential nonlinear relationships. Sensitivity analyses were conducted to verify result robustness. Results: The cohort had a mean age of 61.1 ± 14.8 years and a median sACR of 1.2 (interquartile range: 0.7-2.6). Multivariable analysis revealed that each unit increase in sACR was associated with a 29% reduction in mortality (adjusted HR 0.71, 95% CI 0.61-0.83, p &lt; 0.001). Compared with the lowest tertile (T1), the highest tertile (T3) demonstrated a 48% lower mortality risk (HR 0.52, 95% CI 0.33-0.82, p = 0.005). RCS analysis identified a nonlinear, L-shaped association between sACR and mortality (P for nonlinearity &lt; 0.001), with a threshold effect observed at approximately 2.7. Sensitivity analyses confirmed the robustness of these findings. Conclusion: Lower sACR levels are independently associated with higher in-hospital mortality in surgical CKD patients, exhibiting an L-shaped relationship with a critical threshold at 2.7. sACR represents a practical, cost-effective early-warning biomarker for perioperative risk stratification in this high-risk population.",
+        "authors": [
+          "Pan Bin",
+          "Lin Bingwen",
+          "Huang Xiurong",
+          "Zhang Xiaochen"
+        ],
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Chronic kidney disease",
+          "albumin",
+          "creatinine",
+          "mortality",
+          "serum albumin-to-creatinine ratio"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Renal Insufficiency, Chronic",
+          "Hospital Mortality",
+          "Retrospective Studies",
+          "Creatinine",
+          "Aged",
+          "Biomarkers",
+          "Serum Albumin",
+          "Databases, Factual",
+          "Preoperative Period",
+          "Prognosis",
+          "Proportional Hazards Models",
+          "Perioperative Period"
+        ],
+        "doi": "10.1080/0886022X.2026.2621525",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41639018/",
+        "fetched_at": "2026-02-09T08:56:48.164319"
+      },
+      {
+        "pmid": "41252355",
+        "title": "Increased Risk of Early-Onset Kidney Cancer in Individuals Aged 20-39 with Nonalcoholic Fatty Liver Disease: A Nationwide Cohort Study.",
+        "abstract": "BACKGROUND: The global incidence of kidney cancer has significantly increased among individuals less than 50 years of age. However, genetic predisposition alone does not account for this trend. This study investigated the association between nonalcoholic fatty liver disease (NAFLD) and the risk of early-onset kidney cancer. METHODS: We conducted a nationwide cohort study of 5,606,357 Korean individuals, ages 20 to 39 years, who underwent national health screening between 2009 and 2012, with follow-up until December 2020. NAFLD was defined using the fatty liver index. Cox proportional hazards models were used to estimate HRs for early-onset kidney cancer, adjusting for potential confounders, including age, sex, smoking, alcohol intake, physical activity, diabetes, hypertension, obesity, and chronic kidney disease (CKD). RESULTS: During 52.4 million person-years of follow-up, 2,956 cases of early-onset kidney cancer were identified. NAFLD was associated with a higher cumulative incidence (log-rank test P < 0.01) and an increased risk of early-onset kidney cancer [adjusted HR (aHR), 1.46; 95% confidence interval (CI), 1.32-1.61]. The association remained consistent across subgroups stratified by age, sex, smoking status, alcohol consumption, obesity, and CKD (all P for interactions > 0.05). The risk was highest among individuals with both NAFLD and obesity (aHR, 2.12; 95% CI, 1.95-2.32; synergy index = 1.34, P < 0.01). CONCLUSIONS: NAFLD may serve as an independent risk factor for early-onset kidney cancer. IMPACT: Given that NAFLD is a modifiable condition, its early detection and management may be a potential strategy to reduce the burden of early-onset kidney cancer, warranting further investigation.",
+        "authors": [
+          "Park Joo-Hyun",
+          "Hong Jung Yong",
+          "Han Kyungdo",
+          "Shen Jay J"
+        ],
+        "journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+        "pub_date": "2026 Feb 03",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Adult",
+          "Female",
+          "Non-alcoholic Fatty Liver Disease",
+          "Kidney Neoplasms",
+          "Risk Factors",
+          "Incidence",
+          "Young Adult",
+          "Republic of Korea",
+          "Cohort Studies",
+          "Age of Onset",
+          "Follow-Up Studies"
+        ],
+        "doi": "10.1158/1055-9965.EPI-25-0319",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41252355/",
+        "fetched_at": "2026-02-09T08:56:48.164388"
+      },
+      {
+        "pmid": "41649882",
+        "title": "Heterogeneity in the efficacy of bosentan for hypertensive nephropathy: a study on individualized benefit prediction models based on pathological subtyping and dynamic trajectories.",
+        "abstract": "BACKGROUND: Many patients with hypertensive nephropathy progress to chronic kidney disease (CKD). Targeting the core pathophysiological pathway of endothelin-1 activation, this study aimed to elucidate response patterns to the endothelin receptor type A/B (ETA/ETB) antagonist bosentan and construct a personalized prediction model. METHODS: This single-centre retrospective cohort study enrolled 166 patients with hypertension-related nephropathy confirmed by renal biopsy. Risk stratification was performed based on a pathological injury scoring. Three efficacy trajectories were identified using latent variable growth mixture models. Efficacy drivers were screened via random forest algorithms. Finally, early response thresholds were established using receiver operating characteristic (ROC) curves. RESULTS: Patients in the high-damage group exhibited significantly lower creatinine reduction than those in the low-damage group. Trajectory analysis revealed three patterns: sustained improvement (65.1%), with a 12-month creatinine reduction of 110.8 μmol/L, and deterioration (12.0%), with a deterioration inflection point at 5.3 ± 1.7 months and a subsequent creatinine increase of 40.2 μmol/L. Pathological injury score was the primary determinant of efficacy and was significantly negatively correlated with creatinine reduction (r = -0.61). Early response threshold analysis indicated that ΔCr3M ≥ 42.3 μmol/L predicted 12-month efficacy, with an area under the curve (AUC) of 0.79. The early target-achievement group demonstrated significantly greater creatinine reduction than the nonachievement group. Compared with the non-sodium-glucose cotransporter-2 inhibitor (SGLT2i) group, the SGLT2i group demonstrated a 59% reduction in creatinine, while the diabetic subgroup showed a 47.1% smaller reduction than the nondiabetic subgroup. CONCLUSIONS: Bosentan may improve glomerular haemodynamics in patients with hypertensive nephropathy. We propose pathological and early-response thresholds that could guide dynamic, precision interventions before critical inflection points, potentially paving the way for an upgrade from static to proactive management. These findings require validation in larger cohorts.",
+        "authors": [
+          "Yu Xiang",
+          "Gong XinYan",
+          "Wang BaoLong",
+          "Ji YuWei",
+          "Wu RiLiGe",
+          "Wang WanLing",
+          "Huang MengJie",
+          "Nie SaSa",
+          "Cai GuangYan",
+          "Chen XiangMei",
+          "Feng Zhe"
+        ],
+        "journal": "Annals of medicine",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Bosentan",
+          "creatinine",
+          "endothelin",
+          "hypertensive nephropathy",
+          "pathological injury",
+          "precision medicine",
+          "treatment response trajectory"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bosentan",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Aged",
+          "Hypertension, Renal",
+          "Creatinine",
+          "Nephritis",
+          "Renal Insufficiency, Chronic",
+          "Antihypertensive Agents",
+          "Endothelin Receptor Antagonists",
+          "Treatment Outcome",
+          "Kidney",
+          "ROC Curve",
+          "Disease Progression",
+          "Biopsy"
+        ],
+        "doi": "10.1080/07853890.2026.2624240",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41649882/",
+        "fetched_at": "2026-02-09T08:56:48.164490"
+      },
+      {
+        "pmid": "41651561",
+        "title": "Renal function trajectories in 'De Novo' heart failure with reduced ejection fraction: impact on outcomes.",
+        "abstract": "AIMS: Heart failure (HF) often coexists with chronic kidney disease (CKD), impacting prognosis. This study aims to evaluate renal function trajectories and their impact on major clinical outcomes in a cohort of patients hospitalised for 'de novo' HF with reduced ejection fraction (HFrEF). METHODS: This is a prospective cohort study that included patients hospitalised for 'de novo' HFrEF at two university hospitals. Renal function was assessed using the CKD-Epidemiology Collaboration formula. Total mortality and the combined total mortality and HF readmissions were evaluated during follow-up. RESULTS: Of 370 patients, 306 were eligible. At discharge, 24.6% had estimated glomerular filtration rate (eGFR) <45 mL/min/1.73 m2. Higher eGFR at discharge was associated with better outcomes. During follow-up, 79.1% showed eGFR ≥45 mL/min/1.73 m2. Patients with stable or improved eGFR had lower total mortality and HF readmission rates. Factors associated with renal function improvement or stabilisation included less prior CKD, hypertension and younger age, higher eGFR values at discharge and more use of quadruple therapy at the end of uptitration period. CONCLUSIONS: In patients with 'de novo' HFrEF, renal function deterioration at discharge correlated with poorer outcomes. However, stabilisation or improvement during follow-up was linked to better prognosis. Routine renal function assessment is crucial in HFrEF management, guiding personalised treatment strategies to mitigate renal function decline and improve patient care.",
+        "authors": [
+          "Otero Garcia Oscar",
+          "Donoso Trenado Víctor",
+          "de la Fuente-López Pablo",
+          "López Vilella Raquel",
+          "Adarraga-Gómez Javier",
+          "Yebra Pimentel-Brea Carlos",
+          "Gallego-Latorre Guillermo",
+          "Gómez-Otero María Inés",
+          "Bouzas Cruz Noelia",
+          "Garcia-Vega David",
+          "Almenar Bonet Luis",
+          "Gonzalez Juanatey Jose Ramon"
+        ],
+        "journal": "Open heart",
+        "pub_date": "2026 Feb 06",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "Cardiomyopathies",
+          "HEART FAILURE",
+          "Heart Failure, Systolic"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Heart Failure",
+          "Male",
+          "Female",
+          "Stroke Volume",
+          "Glomerular Filtration Rate",
+          "Prospective Studies",
+          "Aged",
+          "Renal Insufficiency, Chronic",
+          "Prognosis",
+          "Middle Aged",
+          "Kidney",
+          "Follow-Up Studies",
+          "Risk Factors",
+          "Ventricular Function, Left",
+          "Patient Readmission",
+          "Aged, 80 and over",
+          "Time Factors"
+        ],
+        "doi": "10.1136/openhrt-2025-003193",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41651561/",
+        "fetched_at": "2026-02-09T08:56:48.164578"
+      },
+      {
+        "pmid": "41616795",
+        "title": "TRPC6 inhibition for the treatment of focal segmental glomerulosclerosis: a randomised, placebo-controlled, phase 2 trial of BI 764198.",
+        "abstract": "BACKGROUND: In focal segmental glomerulosclerosis (FSGS), transient receptor potential cation channel, subfamily C, member 6 (TRPC6) overactivity might cause podocyte loss and progressive kidney function decline. This exploratory study assessed the safety and efficacy of a novel once-daily oral selective TRPC6 inhibitor, BI 764198. METHODS: This multicentre phase 2, double-blind, placebo-controlled, randomised controlled trial assessed BI 764198 (20 mg, 40 mg, or 80 mg once daily) versus placebo over 12 weeks in participants aged 18-75 years with biopsy-confirmed primary FSGS (based on the absence of clinical evidence of secondary cause) or with a disease-causing TRPC6 variant. The study took place in 31 sites in ten countries, and random allocation was performed centrally in blocks in a 1:1:1:1 ratio and was stratified according to use of corticosteroids. Participants were receiving stable conservative and immunosuppressive therapy, with screening urine protein-creatinine ratio (UPCR) at 1·0 g/g or greater and estimated glomerular filtration rate at 30 mL/min per 1·73 m2 or greater. The primary endpoint was the proportion of participants with proteinuria response (≥25% UPCR reduction from baseline) at week 12. Other key outcomes were safety and tolerability. The study was registered with ClinicalTrials.gov on Jan 27, 2022 (NCT05213624) and is complete as of Jan 3, 2025. FINDINGS: From March 10, 2022, to Sept 3, 2024, 139 participants were screened and 67 were randomly assigned to receive placebo or BI 764198 at doses of 20 mg, 40 mg, or 80 mg (five participants were randomly assigned in error and were not treated). 62 participants received treatment, two of whom had missing baseline or post-baseline UPCR measurements and were not included in the full analysis set. Overall, 37 participants (60%) were male and 25 participants (40%) were female; the mean age was 40·7 years (SD 12·6); and the majority of the trial cohort were White (39 [63%] of 62). Proteinuria responses were observed in eight (44%) of 18, two (14%) of 14, and six (43%) of 14 participants receiving BI 764198 20 mg, 40 mg, and 80 mg, respectively (16 [35%] of 46 for all BI 764198 doses) versus one (7%) of 14 receiving placebo; corresponding odds ratios (ORs) versus placebo were OR 10·0 (95% CI 1·6-118·1), 1·5 (0·2-19·5), and 6·0 (0·9-73·6) for the three doses of BI 764198, and 4·9 (1·0-48·8) for all doses combined. BI 764198 was well tolerated with no meaningful differences in adverse event frequencies across treatment arms; treatment-emergent adverse events were reported by 44 (71%) of 62 participants, with similar frequencies of adverse events observed in the placebo group (ten [71%] of 14) and BI 764198 groups (34 [71%] of 48). INTERPRETATION: BI 764198 lowered proteinuria and was well tolerated by participants in this trial. This is the first evidence of efficacy with a podocyte-targeted therapy in FSGS. Larger randomised controlled trials over longer treatment durations, enabling meaningful subgroup analyses, are planned to evaluate the safety and efficacy of BI 764198 treatment in FSGS and other conditions affected by podocytopathy. FUNDING: Boehringer Ingelheim.",
+        "authors": [
+          "Trachtman Howard",
+          "Kretzler Matthias",
+          "Gesualdo Loreto",
+          "Cross Nicholas",
+          "Workeneh Biruh",
+          "Kaufeld Jessica",
+          "Meijers Björn",
+          "Ye Zhiming",
+          "Chen Qinkai",
+          "Derebail Vimal K",
+          "Ng Monica Suet Ying",
+          "Ji Bo",
+          "Lobmeyer Maximilian T",
+          "Retlich Silke",
+          "Licarião Rocha Fabia T",
+          "Prasad Srinivasa",
+          "Soleymanlou Nima"
+        ],
+        "journal": "Lancet (London, England)",
+        "pub_date": "2026 Feb 07",
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Glomerulosclerosis, Focal Segmental",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Adult",
+          "Double-Blind Method",
+          "Aged",
+          "Adolescent",
+          "TRPC6 Cation Channel",
+          "Young Adult",
+          "Treatment Outcome",
+          "TRPC Cation Channels",
+          "Proteinuria",
+          "Glomerular Filtration Rate"
+        ],
+        "doi": "10.1016/S0140-6736(25)02255-X",
+        "is_high_impact": true,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41616795/",
+        "fetched_at": "2026-02-09T08:56:48.164657"
+      }
+    ],
+    "count": 9,
+    "search_date": "2026-02-09T08:56:48.164776",
+    "days_back": 7
+  }
+}
