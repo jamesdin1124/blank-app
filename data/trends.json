@@ -1,145 +1,128 @@
 {
-  "總文章數": 11,
-  "高影響力期刊文章數": 2,
-  "分析日期": "2026-02-09T08:56:48.665731",
+  "總文章數": 17,
+  "高影響力期刊文章數": 1,
+  "分析日期": "2026-02-16T08:52:55.958216",
   "趨勢關鍵詞統計": {
+    "臨床結局": {
+      "mortality": 6,
+      "proteinuria": 4,
+      "hospitalization": 4,
+      "ESKD": 2
+    },
     "診斷技術": {
-      "biomarker": 3
+      "biomarker": 2
     },
     "研究主題": {
-      "cardiovascular": 2,
-      "heart failure": 2,
-      "inflammation": 1,
-      "fibrosis": 1,
-      "personalized": 1
-    },
-    "臨床結局": {
-      "mortality": 3,
-      "quality of life": 1,
-      "proteinuria": 1
-    },
-    "治療方法": {
-      "SGLT2 inhibitor": 1,
-      "dapagliflozin": 1
+      "cardiovascular": 4,
+      "heart failure": 3
     }
   },
   "熱門主題": [
     [
-      "biomarker",
-      3
-    ],
-    [
       "mortality",
-      3
-    ],
-    [
-      "cardiovascular",
-      2
-    ],
-    [
-      "heart failure",
-      2
-    ],
-    [
-      "inflammation",
-      1
-    ],
-    [
-      "fibrosis",
-      1
-    ],
-    [
-      "personalized",
-      1
-    ],
-    [
-      "quality of life",
-      1
+      6
     ],
     [
       "proteinuria",
-      1
+      4
     ],
     [
-      "SGLT2 inhibitor",
-      1
+      "hospitalization",
+      4
     ],
     [
-      "dapagliflozin",
-      1
+      "cardiovascular",
+      4
+    ],
+    [
+      "heart failure",
+      3
+    ],
+    [
+      "ESKD",
+      2
+    ],
+    [
+      "biomarker",
+      2
     ]
   ],
   "期刊分布": {
-    "Clinical journal of the American Society of Nephrology : CJASN": 1,
-    "BMC pediatrics": 1,
-    "Circulation": 1,
-    "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
-    "Antimicrobial agents and chemotherapy": 1,
-    "The Journal of antimicrobial chemotherapy": 1,
-    "Renal failure": 1,
-    "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology": 1,
-    "Annals of medicine": 1,
-    "Open heart": 1,
-    "Lancet (London, England)": 1
+    "The New England journal of medicine": 2,
+    "Medicine": 2,
+    "World journal of urology": 2,
+    "American journal of perinatology": 1,
+    "PLoS medicine": 1,
+    "BMJ open": 1,
+    "International journal of cancer": 1,
+    "European heart journal": 1,
+    "International journal of cardiology": 1,
+    "Journal of the American College of Cardiology": 1,
+    "The Science of the total environment": 1,
+    "Internal medicine (Tokyo, Japan)": 1,
+    "Nephrologie & therapeutique": 1,
+    "Kardiologiia": 1
   },
   "文章類型分布": {
-    "Journal Article": 11,
-    "Multicenter Study": 4,
-    "Randomized Controlled Trial": 2,
-    "Clinical Trial, Phase I": 1,
-    "Observational Study": 1,
-    "Clinical Trial, Phase II": 1
+    "Journal Article": 17,
+    "Multicenter Study": 6,
+    "Randomized Controlled Trial": 3,
+    "Clinical Trial, Phase III": 2,
+    "Observational Study": 2,
+    "Comparative Study": 2,
+    "Review": 1,
+    "Systematic Review": 1,
+    "Case Reports": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 9,
-    "Female": 9,
-    "Male": 9,
-    "Middle Aged": 8,
-    "Aged": 8,
-    "Adult": 4,
-    "Prospective Studies": 3,
-    "Treatment Outcome": 3,
-    "Retrospective Studies": 3,
-    "Risk Factors": 3,
-    "Renal Insufficiency, Chronic": 3,
-    "Anti-Bacterial Agents": 2,
-    "Incidence": 2,
-    "Aged, 80 and over": 2,
-    "Creatinine": 2,
-    "Prognosis": 2,
+    "Humans": 16,
+    "Male": 16,
+    "Female": 16,
+    "Middle Aged": 16,
+    "Aged": 12,
+    "Retrospective Studies": 10,
+    "Adult": 9,
+    "Treatment Outcome": 5,
+    "Glomerulonephritis, IGA": 4,
+    "Renal Insufficiency, Chronic": 4,
+    "Risk Factors": 4,
+    "Cohort Studies": 4,
+    "Proteinuria": 3,
+    "Creatinine": 3,
+    "Cardiovascular Diseases": 3,
+    "United States": 3,
+    "Aged, 80 and over": 3,
+    "Prognosis": 3,
+    "Follow-Up Studies": 3,
+    "Double-Blind Method": 2,
+    "Tumor Necrosis Factor Ligand Superfamily Member 13": 2,
+    "Injections, Subcutaneous": 2,
     "Young Adult": 2,
-    "Follow-Up Studies": 2,
-    "Kidney": 2,
     "Glomerular Filtration Rate": 2,
-    "Atrial Fibrillation": 1,
-    "Catheter Ablation": 1,
-    "Benzhydryl Compounds": 1,
-    "Glucosides": 1,
-    "Sodium-Glucose Transporter 2 Inhibitors": 1,
-    "Recurrence": 1,
-    "Quality of Life": 1,
-    "Frailty": 1,
-    "Metabolic Syndrome": 1,
-    "Triglycerides": 1
+    "Hematuria": 2,
+    "Biomarkers": 2,
+    "Kidney Failure, Chronic": 2,
+    "Incidence": 2,
+    "Nutrition Surveys": 2,
+    "Proportional Hazards Models": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 2,
-      "高影響力期刊文章數": 1,
+      "文章數": 1,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Clinical journal of the American Society of Nephrology : CJASN": 1,
-        "BMC pediatrics": 1
+        "American journal of perinatology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 9,
+      "文章數": 16,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Circulation": 1,
-        "The journals of gerontology. Series A, Biological sciences and medical sciences": 1,
-        "Antimicrobial agents and chemotherapy": 1,
-        "The Journal of antimicrobial chemotherapy": 1,
-        "Renal failure": 1
+        "The New England journal of medicine": 2,
+        "Medicine": 2,
+        "World journal of urology": 2,
+        "PLoS medicine": 1,
+        "BMJ open": 1
       }
     }
   }
