@@ -1,20 +1,20 @@
 {
-  "總文章數": 17,
+  "總文章數": 11,
   "高影響力期刊文章數": 1,
-  "分析日期": "2026-02-16T08:52:55.958216",
+  "分析日期": "2026-02-23T08:54:11.376728",
   "趨勢關鍵詞統計": {
     "臨床結局": {
       "mortality": 6,
-      "proteinuria": 4,
-      "hospitalization": 4,
-      "ESKD": 2
-    },
-    "診斷技術": {
-      "biomarker": 2
+      "hospitalization": 2,
+      "ESKD": 1,
+      "proteinuria": 1
     },
     "研究主題": {
-      "cardiovascular": 4,
-      "heart failure": 3
+      "cardiovascular": 2,
+      "heart failure": 1
+    },
+    "診斷技術": {
+      "artificial intelligence": 1
     }
   },
   "熱門主題": [
@@ -23,106 +23,95 @@
       6
     ],
     [
-      "proteinuria",
-      4
-    ],
-    [
       "hospitalization",
-      4
+      2
     ],
     [
       "cardiovascular",
-      4
-    ],
-    [
-      "heart failure",
-      3
+      2
     ],
     [
       "ESKD",
-      2
+      1
     ],
     [
-      "biomarker",
-      2
+      "proteinuria",
+      1
+    ],
+    [
+      "heart failure",
+      1
+    ],
+    [
+      "artificial intelligence",
+      1
     ]
   ],
   "期刊分布": {
-    "The New England journal of medicine": 2,
-    "Medicine": 2,
-    "World journal of urology": 2,
-    "American journal of perinatology": 1,
-    "PLoS medicine": 1,
-    "BMJ open": 1,
-    "International journal of cancer": 1,
-    "European heart journal": 1,
-    "International journal of cardiology": 1,
-    "Journal of the American College of Cardiology": 1,
-    "The Science of the total environment": 1,
-    "Internal medicine (Tokyo, Japan)": 1,
+    "PloS one": 3,
+    "Renal failure": 2,
+    "Chinese medical journal": 1,
+    "BMJ open diabetes research & care": 1,
+    "Neurology": 1,
+    "Journal of the American Heart Association": 1,
     "Nephrologie & therapeutique": 1,
-    "Kardiologiia": 1
+    "The Journal of clinical endocrinology and metabolism": 1
   },
   "文章類型分布": {
-    "Journal Article": 17,
-    "Multicenter Study": 6,
-    "Randomized Controlled Trial": 3,
-    "Clinical Trial, Phase III": 2,
-    "Observational Study": 2,
-    "Comparative Study": 2,
-    "Review": 1,
-    "Systematic Review": 1,
-    "Case Reports": 1
+    "Journal Article": 11,
+    "Multicenter Study": 2,
+    "Observational Study": 1,
+    "Clinical Trial, Phase II": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 16,
-    "Male": 16,
-    "Female": 16,
-    "Middle Aged": 16,
-    "Aged": 12,
-    "Retrospective Studies": 10,
-    "Adult": 9,
-    "Treatment Outcome": 5,
-    "Glomerulonephritis, IGA": 4,
-    "Renal Insufficiency, Chronic": 4,
-    "Risk Factors": 4,
-    "Cohort Studies": 4,
-    "Proteinuria": 3,
-    "Creatinine": 3,
-    "Cardiovascular Diseases": 3,
-    "United States": 3,
+    "Humans": 11,
+    "Male": 11,
+    "Female": 11,
+    "Middle Aged": 11,
+    "Aged": 10,
+    "Retrospective Studies": 7,
+    "Adult": 6,
+    "Risk Factors": 5,
+    "Acute Kidney Injury": 4,
+    "Hospital Mortality": 4,
+    "Prospective Studies": 4,
+    "Hospitalization": 3,
     "Aged, 80 and over": 3,
     "Prognosis": 3,
-    "Follow-Up Studies": 3,
-    "Double-Blind Method": 2,
-    "Tumor Necrosis Factor Ligand Superfamily Member 13": 2,
-    "Injections, Subcutaneous": 2,
-    "Young Adult": 2,
-    "Glomerular Filtration Rate": 2,
-    "Hematuria": 2,
-    "Biomarkers": 2,
-    "Kidney Failure, Chronic": 2,
+    "Cardiovascular Diseases": 2,
+    "Renal Insufficiency, Chronic": 2,
+    "Proportional Hazards Models": 2,
     "Incidence": 2,
-    "Nutrition Surveys": 2,
-    "Proportional Hazards Models": 2
+    "COVID-19": 2,
+    "SARS-CoV-2": 2,
+    "Propensity Score": 2,
+    "Follow-Up Studies": 2,
+    "Rotavirus Infections": 1,
+    "Hyponatremia": 1,
+    "Cross Infection": 1,
+    "Community-Acquired Infections": 1,
+    "Metabolic Syndrome": 1,
+    "China": 1,
+    "Diabetic Ketoacidosis": 1,
+    "Diabetes Mellitus, Type 1": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
       "文章數": 1,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "American journal of perinatology": 1
+        "PloS one": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 16,
+      "文章數": 10,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "The New England journal of medicine": 2,
-        "Medicine": 2,
-        "World journal of urology": 2,
-        "PLoS medicine": 1,
-        "BMJ open": 1
+        "Renal failure": 2,
+        "PloS one": 2,
+        "Chinese medical journal": 1,
+        "BMJ open diabetes research & care": 1,
+        "Neurology": 1
       }
     }
   }
