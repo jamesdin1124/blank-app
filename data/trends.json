@@ -1,117 +1,184 @@
 {
-  "總文章數": 11,
-  "高影響力期刊文章數": 1,
-  "分析日期": "2026-02-23T08:54:11.376728",
+  "總文章數": 57,
+  "高影響力期刊文章數": 5,
+  "分析日期": "2026-03-02T08:50:44.609690",
   "趨勢關鍵詞統計": {
     "臨床結局": {
-      "mortality": 6,
-      "hospitalization": 2,
-      "ESKD": 1,
-      "proteinuria": 1
+      "mortality": 15,
+      "proteinuria": 7,
+      "hospitalization": 5,
+      "eGFR decline": 4,
+      "ESKD": 3,
+      "quality of life": 1
     },
     "研究主題": {
-      "cardiovascular": 2,
-      "heart failure": 1
+      "cardiovascular": 15,
+      "inflammation": 5,
+      "heart failure": 2
     },
     "診斷技術": {
-      "artificial intelligence": 1
+      "biomarker": 4,
+      "genetic testing": 1,
+      "machine learning": 1,
+      "artificial intelligence": 1,
+      "proteomics": 1
+    },
+    "治療方法": {
+      "finerenone": 2,
+      "empagliflozin": 1,
+      "SGLT2 inhibitor": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      6
-    ],
-    [
-      "hospitalization",
-      2
+      15
     ],
     [
       "cardiovascular",
-      2
-    ],
-    [
-      "ESKD",
-      1
+      15
     ],
     [
       "proteinuria",
-      1
+      7
+    ],
+    [
+      "hospitalization",
+      5
+    ],
+    [
+      "inflammation",
+      5
+    ],
+    [
+      "eGFR decline",
+      4
+    ],
+    [
+      "biomarker",
+      4
+    ],
+    [
+      "ESKD",
+      3
     ],
     [
       "heart failure",
+      2
+    ],
+    [
+      "finerenone",
+      2
+    ],
+    [
+      "quality of life",
+      1
+    ],
+    [
+      "genetic testing",
+      1
+    ],
+    [
+      "machine learning",
       1
     ],
     [
       "artificial intelligence",
       1
+    ],
+    [
+      "proteomics",
+      1
+    ],
+    [
+      "empagliflozin",
+      1
+    ],
+    [
+      "SGLT2 inhibitor",
+      1
     ]
   ],
   "期刊分布": {
-    "PloS one": 3,
-    "Renal failure": 2,
-    "Chinese medical journal": 1,
-    "BMJ open diabetes research & care": 1,
-    "Neurology": 1,
-    "Journal of the American Heart Association": 1,
-    "Nephrologie & therapeutique": 1,
-    "The Journal of clinical endocrinology and metabolism": 1
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 6,
+    "Pediatric nephrology (Berlin, Germany)": 4,
+    "Diabetes, obesity & metabolism": 3,
+    "Kidney international": 3,
+    "International urology and nephrology": 3,
+    "The journal of vascular access": 3,
+    "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+    "Journal of renal care": 2,
+    "Diabetic medicine : a journal of the British Diabetic Association": 2,
+    "Intractable & rare diseases research": 1,
+    "Journal of the European Academy of Dermatology and Venereology : JEADV": 1,
+    "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases": 1,
+    "Journal of vascular surgery": 1,
+    "Journal of the American College of Cardiology": 1,
+    "European heart journal": 1
   },
   "文章類型分布": {
-    "Journal Article": 11,
-    "Multicenter Study": 2,
-    "Observational Study": 1,
-    "Clinical Trial, Phase II": 1
+    "Journal Article": 57,
+    "Systematic Review": 6,
+    "Randomized Controlled Trial": 6,
+    "Multicenter Study": 5,
+    "Observational Study": 4,
+    "Comparative Study": 4,
+    "Review": 3,
+    "Meta-Analysis": 2,
+    "Clinical Trial, Phase II": 2,
+    "Case Reports": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 11,
-    "Male": 11,
-    "Female": 11,
-    "Middle Aged": 11,
-    "Aged": 10,
-    "Retrospective Studies": 7,
-    "Adult": 6,
-    "Risk Factors": 5,
-    "Acute Kidney Injury": 4,
-    "Hospital Mortality": 4,
-    "Prospective Studies": 4,
-    "Hospitalization": 3,
-    "Aged, 80 and over": 3,
-    "Prognosis": 3,
-    "Cardiovascular Diseases": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Proportional Hazards Models": 2,
-    "Incidence": 2,
-    "COVID-19": 2,
-    "SARS-CoV-2": 2,
-    "Propensity Score": 2,
-    "Follow-Up Studies": 2,
-    "Rotavirus Infections": 1,
-    "Hyponatremia": 1,
-    "Cross Infection": 1,
-    "Community-Acquired Infections": 1,
-    "Metabolic Syndrome": 1,
-    "China": 1,
-    "Diabetic Ketoacidosis": 1,
-    "Diabetes Mellitus, Type 1": 1
+    "Humans": 55,
+    "Female": 52,
+    "Male": 51,
+    "Middle Aged": 46,
+    "Aged": 40,
+    "Adult": 30,
+    "Retrospective Studies": 23,
+    "Risk Factors": 21,
+    "Renal Insufficiency, Chronic": 15,
+    "Glomerular Filtration Rate": 14,
+    "Treatment Outcome": 14,
+    "Aged, 80 and over": 12,
+    "Prospective Studies": 11,
+    "Cohort Studies": 11,
+    "Kidney": 10,
+    "Time Factors": 9,
+    "Acute Kidney Injury": 8,
+    "Incidence": 8,
+    "Biomarkers": 8,
+    "Risk Assessment": 7,
+    "Prognosis": 6,
+    "Disease Progression": 6,
+    "Postoperative Complications": 6,
+    "Diabetes Mellitus, Type 2": 6,
+    "Kidney Failure, Chronic": 6,
+    "Creatinine": 6,
+    "Young Adult": 5,
+    "Cardiovascular Diseases": 5,
+    "Diabetic Nephropathies": 5,
+    "United States": 5
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 1,
+      "文章數": 7,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "PloS one": 1
+        "Pediatric nephrology (Berlin, Germany)": 4,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
+        "Intractable & rare diseases research": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 10,
-      "高影響力期刊文章數": 1,
+      "文章數": 50,
+      "高影響力期刊文章數": 5,
       "主要期刊": {
-        "Renal failure": 2,
-        "PloS one": 2,
-        "Chinese medical journal": 1,
-        "BMJ open diabetes research & care": 1,
-        "Neurology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 4,
+        "Diabetes, obesity & metabolism": 3,
+        "Kidney international": 3,
+        "International urology and nephrology": 3,
+        "The journal of vascular access": 3
       }
     }
   }

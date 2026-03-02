@@ -1,31 +1,34 @@
 {
-  "報告日期": "2026-02-23T08:54:11.379622",
+  "報告日期": "2026-03-02T08:50:44.621511",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 11,
-    "高影響力期刊文章數": 1,
+    "總文章數": 57,
+    "高影響力期刊文章數": 5,
     "主要發現": [
-      "本週熱門研究主題: mortality (6篇), hospitalization (2篇), cardiovascular (2篇)",
-      "高影響力期刊發表 1 篇，包括: BMJ open diabetes research & care"
+      "本週熱門研究主題: mortality (15篇), cardiovascular (15篇), proteinuria (7篇)",
+      "高影響力期刊發表 5 篇，包括: Transplantation, Kidney international, Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+      "高品質證據: 6 篇 RCT, 2 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 1,
+      "文章數": 7,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "PloS one": 1
+        "Pediatric nephrology (Berlin, Germany)": 4,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
+        "Intractable & rare diseases research": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 10,
-      "高影響力期刊文章數": 1,
+      "文章數": 50,
+      "高影響力期刊文章數": 5,
       "主要期刊": {
-        "Renal failure": 2,
-        "PloS one": 2,
-        "Chinese medical journal": 1,
-        "BMJ open diabetes research & care": 1,
-        "Neurology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 4,
+        "Diabetes, obesity & metabolism": 3,
+        "Kidney international": 3,
+        "International urology and nephrology": 3,
+        "The journal of vascular access": 3
       }
     }
   },
@@ -33,576 +36,637 @@
     "熱門主題": [
       [
         "mortality",
-        6
-      ],
-      [
-        "hospitalization",
-        2
+        15
       ],
       [
         "cardiovascular",
-        2
-      ],
-      [
-        "ESKD",
-        1
+        15
       ],
       [
         "proteinuria",
-        1
+        7
+      ],
+      [
+        "hospitalization",
+        5
+      ],
+      [
+        "inflammation",
+        5
+      ],
+      [
+        "eGFR decline",
+        4
+      ],
+      [
+        "biomarker",
+        4
+      ],
+      [
+        "ESKD",
+        3
       ],
       [
         "heart failure",
-        1
+        2
       ],
       [
-        "artificial intelligence",
-        1
+        "finerenone",
+        2
       ]
     ],
     "趨勢關鍵詞": {
       "臨床結局": {
-        "mortality": 6,
-        "hospitalization": 2,
-        "ESKD": 1,
-        "proteinuria": 1
+        "mortality": 15,
+        "proteinuria": 7,
+        "hospitalization": 5,
+        "eGFR decline": 4,
+        "ESKD": 3,
+        "quality of life": 1
       },
       "研究主題": {
-        "cardiovascular": 2,
-        "heart failure": 1
+        "cardiovascular": 15,
+        "inflammation": 5,
+        "heart failure": 2
       },
       "診斷技術": {
-        "artificial intelligence": 1
+        "biomarker": 4,
+        "genetic testing": 1,
+        "machine learning": 1,
+        "artificial intelligence": 1,
+        "proteomics": 1
+      },
+      "治療方法": {
+        "finerenone": 2,
+        "empagliflozin": 1,
+        "SGLT2 inhibitor": 1
       }
     },
     "期刊分布": {
-      "PloS one": 3,
-      "Renal failure": 2,
-      "Chinese medical journal": 1,
-      "BMJ open diabetes research & care": 1,
-      "Neurology": 1,
-      "Journal of the American Heart Association": 1,
-      "Nephrologie & therapeutique": 1,
-      "The Journal of clinical endocrinology and metabolism": 1
+      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 6,
+      "Pediatric nephrology (Berlin, Germany)": 4,
+      "Diabetes, obesity & metabolism": 3,
+      "Kidney international": 3,
+      "International urology and nephrology": 3,
+      "The journal of vascular access": 3,
+      "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+      "Journal of renal care": 2,
+      "Diabetic medicine : a journal of the British Diabetic Association": 2,
+      "Intractable & rare diseases research": 1,
+      "Journal of the European Academy of Dermatology and Venereology : JEADV": 1,
+      "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases": 1,
+      "Journal of vascular surgery": 1,
+      "Journal of the American College of Cardiology": 1,
+      "European heart journal": 1
     },
     "文章類型": {
-      "Journal Article": 11,
-      "Multicenter Study": 2,
-      "Observational Study": 1,
-      "Clinical Trial, Phase II": 1
+      "Journal Article": 57,
+      "Systematic Review": 6,
+      "Randomized Controlled Trial": 6,
+      "Multicenter Study": 5,
+      "Observational Study": 4,
+      "Comparative Study": 4,
+      "Review": 3,
+      "Meta-Analysis": 2,
+      "Clinical Trial, Phase II": 2,
+      "Case Reports": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "41698751",
-      "標題": "Age and sex differences in diabetic ketoacidosis outcomes in type 1 diabetes: a national cohort study.",
-      "期刊": "BMJ open diabetes research & care",
-      "發表日期": "2026 Feb 16",
+      "pmid": "40674282",
+      "標題": "Risk factors for in-hospital postoperative complications and 6-month graft survival after liver transplantation: A multicenter cohort study.",
+      "期刊": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+      "發表日期": "2026 Mar 01",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "type 1 diabetes hospitalized for DKA",
+        "P_族群": "852 patients",
         "I_介入": "",
         "C_對照": "",
-        "O_結果": "of in-hospital mortality, and secondary outcomes including acute kidney injury (AKI) and sepsis, adjusting for patient and hospital characteristics"
+        "O_結果": "7-day early allograft dysfunction or primary graft non-function"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to investigate the interaction between age and sex on clinical outcomes, resource utilization and mortality in patients with type 1 diabetes hospitalized for DKA.\n\n【研究方法】We conducted a retrospective cohort study using the National Inpatient Sample from 2016 to 2021. We identified adult hospitalizations with DKA in patients with type 1 diabetes, stratified into three age groups: 18-44, 45-64 and ≥65 years.\n\n【主要結果】Across all age groups, female sex was independently associated with significantly lower odds of AKI (aOR 0.56 in ages 18-44; 0.71 in 45-64; 0.79 in ≥65) but higher odds of sepsis (aOR 1.66, 1.31 and 1.17, respectively; all p<0.05).\n\n【結論】Our study showed that age and sex were closely linked to acute complications and in-hospital death. Women had lower odds of AKI but higher odds of sepsis than men, with a survival advantage limited to young adults, and mortality rose during the COVID-19 years for both sexes, especially in young men.",
+      "中文摘要": "【研究目的】本世代研究旨在探討of this study were to describe the incidence and variability of postoperative complications in adult LT recipients and identify their determinants. We conducted a cohort study that included consecutive LT recipients over at least 1 year between January 2021 and May 2023 in 8 LT centers in Canada and...\n\n【結論】, postoperative complications, such as graft dysfunction, AKI, and severe complications, were frequent after LT. We identified risk factors, such as donor and graft characteristics, MELD 3.0, and preoperative requirement for organ support, that may inform transplant risk evaluation.",
       "結構化摘要": {
-        "背景": "Despite therapeutic advances, diabetic ketoacidosis (DKA) hospitalizations continue to increase. The role of demographic factors, including age and sex in the outcomes of DKA remains underexplored. We aimed to investigate the interaction between age and sex on clinical outcomes, resource utilization and mortality in patients with type 1 diabetes hospitalized for DKA.",
-        "方法": "We conducted a retrospective cohort study using the National Inpatient Sample from 2016 to 2021. We identified adult hospitalizations with DKA in patients with type 1 diabetes, stratified into three age groups: 18-44, 45-64 and ≥65 years. Multivariable logistic regression models were used to analyze the association between sex and the primary outcome of in-hospital mortality, and secondary outcomes including acute kidney injury (AKI) and sepsis, adjusting for patient and hospital characteristics",
-        "結果": "Across all age groups, female sex was independently associated with significantly lower odds of AKI (aOR 0.56 in ages 18-44; 0.71 in 45-64; 0.79 in ≥65) but higher odds of sepsis (aOR 1.66, 1.31 and 1.17, respectively; all p<0.05). In young adults (18-44), women had significantly lower adjusted odds of mortality (aOR 0.72, 95% CI 0.60 to 0.86). This mortality benefit was not observed in middle-aged or older adults. Prepandemic (2016-2019), mortality trends diverged by sex and age, with rates inc",
-        "結論": "Our study showed that age and sex were closely linked to acute complications and in-hospital death. Women had lower odds of AKI but higher odds of sepsis than men, with a survival advantage limited to young adults, and mortality rose during the COVID-19 years for both sexes, especially in young men."
+        "目的": "of this study were to describe the incidence and variability of postoperative complications in adult LT recipients and identify their determinants. We conducted a cohort study that included consecutive LT recipients over at least 1 year between January 2021 and May 2023 in 8 LT centers in Canada and France. Our primary outcome was 7-day early allograft dysfunction or primary graft non-function. Our secondary outcomes included acute kidney injury (AKI) and severe complications. We measured the in",
+        "結論": ", postoperative complications, such as graft dysfunction, AKI, and severe complications, were frequent after LT. We identified risk factors, such as donor and graft characteristics, MELD 3.0, and preoperative requirement for organ support, that may inform transplant risk evaluation."
       },
-      "相關趨勢": [
-        "臨床結局: mortality",
-        "臨床結局: hospitalization"
-      ],
+      "相關趨勢": [],
       "關鍵詞": [
-        "Diabetic Ketoacidosis",
-        "Epidemiology",
-        "Mortality",
-        "Women"
+        "liver transplantation",
+        "postoperative outcomes",
+        "risk factors"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Diabetic Ketoacidosis",
-        "Female",
+        "Liver Transplantation",
         "Male",
-        "Adult",
-        "Retrospective Studies",
-        "Diabetes Mellitus, Type 1",
+        "Female",
+        "Risk Factors",
         "Middle Aged",
-        "Young Adult",
-        "Adolescent"
+        "Postoperative Complications",
+        "Incidence",
+        "Canada",
+        "Graft Survival"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41698751/",
-      "DOI": "10.1136/bmjdrc-2025-005817"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40674282/",
+      "DOI": "10.1097/LVT.0000000000000684"
     },
     {
-      "pmid": "41712884",
-      "標題": "Contrast-Associated Acute Kidney Injury After Thrombectomy for Ischemic Stroke: Prognostic Impact and CAN-REST Predictive Score.",
-      "期刊": "Neurology",
-      "發表日期": "2026 Mar 24",
+      "pmid": "41171603",
+      "標題": "Early Postreperfusion Proteomics Reveal Divergent Inflammatory Responses in Kidney Transplantation With Implications on Outcomes.",
+      "期刊": "Transplantation",
+      "發表日期": "2026 Mar 01",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "AIS and to develop and validate a predictive score",
+        "P_族群": "患有 Kidney Transplantation, Reperfusion Injury 的病人",
         "I_介入": "",
         "C_對照": "",
-        "O_結果": "CA-AKI, defined by KDIGO (Kidney Disease: Improving Global Outcomes criteria;creatinine increase ≥0"
+        "O_結果": "proteomic patterns suggestive of a regulatory response"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討Contrast-associated acute kidney injury (CA-AKI) is a potentially preventable complication after exposure to iodinated contrast media. In patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke (AIS), the incidence and clinical impact are poorly characterized, and no validated ...\n\n【研究方法】A retrospective, multicenter cohort study was conducted involving EVT-treated patients across 73 centers in 16 countries (January-December 2023). Inclusion criteria were age ≥18 years, absence of dialysis, availability of preprocedural and 48-hour postprocedural creatinine levels, and available 90-d...\n\n【主要結果】Among 6,638 patients (median age 74 years; 48.7% male), CA-AKI occurred in 326 (4.9%) and was independently associated with in-hospital mortality (adjusted odds ratio [aOR] 2.269; 95% CI 1.615-3.190), higher 90-day mRS scores (adjusted common odds ratio 1.584; 95% CI 1.110-2.",
+      "中文摘要": "【研究背景】Ischemia/reperfusion injury is an unavoidable consequence of kidney transplantation, yet the characteristics of the immediate immune response after reperfusion and its impact on transplant outcomes remain poorly characterized in the clinical setting.\n\n【研究方法】We conducted a cohort study including 63 kidney transplant recipients (26 living-donor, 37 deceased-donor) with an extended 4-y follow-up to characterize early postreperfusion inflammatory dynamics and their association with transplant outcomes.\n\n【主要結果】Our analysis revealed a pronounced early immune response on reperfusion, with distinct inflammatory trajectories between living- and deceased-donor kidney allografts.\n\n【結論】These findings underscore the potential of assessing early postreperfusion inflammation to improve clinical risk stratification and guide future biomarker validation efforts.",
       "結構化摘要": {
-        "背景": "AND",
-        "目的": "Contrast-associated acute kidney injury (CA-AKI) is a potentially preventable complication after exposure to iodinated contrast media. In patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke (AIS), the incidence and clinical impact are poorly characterized, and no validated prediction tool is currently available. The aim of this study was to assess the incidence and prognostic significance of CA-AKI in EVT-treated patients with AIS and to develop and validate a predictiv",
-        "方法": "A retrospective, multicenter cohort study was conducted involving EVT-treated patients across 73 centers in 16 countries (January-December 2023). Inclusion criteria were age ≥18 years, absence of dialysis, availability of preprocedural and 48-hour postprocedural creatinine levels, and available 90-day follow-up (modified Rankin Scale [mRS] score). The primary outcome was CA-AKI, defined by KDIGO (Kidney Disease: Improving Global Outcomes criteria;creatinine increase ≥0.3 mg/dL or ≥1.5 times base",
-        "結果": "Among 6,638 patients (median age 74 years; 48.7% male), CA-AKI occurred in 326 (4.9%) and was independently associated with in-hospital mortality (adjusted odds ratio [aOR] 2.269; 95% CI 1.615-3.190), higher 90-day mRS scores (adjusted common odds ratio 1.584; 95% CI 1.110-2.258), and 90-day severe disability or death (aOR 1.530; 95% CI 1.057-2.216). A preprocedural risk model including 12 routine clinical variables-sex, ethnicity, arterial hypertension, dyslipidemia, chronic kidney disease, ant"
+        "背景": "Ischemia/reperfusion injury is an unavoidable consequence of kidney transplantation, yet the characteristics of the immediate immune response after reperfusion and its impact on transplant outcomes remain poorly characterized in the clinical setting.",
+        "方法": "We conducted a cohort study including 63 kidney transplant recipients (26 living-donor, 37 deceased-donor) with an extended 4-y follow-up to characterize early postreperfusion inflammatory dynamics and their association with transplant outcomes. Using high-throughput proteomics, we profiled 92 inflammatory markers in the early reperfusion stage. Intraoperative blood samples were collected systemically at baseline and from the transplant vein at 1, 10, and 30 min postreperfusion.",
+        "結果": "Our analysis revealed a pronounced early immune response on reperfusion, with distinct inflammatory trajectories between living- and deceased-donor kidney allografts. Living-donor allografts showed proteomic patterns suggestive of a regulatory response, whereas deceased-donor allografts exhibited patterns associated with a cell injury-related response. Notably, interleukin-33 and hepatocyte growth factor were associated with delayed graft function, whereas hepatocyte growth factor also correlate",
+        "結論": "These findings underscore the potential of assessing early postreperfusion inflammation to improve clinical risk stratification and guide future biomarker validation efforts."
       },
       "相關趨勢": [
-        "臨床結局: mortality"
+        "診斷技術: biomarker",
+        "診斷技術: proteomics",
+        "研究主題: inflammation"
       ],
       "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
+        "Kidney Transplantation",
+        "Proteomics",
         "Male",
+        "Middle Aged",
         "Female",
-        "Aged",
-        "Ischemic Stroke",
-        "Thrombectomy",
-        "Acute Kidney Injury",
-        "Contrast Media",
-        "Retrospective Studies",
-        "Prognosis"
+        "Reperfusion Injury",
+        "Biomarkers",
+        "Adult",
+        "Treatment Outcome"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41712884/",
-      "DOI": "10.1212/WNL.0000000000214655"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41171603/",
+      "DOI": "10.1097/TP.0000000000005561"
     },
     {
-      "pmid": "41473980",
-      "標題": "Association of cardiovascular-kidney-metabolic syndrome stages with mortality: A nationwide, population-based, prospective cohort study.",
-      "期刊": "Chinese medical journal",
-      "發表日期": "2026 Feb 20",
+      "pmid": "41543464",
+      "標題": "Population-based estimated Glomerular Filtration Rate distributions and associated health outcomes provide opportunities for early identification of and primary prevention of chronic kidney disease.",
+      "期刊": "Kidney international",
+      "發表日期": "2026 Mar",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "CKD with those without CKD at each CKM stage",
+        "P_族群": "selected comorbid conditions or adjustment for the non-tested population had minimal impact on eGFR distributions",
         "I_介入": "",
-        "C_對照": "",
-        "O_結果": "s were all-cause and cause-specific mortality"
+        "C_對照": "the central percentiles (47",
+        "O_結果": "the associations between eGFR percentiles and risks of kidney failure with replacement therapy (KFRT) and death"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討to clarify these mortality associations and provide insights for preventive strategies.\n\n【研究方法】The China Health Evaluation and Risk Reduction through Nationwide Teamwork was a nationwide and population-based project, which was performed in 353 counties/districts across 31 provincial-level administrative divisions in Chinese mainland.\n\n【主要結果】We found significant positive associations between CKM stages and mortality risk, particularly for cardiovascular mortality with adjusted hazard ratios and 95% confidence intervals of 2.62 (2.10-3.27), 4.04 (3.22-5.07), and 5.64 (4.51-7.05) for stages 2, 3, and 4, respectively.\n\n【結論】The risk of mortality, primarily by cardiovascular disease, increases with advancing stages of CKM. Sub-staging CKM syndrome by stratifying patients according to the presence and severity of CKD and metabolic risk factors can improve the accuracy of evaluating the mortality risk.",
+      "中文摘要": "【研究方法】A population-based observational cohort study including adults aged 40 to 100 years with routine serum/plasma creatinine tests (Stockholm CREAtinine Measurements project) between 2006 and 2021 was conducted.\n\n【主要結果】Median eGFR (2009 CKD-EPI) was lower at higher age, from 104-106 ml/min per 1.73 m2 (men-women) at age 40 to 45-50 ml/min per 1.73 m2 at age 100. Exclusion of individuals with selected comorbid conditions or adjustment for the non-tested population had minimal impact on eGFR distributions.\n\n【結論】Our study shows that eGFR values below the 25th percentile of the population distribution are associated with increased risks of kidney failure and death.",
       "結構化摘要": {
-        "背景": "The cardiovascular-kidney-metabolic (CKM) syndrome is highly prevalent globally. However, the associations between the CKM syndrome and its various components and all-cause and cause-specific mortality are not well understood. This study aims to clarify these mortality associations and provide insights for preventive strategies.",
-        "方法": "The China Health Evaluation and Risk Reduction through Nationwide Teamwork was a nationwide and population-based project, which was performed in 353 counties/districts across 31 provincial-level administrative divisions in Chinese mainland. A total of 764,856 eligible residents aged ≥35 years from this cohort were included in the study. CKM was classified into stages 0-4 and further sub-grouped stages 2-4 by the presence of chronic kidney disease (CKD) and CKD risk stratification. CKM stage 2 wa",
-        "結果": "We found significant positive associations between CKM stages and mortality risk, particularly for cardiovascular mortality with adjusted hazard ratios and 95% confidence intervals of 2.62 (2.10-3.27), 4.04 (3.22-5.07), and 5.64 (4.51-7.05) for stages 2, 3, and 4, respectively. In comparison of participants with CKD with those without CKD at each CKM stage, CKD was associated with an increased risk of all-cause mortality by 64.29%, 68.62%, and 74.89%, and an increased risk of cardiovascular mort",
-        "結論": "The risk of mortality, primarily by cardiovascular disease, increases with advancing stages of CKM. Sub-staging CKM syndrome by stratifying patients according to the presence and severity of CKD and metabolic risk factors can improve the accuracy of evaluating the mortality risk. Consistent monitoring and early interventions aimed at maintaining renal function may considerably reduce the risk of mortality."
+        "方法": "A population-based observational cohort study including adults aged 40 to 100 years with routine serum/plasma creatinine tests (Stockholm CREAtinine Measurements project) between 2006 and 2021 was conducted. The cohort captured 1,179,501 unique individuals (80% of the population in the region) with 6,914,993 repeated annual eGFR measurements. After computing eGFR distributions by age and sex, cause-specific Cox regressions evaluated the associations between eGFR percentiles and risks of kidney f",
+        "結果": "Median eGFR (2009 CKD-EPI) was lower at higher age, from 104-106 ml/min per 1.73 m2 (men-women) at age 40 to 45-50 ml/min per 1.73 m2 at age 100. Exclusion of individuals with selected comorbid conditions or adjustment for the non-tested population had minimal impact on eGFR distributions. Compared to the central percentiles (47.5-52.5th), eGFR percentiles below the 25th were significantly associated with increased risk of KFRT, and both low and high eGFR percentiles were associated with increas",
+        "結論": "Our study shows that eGFR values below the 25th percentile of the population distribution are associated with increased risks of kidney failure and death. Population-based eGFR charts may complement current automatic reporting systems and provide opportunities for early identification and primary prevention of CKD."
       },
       "相關趨勢": [
-        "研究主題: cardiovascular",
-        "臨床結局: mortality"
+        "臨床結局: mortality",
+        "臨床結局: proteinuria"
       ],
       "關鍵詞": [
-        "Cardiovascular–kidney–metabolic syndrome",
-        "Chronic kidney disease",
-        "Metabolic risk factor",
-        "Mortality"
+        "chronic kidney disease",
+        "estimated glomerular filtration rate"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Female",
+        "Glomerular Filtration Rate",
         "Male",
+        "Female",
         "Middle Aged",
-        "Metabolic Syndrome",
-        "Prospective Studies",
-        "Cardiovascular Diseases",
         "Renal Insufficiency, Chronic",
         "Aged",
-        "Adult"
+        "Adult",
+        "Aged, 80 and over",
+        "Primary Prevention"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41473980/",
-      "DOI": "10.1097/CM9.0000000000003914"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41543464/",
+      "DOI": "10.1016/j.kint.2025.11.009"
     },
     {
-      "pmid": "40878912",
-      "標題": "Effects of Subclinical Hypothyroidism on Nephropathy Complicating Type 2 Diabetes: The Fremantle Diabetes Study Phase II.",
-      "期刊": "The Journal of clinical endocrinology and metabolism",
-      "發表日期": "2026 Feb 20",
+      "pmid": "41456651",
+      "標題": "Parathyroid hormone suppression profiles following oral calcium challenge in kidney transplant recipients.",
+      "期刊": "Kidney international",
+      "發表日期": "2026 Mar",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "T2DM may be indicated",
+        "P_族群": "higher baseline CMPS had significantly lower PTH at M12 (87 vs",
         "I_介入": "",
-        "C_對照": "0",
-        "O_結果": "MEASURES: Changes in estimated glomerular filtration rate (eGFR) and urine albumin:creatinine ratio (ACR) in participants stratified by thyroid status at baseline and follow-up into those with euthyro"
+        "C_對照": "99 pg/ml)",
+        "O_結果": "657 KT recipients at 3 (M3) and 12 (M12) months post-KT with an oral calcium loading test"
       },
-      "中文摘要": "【研究目的】本研究旨在探討To investigate whether SCH persisting over 4 years is associated with incident impairment of renal function in people with T2DM.\n\n【主要結果】After a mean ± SD 4.3 ± 0.4 years, 683 participants had stable euthyroidism, 18 transient SCH/overt hypothyroidism, and 24 persistent SCH/overt hypothyroidism. No significant changes in eGFR were observed in any group.\n\n【結論】Persistent SCH/overt hypothyroidism was associated with incident increased albuminuria not observed in euthyroid participants. Assessment of thyroid function in all patients with T2DM may be indicated, as some previous studies provide evidence that thyroxine replacement may ameliorate albuminuria.",
+      "中文摘要": "【研究方法】This single-center prospective cohort study evaluated 657 KT recipients at 3 (M3) and 12 (M12) months post-KT with an oral calcium loading test, and assessed measured glomerular filtration rate (mGFR), bone turnover markers, and dual X-ray absorptiometry.\n\n【主要結果】At M3, hyperparathyroidism was evident in 71% patients, with a median CMPS of 31%. Impaired PTH suppression was associated with blunted increases in ionized calcium in 30% of patients, suggesting impaired intestinal calcium absorption.\n\n【結論】Oral calcium-mediated PTH suppression at M3 post-KT was linked to lower PTH levels at one year, suggesting that both parathyroid gland responsiveness and calcium bioavailability are associated with favorable outcomes in PT-HPT.",
       "結構化摘要": {
-        "目的": "To investigate whether SCH persisting over 4 years is associated with incident impairment of renal function in people with T2DM. DESIGN: Longitudinal observational study. SETTING: Urban population of people with type 2 diabetes living in the community and enrolled in a prospective observational study of diabetes. PARTICIPANTS: 725 without known thyroid dysfunction at baseline and at follow-up. MAIN OUTCOME MEASURES: Changes in estimated glomerular filtration rate (eGFR) and urine albumin:creatin",
-        "結果": "After a mean ± SD 4.3 ± 0.4 years, 683 participants had stable euthyroidism, 18 transient SCH/overt hypothyroidism, and 24 persistent SCH/overt hypothyroidism. No significant changes in eGFR were observed in any group. Those with persistent SCH/overt hypothyroidism demonstrated a significant increase in ACR, which was not seen in those with euthyroidism and transient SCH/overt hypothyroidism (ΔACR 22.0 ± 81.4 vs 0.4 ± 36.7 and -0.3 ± 5.7 mg/mmol, respectively, P = .027). Similar results were see",
-        "結論": "Persistent SCH/overt hypothyroidism was associated with incident increased albuminuria not observed in euthyroid participants. Assessment of thyroid function in all patients with T2DM may be indicated, as some previous studies provide evidence that thyroxine replacement may ameliorate albuminuria."
+        "方法": "This single-center prospective cohort study evaluated 657 KT recipients at 3 (M3) and 12 (M12) months post-KT with an oral calcium loading test, and assessed measured glomerular filtration rate (mGFR), bone turnover markers, and dual X-ray absorptiometry.",
+        "結果": "At M3, hyperparathyroidism was evident in 71% patients, with a median CMPS of 31%. Impaired PTH suppression was associated with blunted increases in ionized calcium in 30% of patients, suggesting impaired intestinal calcium absorption. Despite a decline in mGFR over time, calcium-PTH dynamics improved by M12, with a leftward shift in the curve across all groups. Patients with higher baseline CMPS had significantly lower PTH at M12 (87 vs. 99 pg/ml), despite higher initial PTH and less frequent c",
+        "結論": "Oral calcium-mediated PTH suppression at M3 post-KT was linked to lower PTH levels at one year, suggesting that both parathyroid gland responsiveness and calcium bioavailability are associated with favorable outcomes in PT-HPT. This test may also help stratifying PT-HPT subtypes for tailored management."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "albuminuria",
-        "community-based",
-        "longitudinal study",
-        "renal function",
-        "subclinical hypothyroidism",
-        "temporal trends",
-        "type 2 diabetes"
+        "PTH suppression",
+        "calcium bioavailability",
+        "chronic kidney disease–related mineral and bone disorders (CKD-MBD)",
+        "hyperparathyroidism",
+        "kidney transplantation"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Hypothyroidism",
+        "Parathyroid Hormone",
         "Male",
         "Female",
+        "Kidney Transplantation",
         "Middle Aged",
-        "Diabetic Nephropathies",
-        "Glomerular Filtration Rate",
-        "Longitudinal Studies",
-        "Aged"
+        "Prospective Studies",
+        "Calcium",
+        "Administration, Oral",
+        "Adult"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40878912/",
-      "DOI": "10.1210/clinem/dgaf485"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41456651/",
+      "DOI": "10.1016/j.kint.2025.11.019"
     },
     {
-      "pmid": "41676949",
-      "標題": "Amyloidosis in Carpal Tunnel Syndrome and 1-Year Cardiovascular and Renal Outcomes: A Propensity Score-Matched Cohort Study.",
-      "期刊": "Journal of the American Heart Association",
-      "發表日期": "2026 Feb 17",
+      "pmid": "41443406",
+      "標題": "A single-arm phase 2 trial of an investigational RNA therapeutic to complement factor B sefaxersen for treatment of IgA nephropathy.",
+      "期刊": "Kidney international",
+      "發表日期": "2026 Mar",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "bilateral CTS between January 2006 and December 2024",
-        "I_介入": "",
-        "C_對照": "patients with CTS and amyloidosis (reference group)",
-        "O_結果": "lower risks of major adverse cardiovascular events (adjusted hazard ratio [aHR]"
+        "P_族群": "baseline geometric mean proteinuria of 2",
+        "I_介入": "sefaxersen 70 mg (RO7434656) subcutaneously monthly for 24 weeks followed by voluntary treatment extension",
+        "C_對照": "baseline",
+        "O_結果": "a change in 24-hour urinary protein excretion (UPE) at week 29 compared to baseline"
       },
-      "中文摘要": "【研究背景】Carpal tunnel syndrome (CTS) has been recognized as a potential early manifestation of systemic amyloidosis; however, its prognostic implications for cardiovascular and renal outcomes remain unclear.\n\n【研究方法】Using the TriNetX global federated research network, we conducted a retrospective cohort study of patients with bilateral CTS between January 2006 and December 2024. Among 221 902 eligible individuals, 2099 had concomitant amyloidosis.\n\n【主要結果】Compared with patients with CTS and amyloidosis (reference group), those without amyloidosis had significantly lower risks of major adverse cardiovascular events (adjusted hazard ratio [aHR], 0.41 [95% CI, 0.28-0.59]), 3-point major adverse cardiovascular events (aHR, 0.26 [95% CI, 0.19-0.\n\n【結論】Systemic amyloidosis is associated with substantially increased cardiovascular and renal risks among patients with CTS, highlighting the importance of heightened clinical vigilance and earlier recognition.",
+      "中文摘要": "【研究方法】Patients were included with biopsy-confirmed IgAN with kidney C3 deposits, hematuria, 24-hour proteinuria above 1.5 g/day, and eGFR under 40mL/min/1.73m2 despite maximum tolerated renin-angiotensin-aldosterone-system blockade.\n\n【主要結果】The trial enrolled 23 patients with baseline geometric mean proteinuria of 2.5 g/day. There were selective reductions of plasma complement FB and Bb, urinary factor Ba and serum complement alternative pathway activity, without changes in classical pathway activity.\n\n【結論】Sefaxersen inhibited complement alternative pathway activity in patients with IgAN and reduced proteinuria with stable eGFR. Our findings support further evaluation of sefaxersen as a new therapy for IgAN in the Phase 3 IMAGINATION trial. TRIAL REGISTRATION: Registered at ClinicalTrials.",
       "結構化摘要": {
-        "背景": "Carpal tunnel syndrome (CTS) has been recognized as a potential early manifestation of systemic amyloidosis; however, its prognostic implications for cardiovascular and renal outcomes remain unclear.",
-        "方法": "Using the TriNetX global federated research network, we conducted a retrospective cohort study of patients with bilateral CTS between January 2006 and December 2024. Among 221 902 eligible individuals, 2099 had concomitant amyloidosis. After 1:1 propensity score matching for demographics, comorbidities, medications, and laboratory variables, 1957 matched pairs were analyzed. Outcomes included major adverse cardiovascular events, 3-point major adverse cardiovascular events, heart failure, arrhyth",
-        "結果": "Compared with patients with CTS and amyloidosis (reference group), those without amyloidosis had significantly lower risks of major adverse cardiovascular events (adjusted hazard ratio [aHR], 0.41 [95% CI, 0.28-0.59]), 3-point major adverse cardiovascular events (aHR, 0.26 [95% CI, 0.19-0.35]), heart failure (aHR, 0.45 [95% CI, 0.30-0.64]), arrhythmia (aHR, 0.50 [95% CI, 0.35-0.69]), dialysis initiation (aHR, 0.51 [95% CI, 0.37-0.95]), and major adverse kidney events (aHR, 0.28 [95% CI, 0.25-0.9",
-        "結論": "Systemic amyloidosis is associated with substantially increased cardiovascular and renal risks among patients with CTS, highlighting the importance of heightened clinical vigilance and earlier recognition."
+        "方法": "Patients were included with biopsy-confirmed IgAN with kidney C3 deposits, hematuria, 24-hour proteinuria above 1.5 g/day, and eGFR under 40mL/min/1.73m2 despite maximum tolerated renin-angiotensin-aldosterone-system blockade. Patients received sefaxersen 70 mg (RO7434656) subcutaneously monthly for 24 weeks followed by voluntary treatment extension. The primary endpoint was a change in 24-hour urinary protein excretion (UPE) at week 29 compared to baseline.",
+        "結果": "The trial enrolled 23 patients with baseline geometric mean proteinuria of 2.5 g/day. There were selective reductions of plasma complement FB and Bb, urinary factor Ba and serum complement alternative pathway activity, without changes in classical pathway activity. At week 29, UPE was reduced by 43% to a geometric mean of 1.4 g/day, with similar reductions in UPCR and UACR. Estimated GFR at baseline was mean 70.4 ml/min/1.73m2, remained stable through week 29 (mean 73.2 ml/min/1.73m2). Proteinur",
+        "結論": "Sefaxersen inhibited complement alternative pathway activity in patients with IgAN and reduced proteinuria with stable eGFR. Our findings support further evaluation of sefaxersen as a new therapy for IgAN in the Phase 3 IMAGINATION trial. TRIAL REGISTRATION: Registered at ClinicalTrials.gov with study number NCT04014335."
       },
       "相關趨勢": [
-        "研究主題: cardiovascular",
-        "研究主題: heart failure"
-      ],
-      "關鍵詞": [
-        "cardiovascular outcomes",
-        "carpal tunnel syndrome",
-        "kidney disease",
-        "propensity score matching",
-        "real‐world data",
-        "systemic amyloidosis"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Carpal Tunnel Syndrome",
-        "Male",
-        "Female",
-        "Propensity Score",
-        "Amyloidosis",
-        "Retrospective Studies",
-        "Middle Aged",
-        "Aged",
-        "Cardiovascular Diseases"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41676949/",
-      "DOI": "10.1161/JAHA.125.044104"
-    },
-    {
-      "pmid": "41669850",
-      "標題": "Effect of on-demand immunosuppressive therapy on long-term outcomes in patients with immunoglobulin A nephropathy: A real-world cohort study.",
-      "期刊": "Nephrologie & therapeutique",
-      "發表日期": "2026 Feb 17",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "immunoglobulin A nephropathy: A real-world cohort study",
-        "I_介入": "on-demand immunosuppressive therapy",
-        "C_對照": "those who did not (10/132 [8%] vs",
-        "O_結果": "increased progressively with the number of missed on-demand immunosuppressive therapy: 27/34 (79%), 17/34 (50%), and 11/64 (17%) among patients who missed 3 or more, 2, or 1 treatment(s) respectively"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討to address this gap by comparing patients with persistent proteinuria who did not receive additional treatment with those whose persistent proteinuria led to on-demand immunosuppressive treatment.\n\n【研究方法】This retrospective cohort study included 264 propensity score-matched patients with IgAN treated between January 2003 and December 2016, with a follow-up through August 2024.\n\n【主要結果】Over a median follow-up of 9.9 years (interquartile range, 7.3-12.8 years), 65 of 264 (25%) experienced the primary composite endpoint. Risk was lower among patients who consistently received on-demand immunosuppressive therapy compared with those who did not (10/132 [8%] vs.\n\n【結論】On-demand immunosuppressive therapy is associated with improved long-term outcomes in patients with IgAN.",
-      "結構化摘要": {
-        "背景": "Long-term management strategies for IgA Nephropathy (IgAN) remain insufficiently studied. This study aims to address this gap by comparing patients with persistent proteinuria who did not receive additional treatment with those whose persistent proteinuria led to on-demand immunosuppressive treatment.",
-        "方法": "This retrospective cohort study included 264 propensity score-matched patients with IgAN treated between January 2003 and December 2016, with a follow-up through August 2024. Patients with proteinuria ≥1g/day without a 40% decline in eGFR over the previous 3 months, despite adequate supportive therapy, were considered eligible for on-demand immunosuppressive therapy during follow-up. Effective regimens-including glucocorticoids, cyclophosphamide, or mycophenolate mofetil, alone or in combination",
-        "結果": "Over a median follow-up of 9.9 years (interquartile range, 7.3-12.8 years), 65 of 264 (25%) experienced the primary composite endpoint. Risk was lower among patients who consistently received on-demand immunosuppressive therapy compared with those who did not (10/132 [8%] vs. 55/132 [42%]; hazard ratio, 0.11; 95% CI, 0.05-0.21; p < 0.001). The incidence of the primary endpoint increased progressively with the number of missed on-demand immunosuppressive therapy: 27/34 (79%), 17/34 (50%), and 11/",
-        "結論": "On-demand immunosuppressive therapy is associated with improved long-term outcomes in patients with IgAN."
-      },
-      "相關趨勢": [
+        "研究主題: inflammation",
         "臨床結局: proteinuria"
       ],
       "關鍵詞": [
         "IgA nephropathy",
-        "immunosuppression",
-        "long-term",
-        "outcome"
+        "antisense oligonucleotides",
+        "complement alternative pathway",
+        "complement factor B",
+        "therapeutics"
       ],
       "MeSH詞彙": [
         "Humans",
         "Glomerulonephritis, IGA",
         "Male",
         "Female",
-        "Retrospective Studies",
-        "Immunosuppressive Agents",
         "Adult",
+        "Complement Factor B",
         "Middle Aged",
-        "Propensity Score",
-        "Proteinuria"
+        "Treatment Outcome",
+        "Proteinuria",
+        "Glomerular Filtration Rate"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41669850/",
-      "DOI": "10.1684/ndt.2025.165"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41443406/",
+      "DOI": "10.1016/j.kint.2025.11.017"
     },
     {
-      "pmid": "41708516",
-      "標題": "Four-organ SOFA score as a potential tool to triage use of continuous kidney replacement therapy in COVID-19 patients with acute kidney injury: a retrospective two-center study.",
-      "期刊": "Renal failure",
-      "發表日期": "2026 Dec",
-      "研究類型": "研究",
+      "pmid": "41270263",
+      "標題": "Nitric Oxide to Reduce Acute Kidney Injury in Patients with Preexisting Endothelial Dysfunction Requiring Prolonged Cardiopulmonary Bypass: A Randomized Clinical Trial.",
+      "期刊": "Anesthesiology",
+      "發表日期": "2026 Mar 01",
+      "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "acute kidney injury: a retrospective two-center study",
-        "I_介入": "",
-        "C_對照": "8 (7-10) among 30-day non-survivors (p = 0",
-        "O_結果": ""
+        "P_族群": "Preexisting Endothelial Dysfunction Requiring Prolonged Cardiopulmonary Bypass: A Randomized Clinical Trial",
+        "I_介入": "each group",
+        "C_對照": "(adjusted odds ratio, 1",
+        "O_結果": "the incidence of postoperative AKI, defined by Kidney Disease: Improving Global Outcomes (KDIGO) criteria"
       },
-      "中文摘要": "【主要結果】suggest that 4-organ SOFA score performs as well as full SOFA score in predicting mortality in patients with COVID-19 and AKI-CKRT. However, these results reinforce prior data that SOFA score has limited prognostic value in COVID-19.",
+      "中文摘要": "【研究背景】Prolonged cardiopulmonary bypass (CPB) causes hemolysis, reducing nitric oxide availability and increasing the risk of acute kidney injury (AKI) after cardiac surgery.\n\n【研究方法】The authors conducted a double-blind, single-center, placebo-controlled, randomized clinical trial involved 250 adult cardiac surgery patients with preexisting endothelial dysfunction undergoing CPB lasting more than 90 min.\n\n【主要結果】Of the 250 patients (median age, 66 yr; interquartile range, 59, 73 yr; 56 [22.4%] women), 125 were assigned to each group. AKI occurred in 55 (44.0%) patients in the nitric oxide group and 54 (43.2%) patients in the control group (adjusted odds ratio, 1.00; 95% CI, 0.59 to 1.69).\n\n【結論】In cardiac surgery patients with preexisting endothelial dysfunction undergoing prolonged CPB, perioperative administration of 80 ppm nitric oxide for 24 h did not significantly reduce postoperative AKI. These findings do not support the routine use of nitric oxide in this patient population.",
       "結構化摘要": {
-        "結果": "reinforce prior data that SOFA score has limited prognostic value in COVID-19."
+        "背景": "Prolonged cardiopulmonary bypass (CPB) causes hemolysis, reducing nitric oxide availability and increasing the risk of acute kidney injury (AKI) after cardiac surgery. While previous studies suggest inhaled nitric oxide may reduce AKI in certain populations, its effect in patients with preexisting endothelial dysfunction, a condition marked by impaired nitric oxide production, is unknown. This trial investigates whether perioperative nitric oxide administration reduces AKI in patients with preex",
+        "方法": "The authors conducted a double-blind, single-center, placebo-controlled, randomized clinical trial involved 250 adult cardiac surgery patients with preexisting endothelial dysfunction undergoing CPB lasting more than 90 min. Participants were randomized to either receive nitric oxide at 80 ppm via the oxygenator during CPB, continuing postoperatively via ventilator and facemask, or a placebo of nitrogen-oxygen gas mixture for 24 h. The primary outcome was the incidence of postoperative AKI, defi",
+        "結果": "Of the 250 patients (median age, 66 yr; interquartile range, 59, 73 yr; 56 [22.4%] women), 125 were assigned to each group. AKI occurred in 55 (44.0%) patients in the nitric oxide group and 54 (43.2%) patients in the control group (adjusted odds ratio, 1.00; 95% CI, 0.59 to 1.69). Secondary outcomes, including stage 1, 2, or 3 AKI and renal replacement therapy at all timepoints, were also similar between groups.",
+        "結論": "In cardiac surgery patients with preexisting endothelial dysfunction undergoing prolonged CPB, perioperative administration of 80 ppm nitric oxide for 24 h did not significantly reduce postoperative AKI. These findings do not support the routine use of nitric oxide in this patient population."
       },
       "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "COVID-19",
-        "CRRT",
-        "SOFA score",
-        "acute kidney injury",
-        "pandemic triage"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "COVID-19",
-        "Acute Kidney Injury",
-        "Retrospective Studies",
-        "Male",
-        "Female",
-        "Organ Dysfunction Scores",
-        "Aged",
-        "Middle Aged",
-        "Hospital Mortality"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41708516/",
-      "DOI": "10.1080/0886022X.2026.2628391"
-    },
-    {
-      "pmid": "41707687",
-      "標題": "The association between serum indoxyl sulfate and radial-cephalic arteriovenous fistulas dysfunction in ESKD patients: a prospective study.",
-      "期刊": "Renal failure",
-      "發表日期": "2026 Dec",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "underwent RCAVF creation between February 2023 and August 2024",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "a linear relationship between IS and risk"
-      },
-      "中文摘要": "【結論】, elevated serum IS independently predicts RCAVF dysfunction, and the aberrant IS-AHR-TF signaling axis may contribute to its pathogenesis.",
-      "結構化摘要": {
-        "結論": ", elevated serum IS independently predicts RCAVF dysfunction, and the aberrant IS-AHR-TF signaling axis may contribute to its pathogenesis."
-      },
-      "相關趨勢": [
-        "臨床結局: ESKD"
-      ],
-      "關鍵詞": [
-        "Arteriovenous fistulas",
-        "aryl hydrocarbon receptor",
-        "indoxyl sulfate",
-        "tissue factor",
-        "vascular access dysfunction"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Indican",
-        "Male",
-        "Female",
-        "Middle Aged",
-        "Arteriovenous Shunt, Surgical",
-        "Prospective Studies",
-        "Renal Dialysis",
-        "Kidney Failure, Chronic",
-        "Radial Artery"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41707687/",
-      "DOI": "10.1080/0886022X.2026.2628465"
-    },
-    {
-      "pmid": "41712619",
-      "標題": "Acute kidney injury and hyponatremia in hospitalized patients with rotavirus infection.",
-      "期刊": "PloS one",
-      "發表日期": "2026",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "rotavirus infection",
-        "I_介入": "",
-        "C_對照": "17 (14",
-        "O_結果": "occurrence of acute kidney injury related to rotavirus infection"
-      },
-      "中文摘要": "【研究方法】We conducted a retrospective cohort study of adult hospitalized patients with microbiologically confirmed rotavirus infection. The primary outcome was occurrence of acute kidney injury related to rotavirus infection.\n\n【主要結果】314 hospitalized adult patients with rotavirus infection (mean age 73.2 (± 15.6) years, 39.5% with diabetes mellitus and 33.4% with chronic kidney disease (CKD)) were evaluated. 200 patients (63.7%) had community-acquired and 114 patients (36.3%) had nosocomial rotavirus infection.\n\n【結論】Adult outpatients with rotavirus infection and certain risk factors (e.g., CKD) have a high risk of developing AKI. Patients should seek medical attention with a low threshold and, if necessary, undergo hospitalization to counteract volume depletion and the development of acute renal injury.",
-      "結構化摘要": {
-        "方法": "We conducted a retrospective cohort study of adult hospitalized patients with microbiologically confirmed rotavirus infection. The primary outcome was occurrence of acute kidney injury related to rotavirus infection. Secondary outcomes were in-hospital mortality, duration of hospitalization and occurrence of sodium disorders.",
-        "結果": "314 hospitalized adult patients with rotavirus infection (mean age 73.2 (± 15.6) years, 39.5% with diabetes mellitus and 33.4% with chronic kidney disease (CKD)) were evaluated. 200 patients (63.7%) had community-acquired and 114 patients (36.3%) had nosocomial rotavirus infection. Acute kidney injury (AKI) occurred in 127 (40.4%) patients. AKI occurred more often in patients with community-acquired than nosocomial infection (110 (55.0%) vs 17 (14.9%), p < 0.001). In the multivariate logistic re",
-        "結論": "Adult outpatients with rotavirus infection and certain risk factors (e.g., CKD) have a high risk of developing AKI. Patients should seek medical attention with a low threshold and, if necessary, undergo hospitalization to counteract volume depletion and the development of acute renal injury. Hyponatremia frequently occurs while dehydration is rare. Recommendations in outpatients at risk for AKI should focus on increasing salt intake rather than water intake."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality",
         "臨床結局: hospitalization"
       ],
       "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
-        "Rotavirus Infections",
-        "Hyponatremia",
         "Acute Kidney Injury",
         "Male",
         "Female",
+        "Nitric Oxide",
+        "Double-Blind Method",
+        "Cardiopulmonary Bypass",
         "Aged",
-        "Hospitalization",
+        "Middle Aged",
+        "Postoperative Complications"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41270263/",
+      "DOI": "10.1097/ALN.0000000000005861"
+    },
+    {
+      "pmid": "41475453",
+      "標題": "Renal Artery Stent Procedural Trends and Disparities in a National Cohort.",
+      "期刊": "The American journal of cardiology",
+      "發表日期": "2026 Mar 01",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "19,130 patients, the mean age was 76",
+        "I_介入": "",
+        "C_對照": "White patients",
+        "O_結果": "baseline characteristics"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討data, we evaluated baseline characteristics, temporal utilization, and postprocedural outcomes, stratified by race, geographic region, and dual Medicare-Medicaid enrollment status. Among 19,130 patients, the mean age was 76.0 years (±6.4), 59.2% were female, and 90.3% were White; 84.\n\n【結論】, renal artery stenting rates continued to decline in recent years, and contemporary recipients constitute an older, comorbid population with substantial cardiovascular risk.",
+      "結構化摘要": {
+        "結論": ", renal artery stenting rates continued to decline in recent years, and contemporary recipients constitute an older, comorbid population with substantial cardiovascular risk. Outcomes differed markedly by race, socioeconomic status, and geography, highlighting the need for improved risk stratification and prospective evaluation of stenting in high-risk cohorts."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: heart failure",
+        "臨床結局: mortality",
+        "臨床結局: hospitalization"
+      ],
+      "關鍵詞": [
+        "cardiovascular interventions",
+        "disparities",
+        "hypertension",
+        "outcomes",
+        "renal artery stenosis",
+        "renal stenting"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Male",
+        "Aged",
+        "Renal Artery Obstruction",
+        "Stents",
+        "United States",
         "Retrospective Studies",
+        "Medicare",
+        "Healthcare Disparities"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41475453/",
+      "DOI": "10.1016/j.amjcard.2025.12.011"
+    },
+    {
+      "pmid": "41052300",
+      "標題": "Erythropoietin-induced Hypertension in Chronic Kidney Disease-A Mechanistic Randomized Controlled Trial.",
+      "期刊": "American journal of hypertension",
+      "發表日期": "2026 Mar 01",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "CKD and well-controlled or mildly elevated BP as confirmed by 24-hour ABP monitoring",
+        "I_介入": "either a waitlisted group or darbepoetin in a 1:1 ratio stratified by stages of albuminuria",
+        "C_對照": "",
+        "O_結果": "no significant differences between groups"
+      },
+      "中文摘要": "【研究背景】The mechanism of hypertension associated with erythropoiesis-stimulating agents in chronic kidney disease (CKD) is complex and remains poorly understood.\n\n【研究方法】Here, anemic hypertensive patients with CKD and well-controlled or mildly elevated BP as confirmed by 24-hour ABP monitoring were randomly assigned to either a waitlisted group or darbepoetin in a 1:1 ratio stratified by stages of albuminuria.\n\n【主要結果】We screened 1699 patients and randomized 27 patients of the planned 160. Mean age (SD) was 75 (8) years, mean hemoglobin 9.4 (0.6) g/dL, mean clinic BP 124.4 (19.5)/57.2 (11.4) mm Hg and was similar between groups. At 12 weeks there was 1.7 g/dL (95% CI, 0.9-2.\n\n【結論】Among anemic CKD patients with reasonably controlled hypertension, exposure to darbepoetin did not change 24-hour ABP or endothelial function. However, increase in albuminuria and serious adverse events during exposure to darbepoetin is a cause for concern and requires larger studies to affirm or re...",
+      "結構化摘要": {
+        "背景": "The mechanism of hypertension associated with erythropoiesis-stimulating agents in chronic kidney disease (CKD) is complex and remains poorly understood.",
+        "方法": "Here, anemic hypertensive patients with CKD and well-controlled or mildly elevated BP as confirmed by 24-hour ABP monitoring were randomly assigned to either a waitlisted group or darbepoetin in a 1:1 ratio stratified by stages of albuminuria. The primary end point was the change in 24-hour diastolic ABP from baseline to 12 weeks.",
+        "結果": "We screened 1699 patients and randomized 27 patients of the planned 160. Mean age (SD) was 75 (8) years, mean hemoglobin 9.4 (0.6) g/dL, mean clinic BP 124.4 (19.5)/57.2 (11.4) mm Hg and was similar between groups. At 12 weeks there was 1.7 g/dL (95% CI, 0.9-2.5 g/dL) difference in hemoglobin between waitlisted and immediate start group. Within group change in diastolic 24-hour ABP in the waitlisted group was -1.91 mm Hg and the immediate start group was +1.07 mm Hg. The difference in the change",
+        "結論": "Among anemic CKD patients with reasonably controlled hypertension, exposure to darbepoetin did not change 24-hour ABP or endothelial function. However, increase in albuminuria and serious adverse events during exposure to darbepoetin is a cause for concern and requires larger studies to affirm or refute these observations."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular"
+      ],
+      "關鍵詞": [
+        "ABP monitoring",
+        "blood pressure",
+        "chronic kidney disease",
+        "clinical trial",
+        "endothelial function",
+        "erythropoietin",
+        "hypertension",
+        "mechanisms"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Renal Insufficiency, Chronic",
+        "Hypertension",
+        "Darbepoetin alfa",
+        "Hematinics",
+        "Anemia",
         "Middle Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41712619/",
-      "DOI": "10.1371/journal.pone.0326830"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41052300/",
+      "DOI": "10.1093/ajh/hpaf200"
     },
     {
-      "pmid": "41719246",
-      "標題": "Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1 vaccination using artificial intelligence: A clinical predictive model from the English RAVEN study.",
-      "期刊": "PloS one",
-      "發表日期": "2026",
+      "pmid": "41217426",
+      "標題": "Hospital readmissions among adults with chronic kidney disease by HIV status in the United States.",
+      "期刊": "AIDS (London, England)",
+      "發表日期": "2026 Mar 01",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "a two-dose primary series of AZD1222 vaccine",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "a two-dose primary series of the AZD1222 vaccine on COVID-19 related hospitalisation"
+        "P_族群": "chronic kidney disease by HIV status in the United States",
+        "I_介入": "in CKD readmission prevention programs",
+        "C_對照": "PWoH",
+        "O_結果": "trends in the readmission risk among adults"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討This study identifies predictors of severe COVID-19 following completion of two-dose primary series of the AZD1222 COVID-19 vaccine, employing eXtreme Gradient Boosting (XGBoost) and Shapely additive explanations (SHAP), as an explainable artificial intelligence (AI) approach.\n\n【主要結果】A total of 4,515,280 individuals with a two-dose primary series of AZD1222 vaccine were analysed, where 7,171 individuals had a record of severe COVID-19.\n\n【結論】Obesity, chronic heart, respiratory and kidney diseases were the main predictors across models, which is comparable to the scientific literature, validating the explainable AI approach. XGBoost can accurately predict severe outcomes in fully vaccinated individuals.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To characterize all-cause unplanned 30-day readmissions among adults with chronic kidney disease (CKD) of all-stages by HIV status in the United States.\n\n【研究方法】Index (i.e., initial) admissions and readmissions were defined following the United States Centers for Medicare & Medicaid Services (CMS) guidelines. We evaluated trends in the readmission risk among adults by CKD and HIV status during 2016-2022 and compared the overall and subgroup-specific readmis...\n\n【主要結果】Among people with CKD, the readmission risk declined from 33.4% in 2016 to 29.1% in 2022 for people with HIV (PWH) and declined from 23.7% in 2016 to 21.9% in 2022 for people without HIV (PWoH). In 2022, there were 43 087 index admissions from PWH and 5 170 351 from PWoH.\n\n【結論】More efforts are needed to mitigate the excessive readmission burden of people with CKD. PWH, especially young individuals, could represent a critical group for intensified intervention in CKD readmission prevention programs.",
       "結構化摘要": {
-        "目的": "This study identifies predictors of severe COVID-19 following completion of two-dose primary series of the AZD1222 COVID-19 vaccine, employing eXtreme Gradient Boosting (XGBoost) and Shapely additive explanations (SHAP), as an explainable artificial intelligence (AI) approach. METHOD: A retrospective cohort study using linked primary care data from the Oxford-Royal College of General Practitioners Clinical Informatics Digital Hub (ORCHID), including computerised medical records of over 19 millio",
-        "結果": "A total of 4,515,280 individuals with a two-dose primary series of AZD1222 vaccine were analysed, where 7,171 individuals had a record of severe COVID-19. Variables with the greatest predictive weight for COVID-19 mortality in vaccinated individuals were age ≥ 85 years, high Cambridge Multi-Morbidity Score, and chronic heart, respiratory and kidney diseases; variables predicting COVID-19 hospitalisation following completed primary series included high CMMS, obesity, and being offered early COVID",
-        "結論": "Obesity, chronic heart, respiratory and kidney diseases were the main predictors across models, which is comparable to the scientific literature, validating the explainable AI approach. XGBoost can accurately predict severe outcomes in fully vaccinated individuals. Predictive models built on real-world primary care data can help to timely identify individuals to be prioritised for vaccination booster."
+        "目的": "To characterize all-cause unplanned 30-day readmissions among adults with chronic kidney disease (CKD) of all-stages by HIV status in the United States. DESIGN: A retrospective cohort study using the Nationwide Readmissions Database-an all-payer nationally representative database.",
+        "方法": "Index (i.e., initial) admissions and readmissions were defined following the United States Centers for Medicare & Medicaid Services (CMS) guidelines. We evaluated trends in the readmission risk among adults by CKD and HIV status during 2016-2022 and compared the overall and subgroup-specific readmission risk by HIV status among adults with CKD in 2022. Crude and age and sex-adjusted risk ratios (aRRs) were calculated using average marginal estimates from mixed-effect logistic regressions. Survey",
+        "結果": "Among people with CKD, the readmission risk declined from 33.4% in 2016 to 29.1% in 2022 for people with HIV (PWH) and declined from 23.7% in 2016 to 21.9% in 2022 for people without HIV (PWoH). In 2022, there were 43 087 index admissions from PWH and 5 170 351 from PWoH. PWH were more likely to be men, younger, have end-stage CKD, and reside in low-income areas vs. PWoH. For both PWH and PWoH, the readmission risk increased with more advanced CKD stages but decreased with older age. In 2022, PW",
+        "結論": "More efforts are needed to mitigate the excessive readmission burden of people with CKD. PWH, especially young individuals, could represent a critical group for intensified intervention in CKD readmission prevention programs."
       },
-      "相關趨勢": [
-        "診斷技術: artificial intelligence",
-        "臨床結局: mortality"
+      "相關趨勢": [],
+      "關鍵詞": [
+        "HIV",
+        "chronic kidney disease",
+        "disparity",
+        "readmission",
+        "trends"
       ],
-      "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
-        "COVID-19",
-        "Female",
-        "Intensive Care Units",
-        "Hospitalization",
         "Male",
-        "Aged",
+        "Female",
+        "Renal Insufficiency, Chronic",
+        "Patient Readmission",
+        "United States",
+        "Adult",
         "Retrospective Studies",
-        "Artificial Intelligence",
-        "Aged, 80 and over"
+        "Middle Aged",
+        "HIV Infections"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41719246/",
-      "DOI": "10.1371/journal.pone.0336449"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41217426/",
+      "DOI": "10.1097/QAD.0000000000004397"
+    },
+    {
+      "pmid": "41225194",
+      "標題": "Prognosis and predictive factors in pediatric IgA nephropathy.",
+      "期刊": "Pediatric nephrology (Berlin, Germany)",
+      "發表日期": "2026 Mar",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "224 children (aged 3-18 years) with biopsy-proven IgAN and ≥ 3 years of follow-up was enrolled",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "no significant associations between kidney remission and poor"
+      },
+      "中文摘要": "【研究背景】IgA nephropathy (IgAN) is a common glomerular disease in children that may progress to chronic kidney disease (CKD) and kidney failure. Identifying reliable prognostic markers is important for guiding clinical management.\n\n【研究方法】A retrospective cohort study of 224 children (aged 3-18 years) with biopsy-proven IgAN and ≥ 3 years of follow-up was enrolled. Poor prognosis was defined as persistent eGFR < 90 mL/min/1.73 m2 for ≥ 3 months.\n\n【主要結果】Over a median follow-up of 5.41 years, 12.05% reached the poor prognosis. Independent risk factors included male sex, older age at biopsy, Oxford classification E1 and S1 lesions, absence of gross hematuria, and no remission of proteinuria during follow-up, while higher birth weight was protective.\n\n【結論】Pediatric IgAN shows slow disease progression over 5 years. Despite high complete kidney remission rates, recurrence remains common. These findings support extended follow-up and improved predictive models.",
+      "結構化摘要": {
+        "背景": "IgA nephropathy (IgAN) is a common glomerular disease in children that may progress to chronic kidney disease (CKD) and kidney failure. Identifying reliable prognostic markers is important for guiding clinical management. This study investigated independent predictors of poor prognosis in pediatric IgAN and their impact on eGFR slope, as well as the dynamic patterns of complete kidney remission and relapse, predictive factors associated with remission, and the influence of remission on poor prog",
+        "方法": "A retrospective cohort study of 224 children (aged 3-18 years) with biopsy-proven IgAN and ≥ 3 years of follow-up was enrolled. Poor prognosis was defined as persistent eGFR < 90 mL/min/1.73 m2 for ≥ 3 months. Multivariate logistic regression, receiver operating characteristic (ROC) curve analysis, and linear mixed-effects model were used to identify predictive factors and evaluate eGFR slope. Complete kidney remission was defined as the absence of hematuria and proteinuria with eGFR ≥ 90 mL/min",
+        "結果": "Over a median follow-up of 5.41 years, 12.05% reached the poor prognosis. Independent risk factors included male sex, older age at biopsy, Oxford classification E1 and S1 lesions, absence of gross hematuria, and no remission of proteinuria during follow-up, while higher birth weight was protective. eGFR slope was influenced by age at biopsy, gross hematuria and proteinuria remission status during follow-up. Complete kidney remission occurred in 70.98%, with a recurrence rate of 60.38%. Predictor",
+        "結論": "Pediatric IgAN shows slow disease progression over 5 years. Despite high complete kidney remission rates, recurrence remains common. These findings support extended follow-up and improved predictive models."
+      },
+      "相關趨勢": [
+        "臨床結局: proteinuria"
+      ],
+      "關鍵詞": [
+        "Children",
+        "IgA nephropathy",
+        "Kidney complete remission",
+        "Poor prognosis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Glomerulonephritis, IGA",
+        "Child",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Adolescent",
+        "Prognosis",
+        "Child, Preschool",
+        "Glomerular Filtration Rate"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41225194/",
+      "DOI": "10.1007/s00467-025-06988-8"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 6,
-      "想法": "目前 'mortality' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "hospitalization",
-      "頻率": 2,
-      "想法": "目前 'hospitalization' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 15,
+      "想法": "目前 'mortality' 是研究熱點 (15 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 2,
-      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 15,
+      "想法": "目前 'cardiovascular' 是研究熱點 (15 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "proteinuria",
-      "頻率": 1,
-      "想法": "目前 'proteinuria' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 7,
+      "想法": "目前 'proteinuria' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "artificial intelligence",
-      "頻率": 1,
-      "想法": "目前 'artificial intelligence' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "研究缺口",
       "關鍵詞": "hospitalization",
+      "頻率": 5,
+      "想法": "目前 'hospitalization' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 5,
+      "想法": "目前 'inflammation' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "eGFR decline",
+      "頻率": 4,
+      "想法": "目前 'eGFR decline' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "biomarker",
+      "頻率": 4,
+      "想法": "目前 'biomarker' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "ESKD",
+      "頻率": 3,
+      "想法": "目前 'ESKD' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
       "頻率": 2,
-      "想法": "'hospitalization' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
+      "想法": "目前 'heart failure' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "finerenone",
+      "頻率": 2,
+      "想法": "目前 'finerenone' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
       "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "頻率": 3,
+      "想法": "'ESKD' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "proteinuria",
+      "關鍵詞": "quality of life",
       "頻率": 1,
-      "想法": "'proteinuria' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
-      "頻率": 2,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
       "關鍵詞": "heart failure",
+      "頻率": 2,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "genetic testing",
       "頻率": 1,
-      "想法": "'heart failure' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'genetic testing' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "machine learning",
+      "頻率": 1,
+      "想法": "'machine learning' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -626,43 +690,45 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 1 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 5 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Age and sex differences in diabetic ketoacidosis o"
+        "Risk factors for in-hospital postoperative complic",
+        "Population-based estimated Glomerular Filtration R",
+        "Parathyroid hormone suppression profiles following"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 11,
-    "Male": 11,
-    "Female": 11,
-    "Middle Aged": 11,
-    "Aged": 10,
-    "Retrospective Studies": 7,
-    "Adult": 6,
-    "Risk Factors": 5,
-    "Acute Kidney Injury": 4,
-    "Hospital Mortality": 4,
-    "Prospective Studies": 4,
-    "Hospitalization": 3,
-    "Aged, 80 and over": 3,
-    "Prognosis": 3,
-    "Cardiovascular Diseases": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Proportional Hazards Models": 2,
-    "Incidence": 2,
-    "COVID-19": 2,
-    "SARS-CoV-2": 2,
-    "Propensity Score": 2,
-    "Follow-Up Studies": 2,
-    "Rotavirus Infections": 1,
-    "Hyponatremia": 1,
-    "Cross Infection": 1,
-    "Community-Acquired Infections": 1,
-    "Metabolic Syndrome": 1,
-    "China": 1,
-    "Diabetic Ketoacidosis": 1,
-    "Diabetes Mellitus, Type 1": 1
+    "Humans": 55,
+    "Female": 52,
+    "Male": 51,
+    "Middle Aged": 46,
+    "Aged": 40,
+    "Adult": 30,
+    "Retrospective Studies": 23,
+    "Risk Factors": 21,
+    "Renal Insufficiency, Chronic": 15,
+    "Glomerular Filtration Rate": 14,
+    "Treatment Outcome": 14,
+    "Aged, 80 and over": 12,
+    "Prospective Studies": 11,
+    "Cohort Studies": 11,
+    "Kidney": 10,
+    "Time Factors": 9,
+    "Acute Kidney Injury": 8,
+    "Incidence": 8,
+    "Biomarkers": 8,
+    "Risk Assessment": 7,
+    "Prognosis": 6,
+    "Disease Progression": 6,
+    "Postoperative Complications": 6,
+    "Diabetes Mellitus, Type 2": 6,
+    "Kidney Failure, Chronic": 6,
+    "Creatinine": 6,
+    "Young Adult": 5,
+    "Cardiovascular Diseases": 5,
+    "Diabetic Nephropathies": 5,
+    "United States": 5
   }
 }
