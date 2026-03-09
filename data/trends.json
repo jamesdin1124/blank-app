@@ -1,184 +1,127 @@
 {
-  "總文章數": 57,
-  "高影響力期刊文章數": 5,
-  "分析日期": "2026-03-02T08:50:44.609690",
+  "總文章數": 19,
+  "高影響力期刊文章數": 3,
+  "分析日期": "2026-03-09T08:49:51.570225",
   "趨勢關鍵詞統計": {
-    "臨床結局": {
-      "mortality": 15,
-      "proteinuria": 7,
-      "hospitalization": 5,
-      "eGFR decline": 4,
-      "ESKD": 3,
-      "quality of life": 1
-    },
-    "研究主題": {
-      "cardiovascular": 15,
-      "inflammation": 5,
-      "heart failure": 2
-    },
     "診斷技術": {
-      "biomarker": 4,
-      "genetic testing": 1,
-      "machine learning": 1,
-      "artificial intelligence": 1,
-      "proteomics": 1
+      "genetic testing": 3,
+      "biomarker": 1
     },
     "治療方法": {
-      "finerenone": 2,
-      "empagliflozin": 1,
-      "SGLT2 inhibitor": 1
+      "finerenone": 1
+    },
+    "研究主題": {
+      "cardiovascular": 3
+    },
+    "臨床結局": {
+      "mortality": 7,
+      "ESKD": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      15
-    ],
-    [
-      "cardiovascular",
-      15
-    ],
-    [
-      "proteinuria",
       7
     ],
     [
-      "hospitalization",
-      5
-    ],
-    [
-      "inflammation",
-      5
-    ],
-    [
-      "eGFR decline",
-      4
-    ],
-    [
-      "biomarker",
-      4
-    ],
-    [
-      "ESKD",
+      "genetic testing",
       3
     ],
     [
-      "heart failure",
-      2
+      "cardiovascular",
+      3
+    ],
+    [
+      "biomarker",
+      1
     ],
     [
       "finerenone",
-      2
-    ],
-    [
-      "quality of life",
       1
     ],
     [
-      "genetic testing",
-      1
-    ],
-    [
-      "machine learning",
-      1
-    ],
-    [
-      "artificial intelligence",
-      1
-    ],
-    [
-      "proteomics",
-      1
-    ],
-    [
-      "empagliflozin",
-      1
-    ],
-    [
-      "SGLT2 inhibitor",
+      "ESKD",
       1
     ]
   ],
   "期刊分布": {
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 6,
-    "Pediatric nephrology (Berlin, Germany)": 4,
-    "Diabetes, obesity & metabolism": 3,
-    "Kidney international": 3,
-    "International urology and nephrology": 3,
-    "The journal of vascular access": 3,
-    "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
-    "Journal of renal care": 2,
-    "Diabetic medicine : a journal of the British Diabetic Association": 2,
-    "Intractable & rare diseases research": 1,
-    "Journal of the European Academy of Dermatology and Venereology : JEADV": 1,
-    "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases": 1,
-    "Journal of vascular surgery": 1,
-    "Journal of the American College of Cardiology": 1,
-    "European heart journal": 1
+    "JAMA network open": 2,
+    "Medicine": 2,
+    "PloS one": 2,
+    "Pediatric surgery international": 1,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "Clinical and experimental pediatrics": 1,
+    "Clinical journal of the American Society of Nephrology : CJASN": 1,
+    "The New England journal of medicine": 1,
+    "Journal of nuclear medicine : official publication, Society of Nuclear Medicine": 1,
+    "JMIR research protocols": 1,
+    "Journal of nursing management": 1,
+    "Scandinavian journal of primary health care": 1,
+    "World journal of urology": 1,
+    "Renal failure": 1,
+    "Antimicrobial agents and chemotherapy": 1
   },
   "文章類型分布": {
-    "Journal Article": 57,
-    "Systematic Review": 6,
+    "Journal Article": 19,
     "Randomized Controlled Trial": 6,
-    "Multicenter Study": 5,
-    "Observational Study": 4,
-    "Comparative Study": 4,
-    "Review": 3,
-    "Meta-Analysis": 2,
-    "Clinical Trial, Phase II": 2,
-    "Case Reports": 1
+    "Multicenter Study": 4,
+    "Comparative Study": 2,
+    "Clinical Trial, Phase III": 1,
+    "Observational Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 55,
-    "Female": 52,
-    "Male": 51,
-    "Middle Aged": 46,
-    "Aged": 40,
-    "Adult": 30,
-    "Retrospective Studies": 23,
-    "Risk Factors": 21,
-    "Renal Insufficiency, Chronic": 15,
-    "Glomerular Filtration Rate": 14,
-    "Treatment Outcome": 14,
-    "Aged, 80 and over": 12,
-    "Prospective Studies": 11,
-    "Cohort Studies": 11,
-    "Kidney": 10,
-    "Time Factors": 9,
-    "Acute Kidney Injury": 8,
-    "Incidence": 8,
-    "Biomarkers": 8,
-    "Risk Assessment": 7,
-    "Prognosis": 6,
-    "Disease Progression": 6,
-    "Postoperative Complications": 6,
-    "Diabetes Mellitus, Type 2": 6,
-    "Kidney Failure, Chronic": 6,
-    "Creatinine": 6,
-    "Young Adult": 5,
-    "Cardiovascular Diseases": 5,
-    "Diabetic Nephropathies": 5,
-    "United States": 5
+    "Humans": 16,
+    "Male": 16,
+    "Female": 15,
+    "Aged": 15,
+    "Middle Aged": 13,
+    "Adult": 10,
+    "Retrospective Studies": 9,
+    "Renal Insufficiency, Chronic": 5,
+    "Treatment Outcome": 4,
+    "Risk Factors": 4,
+    "Adolescent": 3,
+    "United States": 3,
+    "Glomerular Filtration Rate": 3,
+    "Creatinine": 3,
+    "Proportional Hazards Models": 3,
+    "Prospective Studies": 2,
+    "Apolipoprotein L1": 2,
+    "Hypertension": 2,
+    "Genetic Testing": 2,
+    "Black or African American": 2,
+    "Young Adult": 2,
+    "Antihypertensive Agents": 2,
+    "Blood Pressure": 2,
+    "Genotype": 2,
+    "White": 2,
+    "Carcinoma, Renal Cell": 2,
+    "Kidney Neoplasms": 2,
+    "Contrast Media": 2,
+    "Acute Kidney Injury": 2,
+    "Sepsis": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 7,
-      "高影響力期刊文章數": 0,
+      "文章數": 5,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 4,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
-        "Intractable & rare diseases research": 1
+        "Pediatric surgery international": 1,
+        "JAMA network open": 1,
+        "Pediatric nephrology (Berlin, Germany)": 1,
+        "Clinical and experimental pediatrics": 1,
+        "Clinical journal of the American Society of Nephrology : CJASN": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 5,
+      "文章數": 14,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 4,
-        "Diabetes, obesity & metabolism": 3,
-        "Kidney international": 3,
-        "International urology and nephrology": 3,
-        "The journal of vascular access": 3
+        "Medicine": 2,
+        "PloS one": 2,
+        "The New England journal of medicine": 1,
+        "Journal of nuclear medicine : official publication, Society of Nuclear Medicine": 1,
+        "JAMA network open": 1
       }
     }
   }
