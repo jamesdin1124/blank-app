@@ -1,36 +1,35 @@
 {
-  "報告日期": "2026-03-09T08:49:51.575180",
+  "報告日期": "2026-03-16T09:00:26.739771",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 19,
+    "總文章數": 13,
     "高影響力期刊文章數": 3,
     "主要發現": [
-      "本週熱門研究主題: mortality (7篇), genetic testing (3篇), cardiovascular (3篇)",
-      "高影響力期刊發表 3 篇，包括: JAMA network open, Clinical and experimental pediatrics",
-      "高品質證據: 6 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (3篇), quality of life (2篇), cardiovascular (2篇)",
+      "高影響力期刊發表 3 篇，包括: The Lancet. Infectious diseases, BMJ open",
+      "高品質證據: 1 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 5,
-      "高影響力期刊文章數": 2,
+      "文章數": 4,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric surgery international": 1,
-        "JAMA network open": 1,
-        "Pediatric nephrology (Berlin, Germany)": 1,
-        "Clinical and experimental pediatrics": 1,
-        "Clinical journal of the American Society of Nephrology : CJASN": 1
+        "Journal of pediatric gastroenterology and nutrition": 1,
+        "Healthcare (Basel, Switzerland)": 1,
+        "The Lancet. Infectious diseases": 1,
+        "Modern rheumatology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 14,
-      "高影響力期刊文章數": 1,
+      "文章數": 9,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "Medicine": 2,
+        "BMJ open": 2,
         "PloS one": 2,
-        "The New England journal of medicine": 1,
-        "Journal of nuclear medicine : official publication, Society of Nuclear Medicine": 1,
-        "JAMA network open": 1
+        "Anesthesiology": 1,
+        "International journal of cardiology": 1,
+        "The oncologist": 1
       }
     }
   },
@@ -38,482 +37,500 @@
     "熱門主題": [
       [
         "mortality",
-        7
+        3
       ],
       [
-        "genetic testing",
-        3
+        "quality of life",
+        2
       ],
       [
         "cardiovascular",
-        3
+        2
+      ],
+      [
+        "ESKD",
+        1
+      ],
+      [
+        "heart failure",
+        1
       ],
       [
         "biomarker",
         1
       ],
       [
-        "finerenone",
-        1
-      ],
-      [
-        "ESKD",
+        "SGLT2 inhibitor",
         1
       ]
     ],
     "趨勢關鍵詞": {
+      "臨床結局": {
+        "mortality": 3,
+        "quality of life": 2,
+        "ESKD": 1
+      },
+      "研究主題": {
+        "cardiovascular": 2,
+        "heart failure": 1
+      },
       "診斷技術": {
-        "genetic testing": 3,
         "biomarker": 1
       },
       "治療方法": {
-        "finerenone": 1
-      },
-      "研究主題": {
-        "cardiovascular": 3
-      },
-      "臨床結局": {
-        "mortality": 7,
-        "ESKD": 1
+        "SGLT2 inhibitor": 1
       }
     },
     "期刊分布": {
-      "JAMA network open": 2,
-      "Medicine": 2,
+      "BMJ open": 2,
       "PloS one": 2,
-      "Pediatric surgery international": 1,
-      "Pediatric nephrology (Berlin, Germany)": 1,
-      "Clinical and experimental pediatrics": 1,
-      "Clinical journal of the American Society of Nephrology : CJASN": 1,
-      "The New England journal of medicine": 1,
-      "Journal of nuclear medicine : official publication, Society of Nuclear Medicine": 1,
-      "JMIR research protocols": 1,
-      "Journal of nursing management": 1,
-      "Scandinavian journal of primary health care": 1,
-      "World journal of urology": 1,
-      "Renal failure": 1,
-      "Antimicrobial agents and chemotherapy": 1
+      "Journal of pediatric gastroenterology and nutrition": 1,
+      "Healthcare (Basel, Switzerland)": 1,
+      "The Lancet. Infectious diseases": 1,
+      "Modern rheumatology": 1,
+      "Anesthesiology": 1,
+      "International journal of cardiology": 1,
+      "The oncologist": 1,
+      "Scientific reports": 1,
+      "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery": 1
     },
     "文章類型": {
-      "Journal Article": 19,
-      "Randomized Controlled Trial": 6,
+      "Journal Article": 13,
       "Multicenter Study": 4,
-      "Comparative Study": 2,
+      "Observational Study": 2,
+      "Randomized Controlled Trial": 1,
       "Clinical Trial, Phase III": 1,
-      "Observational Study": 1
+      "Validation Study": 1,
+      "Clinical Trial": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "41786346",
-      "標題": "Effects of induction-phase acute kidney injury and age at diagnosis on chronic kidney disease in pediatric acute lymphoblastic leukemia: a time-to-event cohort study.",
-      "期刊": "Clinical and experimental pediatrics",
-      "發表日期": "2026 Mar 05",
+      "pmid": "41819588",
+      "標題": "Treatment gaps in guideline-directed medical therapy for HFrEF in Singapore: findings from a multicentre retrospective cohort study.",
+      "期刊": "BMJ open",
+      "發表日期": "2026 Mar 12",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "ALL",
-        "I_介入": "",
-        "C_對照": "without AKI (P=0",
-        "O_結果": "using the Cox proportional hazards model"
+        "P_族群": "heart failure with reduced ejection fraction in Singapore",
+        "I_介入": "quadruple therapy at discharge in 2022",
+        "C_對照": "",
+        "O_結果": "s were the proportions of eligible patients prescribed each GDMT class and quadruple therapy at discharge"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討To quantify the burden of AKI during induction and CKD in children with ALL, estimate CKD-free survival, and identify clinical predictors of CKD.\n\n【研究方法】This retrospective cohort at a single university-affiliated tertiary center included patients aged 2-18 years with ALL who completed ≥3 months of follow-up.\n\n【主要結果】Of 113 children (median age, 5.6; interquartile range [IQR], 3.8-9.4 years), AKI occurred during induction in 49 (43.4%). Leukemic kidney infiltration (LKI) was more frequently noted in patients with versus without AKI (P=0.01). Over 644 patient-years of follow-up (median, 5.1; IQR, 2.9-8.\n\n【結論】AKI commonly developed during induction. An older age at diagnosis was the principal independent predictor of CKD development. The age effect demonstrated a linear risk gradient rather than a conventional dichotomous ≥10-year threshold. A LKI was associated with AKI and suggestive of subsequent CKD.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To describe prescription patterns, dosing and persistence of guideline-directed medical therapy (GDMT) among patients with heart failure with reduced ejection fraction in Singapore, and to identify factors associated with the use of quadruple therapy (ACE inhibitor (ACEi)/angiotensin II receptor blo...\n\n【主要結果】Among eligible patients, 80%-99% met criteria for each GDMT drug class, yet only 29% received quadruple therapy at discharge in 2022. Prescription rates for ACEi/ARB/ARNI (67%), beta-blockers (89%), MRAs (40%), and SGLT2 inhibitors (46%) remained suboptimal despite high eligibility.\n\n【結論】Despite high eligibility, uptake and optimisation of GDMT remain poor in Singapore, with substantial treatment gaps driven by underprescription, inadequate dosing and discontinuation.",
       "結構化摘要": {
-        "背景": "The survival rate of pediatric acute lymphoblastic leukemia (ALL) currently exceeds 90% in high-income settings, shifting the focus to its long-term effects. Kidney injury, acute kidney injury (AKI), and chronic kidney disease (CKD) are increasingly recognized associated conditions; however, the determinants of CKD in pediatric ALL remain poorly defined. PURPOSE: To quantify the burden of AKI during induction and CKD in children with ALL, estimate CKD-free survival, and identify clinical predict",
-        "方法": "This retrospective cohort at a single university-affiliated tertiary center included patients aged 2-18 years with ALL who completed ≥3 months of follow-up. AKI was classified by Kidney Disease: Improving Global Outcomes serum-creatinine criteria, while CKD was defined as a glomerular filtration rate <90 mL/min/1.73 m² for ≥3 months. CKD-free survival was estimated using the Kaplan-Meier method. Associations with time to CKD were assessed using the Cox proportional hazards model.",
-        "結果": "Of 113 children (median age, 5.6; interquartile range [IQR], 3.8-9.4 years), AKI occurred during induction in 49 (43.4%). Leukemic kidney infiltration (LKI) was more frequently noted in patients with versus without AKI (P=0.01). Over 644 patient-years of follow-up (median, 5.1; IQR, 2.9-8.3 years), 15 (13.3%) developed CKD (stage 2 [n=12], stage 3 [n=3]). The 1-, 3-, and 5-year CKD-free survival rates were 99.1%, 95.3%, and 94.1%, respectively. In multivariate models, age was independently assoc",
-        "結論": "AKI commonly developed during induction. An older age at diagnosis was the principal independent predictor of CKD development. The age effect demonstrated a linear risk gradient rather than a conventional dichotomous ≥10-year threshold. A LKI was associated with AKI and suggestive of subsequent CKD. These results suggest that older children may benefit from intensive kidney surveillance and supportive care. Multicenter prospective studies are warranted to refine the prevention strategies."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Acute kidney injury",
-        "Age factors",
-        "Child",
-        "Chronic kidney disease",
-        "Leukemia"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41786346/",
-      "DOI": "10.3345/cep.2025.02327"
-    },
-    {
-      "pmid": "41784962",
-      "標題": "Genetic Testing for APOL1 in Adults With Hypertension: The GUARDD-US Randomized Clinical Trial.",
-      "期刊": "JAMA network open",
-      "發表日期": "2026 Mar 02",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "Hypertension: The GUARDD-US Randomized Clinical Trial",
-        "I_介入": "and control groups (between-group difference",
-        "C_對照": "s (between-group difference, -0",
-        "O_結果": "S AND MEASURES: The primary outcome was change in SBP in individuals with APOL1 high-risk allelles at 3 months, assessed in a modified intention-to-treat analysis"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis.\n\n【主要結果】on blood pressure (BP) management and control. OBJECTIVE: To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis.\n\n【結論】AND RELEVANCE: Provision of APOL1 genotype high-risk results to participants and clinicians was not associated with SBP reduction overall. Among the subset of patients with uncontrolled BP, the intervention group had a significant SBP reduction.",
-      "結構化摘要": {
-        "目的": "To determine whether providing APOL1 high-risk genotype",
-        "結果": "on blood pressure (BP) management and control. OBJECTIVE: To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis. DESIGN, SETTING, AND PARTICIPANTS: From July 1, 2020, to September 30, 2023, adults aged 18 to 70 years with hypertension and self-reported African ancestry were enrolled at 14 institutions and 54 clinical sites across the US. Eligible patients either (1) l",
-        "結論": "AND RELEVANCE: Provision of APOL1 genotype high-risk results to participants and clinicians was not associated with SBP reduction overall. Among the subset of patients with uncontrolled BP, the intervention group had a significant SBP reduction. APOL1 disclosure also increased the rate of CKD screening and diagnosis. Effects of reporting APOL1 genotype merit further investigation among those with uncontrolled BP. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04191824."
+        "目的": "To describe prescription patterns, dosing and persistence of guideline-directed medical therapy (GDMT) among patients with heart failure with reduced ejection fraction in Singapore, and to identify factors associated with the use of quadruple therapy (ACE inhibitor (ACEi)/angiotensin II receptor blocker (ARB)/angiotensin receptor-neprilysin inhibitor (ARNI), β-blocker, mineralocorticoid receptor antagonist (MRA) and sodium-glucose cotransporter-2 (SGLT2) inhibitor). DESIGN: Retrospective, observ",
+        "結果": "Among eligible patients, 80%-99% met criteria for each GDMT drug class, yet only 29% received quadruple therapy at discharge in 2022. Prescription rates for ACEi/ARB/ARNI (67%), beta-blockers (89%), MRAs (40%), and SGLT2 inhibitors (46%) remained suboptimal despite high eligibility. At discharge, over 90% of patients on ACEi/ARB/ARNI and beta-blockers received ≤50% of target doses. By 6 months, prescription rates declined by 16% for ACEi/ARB/ARNI, 26% for beta-blockers and 7% for MRAs, while SGL",
+        "結論": "Despite high eligibility, uptake and optimisation of GDMT remain poor in Singapore, with substantial treatment gaps driven by underprescription, inadequate dosing and discontinuation. Interventions targeting clinician awareness, postdischarge support and institutional practice variation may improve adherence to guideline-recommended therapy."
       },
       "相關趨勢": [
-        "診斷技術: genetic testing"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Apolipoprotein L1",
-        "Female",
-        "Middle Aged",
-        "Male",
-        "Hypertension",
-        "Adult",
-        "Genetic Testing",
-        "Renal Insufficiency, Chronic",
-        "Aged"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41784962/",
-      "DOI": "10.1001/jamanetworkopen.2026.0528"
-    },
-    {
-      "pmid": "41784962",
-      "標題": "Genetic Testing for APOL1 in Adults With Hypertension: The GUARDD-US Randomized Clinical Trial.",
-      "期刊": "JAMA network open",
-      "發表日期": "2026 Mar 02",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "Hypertension: The GUARDD-US Randomized Clinical Trial",
-        "I_介入": "and control groups (between-group difference",
-        "C_對照": "s (between-group difference, -0",
-        "O_結果": "S AND MEASURES: The primary outcome was change in SBP in individuals with APOL1 high-risk allelles at 3 months, assessed in a modified intention-to-treat analysis"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis.\n\n【主要結果】on blood pressure (BP) management and control. OBJECTIVE: To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis.\n\n【結論】AND RELEVANCE: Provision of APOL1 genotype high-risk results to participants and clinicians was not associated with SBP reduction overall. Among the subset of patients with uncontrolled BP, the intervention group had a significant SBP reduction.",
-      "結構化摘要": {
-        "目的": "To determine whether providing APOL1 high-risk genotype",
-        "結果": "on blood pressure (BP) management and control. OBJECTIVE: To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis. DESIGN, SETTING, AND PARTICIPANTS: From July 1, 2020, to September 30, 2023, adults aged 18 to 70 years with hypertension and self-reported African ancestry were enrolled at 14 institutions and 54 clinical sites across the US. Eligible patients either (1) l",
-        "結論": "AND RELEVANCE: Provision of APOL1 genotype high-risk results to participants and clinicians was not associated with SBP reduction overall. Among the subset of patients with uncontrolled BP, the intervention group had a significant SBP reduction. APOL1 disclosure also increased the rate of CKD screening and diagnosis. Effects of reporting APOL1 genotype merit further investigation among those with uncontrolled BP. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04191824."
-      },
-      "相關趨勢": [
-        "診斷技術: genetic testing"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Apolipoprotein L1",
-        "Female",
-        "Middle Aged",
-        "Male",
-        "Hypertension",
-        "Adult",
-        "Genetic Testing",
-        "Renal Insufficiency, Chronic",
-        "Aged"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41784962/",
-      "DOI": "10.1001/jamanetworkopen.2026.0528"
-    },
-    {
-      "pmid": "41793499",
-      "標題": "Survival outcomes after surgical treatment for non-clear cell renal cell carcinoma with tumor thrombus extension: a population-based cohort study.",
-      "期刊": "World journal of urology",
-      "發表日期": "2026 Mar 07",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "node-negative",
-        "I_介入": "for non-clear cell renal cell carcinoma with tumor thrombus extension: a population-based cohort study",
-        "C_對照": "non-clear cell RCC (nccRCC)",
-        "O_結果": "predictive of all-cause mortality on multivariable Cox regression (hazard ratio (HR) = 1"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討To characterize the impact of histology on survival outcomes in a population-based cohort of patients treated surgically for renal cell carcinoma (RCC) with tumor thrombus (TT) extension.\n\n【研究方法】The Surveillance, Epidemiology, and End\n\n【主要結果】database was used to identify adult patients with node-negative, non-metastatic RCC and TT who underwent surgical resection between 2010 and 2021. The Kaplan-Meier method and log-rank test were used to compare overall survival (OS) probabilities for clear cell RCC (ccRCC) versus non-clear cell RCC (...\n\n【結論】No statistically significant differences in survival outcomes by histology were detected among patients with TT arising from RCC after definitive surgical resection. Multimodal treatment strategies, particularly for nccRCC, are needed to further improve outcomes in these patients.",
-      "結構化摘要": {
-        "方法": "The Surveillance, Epidemiology, and End",
-        "結果": "database was used to identify adult patients with node-negative, non-metastatic RCC and TT who underwent surgical resection between 2010 and 2021. The Kaplan-Meier method and log-rank test were used to compare overall survival (OS) probabilities for clear cell RCC (ccRCC) versus non-clear cell RCC (nccRCC). Cox and Fine-Gray competing risk regression analyses were performed to evaluate histology-specific risks of all-cause and cancer-specific mortality (CSM), respectively. RESULTS: A total of 65",
-        "結論": "No statistically significant differences in survival outcomes by histology were detected among patients with TT arising from RCC after definitive surgical resection. Multimodal treatment strategies, particularly for nccRCC, are needed to further improve outcomes in these patients."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
+        "治療方法: SGLT2 inhibitor",
+        "研究主題: heart failure"
       ],
       "關鍵詞": [
-        "Histology",
-        "Nephrectomy",
-        "Renal cell carcinoma",
-        "Survival",
-        "Tumor thrombus"
+        "Guideline Adherence",
+        "Heart failure",
+        "Singapore"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Carcinoma, Renal Cell",
-        "Kidney Neoplasms",
-        "Male",
-        "Female",
-        "Middle Aged",
-        "Aged",
-        "Nephrectomy",
-        "Cohort Studies",
-        "Survival Rate"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41793499/",
-      "DOI": "10.1007/s00345-026-06285-5"
-    },
-    {
-      "pmid": "41790507",
-      "標題": "Monogenic Etiologies of Kidney Cysts in the Pediatric Population: An Observational Cohort Study.",
-      "期刊": "Clinical journal of the American Society of Nephrology : CJASN",
-      "發表日期": "2026 Mar 06",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "109 patients (median age 7",
-        "I_介入": "",
-        "C_對照": "11%; p = 0",
-        "O_結果": "s were diagnostic yield and distribution of pathogenic variants"
-      },
-      "中文摘要": "【研究背景】Pediatric kidney cysts may indicate an underlying genetic disorder, yet the full spectrum of causes remains incompletely defined. With advances in genetic testing enabling broader evaluation, this study assessed the diagnostic utility of comprehensive genetic testing in a broad pediatric cohort with...\n\n【研究方法】This observational cohort study included <18-year-olds enrolled between January 2020 and June 2024 at a single tertiary center. Genetic testing used targeted multi-gene or custom curated exome/genome sequencing panels, with segregation analysis when available.\n\n【主要結果】Among 109 patients (median age 7.6 years, 53% female), genetic testing identified a definitive diagnosis in 81 of 100 tested patients (81%) from 72 families (79%; 14 disorders). PKD1 variants were most common (45%), while PKD2 accounted for 7%.\n\n【結論】Comprehensive genetic testing in pediatric kidney cysts achieved high diagnostic yield in a selected cohort and identified diverse causes beyond major ADPKD/ARPKD genes, supporting early evaluation to improve diagnostic accuracy, inform prognosis, and guide management, even in the absence of family ...",
-      "結構化摘要": {
-        "背景": "Pediatric kidney cysts may indicate an underlying genetic disorder, yet the full spectrum of causes remains incompletely defined. With advances in genetic testing enabling broader evaluation, this study assessed the diagnostic utility of comprehensive genetic testing in a broad pediatric cohort with kidney cysts and characterized the underlying etiological diversity.",
-        "方法": "This observational cohort study included <18-year-olds enrolled between January 2020 and June 2024 at a single tertiary center. Genetic testing used targeted multi-gene or custom curated exome/genome sequencing panels, with segregation analysis when available. Eligible participants had at least two cysts without family history, one cyst with positive family history, or enlarged echogenic kidneys on prenatal ultrasound; those with congenital anomalies of the kidney and urinary tract associated wi",
-        "結果": "Among 109 patients (median age 7.6 years, 53% female), genetic testing identified a definitive diagnosis in 81 of 100 tested patients (81%) from 72 families (79%; 14 disorders). PKD1 variants were most common (45%), while PKD2 accounted for 7%. Other causes included HNF1B or 17q12 deletions (13%), minor ADPKD genes (11%; GANAB, NEK8, IFT140), monoallelic-PKHD1 (3%), and biallelic PKHD1 (8%), while syndromic ciliopathy genes accounted for 5%. A positive family history strongly correlated with a g",
-        "結論": "Comprehensive genetic testing in pediatric kidney cysts achieved high diagnostic yield in a selected cohort and identified diverse causes beyond major ADPKD/ARPKD genes, supporting early evaluation to improve diagnostic accuracy, inform prognosis, and guide management, even in the absence of family history."
-      },
-      "相關趨勢": [
-        "診斷技術: genetic testing"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41790507/",
-      "DOI": "10.2215/CJN.0000001027"
-    },
-    {
-      "pmid": "41790685",
-      "標題": "Low concentration isotonic iodixanol on hepatic and portal veins imaging quality and renal function: A 320-detector CT dual-energy study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Mar 06",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "患有 Kidney 的病人",
-        "I_介入": "receive either iodixanol at 270 mgI/mL (iodixanol 270 group",
-        "C_對照": "the iodixanol 270 group",
-        "O_結果": "higher than those in the iodixanol 270 group (P <"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to assess whether lower concentrations of iodixanol yield high-quality imaging by comparing hepatic and portal vein imaging quality and evaluating renal function following dual-energy CT (DECT) scans.\n\n【研究方法】Patients were randomly assigned to receive either iodixanol at 270 mgI/mL (iodixanol 270 group, n = 50) or 320 mgI/mL (iodixanol 320 group, n = 50) and underwent DECT with energy-spectrum reconstruction.\n\n【主要結果】Significant differences were observed in the contrast-to-noise ratio, signal-to-noise ratio of the main portal vein, and the computed tomography value of the hepatic vein between the 2 groups (P < .05). These parameters were superior in the iodixanol 320 group compared to the iodixanol 270 group.\n\n【結論】With a fixed injection protocol, iodixanol 320 mgI/mL yielded higher venous enhancement, whereas iodixanol 270 mgI/mL provided diagnostically acceptable portal/hepatic venous image quality on DECT with a lower iodine load.",
-      "結構化摘要": {
-        "背景": "The effects of different concentrations of isotonic contrast agents on the quality of hepatic and portal vein imaging and their impact on patients' renal function remain unclear. This study aimed to assess whether lower concentrations of iodixanol yield high-quality imaging by comparing hepatic and portal vein imaging quality and evaluating renal function following dual-energy CT (DECT) scans.",
-        "方法": "Patients were randomly assigned to receive either iodixanol at 270 mgI/mL (iodixanol 270 group, n = 50) or 320 mgI/mL (iodixanol 320 group, n = 50) and underwent DECT with energy-spectrum reconstruction. Quantitative and qualitative image quality parameters, as well as changes in renal function before and after scanning, were compared between the 2 groups.",
-        "結果": "Significant differences were observed in the contrast-to-noise ratio, signal-to-noise ratio of the main portal vein, and the computed tomography value of the hepatic vein between the 2 groups (P < .05). These parameters were superior in the iodixanol 320 group compared to the iodixanol 270 group. Qualitative evaluation scores for the portal and hepatic veins in the iodixanol 320 group were significantly higher than those in the iodixanol 270 group (P < .05). Postcontrast acute kidney injury inci",
-        "結論": "With a fixed injection protocol, iodixanol 320 mgI/mL yielded higher venous enhancement, whereas iodixanol 270 mgI/mL provided diagnostically acceptable portal/hepatic venous image quality on DECT with a lower iodine load. After adjustment, 320 mgI/mL was associated with higher odds of postcontrast acute kidney injury; this safety signal requires confirmation in larger iodine-matched studies."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "dual-energy CT",
-        "hepatic vein",
-        "iodine delivery rate",
-        "isotonic contrast agent",
-        "portal vein",
-        "renal function",
-        "vascular imaging"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Triiodobenzoic Acids",
-        "Portal Vein",
-        "Male",
-        "Contrast Media",
-        "Female",
-        "Middle Aged",
-        "Tomography, X-Ray Computed",
-        "Hepatic Veins",
-        "Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41790685/",
-      "DOI": "10.1097/MD.0000000000047843"
-    },
-    {
-      "pmid": "41790669",
-      "標題": "Endothelial activation and stress index (EASIX) as a predictor of acute kidney injury in patients undergoing transcatheter aortic valve replacement: A retrospective cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Mar 06",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Acute Kidney Injury 的病人",
-        "I_介入": "",
-        "C_對照": "CIN- (2",
-        "O_結果": "with receiver operating characteristic analysis and multivariable logistic regression"
-      },
-      "中文摘要": "【摘要】Transcatheter aortic valve replacement (TAVR) is being performed in increasingly complex, high-risk cohorts, and contrast-induced nephropathy (CIN) remains a major determinant of morbidity and mortality.",
-      "結構化摘要": {
-        "完整摘要": "Transcatheter aortic valve replacement (TAVR) is being performed in increasingly complex, high-risk cohorts, and contrast-induced nephropathy (CIN) remains a major determinant of morbidity and mortality. The endothelial-damage score EASIX (lactate dehydrogenase × creatinine/platelet count) is a validated prognostic index in hematology and critical care but has never been explored after TAVR. We retrospectively analyzed 130 consecutive severe AC patients (mean age 76.8 ± 8.4 years; 47.8% male) who underwent transfemoral TAVR (February 2019-March 2021). CIN was defined as a ≥25% or ≥0.5 mg/dL creatinine rise within 72 hours. The predictive value of EASIX was assessed with receiver operating characteristic analysis and multivariable logistic regression. CIN occurred in 15.4% (n = 20). Baseline EASIX was higher in CIN+ vs CIN- (2.92 ± 1.28 vs 1.33 ± 1.30; P < .001). An EASIX threshold ≥ 1.904 predicted CIN with 90.3% sensitivity and 86.2% specificity (area under the curve 0.91; P < .001). "
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "EASIX",
-        "aortic stenosis",
-        "contrast-induced nephropathy",
-        "endothelial dysfunction",
-        "transcatheter aortic valve replacement"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Male",
-        "Transcatheter Aortic Valve Replacement",
-        "Female",
+        "Singapore",
         "Retrospective Studies",
-        "Acute Kidney Injury",
-        "Aged",
-        "Aged, 80 and over",
-        "Creatinine",
-        "Contrast Media"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41790669/",
-      "DOI": "10.1097/MD.0000000000047957"
-    },
-    {
-      "pmid": "41780000",
-      "標題": "Finerenone in Type 1 Diabetes and Chronic Kidney Disease.",
-      "期刊": "The New England journal of medicine",
-      "發表日期": "2026 Mar 05",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "had type 1 diabetes",
-        "I_介入": "receive finerenone (10 or 20 mg per day",
-        "C_對照": "placebo",
-        "O_結果": "the relative change in the urinary albumin-to-creatinine ratio over a period of 6 months"
-      },
-      "中文摘要": "【研究背景】The nonsteroidal mineralocorticoid receptor antagonist finerenone has been reported to improve kidney and cardiovascular outcomes in persons with type 2 diabetes and chronic kidney disease (CKD). The efficacy and safety of finerenone in persons with type 1 diabetes and CKD are unknown.\n\n【研究方法】We conducted a phase 3 trial involving adults who had type 1 diabetes, CKD (estimated glomerular filtration rate [eGFR], 25 to <90 ml per minute per 1.73 m2 of body-surface area), and albuminuria (urinary albumin-to-creatinine ratio [with albumin measured in milligrams and creatinine measured in gra...\n\n【主要結果】A total of 242 participants underwent randomization. The median urinary albumin-to-creatinine ratio decreased from 574.6 at baseline to 373.5 at 6 months among all the participants assigned to receive finerenone and from 506.4 to 475.6 among those assigned to receive placebo.\n\n【結論】In adults with type 1 diabetes and CKD, finerenone resulted in a significantly greater decrease in the urinary albumin-to-creatinine ratio than placebo. (Funded by Bayer; FINE-ONE ClinicalTrials.gov number, NCT05901831.).",
-      "結構化摘要": {
-        "背景": "The nonsteroidal mineralocorticoid receptor antagonist finerenone has been reported to improve kidney and cardiovascular outcomes in persons with type 2 diabetes and chronic kidney disease (CKD). The efficacy and safety of finerenone in persons with type 1 diabetes and CKD are unknown.",
-        "方法": "We conducted a phase 3 trial involving adults who had type 1 diabetes, CKD (estimated glomerular filtration rate [eGFR], 25 to <90 ml per minute per 1.73 m2 of body-surface area), and albuminuria (urinary albumin-to-creatinine ratio [with albumin measured in milligrams and creatinine measured in grams], 200 to <5000) and were receiving an angiotensin-converting-enzyme (ACE) inhibitor or an angiotensin-receptor blocker. Participants were randomly assigned to receive finerenone (10 or 20 mg per da",
-        "結果": "A total of 242 participants underwent randomization. The median urinary albumin-to-creatinine ratio decreased from 574.6 at baseline to 373.5 at 6 months among all the participants assigned to receive finerenone and from 506.4 to 475.6 among those assigned to receive placebo. Over a period of 6 months, the urinary albumin-to-creatinine ratio decreased by 34% with finerenone (geometric mean ratio to baseline, 0.66; 95% confidence interval [CI], 0.60 to 0.73) and 12% with placebo (geometric mean r",
-        "結論": "In adults with type 1 diabetes and CKD, finerenone resulted in a significantly greater decrease in the urinary albumin-to-creatinine ratio than placebo. (Funded by Bayer; FINE-ONE ClinicalTrials.gov number, NCT05901831.)."
-      },
-      "相關趨勢": [
-        "治療方法: finerenone",
-        "研究主題: cardiovascular"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
         "Male",
         "Female",
-        "Diabetes Mellitus, Type 1",
-        "Renal Insufficiency, Chronic",
+        "Aged",
+        "Heart Failure",
         "Middle Aged",
-        "Naphthyridines",
-        "Albuminuria",
         "Mineralocorticoid Receptor Antagonists",
-        "Adult"
+        "Practice Guidelines as Topic"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41780000/",
-      "DOI": "10.1056/NEJMoa2512854"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41819588/",
+      "DOI": "10.1136/bmjopen-2025-107127"
     },
     {
-      "pmid": "41779220",
-      "標題": "Efficacy and safety of α1-adrenergic blockers after extracorporeal shock wave lithotripsy in pediatric kidney stones.",
-      "期刊": "Pediatric surgery international",
-      "發表日期": "2026 Mar 04",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "urolithiasis improves treatment efficacy",
-        "I_介入": "efficacy",
-        "C_對照": "6 [5-8] points",
-        "O_結果": "s were stone-free rate (SFR) and stone expulsion time"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討The development of effective medical expulsive therapy (MET) following extracorporeal shock wave lithotripsy (ESWL) for pediatric urolithiasis is crucial for enhancing stone fragment clearance.\n\n【研究方法】A prospective randomized comparative study was conducted involving 200 patients (aged 2-18 years) who underwent ESWL. Participants were allocated to a study group (n = 50, receiving α1-blockers: tamsulosin 0.\n\n【主要結果】The odds of being stone-free were 2.11 times higher with α1-blocker therapy (OR = 2.11; 95% CI: 1.02-4.37). The median expulsion time was reduced from 7 [5-9] days in the control group to 5 [4-7] days in the study group (p = 0.010).\n\n【結論】Adjunctive therapy with α1-blockers after ESWL in children with urolithiasis improves treatment efficacy, shortens stone expulsion time, reduces pain, and demonstrates a favorable safety profile. An optimal timeframe for efficacy assessment is 6 days post-ESWL.",
-      "結構化摘要": {
-        "方法": "A prospective randomized comparative study was conducted involving 200 patients (aged 2-18 years) who underwent ESWL. Participants were allocated to a study group (n = 50, receiving α1-blockers: tamsulosin 0.2 mg/day for ages 2-5, silodosin 4 mg/day for ages > 5) or a control group (n = 150, receiving standard therapy). Primary endpoints were stone-free rate (SFR) and stone expulsion time. Secondary endpoints included pain dynamics (visual analog scale, VAS), analgesic requirements, and adverse ",
-        "結果": "The odds of being stone-free were 2.11 times higher with α1-blocker therapy (OR = 2.11; 95% CI: 1.02-4.37). The median expulsion time was reduced from 7 [5-9] days in the control group to 5 [4-7] days in the study group (p = 0.010). ROC analysis identified a 6-day threshold for stone passage (sensitivity 63.6%, specificity 72.1%, AUC = 0.627; p = 0.010). Pain intensity was significantly lower in the study group on postoperative day 1 (3 [0-4] vs. 6 [5-8] points, p < 0.001), with reduced analgesi",
-        "結論": "Adjunctive therapy with α1-blockers after ESWL in children with urolithiasis improves treatment efficacy, shortens stone expulsion time, reduces pain, and demonstrates a favorable safety profile. An optimal timeframe for efficacy assessment is 6 days post-ESWL."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Alpha-1-adrenergic blockers",
-        "Children",
-        "Extracorporeal shock wave lithotripsy",
-        "Medical expulsive therapy",
-        "Urolithiasis"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Lithotripsy",
-        "Child",
-        "Male",
-        "Female",
-        "Adolescent",
-        "Kidney Calculi",
-        "Child, Preschool",
-        "Prospective Studies",
-        "Adrenergic alpha-1 Receptor Antagonists"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41779220/",
-      "DOI": "10.1007/s00383-026-06353-2"
-    },
-    {
-      "pmid": "41677262",
-      "標題": "Safety concerns associated with high-dose continuous infusion of cefepime among critically ill patients with mild renal impairment to augmented renal clearance at a level 1 trauma center: CEFTOX study.",
-      "期刊": "Antimicrobial agents and chemotherapy",
-      "發表日期": "2026 Mar 04",
+      "pmid": "41825454",
+      "標題": "Post-discharge sequelae of Lassa fever survivors in Nigeria: an analysis of the LASCOPE prospective cohort.",
+      "期刊": "The Lancet. Infectious diseases",
+      "發表日期": "2026 Mar 10",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "mild renal impairment to augmented renal clearance at a level 1 trauma center: CEFTOX study",
-        "I_介入": "a continuous infusion of 6 g/day of cefepime and had a therapeutic drug monitoring (TDM) within 24-48 h of treatment initiation",
-        "C_對照": "57",
-        "O_結果": "cefepime overexposure"
+        "P_族群": "PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo",
+        "I_介入": "disease severity",
+        "C_對照": "",
+        "O_結果": "clinical remission, defined as complete absence of symptoms"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to investigate whether this regimen could lead to cefepime overexposure and cefepime-induced neurotoxicity (CIN) in a cohort of severe trauma and brain-injured patients.\n\n【主要結果】were obtained ≤48 h compared to 57.4% when results were delayed >48 h (P = 0.006). These results highlight the need for early TDM and individualized dose adjustment to avoid CIN.",
+      "中文摘要": "【研究目的】本研究旨在探討ed to describe post-discharge sequelae in Lassa fever survivors and explore the effect of disease severity on sequelae patterns.\n\n【研究方法】LASCOPE was a prospective study of patients with PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo, Owo, Nigeria, between April 23, 2018, and Feb 17, 2023. All patients who provided informed consent were included, with no age restriction.\n\n【主要結果】Of 882 survivors (median age 32 years [IQR 22-46], 459 [52%] female and 423 [48%] male), post-discharge data were available for 807 (91%), with a total of 2603 person-months of follow-up. For three of 807 survivors with post-discharge information, only the vital status was collected.\n\n【結論】Patient-reported symptoms suggest good recovery with few hearing or neurosensory disorders in most survivors of Lassa fever. Future research would benefit from extended follow-up periods and standardised diagnostic assessments, including objective audiometry, to further characterise the full spectru...",
       "結構化摘要": {
-        "結果": "were obtained ≤48 h compared to 57.4% when results were delayed >48 h (P = 0.006). These results highlight the need for early TDM and individualized dose adjustment to avoid CIN."
+        "背景": "Lassa fever is one of the most important viral haemorrhagic fevers, yet post-discharge sequelae remain inadequately characterised. Previous studies have been limited by small sample sizes and unsystematic assessments. We aimed to describe post-discharge sequelae in Lassa fever survivors and explore the effect of disease severity on sequelae patterns.",
+        "目的": "audiometry, to further characterise the full spectrum of post-Lassa fever complications. FUNDING: Institut National de la Santé et de la Recherche Médicale, University of Oxford, EU, UK Department for International Development, Wellcome Trust, French Ministry of Foreign Affairs, Agence Nationale de Recherches sur le SIDA et les Hépatites Virales, and French National Research Institute for Sustainable Development.",
+        "方法": "LASCOPE was a prospective study of patients with PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo, Owo, Nigeria, between April 23, 2018, and Feb 17, 2023. All patients who provided informed consent were included, with no age restriction. Severe disease was defined as the presence of at least one of the following during the acute phase: National Early Warning Score version 2 score of 7 or higher, Kidney Disease Improving Global Outcomes stage 2 or higher, or Lassa virus PCR Ct"
       },
       "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41825454/",
+      "DOI": "10.1016/S1473-3099(26)00057-5"
+    },
+    {
+      "pmid": "41802782",
+      "標題": "Trajectories of metabolic risk clusters and adverse outcomes in patients with chronic kidney disease: a prospective cohort study in Taiwan.",
+      "期刊": "BMJ open",
+      "發表日期": "2026 Mar 09",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "chronic kidney disease: a prospective cohort study in Taiwan",
+        "I_介入": "",
+        "C_對照": "the other groups",
+        "O_結果": ") and time to MAKE, defined as a composite of dialysis initiation or all-cause mortality (secondary outcome)"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討To investigate the association between longitudinal trajectories of metabolic risk clusters and the risk of progression to end-stage kidney disease (ESKD) and major adverse kidney events (MAKEs) in patients with chronic kidney disease (CKD).\n\n【主要結果】Four trajectory groups were identified: Group I had controlled blood pressure and glucose but elevated LDL (dialysis incidence: 19.5 per 1000 person-years); Group II had borderline-high blood pressure and elevated glucose (33.\n\n【結論】Longitudinal trajectories of metabolic risk cluster are associated with differential risks of CKD progression to ESKD and death. Our findings provide valuable insights into the monitoring of metabolic risk profiles over time in patients with CKD.",
+      "結構化摘要": {
+        "目的": "To investigate the association between longitudinal trajectories of metabolic risk clusters and the risk of progression to end-stage kidney disease (ESKD) and major adverse kidney events (MAKEs) in patients with chronic kidney disease (CKD). DESIGN: Prospective registry-based cohort study. SETTING: Secondary and tertiary care settings in Taiwan, using data from a multidisciplinary pre-ESKD care programme. PARTICIPANTS: A total of 1494 adult patients with CKD stages 3b-5 enrolled in a structured ",
+        "結果": "Four trajectory groups were identified: Group I had controlled blood pressure and glucose but elevated LDL (dialysis incidence: 19.5 per 1000 person-years); Group II had borderline-high blood pressure and elevated glucose (33.6 per 1000 person-years); Group III had controlled glucose and low LDL but borderline-high blood pressure (38.8 per 1000 person-years) and Group IV had controlled glucose but elevated blood pressure and LDL (46.7 per 1000 person-years). Compared with the other groups, Group",
+        "結論": "Longitudinal trajectories of metabolic risk cluster are associated with differential risks of CKD progression to ESKD and death. Our findings provide valuable insights into the monitoring of metabolic risk profiles over time in patients with CKD."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality",
+        "臨床結局: ESKD"
+      ],
       "關鍵詞": [
-        "augmented renal clearance",
-        "cefepime threshold",
-        "cefepime-induced neurotoxicity",
-        "pharmacokinetic",
-        "therapeutic drug monitoring"
+        "Blood Pressure",
+        "Chronic renal failure",
+        "Diabetes Mellitus, Type 2",
+        "Lipid disorders",
+        "Nephrology"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Cefepime",
+        "Taiwan",
         "Male",
         "Female",
         "Middle Aged",
-        "Anti-Bacterial Agents",
+        "Prospective Studies",
+        "Renal Insufficiency, Chronic",
+        "Disease Progression",
+        "Aged",
+        "Kidney Failure, Chronic"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41802782/",
+      "DOI": "10.1136/bmjopen-2025-110041"
+    },
+    {
+      "pmid": "41448276",
+      "標題": "When apical sparing is not amyloidosis: Echocardiographic insights from a cohort of end-stage renal disease.",
+      "期刊": "International journal of cardiology",
+      "發表日期": "2026 Mar 15",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "interventricular septal thickness > 12 mm and available strain imaging",
+        "I_介入": "",
+        "C_對照": "55 %",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to assess the prevalence and clinical predictors of RELAPS among ESRD patients undergoing kidney transplant evaluation.\n\n【研究方法】This retrospective cohort study included adult ESRD patients with interventricular septal thickness > 12 mm and available strain imaging. Patients diagnosed with transthyretin or light-chain amyloidosis were excluded.\n\n【主要結果】Of 1389 patients screened, 199 met inclusion criteria, and 50 (25 %) exhibited a RELAPS pattern. Patients with RELAPS were more likely to be dialysis dependent (86 % vs. 55 %, p < 0.001), have elevated E/e' ratios (14.1 vs. 11.2, p = 0.\n\n【結論】The RELAPS pattern is relatively common in ESRD patients with increased septal thickness and is independently associated with dialysis dependence and elevated LV filling pressures.",
+      "結構化摘要": {
+        "背景": "The relative apical sparing (RELAPS) pattern on echocardiography, commonly linked to cardiac amyloidosis, may also occur in other conditions such as end-stage renal disease (ESRD). This study aimed to assess the prevalence and clinical predictors of RELAPS among ESRD patients undergoing kidney transplant evaluation.",
+        "方法": "This retrospective cohort study included adult ESRD patients with interventricular septal thickness > 12 mm and available strain imaging. Patients diagnosed with transthyretin or light-chain amyloidosis were excluded. RELAPS was defined as an average apical-to-(basal+mid) longitudinal strain ratio > 1.0. Clinical and echocardiographic variables were compared between groups, and multivariable logistic regression was used to identify independent predictors.",
+        "結果": "Of 1389 patients screened, 199 met inclusion criteria, and 50 (25 %) exhibited a RELAPS pattern. Patients with RELAPS were more likely to be dialysis dependent (86 % vs. 55 %, p < 0.001), have elevated E/e' ratios (14.1 vs. 11.2, p = 0.02) and lower global longitudinal strain (GLS) compared to those without RELAPS (13.5 ± 3.3 vs 15.1 ± 2.9 %; p = 0.02). In multivariable analysis, dialysis (OR 3.9; 95 % CI 1.6-9.7) and E/e' (OR 1.07 per unit; 95 % CI 1.03-1.13) were independently associated with ",
+        "結論": "The RELAPS pattern is relatively common in ESRD patients with increased septal thickness and is independently associated with dialysis dependence and elevated LV filling pressures. These findings imply that RELAPS may reflect advanced myocardial remodeling and hemodynamic burden, suggesting it is not exclusive to cardiac amyloidosis."
+      },
+      "相關趨勢": [
+        "診斷技術: biomarker"
+      ],
+      "關鍵詞": [
+        "Cardiac amyloidosis",
+        "Echocardiography",
+        "End-stage renal disease",
+        "Relative apical sparing",
+        "Strain imaging"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Kidney Failure, Chronic",
         "Retrospective Studies",
-        "Critical Illness",
-        "Adult",
-        "Trauma Centers"
+        "Middle Aged",
+        "Echocardiography",
+        "Amyloidosis",
+        "Aged",
+        "Cohort Studies"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41677262/",
-      "DOI": "10.1128/aac.01735-25"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41448276/",
+      "DOI": "10.1016/j.ijcard.2025.134115"
+    },
+    {
+      "pmid": "41823715",
+      "標題": "Efficacy of Low-dose Aspirin in Preventing Hypertensive Disorders of Pregnancy in Women with Systemic Lupus Erythematosus: A Single-Center Retrospective Cohort Study.",
+      "期刊": "Modern rheumatology",
+      "發表日期": "2026 Mar 13",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "",
+        "I_介入": "LDA and those not treated",
+        "C_對照": "",
+        "O_結果": "the efficacy of LDA in preventing HDP in women with SLE"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討Low-dose aspirin (LDA) is widely recommended to prevent hypertensive disorders of pregnancy (HDP). However, the evidence of its effectiveness in pregnancies with systemic lupus erythematosus (SLE) remains limited. This study evaluated the efficacy of LDA in preventing HDP in women with SLE.\n\n【研究方法】We conducted a retrospective cohort study of 124 pregnancies with SLE managed at our hospital. Pregnancy outcomes were compared between women treated with LDA and those not treated, using propensity score and inverse probability weighting analyses to adjust for confounders.\n\n【主要結果】LDA was used in 65 pregnancies and not used in 59. HDP occurred in 7/65 (10.8%) and 8/59 (13.6%), respectively. After adjusting for potential confounders, including antiphospholipid antibodies, lupus nephritis, chronic hypertension, chronic kidney disease, history of HDP, and hydroxychloroquine use,...\n\n【結論】LDA did not significantly reduce the incidence of HDP in women with SLE. This lack of effect may reflect the low event rate in a well-controlled cohort.",
+      "結構化摘要": {
+        "目的": "Low-dose aspirin (LDA) is widely recommended to prevent hypertensive disorders of pregnancy (HDP). However, the evidence of its effectiveness in pregnancies with systemic lupus erythematosus (SLE) remains limited. This study evaluated the efficacy of LDA in preventing HDP in women with SLE.",
+        "方法": "We conducted a retrospective cohort study of 124 pregnancies with SLE managed at our hospital. Pregnancy outcomes were compared between women treated with LDA and those not treated, using propensity score and inverse probability weighting analyses to adjust for confounders.",
+        "結果": "LDA was used in 65 pregnancies and not used in 59. HDP occurred in 7/65 (10.8%) and 8/59 (13.6%), respectively. After adjusting for potential confounders, including antiphospholipid antibodies, lupus nephritis, chronic hypertension, chronic kidney disease, history of HDP, and hydroxychloroquine use, the risk ratio for HDP with LDA was 0.76 (95% confidence interval: 0.25-2.33; p=0.64). Sensitivity analysis was consistent.",
+        "結論": "LDA did not significantly reduce the incidence of HDP in women with SLE. This lack of effect may reflect the low event rate in a well-controlled cohort. These findings underscore the need for individualized risk assessment and careful monitoring, beyond reliance on LDA alone, in the management of pregnancies with SLE."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Hypertensive disorders of pregnancy",
+        "low-dose aspirin",
+        "lupus nephritis",
+        "obstetric outcomes",
+        "preeclampsia",
+        "pregnancy",
+        "propensity score weighting",
+        "retrospective cohort study",
+        "single-center",
+        "systemic lupus erythematosus"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41823715/",
+      "DOI": "10.1093/mr/roag028"
+    },
+    {
+      "pmid": "41807295",
+      "標題": "Significant kidney impairment in pediatric inflammatory bowel disease and practice points for pediatric gastroenterologists.",
+      "期刊": "Journal of pediatric gastroenterology and nutrition",
+      "發表日期": "2026 Mar 10",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本研究旨在探討Children with inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders, which may cause significant kidney function impairment (SKI) or lead to chronic kidney disease (CKD).\n\n【研究方法】Cases of SKI in children with IBD (<19 years) were collected from the international, prospective PIBD-SETQuality Safety Registry. A monthly survey was sent to participating pediatric gastroenterologists to report cases of SKI (defined as an estimated glomerular filtration rate (eGFR) < 60 mL/min/1.\n\n【主要結果】Between November 1, 2016 and December 31, 2023, 42 cases of SKI were eligible for analysis. Tubulo-interstitial nephritis (TIN) was the most common diagnosis (n = 15). Sixteen (38%) cases were confirmed with renal biopsy (10 cases of TIN). Twelve patients developed CKD.\n\n【結論】This is the first prospective study to report cases of SKI in children with IBD. SKI may lead to CKD. Confirming the etiology of the SKI proved to be very challenging. The study provides recommendations for screening and follow-up of SKI in children with IBD.",
+      "結構化摘要": {
+        "目的": "Children with inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders, which may cause significant kidney function impairment (SKI) or lead to chronic kidney disease (CKD). In this study we aimed to provide insights in causes and diagnoses of SKI cases and to provide recommendations for pediatric gastroenterologists for children with IBD and SKI.",
+        "方法": "Cases of SKI in children with IBD (<19 years) were collected from the international, prospective PIBD-SETQuality Safety Registry. A monthly survey was sent to participating pediatric gastroenterologists to report cases of SKI (defined as an estimated glomerular filtration rate (eGFR) < 60 mL/min/1.73m2). Additionally, a panel consisting of 16 members (including experts in pediatric IBD and nephrology) rated the most likely cause of the cases and formulated recommendations for screening, follow-u",
+        "結果": "Between November 1, 2016 and December 31, 2023, 42 cases of SKI were eligible for analysis. Tubulo-interstitial nephritis (TIN) was the most common diagnosis (n = 15). Sixteen (38%) cases were confirmed with renal biopsy (10 cases of TIN). Twelve patients developed CKD. IBD medication was the most frequently reported cause (n = 15), however, there was low concordance between panelists about the most likely etiology (Fleiss' kappa 0.143 and 0.102).",
+        "結論": "This is the first prospective study to report cases of SKI in children with IBD. SKI may lead to CKD. Confirming the etiology of the SKI proved to be very challenging. The study provides recommendations for screening and follow-up of SKI in children with IBD."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Crohn's disease",
+        "renal",
+        "ulcerative colitis"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41807295/",
+      "DOI": "10.1002/jpn3.70391"
+    },
+    {
+      "pmid": "41701148",
+      "標題": "Hybrid Repair for Thoraco-Abdominal Aortic Diseases: Benefits of a Staged Treatment Strategy.",
+      "期刊": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "發表日期": "2026 Mar 10",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "20 patients (23",
+        "I_介入": "Strategy",
+        "C_對照": "",
+        "O_結果": "s were early (≤30 days) and mid-term survival, and freedom from aorta-related mortality (ARM)"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討We described short- and mid-term outcomes of hybrid thoraco-abdominal aortic aneurysm repair (HTAR), combining visceral debranching and thoracic endovascular aortic repair (TEVAR).\n\n【研究方法】This multicentric, retrospective cohort study analysed prospectively collected data from 2 Italian referral centres on patients undergoing HTAR with at least one renal artery bypass between 2003 and 2024. These patients were deemed unfit for open surgery.\n\n【主要結果】The population included 86 patients, 12 (13.9%) of which were urgent. Median age was 69 years. In-hospital mortality occurred in 20 patients (23.3%), with major complications in 33 (38.4%), mainly acute kidney injury (AKI) (20; 23.3%) and pneumonia (9; 10.5%). Spinal cord injury rate was 5.8%.\n\n【結論】HTAR provides an alternative to open repair in high-risk thoracoabdominal aortic aneurysm (TAAA) patients, with acceptable early and mid-term outcomes. While in-hospital mortality remains notable, SCI rates are low thanks to the 2-stage approach, and freedom from ARM and bypass patency are satisfact...",
+      "結構化摘要": {
+        "目的": "We described short- and mid-term outcomes of hybrid thoraco-abdominal aortic aneurysm repair (HTAR), combining visceral debranching and thoracic endovascular aortic repair (TEVAR).",
+        "方法": "This multicentric, retrospective cohort study analysed prospectively collected data from 2 Italian referral centres on patients undergoing HTAR with at least one renal artery bypass between 2003 and 2024. These patients were deemed unfit for open surgery. Primary outcomes were early (≤30 days) and mid-term survival, and freedom from aorta-related mortality (ARM). Secondary outcomes included spinal cord injury (SCI), freedom from reintervention, and bypass patency.",
+        "結果": "The population included 86 patients, 12 (13.9%) of which were urgent. Median age was 69 years. In-hospital mortality occurred in 20 patients (23.3%), with major complications in 33 (38.4%), mainly acute kidney injury (AKI) (20; 23.3%) and pneumonia (9; 10.5%). Spinal cord injury rate was 5.8%. A 2-stage strategy was used in 68 patients (79.1%). Median follow-up was 17.5 months. At 1-, 2-, and 5-years, survival was 68.6%, 67%, and 50.9%, freedom from ARM was 82.4%, 82.4%, and 82.4%; freedom from ",
+        "結論": "HTAR provides an alternative to open repair in high-risk thoracoabdominal aortic aneurysm (TAAA) patients, with acceptable early and mid-term outcomes. While in-hospital mortality remains notable, SCI rates are low thanks to the 2-stage approach, and freedom from ARM and bypass patency are satisfactory. IRB APPROVAL: No. 121/2022/Disp/AUOBo/10/2023."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "TEVAR",
+        "aneurysm",
+        "aorta",
+        "hybrid repair",
+        "thoracoabdominal",
+        "vascular"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Retrospective Studies",
+        "Aortic Aneurysm, Thoracic",
+        "Endovascular Procedures",
+        "Middle Aged",
+        "Blood Vessel Prosthesis Implantation",
+        "Treatment Outcome"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41701148/",
+      "DOI": "10.1093/ejcts/ezag099"
+    },
+    {
+      "pmid": "41827649",
+      "標題": "Patient Perceptions of Vascular Access and Quality of Life in Maintenance Hemodialysis: A Multicenter Study on Patient-Centered Outcomes.",
+      "期刊": "Healthcare (Basel, Switzerland)",
+      "發表日期": "2026 Mar 09",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region",
+        "I_介入": "",
+        "C_對照": "AVF",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究背景】Vascular access is a core component of hemodialysis and may influence both clinical outcomes and patient-reported quality of life. This study examined the association between vascular access type and quality of life among patients receiving maintenance hemodialysis in multiple nephrology centers.\n\n【研究方法】We conducted a multicenter, cross-sectional observational study of 152 adults with end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region, Greece (January-May 2022).\n\n【主要結果】Most participants reported being very (40.8%) or quite (53.3%) satisfied with their current vascular access, and 69.5% considered an arteriovenous fistula (AVF) the most appropriate option.\n\n【結論】Vascular access type, particularly AVF versus catheter, is associated with meaningful differences in quality of life among hemodialysis patients. Patient satisfaction with access and sociodemographic characteristics should be considered in patient-centered access planning and follow-up.",
+      "結構化摘要": {
+        "背景": "Vascular access is a core component of hemodialysis and may influence both clinical outcomes and patient-reported quality of life. This study examined the association between vascular access type and quality of life among patients receiving maintenance hemodialysis in multiple nephrology centers.",
+        "方法": "We conducted a multicenter, cross-sectional observational study of 152 adults with end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region, Greece (January-May 2022). Data were collected using a demographic/clinical questionnaire, the 36-Item Short Form Health Survey (SF-36), the Dialysis Patient Satisfaction Questionnaire (SDIALOR), and the Missoula VITAS Quality of Life Index (MVQOLI). Multivariable linear regression models were fitted for SF-",
+        "結果": "Most participants reported being very (40.8%) or quite (53.3%) satisfied with their current vascular access, and 69.5% considered an arteriovenous fistula (AVF) the most appropriate option. SF-36 scores were generally lower than those reported for the general population, except for the mental health domain. Compared with AVF, permanent catheter use was associated with lower SF-36 physical functioning scores, and graft use was associated with lower vitality scores. Lower vascular access satisfact",
+        "結論": "Vascular access type, particularly AVF versus catheter, is associated with meaningful differences in quality of life among hemodialysis patients. Patient satisfaction with access and sociodemographic characteristics should be considered in patient-centered access planning and follow-up."
+      },
+      "相關趨勢": [
+        "臨床結局: quality of life"
+      ],
+      "關鍵詞": [
+        "chronic kidney disease",
+        "hemodialysis",
+        "quality of life",
+        "vascular access"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41827649/",
+      "DOI": "10.3390/healthcare14050697"
+    },
+    {
+      "pmid": "41693026",
+      "標題": "A prospective external validation of the GRade, Age, Nodes and Tumor score in the ECOG-ACRIN EA8143 PROSPER trial.",
+      "期刊": "The oncologist",
+      "發表日期": "2026 Mar 09",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "surgically treated renal cell carcinoma (RCC) and integrates age",
+        "I_介入": "",
+        "C_對照": "unfavorable (2-4 risk factors)",
+        "O_結果": "using Harrell's C-index"
+      },
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to validate the GRANT score within the ECOG-ACRIN EA8143 PROSPER prospective trial.\n\n【研究方法】We conducted a validation analysis of the GRANT score within the phase III randomized EA8143 PROSPER study of perioperative nivolumab in surgically treated RCC. Patients were classified into 2 risk groups, favorable (0-1 risk factors) versus unfavorable (2-4 risk factors).\n\n【主要結果】Among 714 patients included, 58.3% were favorable and 41.7% unfavorable based on the GRANT score. Patients in the favorable group had a significantly longer median RFS (61.1 vs. 36.9 months; hazard ratio [HR]: 0.36, 95% confidence interval [CI]: 0.27-0.48, P < .\n\n【結論】The GRANT score was prospectively validated in the PROSPER study, demonstrating prognostic value for both RFS and OS, especially in nonclear RCC, further supporting its use in clinical practice. Clinical trial registration number: ClinicalTrials.gov, NCT03055013.",
+      "結構化摘要": {
+        "背景": "The GRade, Age, Nodes and Tumor (GRANT) score is one of the prognostic models recommended by international guidelines to refine recurrence risk stratification in patients with surgically treated renal cell carcinoma (RCC) and integrates age, tumor size, grade, and nodal status. In this study, we aimed to validate the GRANT score within the ECOG-ACRIN EA8143 PROSPER prospective trial.",
+        "方法": "We conducted a validation analysis of the GRANT score within the phase III randomized EA8143 PROSPER study of perioperative nivolumab in surgically treated RCC. Patients were classified into 2 risk groups, favorable (0-1 risk factors) versus unfavorable (2-4 risk factors). Relapse-free survival (RFS) and overall survival (OS) were estimated using the Kaplan-Meier method. Model discrimination were evaluated using Harrell's C-index.",
+        "結果": "Among 714 patients included, 58.3% were favorable and 41.7% unfavorable based on the GRANT score. Patients in the favorable group had a significantly longer median RFS (61.1 vs. 36.9 months; hazard ratio [HR]: 0.36, 95% confidence interval [CI]: 0.27-0.48, P < .001) and OS (median not reached, HR: 0.25, 95% CI: 0.15-0.42, P < .001) compared to patients in the unfavorable group. The c-index was 0.63 and 0.66 for RFS and OS, respectively. A better prognostic performance was observed among nonclear",
+        "結論": "The GRANT score was prospectively validated in the PROSPER study, demonstrating prognostic value for both RFS and OS, especially in nonclear RCC, further supporting its use in clinical practice. Clinical trial registration number: ClinicalTrials.gov, NCT03055013."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "GRANT",
+        "PROSPER",
+        "immunotherapy",
+        "neoadjuvant",
+        "nivolumab",
+        "perioperative",
+        "prognosis",
+        "renal cancer",
+        "surgery"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "Kidney Neoplasms",
+        "Carcinoma, Renal Cell",
+        "Aged",
+        "Prognosis",
+        "Neoplasm Grading"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41693026/",
+      "DOI": "10.1093/oncolo/oyag041"
+    },
+    {
+      "pmid": "41803392",
+      "標題": "Predictive value of the Naples Prognostic Score for rapid kidney function decline in stage 3-4 CKD: a multicenter study.",
+      "期刊": "Scientific reports",
+      "發表日期": "2026 Mar 09",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "were consecutively enrolled at two centers between December 2023 and September 2024",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "impaired inflammatory and nutritional markers (higher neutrophil-to-lymphocyte ratio [NLR]"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the potential clinical value of the Naples Prognostic Score (NPS) in predicting rapid 12-month kidney function decline (RKFD) in predialysis stage 3-4 chronic kidney disease (CKD) patients.",
+      "結構化摘要": {
+        "完整摘要": "This study aimed to evaluate the potential clinical value of the Naples Prognostic Score (NPS) in predicting rapid 12-month kidney function decline (RKFD) in predialysis stage 3-4 chronic kidney disease (CKD) patients. A retrospective analysis was conducted using data from 404 CKD patients who were consecutively enrolled at two centers between December 2023 and September 2024. All included patients had at least 12 months of follow-up available for outcome assessment. Participants were categorized based on the presence or absence of RKFD, defined as an absolute decrease in eGFR of > 5 mL/min/1.73 m² over 12 months. Clinical, laboratory, and nutritional-inflammatory parameters were compared between groups. Multivariable logistic regression and receiver operating characteristic (ROC) curve analyses were performed to evaluate the predictive performance of NPS. RKFD occurred in 105 participants (26.0%). Individuals with RKFD exhibited significantly impaired inflammatory and nutritional mark"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "CKD",
+        "Inflammation",
+        "Naples Prognostic Score",
+        "Nutrition",
+        "Rapid kidney function decline"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Prognosis",
+        "Aged",
+        "Renal Insufficiency, Chronic",
+        "Retrospective Studies",
+        "Glomerular Filtration Rate",
+        "ROC Curve"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41803392/",
+      "DOI": "10.1038/s41598-026-43811-2"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 7,
-      "想法": "目前 'mortality' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 3,
+      "想法": "目前 'mortality' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "genetic testing",
-      "頻率": 3,
-      "想法": "目前 'genetic testing' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "quality of life",
+      "頻率": 2,
+      "想法": "目前 'quality of life' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 3,
-      "想法": "目前 'cardiovascular' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 2,
+      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "ESKD",
+      "頻率": 1,
+      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 1,
+      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -525,44 +542,23 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "finerenone",
+      "關鍵詞": "SGLT2 inhibitor",
       "頻率": 1,
-      "想法": "目前 'finerenone' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "genetic testing",
+      "關鍵詞": "mortality",
       "頻率": 3,
-      "想法": "'genetic testing' (診斷技術) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'mortality' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "biomarker",
-      "頻率": 1,
-      "想法": "'biomarker' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "finerenone",
-      "頻率": 1,
-      "想法": "'finerenone' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
-      "頻率": 3,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "關鍵詞": "quality of life",
+      "頻率": 2,
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -570,6 +566,20 @@
       "關鍵詞": "ESKD",
       "頻率": 1,
       "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "cardiovascular",
+      "頻率": 2,
+      "想法": "'cardiovascular' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "heart failure",
+      "頻率": 1,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -595,43 +605,43 @@
       "關鍵詞": "重要發現複製與延伸",
       "想法": "本週有 3 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Genetic Testing for APOL1 in Adults With Hypertens",
-        "Effects of induction-phase acute kidney injury and",
-        "Genetic Testing for APOL1 in Adults With Hypertens"
+        "Post-discharge sequelae of Lassa fever survivors i",
+        "Trajectories of metabolic risk clusters and advers",
+        "Treatment gaps in guideline-directed medical thera"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 16,
-    "Male": 16,
-    "Female": 15,
-    "Aged": 15,
-    "Middle Aged": 13,
-    "Adult": 10,
-    "Retrospective Studies": 9,
-    "Renal Insufficiency, Chronic": 5,
-    "Treatment Outcome": 4,
-    "Risk Factors": 4,
-    "Adolescent": 3,
-    "United States": 3,
-    "Glomerular Filtration Rate": 3,
-    "Creatinine": 3,
-    "Proportional Hazards Models": 3,
+    "Humans": 9,
+    "Male": 9,
+    "Female": 9,
+    "Middle Aged": 9,
+    "Aged": 8,
+    "Retrospective Studies": 6,
+    "Adult": 4,
+    "Postoperative Complications": 3,
+    "Kidney Failure, Chronic": 3,
+    "Renal Insufficiency, Chronic": 3,
+    "Glomerular Filtration Rate": 2,
+    "Cohort Studies": 2,
+    "Treatment Outcome": 2,
+    "Biomarkers": 2,
     "Prospective Studies": 2,
-    "Apolipoprotein L1": 2,
-    "Hypertension": 2,
-    "Genetic Testing": 2,
-    "Black or African American": 2,
-    "Young Adult": 2,
-    "Antihypertensive Agents": 2,
-    "Blood Pressure": 2,
-    "Genotype": 2,
-    "White": 2,
-    "Carcinoma, Renal Cell": 2,
-    "Kidney Neoplasms": 2,
-    "Contrast Media": 2,
-    "Acute Kidney Injury": 2,
-    "Sepsis": 2
+    "Prognosis": 2,
+    "Disease Progression": 2,
+    "Renal Dialysis": 2,
+    "Risk Factors": 2,
+    "Cystatin C": 1,
+    "Creatinine": 1,
+    "China": 1,
+    "Surgical Procedures, Operative": 1,
+    "Preoperative Care": 1,
+    "Echocardiography": 1,
+    "Amyloidosis": 1,
+    "Kidney Neoplasms": 1,
+    "Carcinoma, Renal Cell": 1,
+    "Neoplasm Grading": 1,
+    "Age Factors": 1
   }
 }
