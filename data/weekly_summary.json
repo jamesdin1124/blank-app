@@ -1,40 +1,45 @@
 {
-  "報告日期": "2026-03-16T09:00:26.739771",
+  "報告日期": "2026-03-23T08:59:40.718468",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 13,
+    "總文章數": 16,
     "高影響力期刊文章數": 3,
     "主要發現": [
-      "本週熱門研究主題: mortality (3篇), quality of life (2篇), cardiovascular (2篇)",
-      "高影響力期刊發表 3 篇，包括: The Lancet. Infectious diseases, BMJ open",
-      "高品質證據: 1 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: cardiovascular (5篇), heart failure (5篇), mortality (3篇)",
+      "高影響力期刊發表 3 篇，包括: Lancet (London, England), BMJ open, BMJ (Clinical research ed.)",
+      "高品質證據: 3 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 4,
-      "高影響力期刊文章數": 1,
+      "文章數": 1,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of pediatric gastroenterology and nutrition": 1,
-        "Healthcare (Basel, Switzerland)": 1,
-        "The Lancet. Infectious diseases": 1,
-        "Modern rheumatology": 1
+        "BMC infectious diseases": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 9,
-      "高影響力期刊文章數": 2,
+      "文章數": 15,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "BMJ open": 2,
         "PloS one": 2,
-        "Anesthesiology": 1,
-        "International journal of cardiology": 1,
-        "The oncologist": 1
+        "Journal of the American Heart Association": 2,
+        "British journal of nursing (Mark Allen Publishing)": 1,
+        "JMIR medical informatics": 1,
+        "Journal of rehabilitation medicine": 1
       }
     }
   },
   "研究趨勢": {
     "熱門主題": [
+      [
+        "cardiovascular",
+        5
+      ],
+      [
+        "heart failure",
+        5
+      ],
       [
         "mortality",
         3
@@ -44,19 +49,15 @@
         2
       ],
       [
-        "cardiovascular",
-        2
-      ],
-      [
-        "ESKD",
-        1
-      ],
-      [
-        "heart failure",
+        "machine learning",
         1
       ],
       [
         "biomarker",
+        1
+      ],
+      [
+        "patient-reported outcomes",
         1
       ],
       [
@@ -65,439 +66,475 @@
       ]
     ],
     "趨勢關鍵詞": {
+      "診斷技術": {
+        "machine learning": 1,
+        "biomarker": 1
+      },
+      "研究主題": {
+        "cardiovascular": 5,
+        "heart failure": 5
+      },
       "臨床結局": {
         "mortality": 3,
         "quality of life": 2,
-        "ESKD": 1
-      },
-      "研究主題": {
-        "cardiovascular": 2,
-        "heart failure": 1
-      },
-      "診斷技術": {
-        "biomarker": 1
+        "patient-reported outcomes": 1
       },
       "治療方法": {
         "SGLT2 inhibitor": 1
       }
     },
     "期刊分布": {
-      "BMJ open": 2,
       "PloS one": 2,
-      "Journal of pediatric gastroenterology and nutrition": 1,
-      "Healthcare (Basel, Switzerland)": 1,
-      "The Lancet. Infectious diseases": 1,
-      "Modern rheumatology": 1,
-      "Anesthesiology": 1,
-      "International journal of cardiology": 1,
-      "The oncologist": 1,
-      "Scientific reports": 1,
-      "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery": 1
+      "Journal of the American Heart Association": 2,
+      "BMC infectious diseases": 1,
+      "British journal of nursing (Mark Allen Publishing)": 1,
+      "JMIR medical informatics": 1,
+      "Journal of rehabilitation medicine": 1,
+      "JMIR mHealth and uHealth": 1,
+      "Epidemiologia e servicos de saude : revista do Sistema Unico de Saude do Brasil": 1,
+      "BMJ open": 1,
+      "BMJ (Clinical research ed.)": 1,
+      "Lancet (London, England)": 1,
+      "Medicine": 1,
+      "Acta neurochirurgica": 1,
+      "Mycopathologia": 1
     },
     "文章類型": {
-      "Journal Article": 13,
-      "Multicenter Study": 4,
-      "Observational Study": 2,
-      "Randomized Controlled Trial": 1,
-      "Clinical Trial, Phase III": 1,
-      "Validation Study": 1,
-      "Clinical Trial": 1
+      "Journal Article": 16,
+      "Multicenter Study": 5,
+      "Observational Study": 3,
+      "Randomized Controlled Trial": 3,
+      "Systematic Review": 2,
+      "Comparative Study": 2,
+      "Review": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "41819588",
-      "標題": "Treatment gaps in guideline-directed medical therapy for HFrEF in Singapore: findings from a multicentre retrospective cohort study.",
-      "期刊": "BMJ open",
-      "發表日期": "2026 Mar 12",
-      "研究類型": "研究",
+      "pmid": "41864747",
+      "標題": "Angiography-derived fractional flow reserve versus coronary angiography to guide coronary artery bypass grafting in patients undergoing surgical valve procedures with concomitant coronary artery disease in China (FAVOR IV-QVAS): a multicentre, triple-blind, randomised trial.",
+      "期刊": "Lancet (London, England)",
+      "發表日期": "2026 Mar 21",
+      "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "heart failure with reduced ejection fraction in Singapore",
-        "I_介入": "quadruple therapy at discharge in 2022",
-        "C_對照": "",
-        "O_結果": "s were the proportions of eligible patients prescribed each GDMT class and quadruple therapy at discharge"
+        "P_族群": "underwent surgery and had available data for the primary outcome",
+        "I_介入": "the angiography-derived FFR group and 397 to the coronary angiography group; one patient in the coronary angiography group declined surgery and was excluded from the modified intention-to-treat popula",
+        "C_對照": "coronary angiography to guide coronary artery bypass grafting in patients undergoing surgical valve procedures with concomitant coronary artery disease in China (FAVOR IV-QVAS): a multicentre",
+        "O_結果": "a composite of death, myocardial infarction, stroke, unplanned coronary revascularisation, and new renal failure requiring dialysis within 30 days after surgery"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討To describe prescription patterns, dosing and persistence of guideline-directed medical therapy (GDMT) among patients with heart failure with reduced ejection fraction in Singapore, and to identify factors associated with the use of quadruple therapy (ACE inhibitor (ACEi)/angiotensin II receptor blo...\n\n【主要結果】Among eligible patients, 80%-99% met criteria for each GDMT drug class, yet only 29% received quadruple therapy at discharge in 2022. Prescription rates for ACEi/ARB/ARNI (67%), beta-blockers (89%), MRAs (40%), and SGLT2 inhibitors (46%) remained suboptimal despite high eligibility.\n\n【結論】Despite high eligibility, uptake and optimisation of GDMT remain poor in Singapore, with substantial treatment gaps driven by underprescription, inadequate dosing and discontinuation.",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to test whether a physiologically guided strategy using angiography-derived fractional flow reserve (FFR) could improve clinical outcomes in this population.\n\n【研究方法】FAVOR IV-QVAS is an investigator-initiated, multicentre, randomised, triple-blind trial done at 12 tertiary hospitals in China. Eligible patients were aged 18 years or older and were scheduled for valve surgery, with at least one clinically significant stenosis in a major coronary artery.\n\n【主要結果】Between Aug 4, 2019, and Aug 13, 2024, 793 patients were enrolled. 396 were randomly assigned to the angiography-derived FFR group and 397 to the coronary angiography group; one patient in the coronary angiography group declined surgery and was excluded from the modified intention-to-treat populatio...\n\n【結論】Among patients undergoing valve surgery with concomitant coronary artery disease, physiologically guided CABG using angiography-derived FFR reduced the incidence of the composite perioperative outcome compared with anatomically guided CABG.",
       "結構化摘要": {
-        "目的": "To describe prescription patterns, dosing and persistence of guideline-directed medical therapy (GDMT) among patients with heart failure with reduced ejection fraction in Singapore, and to identify factors associated with the use of quadruple therapy (ACE inhibitor (ACEi)/angiotensin II receptor blocker (ARB)/angiotensin receptor-neprilysin inhibitor (ARNI), β-blocker, mineralocorticoid receptor antagonist (MRA) and sodium-glucose cotransporter-2 (SGLT2) inhibitor). DESIGN: Retrospective, observ",
-        "結果": "Among eligible patients, 80%-99% met criteria for each GDMT drug class, yet only 29% received quadruple therapy at discharge in 2022. Prescription rates for ACEi/ARB/ARNI (67%), beta-blockers (89%), MRAs (40%), and SGLT2 inhibitors (46%) remained suboptimal despite high eligibility. At discharge, over 90% of patients on ACEi/ARB/ARNI and beta-blockers received ≤50% of target doses. By 6 months, prescription rates declined by 16% for ACEi/ARB/ARNI, 26% for beta-blockers and 7% for MRAs, while SGL",
-        "結論": "Despite high eligibility, uptake and optimisation of GDMT remain poor in Singapore, with substantial treatment gaps driven by underprescription, inadequate dosing and discontinuation. Interventions targeting clinician awareness, postdischarge support and institutional practice variation may improve adherence to guideline-recommended therapy."
+        "背景": "For patients undergoing surgical valve procedures with concomitant coronary artery disease, current guidelines recommend that coronary artery bypass grafting (CABG) should be anatomically guided on the basis of stenosis severity, as assessed by coronary angiography. We aimed to test whether a physiologically guided strategy using angiography-derived fractional flow reserve (FFR) could improve clinical outcomes in this population.",
+        "方法": "FAVOR IV-QVAS is an investigator-initiated, multicentre, randomised, triple-blind trial done at 12 tertiary hospitals in China. Eligible patients were aged 18 years or older and were scheduled for valve surgery, with at least one clinically significant stenosis in a major coronary artery. Patients were randomly assigned (1:1) to undergo physiologically guided CABG (for lesions with an angiography-derived FFR value ≤0·80) or anatomically guided CABG (for lesions with a stenosis diameter ≥50% on c"
       },
       "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
         "研究主題: heart failure"
       ],
-      "關鍵詞": [
-        "Guideline Adherence",
-        "Heart failure",
-        "Singapore"
-      ],
+      "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
-        "Singapore",
-        "Retrospective Studies",
-        "Male",
         "Female",
-        "Aged",
-        "Heart Failure",
+        "Male",
+        "Coronary Artery Bypass",
+        "Fractional Flow Reserve, Myocardial",
+        "Coronary Angiography",
         "Middle Aged",
-        "Mineralocorticoid Receptor Antagonists",
-        "Practice Guidelines as Topic"
+        "Aged",
+        "China",
+        "Coronary Artery Disease"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41819588/",
-      "DOI": "10.1136/bmjopen-2025-107127"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41864747/",
+      "DOI": "10.1016/S0140-6736(25)02418-3"
     },
     {
-      "pmid": "41825454",
-      "標題": "Post-discharge sequelae of Lassa fever survivors in Nigeria: an analysis of the LASCOPE prospective cohort.",
-      "期刊": "The Lancet. Infectious diseases",
-      "發表日期": "2026 Mar 10",
+      "pmid": "41856597",
+      "標題": "Lobeglitazone and the risk of renal progression in Korean patients with type 2 diabetes mellitus: a retrospective cohort study.",
+      "期刊": "BMJ open",
+      "發表日期": "2026 Mar 19",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo",
-        "I_介入": "disease severity",
-        "C_對照": "",
-        "O_結果": "clinical remission, defined as complete absence of symptoms"
+        "P_族群": "type 2 diabetes mellitus: a retrospective cohort study",
+        "I_介入": "lobeglitazone plus metformin with those receiving metformin monotherapy",
+        "C_對照": "metformin monotherapy",
+        "O_結果": "MEASURES: Renal progression, defined as initiation of renal replacement therapy, a sustained ≥30% decline in estimated glomerular filtration rate (eGFR) from baseline, or doubling of serum creatinine "
       },
-      "中文摘要": "【研究目的】本研究旨在探討ed to describe post-discharge sequelae in Lassa fever survivors and explore the effect of disease severity on sequelae patterns.\n\n【研究方法】LASCOPE was a prospective study of patients with PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo, Owo, Nigeria, between April 23, 2018, and Feb 17, 2023. All patients who provided informed consent were included, with no age restriction.\n\n【主要結果】Of 882 survivors (median age 32 years [IQR 22-46], 459 [52%] female and 423 [48%] male), post-discharge data were available for 807 (91%), with a total of 2603 person-months of follow-up. For three of 807 survivors with post-discharge information, only the vital status was collected.\n\n【結論】Patient-reported symptoms suggest good recovery with few hearing or neurosensory disorders in most survivors of Lassa fever. Future research would benefit from extended follow-up periods and standardised diagnostic assessments, including objective audiometry, to further characterise the full spectru...",
+      "中文摘要": "【研究目的】本世代研究旨在探討To evaluate the effect of lobeglitazone on renal disease progression in patients with type 2 diabetes mellitus using longitudinal real-world data.\n\n【主要結果】The HR of renal progression was 0.84 (95% CI 0.58 to 1.21) in the lobeglitazone plus metformin compared with metformin monotherapy, 1.00 (95% CI 0.79 to 1.27) compared with sulfonylurea plus metformin group, 1.10 (95% CI 0.84 to 1.\n\n【結論】Lobeglitazone showed renal outcomes comparable to those of other antidiabetic medications, with a possible heterogeneity in treatment effects according to sex and glycaemic control.",
       "結構化摘要": {
-        "背景": "Lassa fever is one of the most important viral haemorrhagic fevers, yet post-discharge sequelae remain inadequately characterised. Previous studies have been limited by small sample sizes and unsystematic assessments. We aimed to describe post-discharge sequelae in Lassa fever survivors and explore the effect of disease severity on sequelae patterns.",
-        "目的": "audiometry, to further characterise the full spectrum of post-Lassa fever complications. FUNDING: Institut National de la Santé et de la Recherche Médicale, University of Oxford, EU, UK Department for International Development, Wellcome Trust, French Ministry of Foreign Affairs, Agence Nationale de Recherches sur le SIDA et les Hépatites Virales, and French National Research Institute for Sustainable Development.",
-        "方法": "LASCOPE was a prospective study of patients with PCR-confirmed Lassa fever hospitalised at Federal Medical Centre Owo, Owo, Nigeria, between April 23, 2018, and Feb 17, 2023. All patients who provided informed consent were included, with no age restriction. Severe disease was defined as the presence of at least one of the following during the acute phase: National Early Warning Score version 2 score of 7 or higher, Kidney Disease Improving Global Outcomes stage 2 or higher, or Lassa virus PCR Ct"
+        "目的": "To evaluate the effect of lobeglitazone on renal disease progression in patients with type 2 diabetes mellitus using longitudinal real-world data. DESIGN: Retrospective cohort study. SETTING: Hospital-based Common Data Model database. PARTICIPANTS: A total of 14 712 adults with type 2 diabetes mellitus who visited the Diabetes Center of Ewha Womans University Mokdong Hospital between 2013 and 2019 were identified. A 1:2 propensity score matching was performed to compare patients treated with lob",
+        "結果": "The HR of renal progression was 0.84 (95% CI 0.58 to 1.21) in the lobeglitazone plus metformin compared with metformin monotherapy, 1.00 (95% CI 0.79 to 1.27) compared with sulfonylurea plus metformin group, 1.10 (95% CI 0.84 to 1.44) compared with DPP4 inhibitor plus metformin group after adjusting for multiple variables. Subgroup analyses demonstrated significant interactions by sex in the comparison with metformin monotherapy (P for interaction=0.0179) and by glycaemic control in the comparis",
+        "結論": "Lobeglitazone showed renal outcomes comparable to those of other antidiabetic medications, with a possible heterogeneity in treatment effects according to sex and glycaemic control."
       },
       "相關趨勢": [],
-      "關鍵詞": [],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41825454/",
-      "DOI": "10.1016/S1473-3099(26)00057-5"
-    },
-    {
-      "pmid": "41802782",
-      "標題": "Trajectories of metabolic risk clusters and adverse outcomes in patients with chronic kidney disease: a prospective cohort study in Taiwan.",
-      "期刊": "BMJ open",
-      "發表日期": "2026 Mar 09",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "chronic kidney disease: a prospective cohort study in Taiwan",
-        "I_介入": "",
-        "C_對照": "the other groups",
-        "O_結果": ") and time to MAKE, defined as a composite of dialysis initiation or all-cause mortality (secondary outcome)"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討To investigate the association between longitudinal trajectories of metabolic risk clusters and the risk of progression to end-stage kidney disease (ESKD) and major adverse kidney events (MAKEs) in patients with chronic kidney disease (CKD).\n\n【主要結果】Four trajectory groups were identified: Group I had controlled blood pressure and glucose but elevated LDL (dialysis incidence: 19.5 per 1000 person-years); Group II had borderline-high blood pressure and elevated glucose (33.\n\n【結論】Longitudinal trajectories of metabolic risk cluster are associated with differential risks of CKD progression to ESKD and death. Our findings provide valuable insights into the monitoring of metabolic risk profiles over time in patients with CKD.",
-      "結構化摘要": {
-        "目的": "To investigate the association between longitudinal trajectories of metabolic risk clusters and the risk of progression to end-stage kidney disease (ESKD) and major adverse kidney events (MAKEs) in patients with chronic kidney disease (CKD). DESIGN: Prospective registry-based cohort study. SETTING: Secondary and tertiary care settings in Taiwan, using data from a multidisciplinary pre-ESKD care programme. PARTICIPANTS: A total of 1494 adult patients with CKD stages 3b-5 enrolled in a structured ",
-        "結果": "Four trajectory groups were identified: Group I had controlled blood pressure and glucose but elevated LDL (dialysis incidence: 19.5 per 1000 person-years); Group II had borderline-high blood pressure and elevated glucose (33.6 per 1000 person-years); Group III had controlled glucose and low LDL but borderline-high blood pressure (38.8 per 1000 person-years) and Group IV had controlled glucose but elevated blood pressure and LDL (46.7 per 1000 person-years). Compared with the other groups, Group",
-        "結論": "Longitudinal trajectories of metabolic risk cluster are associated with differential risks of CKD progression to ESKD and death. Our findings provide valuable insights into the monitoring of metabolic risk profiles over time in patients with CKD."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality",
-        "臨床結局: ESKD"
-      ],
       "關鍵詞": [
-        "Blood Pressure",
         "Chronic renal failure",
         "Diabetes Mellitus, Type 2",
-        "Lipid disorders",
-        "Nephrology"
+        "Medication Review"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Taiwan",
-        "Male",
+        "Diabetes Mellitus, Type 2",
         "Female",
+        "Male",
+        "Retrospective Studies",
         "Middle Aged",
-        "Prospective Studies",
-        "Renal Insufficiency, Chronic",
-        "Disease Progression",
-        "Aged",
-        "Kidney Failure, Chronic"
+        "Hypoglycemic Agents",
+        "Metformin",
+        "Republic of Korea",
+        "Thiazolidinediones"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41802782/",
-      "DOI": "10.1136/bmjopen-2025-110041"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41856597/",
+      "DOI": "10.1136/bmjopen-2025-107482"
     },
     {
-      "pmid": "41448276",
-      "標題": "When apical sparing is not amyloidosis: Echocardiographic insights from a cohort of end-stage renal disease.",
-      "期刊": "International journal of cardiology",
-      "發表日期": "2026 Mar 15",
+      "pmid": "41856526",
+      "標題": "Accuracy of glomerular filtration rate estimation based on creatinine and cystatin C for monitoring moderate chronic kidney disease in adults: prospective, longitudinal cohort study.",
+      "期刊": "BMJ (Clinical research ed.)",
+      "發表日期": "2026 Mar 19",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "interventricular septal thickness > 12 mm and available strain imaging",
+        "P_族群": "moderate chronic kidney disease",
         "I_介入": "",
-        "C_對照": "55 %",
-        "O_結果": ""
+        "C_對照": "",
+        "O_結果": "MEASURES: Ability of estimating equations to monitor GFR over three years, with slope deviations from reference measured GFR (iohexol clearance) within ±3 mL/min/1"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to assess the prevalence and clinical predictors of RELAPS among ESRD patients undergoing kidney transplant evaluation.\n\n【研究方法】This retrospective cohort study included adult ESRD patients with interventricular septal thickness > 12 mm and available strain imaging. Patients diagnosed with transthyretin or light-chain amyloidosis were excluded.\n\n【主要結果】Of 1389 patients screened, 199 met inclusion criteria, and 50 (25 %) exhibited a RELAPS pattern. Patients with RELAPS were more likely to be dialysis dependent (86 % vs. 55 %, p < 0.001), have elevated E/e' ratios (14.1 vs. 11.2, p = 0.\n\n【結論】The RELAPS pattern is relatively common in ESRD patients with increased septal thickness and is independently associated with dialysis dependence and elevated LV filling pressures.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To provide evidence on the longitudinal accuracy of glomerular filtration rate (GFR) estimating equations that include creatinine and cystatin C to monitor patients with moderate chronic kidney disease.\n\n【主要結果】After three years, 875 participants had measured and estimated GFR data recorded at the start and end of the study and comprised the study cohort. Median measured GFR decreased from 48.1 mL/min/1.73 m2 at baseline to 43.6 mL/min/1.73 m2 at three years.\n\n【結論】Underestimation of the reduction in GFR by estimated GFR requires further investigation. Equations that included both creatinine and cystatin C more accurately monitored change in measured GFR than equations based on one biomarker.",
       "結構化摘要": {
-        "背景": "The relative apical sparing (RELAPS) pattern on echocardiography, commonly linked to cardiac amyloidosis, may also occur in other conditions such as end-stage renal disease (ESRD). This study aimed to assess the prevalence and clinical predictors of RELAPS among ESRD patients undergoing kidney transplant evaluation.",
-        "方法": "This retrospective cohort study included adult ESRD patients with interventricular septal thickness > 12 mm and available strain imaging. Patients diagnosed with transthyretin or light-chain amyloidosis were excluded. RELAPS was defined as an average apical-to-(basal+mid) longitudinal strain ratio > 1.0. Clinical and echocardiographic variables were compared between groups, and multivariable logistic regression was used to identify independent predictors.",
-        "結果": "Of 1389 patients screened, 199 met inclusion criteria, and 50 (25 %) exhibited a RELAPS pattern. Patients with RELAPS were more likely to be dialysis dependent (86 % vs. 55 %, p < 0.001), have elevated E/e' ratios (14.1 vs. 11.2, p = 0.02) and lower global longitudinal strain (GLS) compared to those without RELAPS (13.5 ± 3.3 vs 15.1 ± 2.9 %; p = 0.02). In multivariable analysis, dialysis (OR 3.9; 95 % CI 1.6-9.7) and E/e' (OR 1.07 per unit; 95 % CI 1.03-1.13) were independently associated with ",
-        "結論": "The RELAPS pattern is relatively common in ESRD patients with increased septal thickness and is independently associated with dialysis dependence and elevated LV filling pressures. These findings imply that RELAPS may reflect advanced myocardial remodeling and hemodynamic burden, suggesting it is not exclusive to cardiac amyloidosis."
+        "目的": "To provide evidence on the longitudinal accuracy of glomerular filtration rate (GFR) estimating equations that include creatinine and cystatin C to monitor patients with moderate chronic kidney disease. DESIGN: Prospective, longitudinal, cohort study. SETTING: Primary, secondary, and tertiary care across six centres in England, 1 April 2014 to 31 December 2017. PARTICIPANTS: 1229 adults (≥18 years) with moderate chronic kidney disease (creatinine estimated GFR of 30-59 mL/min/1.73 m2 for at leas",
+        "結果": "After three years, 875 participants had measured and estimated GFR data recorded at the start and end of the study and comprised the study cohort. Median measured GFR decreased from 48.1 mL/min/1.73 m2 at baseline to 43.6 mL/min/1.73 m2 at three years. GFR was estimated with the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) and European Kidney Function Consortium (EKFC) estimating equations. Median change in measured GFR exceeded median change in estimated GFR for all equations. Al",
+        "結論": "Underestimation of the reduction in GFR by estimated GFR requires further investigation. Equations that included both creatinine and cystatin C more accurately monitored change in measured GFR than equations based on one biomarker. Increased use of combined biomarker equations in clinical practice could improve disease monitoring and potentially clinical care. STUDY REGISTRATION: ISRCTN registry ISRCTN42955626."
       },
       "相關趨勢": [
         "診斷技術: biomarker"
       ],
-      "關鍵詞": [
-        "Cardiac amyloidosis",
-        "Echocardiography",
-        "End-stage renal disease",
-        "Relative apical sparing",
-        "Strain imaging"
-      ],
+      "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
+        "Glomerular Filtration Rate",
+        "Cystatin C",
+        "Renal Insufficiency, Chronic",
+        "Creatinine",
         "Male",
         "Female",
-        "Kidney Failure, Chronic",
-        "Retrospective Studies",
         "Middle Aged",
-        "Echocardiography",
-        "Amyloidosis",
-        "Aged",
-        "Cohort Studies"
+        "Prospective Studies",
+        "Longitudinal Studies"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41448276/",
-      "DOI": "10.1016/j.ijcard.2025.134115"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41856526/",
+      "DOI": "10.1136/bmj-2025-085005"
     },
     {
-      "pmid": "41823715",
-      "標題": "Efficacy of Low-dose Aspirin in Preventing Hypertensive Disorders of Pregnancy in Women with Systemic Lupus Erythematosus: A Single-Center Retrospective Cohort Study.",
-      "期刊": "Modern rheumatology",
-      "發表日期": "2026 Mar 13",
-      "研究類型": "研究",
+      "pmid": "41864885",
+      "標題": "Prevalence and determinants of urinary tract infection among Ethiopian children: a systematic review and meta-analysis of institution-based studies.",
+      "期刊": "BMC infectious diseases",
+      "發表日期": "2026 Mar 21",
+      "研究類型": "系統性回顧",
       "PICO": {
         "P_族群": "",
-        "I_介入": "LDA and those not treated",
+        "I_介入": "",
         "C_對照": "",
-        "O_結果": "the efficacy of LDA in preventing HDP in women with SLE"
+        "O_結果": "through subgroup and leave-one-out sensitivity analyses"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討Low-dose aspirin (LDA) is widely recommended to prevent hypertensive disorders of pregnancy (HDP). However, the evidence of its effectiveness in pregnancies with systemic lupus erythematosus (SLE) remains limited. This study evaluated the efficacy of LDA in preventing HDP in women with SLE.\n\n【研究方法】We conducted a retrospective cohort study of 124 pregnancies with SLE managed at our hospital. Pregnancy outcomes were compared between women treated with LDA and those not treated, using propensity score and inverse probability weighting analyses to adjust for confounders.\n\n【主要結果】LDA was used in 65 pregnancies and not used in 59. HDP occurred in 7/65 (10.8%) and 8/59 (13.6%), respectively. After adjusting for potential confounders, including antiphospholipid antibodies, lupus nephritis, chronic hypertension, chronic kidney disease, history of HDP, and hydroxychloroquine use,...\n\n【結論】LDA did not significantly reduce the incidence of HDP in women with SLE. This lack of effect may reflect the low event rate in a well-controlled cohort.",
+      "中文摘要": "【研究背景】Pediatric urinary tract infections (UTIs) are a major source of morbidity, often leading to severe complications like renal scarring, hypertension, and chronic kidney disease if not treated promptly. In Ethiopia, current data remains sparse and fragmented across single-institution studies.\n\n【研究方法】This systematic review and meta-analysis followed PRISMA guidelines and involved a comprehensive search of PubMed, Medline, HINARI, ScienceDirect, Scopus and Google Scholar for literature published through August 15, 2025.\n\n【主要結果】was evaluated through subgroup and leave-one-out sensitivity analyses. To address publication bias funnel plot and a non-parametric trim-and-fill analysis was applied. Forest plots were utilized to visualize results. RESULTS: A total of 13 studies involving 3,951 children met the inclusion criteria.\n\n【結論】Urinary tract infections (UTIs) represent a significant clinical burden driven primarily by a history of previous infections, prior catheterization and prolonged hospital stays exceeding four days.",
       "結構化摘要": {
-        "目的": "Low-dose aspirin (LDA) is widely recommended to prevent hypertensive disorders of pregnancy (HDP). However, the evidence of its effectiveness in pregnancies with systemic lupus erythematosus (SLE) remains limited. This study evaluated the efficacy of LDA in preventing HDP in women with SLE.",
-        "方法": "We conducted a retrospective cohort study of 124 pregnancies with SLE managed at our hospital. Pregnancy outcomes were compared between women treated with LDA and those not treated, using propensity score and inverse probability weighting analyses to adjust for confounders.",
-        "結果": "LDA was used in 65 pregnancies and not used in 59. HDP occurred in 7/65 (10.8%) and 8/59 (13.6%), respectively. After adjusting for potential confounders, including antiphospholipid antibodies, lupus nephritis, chronic hypertension, chronic kidney disease, history of HDP, and hydroxychloroquine use, the risk ratio for HDP with LDA was 0.76 (95% confidence interval: 0.25-2.33; p=0.64). Sensitivity analysis was consistent.",
-        "結論": "LDA did not significantly reduce the incidence of HDP in women with SLE. This lack of effect may reflect the low event rate in a well-controlled cohort. These findings underscore the need for individualized risk assessment and careful monitoring, beyond reliance on LDA alone, in the management of pregnancies with SLE."
+        "背景": "Pediatric urinary tract infections (UTIs) are a major source of morbidity, often leading to severe complications like renal scarring, hypertension, and chronic kidney disease if not treated promptly. In Ethiopia, current data remains sparse and fragmented across single-institution studies. This synthesis pools existing evidence to provide a comprehensive national estimate of bacterial UTI prevalence and its primary determinants.",
+        "方法": "This systematic review and meta-analysis followed PRISMA guidelines and involved a comprehensive search of PubMed, Medline, HINARI, ScienceDirect, Scopus and Google Scholar for literature published through August 15, 2025. The inclusion criteria focused on non-randomized studies reporting the prevalence of UTIs and/or associated factors among children (age < 18 years) in Ethiopia. Data were extracted using a standardized template encompassing the author, publication year, study area/setting, pre",
+        "結果": ". RESULTS: A total of 13 studies involving 3,951 children met the inclusion criteria. The pooled prevalence of bacterial UTI was found to be 23.17% (95% CI: 18.40%-27.93%). The meta-analysis of associated factors was identified history of previous UTI (OR = 2.47, 95% CI: 1.66 - 3.68), history of catheterization (OR = 2.95, 95% CI: 1.78 - 4.91) and hospital stay longer than four days (OR = 2.65, 95% CI: 1.75 - 4.00) as significant predictors of UTI.",
+        "結論": "Urinary tract infections (UTIs) represent a significant clinical burden driven primarily by a history of previous infections, prior catheterization and prolonged hospital stays exceeding four days. To mitigate this risk, implementation of targeted screening protocols and evidence-based preventive measures: minimizing unnecessary catheterization and reducing hospital length of stay whenever medically feasible, is recommended to proactively lower infection rates. CLINICAL TRIAL: Not applicable."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "Hypertensive disorders of pregnancy",
-        "low-dose aspirin",
-        "lupus nephritis",
-        "obstetric outcomes",
-        "preeclampsia",
-        "pregnancy",
-        "propensity score weighting",
-        "retrospective cohort study",
-        "single-center",
-        "systemic lupus erythematosus"
+        "Children",
+        "Meta-analysis",
+        "Prevalence",
+        "Systematic review",
+        "Urinary tract infection"
       ],
       "MeSH詞彙": [],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41823715/",
-      "DOI": "10.1093/mr/roag028"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41864885/",
+      "DOI": "10.1186/s12879-026-13114-y"
     },
     {
-      "pmid": "41807295",
-      "標題": "Significant kidney impairment in pediatric inflammatory bowel disease and practice points for pediatric gastroenterologists.",
-      "期刊": "Journal of pediatric gastroenterology and nutrition",
-      "發表日期": "2026 Mar 10",
+      "pmid": "41861190",
+      "標題": "Simplified versus traditional citrate anticoagulation in hemodialysis: Impact on clinical efficacy and patient prognosis, and correlative analysis.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Mar 20",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders",
+        "P_族群": "end-stage renal disease",
+        "I_介入": "response",
+        "C_對照": "traditional citrate anticoagulation in hemodialysis: Impact on clinical efficacy and patient prognosis",
+        "O_結果": "significantly prolonged activated partial thromboplastin time"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to assess the impact of different anticoagulation protocols on HD patients. A prospective cohort study was conducted involving 109 HD patients, comprising a traditional citrate anticoagulation group (n = 57) and a simplified citrate anticoagulation group (n = 52).",
+      "結構化摘要": {
+        "完整摘要": "Hemodialysis (HD) is a critical therapy for patients with end-stage renal disease, and the choice of anticoagulation protocol is crucial for its success. The impact of simplified citrate anticoagulation that notably eliminates the need for calcium supplementation on clinical efficacy and patient prognosis in comparison to traditional citrate anticoagulation has not been comprehensively elucidated. This study aimed to assess the impact of different anticoagulation protocols on HD patients. A prospective cohort study was conducted involving 109 HD patients, comprising a traditional citrate anticoagulation group (n = 57) and a simplified citrate anticoagulation group (n = 52). Various clinical and prognostic parameters including coagulation, inflammatory markers, cardiovascular parameters, treatment response, and patient-reported outcomes were assessed. Correlative analyses were performed to explore the associations between different anticoagulation protocols and clinical and prognostic p"
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "臨床結局: quality of life",
+        "臨床結局: patient-reported outcomes"
+      ],
+      "關鍵詞": [
+        "clinical efficacy",
+        "correlative analysis",
+        "hemodialysis",
+        "prognosis",
+        "simplified citrate anticoagulation"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Anticoagulants",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Renal Dialysis",
+        "Prospective Studies",
+        "Citric Acid",
+        "Kidney Failure, Chronic",
+        "Prognosis"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41861190/",
+      "DOI": "10.1097/MD.0000000000047926"
+    },
+    {
+      "pmid": "41860623",
+      "標題": "Candidemia Attributed to a Urinary Tract Source: Retrospective Cohort Study of Risk Factors, Clinical Profiles, Therapeutic Approaches and Outcomes.",
+      "期刊": "Mycopathologia",
+      "發表日期": "2026 Mar 20",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "candidemia attributed to a urinary source between 2019 and 2023",
         "I_介入": "",
         "C_對照": "",
         "O_結果": ""
       },
-      "中文摘要": "【研究目的】本研究旨在探討Children with inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders, which may cause significant kidney function impairment (SKI) or lead to chronic kidney disease (CKD).\n\n【研究方法】Cases of SKI in children with IBD (<19 years) were collected from the international, prospective PIBD-SETQuality Safety Registry. A monthly survey was sent to participating pediatric gastroenterologists to report cases of SKI (defined as an estimated glomerular filtration rate (eGFR) < 60 mL/min/1.\n\n【主要結果】Between November 1, 2016 and December 31, 2023, 42 cases of SKI were eligible for analysis. Tubulo-interstitial nephritis (TIN) was the most common diagnosis (n = 15). Sixteen (38%) cases were confirmed with renal biopsy (10 cases of TIN). Twelve patients developed CKD.\n\n【結論】This is the first prospective study to report cases of SKI in children with IBD. SKI may lead to CKD. Confirming the etiology of the SKI proved to be very challenging. The study provides recommendations for screening and follow-up of SKI in children with IBD.",
+      "中文摘要": "【研究背景】Urinary-source candidemia is an uncommon but clinically relevant form of invasive candidiasis, often underrecognized and poorly characterized in the literature.\n\n【研究方法】Retrospective single-center study of adult patients with candidemia attributed to a urinary source between 2019 and 2023. Eligible cases were identified using predefined attribution criteria, requiring microbiologically confirmed Candida spp.\n\n【主要結果】Among 526 positive blood cultures, 26 fulfilled the predefined criteria for urinary tract source attribution. The median age was 74 years. Most patients had a nephro-urological history, with frequent chronic kidney disease (15, 57.7%), obstructive uropathy (19, 73.\n\n【結論】Candidemia with a presumed urinary tract source primarily affects frail patients with urological comorbidities, often presents with non-specific symptoms and is associated with significant morbidity and mortality. Combination antifungal therapy may be beneficial in selected cases.",
       "結構化摘要": {
-        "目的": "Children with inflammatory bowel disease (IBD) have an increased risk of developing kidney disorders, which may cause significant kidney function impairment (SKI) or lead to chronic kidney disease (CKD). In this study we aimed to provide insights in causes and diagnoses of SKI cases and to provide recommendations for pediatric gastroenterologists for children with IBD and SKI.",
-        "方法": "Cases of SKI in children with IBD (<19 years) were collected from the international, prospective PIBD-SETQuality Safety Registry. A monthly survey was sent to participating pediatric gastroenterologists to report cases of SKI (defined as an estimated glomerular filtration rate (eGFR) < 60 mL/min/1.73m2). Additionally, a panel consisting of 16 members (including experts in pediatric IBD and nephrology) rated the most likely cause of the cases and formulated recommendations for screening, follow-u",
-        "結果": "Between November 1, 2016 and December 31, 2023, 42 cases of SKI were eligible for analysis. Tubulo-interstitial nephritis (TIN) was the most common diagnosis (n = 15). Sixteen (38%) cases were confirmed with renal biopsy (10 cases of TIN). Twelve patients developed CKD. IBD medication was the most frequently reported cause (n = 15), however, there was low concordance between panelists about the most likely etiology (Fleiss' kappa 0.143 and 0.102).",
-        "結論": "This is the first prospective study to report cases of SKI in children with IBD. SKI may lead to CKD. Confirming the etiology of the SKI proved to be very challenging. The study provides recommendations for screening and follow-up of SKI in children with IBD."
+        "背景": "Urinary-source candidemia is an uncommon but clinically relevant form of invasive candidiasis, often underrecognized and poorly characterized in the literature.",
+        "方法": "Retrospective single-center study of adult patients with candidemia attributed to a urinary source between 2019 and 2023. Eligible cases were identified using predefined attribution criteria, requiring microbiologically confirmed Candida spp. bloodstream infection with significant candiduria by the same species, in the absence of an alternative clinically plausible source.",
+        "結果": "Among 526 positive blood cultures, 26 fulfilled the predefined criteria for urinary tract source attribution. The median age was 74 years. Most patients had a nephro-urological history, with frequent chronic kidney disease (15, 57.7%), obstructive uropathy (19, 73.1%), indwelling urinary devices (21, 80.8%) and recent urological procedures (19, 73.1%). Type 2 diabetes was present in 50% of patients (13), most receiving SGLT2 inhibitors. The majority presented with fever (23, 88.5%), and sepsis w",
+        "結論": "Candidemia with a presumed urinary tract source primarily affects frail patients with urological comorbidities, often presents with non-specific symptoms and is associated with significant morbidity and mortality. Combination antifungal therapy may be beneficial in selected cases. Early recognition and individualized management are essential to improve outcomes."
+      },
+      "相關趨勢": [
+        "治療方法: SGLT2 inhibitor",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Antifungal therapy",
+        "Fluconazole resistance",
+        "Invasive candidiasis",
+        "Outcomes",
+        "Risk factors",
+        "Urinary source candidemia"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Retrospective Studies",
+        "Aged",
+        "Male",
+        "Female",
+        "Candidemia",
+        "Urinary Tract Infections",
+        "Risk Factors",
+        "Antifungal Agents",
+        "Middle Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41860623/",
+      "DOI": "10.1007/s11046-026-01063-8"
+    },
+    {
+      "pmid": "41849287",
+      "標題": "The experiences of adults with end-stage renal disease who dialyse at home: a systematic review.",
+      "期刊": "British journal of nursing (Mark Allen Publishing)",
+      "發表日期": "2026 Mar 19",
+      "研究類型": "系統性回顧",
+      "PICO": {
+        "P_族群": "end-stage renal disease who dialyse at home: a systematic review",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本系統性回顧旨在探討To understand the lived experiences of patients undertaking dialysis at home to add to the current body of knowledge and make recommendations for future research and practice.\n\n【研究方法】A comprehensive search of electronic databases was completed to identify all eligible qualitative primary research studies. Thematic synthesis of the data was then performed.\n\n【主要結果】From 325 participants across 10 international studies, eight themes were identified, including the importance of support networks and integration with daily life.\n\n【結論】Patients can feel both positively and negatively towards home dialysis. There are opportunities to improve care by increasing access to more sources of support and encouraging patients to continue with activities that are important to them.",
+      "結構化摘要": {
+        "背景": "Where available, some patients with end-stage renal disease choose to independently dialyse at home rather than in-centre. This reportedly offers patients increased lifestyle flexibility but can lead to an increased burden on patients. AIMS: To understand the lived experiences of patients undertaking dialysis at home to add to the current body of knowledge and make recommendations for future research and practice.",
+        "方法": "A comprehensive search of electronic databases was completed to identify all eligible qualitative primary research studies. Thematic synthesis of the data was then performed. FINDINGS: From 325 participants across 10 international studies, eight themes were identified, including the importance of support networks and integration with daily life. CONCLUSION: Patients can feel both positively and negatively towards home dialysis. There are opportunities to improve care by increasing access to more",
+        "結論": "Patients can feel both positively and negatively towards home dialysis. There are opportunities to improve care by increasing access to more sources of support and encouraging patients to continue with activities that are important to them."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "Crohn's disease",
-        "renal",
-        "ulcerative colitis"
+        "Chronic kidney disease",
+        "End-stage renal disease",
+        "Home dialysis",
+        "Improving care",
+        "Patient experiences",
+        "Systematic review"
       ],
-      "MeSH詞彙": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Hemodialysis, Home",
+        "Adult",
+        "Qualitative Research"
+      ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41807295/",
-      "DOI": "10.1002/jpn3.70391"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41849287/",
+      "DOI": "10.12968/bjon.2025.0534"
     },
     {
-      "pmid": "41701148",
-      "標題": "Hybrid Repair for Thoraco-Abdominal Aortic Diseases: Benefits of a Staged Treatment Strategy.",
-      "期刊": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
-      "發表日期": "2026 Mar 10",
+      "pmid": "41845115",
+      "標題": "Cerebral vasospasm following arteriovenous malformation rupture: a population-based longitudinal study.",
+      "期刊": "Acta neurochirurgica",
+      "發表日期": "2026 Mar 18",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "20 patients (23",
-        "I_介入": "Strategy",
-        "C_對照": "",
-        "O_結果": "s were early (≤30 days) and mid-term survival, and freedom from aorta-related mortality (ARM)"
+        "P_族群": "ruptured AVMs",
+        "I_介入": "",
+        "C_對照": "4",
+        "O_結果": "the hazards of vasospasm (I67"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討We described short- and mid-term outcomes of hybrid thoraco-abdominal aortic aneurysm repair (HTAR), combining visceral debranching and thoracic endovascular aortic repair (TEVAR).\n\n【研究方法】This multicentric, retrospective cohort study analysed prospectively collected data from 2 Italian referral centres on patients undergoing HTAR with at least one renal artery bypass between 2003 and 2024. These patients were deemed unfit for open surgery.\n\n【主要結果】The population included 86 patients, 12 (13.9%) of which were urgent. Median age was 69 years. In-hospital mortality occurred in 20 patients (23.3%), with major complications in 33 (38.4%), mainly acute kidney injury (AKI) (20; 23.3%) and pneumonia (9; 10.5%). Spinal cord injury rate was 5.8%.\n\n【結論】HTAR provides an alternative to open repair in high-risk thoracoabdominal aortic aneurysm (TAAA) patients, with acceptable early and mid-term outcomes. While in-hospital mortality remains notable, SCI rates are low thanks to the 2-stage approach, and freedom from ARM and bypass patency are satisfact...",
+      "中文摘要": "【研究目的】本世代研究旨在探討of this study was to characterize risk factors associated with vasospasm and mortality in ruptured AVM.\n\n【研究方法】Adult patients from the TriNetX Research Network were included, based on the ICD-10 codes, over a period of 20 years. Cox proportional hazard models assessed the hazards of vasospasm (I67.\n\n【主要結果】Among 10,375 patients with ruptured AVMs, 523 (5.3%) died and 297 (3.0%) experienced vasospasm in the first 30 days. After matching for age and sex, vasospasm was associated with increased mortality at three months (11.1% vs. 4.8%, p = 0.003), six months (12.6% vs. 5.1%, p = 0.\n\n【結論】In this retrospective cohort study of 10,375 adult patients with ruptured AVMs, vasospasm occurred in approximately 3%. Risk factors for vasospasm included subarachnoid hemorrhage, male sex, hydrocephalus, and leukocytosis.",
       "結構化摘要": {
-        "目的": "We described short- and mid-term outcomes of hybrid thoraco-abdominal aortic aneurysm repair (HTAR), combining visceral debranching and thoracic endovascular aortic repair (TEVAR).",
-        "方法": "This multicentric, retrospective cohort study analysed prospectively collected data from 2 Italian referral centres on patients undergoing HTAR with at least one renal artery bypass between 2003 and 2024. These patients were deemed unfit for open surgery. Primary outcomes were early (≤30 days) and mid-term survival, and freedom from aorta-related mortality (ARM). Secondary outcomes included spinal cord injury (SCI), freedom from reintervention, and bypass patency.",
-        "結果": "The population included 86 patients, 12 (13.9%) of which were urgent. Median age was 69 years. In-hospital mortality occurred in 20 patients (23.3%), with major complications in 33 (38.4%), mainly acute kidney injury (AKI) (20; 23.3%) and pneumonia (9; 10.5%). Spinal cord injury rate was 5.8%. A 2-stage strategy was used in 68 patients (79.1%). Median follow-up was 17.5 months. At 1-, 2-, and 5-years, survival was 68.6%, 67%, and 50.9%, freedom from ARM was 82.4%, 82.4%, and 82.4%; freedom from ",
-        "結論": "HTAR provides an alternative to open repair in high-risk thoracoabdominal aortic aneurysm (TAAA) patients, with acceptable early and mid-term outcomes. While in-hospital mortality remains notable, SCI rates are low thanks to the 2-stage approach, and freedom from ARM and bypass patency are satisfactory. IRB APPROVAL: No. 121/2022/Disp/AUOBo/10/2023."
+        "背景": "Vasospasm is a devastating sequelae of ruptured arteriovenous malformations (AVMs) in adults. Comorbidities and presenting factors have been suggested as risks, but only in cross-sectional studies. The",
+        "目的": "of this study was to characterize risk factors associated with vasospasm and mortality in ruptured AVM.",
+        "方法": "Adult patients from the TriNetX Research Network were included, based on the ICD-10 codes, over a period of 20 years. Cox proportional hazard models assessed the hazards of vasospasm (I67.84) and mortality separately, adjusting for age, sex, comorbidities, substance use history, presenting factors (e.g., hypernatremia, hypokalemia), criteria of the National Inpatient Sample-Subarachnoid Hemorrhage Severity Score, and location of hemorrhage. Outcomes were assessed in the first 30 days following r",
+        "結果": "Among 10,375 patients with ruptured AVMs, 523 (5.3%) died and 297 (3.0%) experienced vasospasm in the first 30 days. After matching for age and sex, vasospasm was associated with increased mortality at three months (11.1% vs. 4.8%, p = 0.003), six months (12.6% vs. 5.1%, p = 0.001), and one year (13.5% vs. 6.9%, p = 0.005). Female sex was protective against vasospasm within 30 days (HR = 0.714, p = 0.007) while the greatest risk factors present on admission included subarachnoid hemorrhage (6.08",
+        "結論": "In this retrospective cohort study of 10,375 adult patients with ruptured AVMs, vasospasm occurred in approximately 3%. Risk factors for vasospasm included subarachnoid hemorrhage, male sex, hydrocephalus, and leukocytosis. The presence of vasospasm was associated with a more than twofold increase in mortality at both 30 days and one year."
       },
       "相關趨勢": [
         "臨床結局: mortality"
       ],
       "關鍵詞": [
-        "TEVAR",
-        "aneurysm",
-        "aorta",
-        "hybrid repair",
-        "thoracoabdominal",
-        "vascular"
+        "Critical Care",
+        "Intracranial",
+        "Intracranial Arteriovenous Malformations",
+        "Intracranial Hemorrhages",
+        "Vasospasm"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Male",
-        "Female",
-        "Aged",
-        "Retrospective Studies",
-        "Aortic Aneurysm, Thoracic",
-        "Endovascular Procedures",
-        "Middle Aged",
-        "Blood Vessel Prosthesis Implantation",
-        "Treatment Outcome"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41701148/",
-      "DOI": "10.1093/ejcts/ezag099"
-    },
-    {
-      "pmid": "41827649",
-      "標題": "Patient Perceptions of Vascular Access and Quality of Life in Maintenance Hemodialysis: A Multicenter Study on Patient-Centered Outcomes.",
-      "期刊": "Healthcare (Basel, Switzerland)",
-      "發表日期": "2026 Mar 09",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region",
-        "I_介入": "",
-        "C_對照": "AVF",
-        "O_結果": ""
-      },
-      "中文摘要": "【研究背景】Vascular access is a core component of hemodialysis and may influence both clinical outcomes and patient-reported quality of life. This study examined the association between vascular access type and quality of life among patients receiving maintenance hemodialysis in multiple nephrology centers.\n\n【研究方法】We conducted a multicenter, cross-sectional observational study of 152 adults with end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region, Greece (January-May 2022).\n\n【主要結果】Most participants reported being very (40.8%) or quite (53.3%) satisfied with their current vascular access, and 69.5% considered an arteriovenous fistula (AVF) the most appropriate option.\n\n【結論】Vascular access type, particularly AVF versus catheter, is associated with meaningful differences in quality of life among hemodialysis patients. Patient satisfaction with access and sociodemographic characteristics should be considered in patient-centered access planning and follow-up.",
-      "結構化摘要": {
-        "背景": "Vascular access is a core component of hemodialysis and may influence both clinical outcomes and patient-reported quality of life. This study examined the association between vascular access type and quality of life among patients receiving maintenance hemodialysis in multiple nephrology centers.",
-        "方法": "We conducted a multicenter, cross-sectional observational study of 152 adults with end-stage kidney disease undergoing hemodialysis in public and private dialysis units in the Attica region, Greece (January-May 2022). Data were collected using a demographic/clinical questionnaire, the 36-Item Short Form Health Survey (SF-36), the Dialysis Patient Satisfaction Questionnaire (SDIALOR), and the Missoula VITAS Quality of Life Index (MVQOLI). Multivariable linear regression models were fitted for SF-",
-        "結果": "Most participants reported being very (40.8%) or quite (53.3%) satisfied with their current vascular access, and 69.5% considered an arteriovenous fistula (AVF) the most appropriate option. SF-36 scores were generally lower than those reported for the general population, except for the mental health domain. Compared with AVF, permanent catheter use was associated with lower SF-36 physical functioning scores, and graft use was associated with lower vitality scores. Lower vascular access satisfact",
-        "結論": "Vascular access type, particularly AVF versus catheter, is associated with meaningful differences in quality of life among hemodialysis patients. Patient satisfaction with access and sociodemographic characteristics should be considered in patient-centered access planning and follow-up."
-      },
-      "相關趨勢": [
-        "臨床結局: quality of life"
-      ],
-      "關鍵詞": [
-        "chronic kidney disease",
-        "hemodialysis",
-        "quality of life",
-        "vascular access"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41827649/",
-      "DOI": "10.3390/healthcare14050697"
-    },
-    {
-      "pmid": "41693026",
-      "標題": "A prospective external validation of the GRade, Age, Nodes and Tumor score in the ECOG-ACRIN EA8143 PROSPER trial.",
-      "期刊": "The oncologist",
-      "發表日期": "2026 Mar 09",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "surgically treated renal cell carcinoma (RCC) and integrates age",
-        "I_介入": "",
-        "C_對照": "unfavorable (2-4 risk factors)",
-        "O_結果": "using Harrell's C-index"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to validate the GRANT score within the ECOG-ACRIN EA8143 PROSPER prospective trial.\n\n【研究方法】We conducted a validation analysis of the GRANT score within the phase III randomized EA8143 PROSPER study of perioperative nivolumab in surgically treated RCC. Patients were classified into 2 risk groups, favorable (0-1 risk factors) versus unfavorable (2-4 risk factors).\n\n【主要結果】Among 714 patients included, 58.3% were favorable and 41.7% unfavorable based on the GRANT score. Patients in the favorable group had a significantly longer median RFS (61.1 vs. 36.9 months; hazard ratio [HR]: 0.36, 95% confidence interval [CI]: 0.27-0.48, P < .\n\n【結論】The GRANT score was prospectively validated in the PROSPER study, demonstrating prognostic value for both RFS and OS, especially in nonclear RCC, further supporting its use in clinical practice. Clinical trial registration number: ClinicalTrials.gov, NCT03055013.",
-      "結構化摘要": {
-        "背景": "The GRade, Age, Nodes and Tumor (GRANT) score is one of the prognostic models recommended by international guidelines to refine recurrence risk stratification in patients with surgically treated renal cell carcinoma (RCC) and integrates age, tumor size, grade, and nodal status. In this study, we aimed to validate the GRANT score within the ECOG-ACRIN EA8143 PROSPER prospective trial.",
-        "方法": "We conducted a validation analysis of the GRANT score within the phase III randomized EA8143 PROSPER study of perioperative nivolumab in surgically treated RCC. Patients were classified into 2 risk groups, favorable (0-1 risk factors) versus unfavorable (2-4 risk factors). Relapse-free survival (RFS) and overall survival (OS) were estimated using the Kaplan-Meier method. Model discrimination were evaluated using Harrell's C-index.",
-        "結果": "Among 714 patients included, 58.3% were favorable and 41.7% unfavorable based on the GRANT score. Patients in the favorable group had a significantly longer median RFS (61.1 vs. 36.9 months; hazard ratio [HR]: 0.36, 95% confidence interval [CI]: 0.27-0.48, P < .001) and OS (median not reached, HR: 0.25, 95% CI: 0.15-0.42, P < .001) compared to patients in the unfavorable group. The c-index was 0.63 and 0.66 for RFS and OS, respectively. A better prognostic performance was observed among nonclear",
-        "結論": "The GRANT score was prospectively validated in the PROSPER study, demonstrating prognostic value for both RFS and OS, especially in nonclear RCC, further supporting its use in clinical practice. Clinical trial registration number: ClinicalTrials.gov, NCT03055013."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "GRANT",
-        "PROSPER",
-        "immunotherapy",
-        "neoadjuvant",
-        "nivolumab",
-        "perioperative",
-        "prognosis",
-        "renal cancer",
-        "surgery"
-      ],
-      "MeSH詞彙": [
-        "Humans",
+        "Vasospasm, Intracranial",
         "Female",
         "Male",
         "Middle Aged",
-        "Prospective Studies",
-        "Kidney Neoplasms",
-        "Carcinoma, Renal Cell",
-        "Aged",
-        "Prognosis",
-        "Neoplasm Grading"
+        "Adult",
+        "Longitudinal Studies",
+        "Risk Factors",
+        "Intracranial Arteriovenous Malformations",
+        "Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41693026/",
-      "DOI": "10.1093/oncolo/oyag041"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41845115/",
+      "DOI": "10.1007/s00701-026-06816-4"
     },
     {
-      "pmid": "41803392",
-      "標題": "Predictive value of the Naples Prognostic Score for rapid kidney function decline in stage 3-4 CKD: a multicenter study.",
-      "期刊": "Scientific reports",
-      "發表日期": "2026 Mar 09",
+      "pmid": "41846395",
+      "標題": "Towards an understanding of disturbed sleep phenotypes after traumatic spinal cord injury.",
+      "期刊": "Journal of rehabilitation medicine",
+      "發表日期": "2026 Mar 17",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "were consecutively enrolled at two centers between December 2023 and September 2024",
+        "P_族群": "sleep disorders and associated clustering of cardiometabolic risk factors and sleep diagnoses",
         "I_介入": "",
         "C_對照": "",
-        "O_結果": "impaired inflammatory and nutritional markers (higher neutrophil-to-lymphocyte ratio [NLR]"
+        "O_結果": "robust links between sleep apnoea"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the potential clinical value of the Naples Prognostic Score (NPS) in predicting rapid 12-month kidney function decline (RKFD) in predialysis stage 3-4 chronic kidney disease (CKD) patients.",
+      "中文摘要": "【研究目的】本世代研究旨在探討Examine the Spinal Cord Injury-Pressure Injury Resource (SCI-PIR) database to assess the prevalence and identify relationships among sleep disorders and cardiometabolic risk after spinal cord injury.\n\n【研究方法】The SCI-PIR database was queried for ICD9 codes related to cardiovascular, metabolic, psychological, and sleep conditions to identify subgroups of spinal cord injury individuals with sleep disorders and associated clustering of cardiometabolic risk factors and sleep diagnoses.\n\n【主要結果】Sleep apnoea (6.7%) and insomnia (4.3%) were the most common sleep diagnoses. Multiple correspondence analysis demonstrated 2 phenotypic clusters: Cluster A showed robust links between sleep apnoea, hypersomnia, heart failure, and arrhythmias, and secondary associations with coronary artery disease,...\n\n【結論】2 distinct sleep clusters were identified for persons with spinal cord injury. This analysis supports previous findings that sleep disorders associate with overall health in individuals with spinal cord injury, and particularly cardiovascular health. ICD9 coding may under-report sleep diagnoses.",
       "結構化摘要": {
-        "完整摘要": "This study aimed to evaluate the potential clinical value of the Naples Prognostic Score (NPS) in predicting rapid 12-month kidney function decline (RKFD) in predialysis stage 3-4 chronic kidney disease (CKD) patients. A retrospective analysis was conducted using data from 404 CKD patients who were consecutively enrolled at two centers between December 2023 and September 2024. All included patients had at least 12 months of follow-up available for outcome assessment. Participants were categorized based on the presence or absence of RKFD, defined as an absolute decrease in eGFR of > 5 mL/min/1.73 m² over 12 months. Clinical, laboratory, and nutritional-inflammatory parameters were compared between groups. Multivariable logistic regression and receiver operating characteristic (ROC) curve analyses were performed to evaluate the predictive performance of NPS. RKFD occurred in 105 participants (26.0%). Individuals with RKFD exhibited significantly impaired inflammatory and nutritional mark"
+        "目的": "Examine the Spinal Cord Injury-Pressure Injury Resource (SCI-PIR) database to assess the prevalence and identify relationships among sleep disorders and cardiometabolic risk after spinal cord injury. DESIGN: Retrospective observational cohort study using the Department of Veterans Affair SCI-PIR database. SUBJECTS/PATIENTS: 18,894 Veterans living with spinal cord injury.",
+        "方法": "The SCI-PIR database was queried for ICD9 codes related to cardiovascular, metabolic, psychological, and sleep conditions to identify subgroups of spinal cord injury individuals with sleep disorders and associated clustering of cardiometabolic risk factors and sleep diagnoses. Multiple correspondence analysis probed the underlying associations. Cramer V statistics confirmed and quantified the associations.",
+        "結果": "Sleep apnoea (6.7%) and insomnia (4.3%) were the most common sleep diagnoses. Multiple correspondence analysis demonstrated 2 phenotypic clusters: Cluster A showed robust links between sleep apnoea, hypersomnia, heart failure, and arrhythmias, and secondary associations with coronary artery disease, chronic kidney disease, obesity, diabetes, and hyperlipidaemia. Cluster B showed strong relationships between insomnia, anxiety, and post-traumatic stress disorder.",
+        "結論": "2 distinct sleep clusters were identified for persons with spinal cord injury. This analysis supports previous findings that sleep disorders associate with overall health in individuals with spinal cord injury, and particularly cardiovascular health. ICD9 coding may under-report sleep diagnoses. Data-driven statistical analysis can uncover insights into the complex interplay between spinal cord injury and secondary health conditions."
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: heart failure"
+      ],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Spinal Cord Injuries",
+        "Retrospective Studies",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Sleep Wake Disorders",
+        "Adult",
+        "Phenotype",
+        "Veterans"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41846395/",
+      "DOI": "10.2340/jrm.v58.44651"
+    },
+    {
+      "pmid": "41757434",
+      "標題": "Cohort Study of Initial Diuretic Dosing and Outcomes Among Patients Hospitalized for Congestive Heart Failure: Insights From the Cardiovascular Quality Improvement and Care Innovation Consortium.",
+      "期刊": "Journal of the American Heart Association",
+      "發表日期": "2026 Mar 17",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "received an equivalent or higher initial diuretic dose relative to home dose",
+        "I_介入": "an equivalent or higher initial diuretic dose relative to home dose",
+        "C_對照": "patients who received an equivalent or higher initial diuretic dose relative to home dose",
+        "O_結果": "s (length of stay) and secondary outcomes (rates of acute kidney injury, in-hospital mortality, and 30-day readmissions) were compared across categories of initial diuretic dose"
+      },
+      "中文摘要": "【研究背景】Little is known about the initial dosing of loop diuretics among patients hospitalized for heart failure and its association with outcomes.\n\n【研究方法】We identified patients admitted for heart failure at 24 hospitals across two health systems between January 1, 2017, and December 31, 2020. Initial diuretic dose was categorized relative to home dose in furosemide equivalents.\n\n【主要結果】Among 14 332 patients admitted for heart failure, the initial diuretic dose was lower-than-home dose in 1866 (13.0%) patients, equivalent-to-home dose in 3171 (22.1%) patients, and higher-than-home dose in 9295 (64.9%) patients.\n\n【結論】In a cohort of patients admitted for heart failure, more than 1 in 3 patients received an initial dose of intravenous loop diuretics that was lower than or equivalent to their home diuretic dose, and the initial dose was associated with length of hospital stay and acute kidney injury.",
+      "結構化摘要": {
+        "背景": "Little is known about the initial dosing of loop diuretics among patients hospitalized for heart failure and its association with outcomes.",
+        "方法": "We identified patients admitted for heart failure at 24 hospitals across two health systems between January 1, 2017, and December 31, 2020. Initial diuretic dose was categorized relative to home dose in furosemide equivalents. The primary outcomes (length of stay) and secondary outcomes (rates of acute kidney injury, in-hospital mortality, and 30-day readmissions) were compared across categories of initial diuretic dose.",
+        "結果": "Among 14 332 patients admitted for heart failure, the initial diuretic dose was lower-than-home dose in 1866 (13.0%) patients, equivalent-to-home dose in 3171 (22.1%) patients, and higher-than-home dose in 9295 (64.9%) patients. Compared with patients who received an equivalent or higher initial diuretic dose relative to home dose, risk-adjusted length of stay was longer among patients receiving a lower dose (4.9 days versus 4.0 days versus 4.0 days, P<0.01). Compared with equivalent-to-home dos",
+        "結論": "In a cohort of patients admitted for heart failure, more than 1 in 3 patients received an initial dose of intravenous loop diuretics that was lower than or equivalent to their home diuretic dose, and the initial dose was associated with length of hospital stay and acute kidney injury."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
       "關鍵詞": [
-        "CKD",
-        "Inflammation",
-        "Naples Prognostic Score",
-        "Nutrition",
-        "Rapid kidney function decline"
+        "diuretics",
+        "dose–response relationship",
+        "heart failure",
+        "hospitalization",
+        "length of stay"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Female",
+        "Heart Failure",
         "Male",
-        "Middle Aged",
-        "Prognosis",
+        "Female",
         "Aged",
-        "Renal Insufficiency, Chronic",
-        "Retrospective Studies",
-        "Glomerular Filtration Rate",
-        "ROC Curve"
+        "Sodium Potassium Chloride Symporter Inhibitors",
+        "Hospital Mortality",
+        "Furosemide",
+        "Length of Stay",
+        "Patient Readmission"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41803392/",
-      "DOI": "10.1038/s41598-026-43811-2"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41757434/",
+      "DOI": "10.1161/JAHA.124.038783"
     }
   ],
   "研究想法": [
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cardiovascular",
+      "頻率": 5,
+      "想法": "目前 'cardiovascular' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 5,
+      "想法": "目前 'heart failure' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
@@ -514,23 +551,9 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "cardiovascular",
-      "頻率": 2,
-      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "ESKD",
+      "關鍵詞": "machine learning",
       "頻率": 1,
-      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -542,10 +565,31 @@
     },
     {
       "類型": "熱門主題延伸",
+      "關鍵詞": "patient-reported outcomes",
+      "頻率": 1,
+      "想法": "目前 'patient-reported outcomes' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
       "關鍵詞": "SGLT2 inhibitor",
       "頻率": 1,
       "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "machine learning",
+      "頻率": 1,
+      "想法": "'machine learning' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "biomarker",
+      "頻率": 1,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
@@ -563,23 +607,9 @@
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "ESKD",
+      "關鍵詞": "patient-reported outcomes",
       "頻率": 1,
-      "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
-      "頻率": 2,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "'heart failure' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'patient-reported outcomes' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -605,43 +635,43 @@
       "關鍵詞": "重要發現複製與延伸",
       "想法": "本週有 3 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Post-discharge sequelae of Lassa fever survivors i",
-        "Trajectories of metabolic risk clusters and advers",
-        "Treatment gaps in guideline-directed medical thera"
+        "Lobeglitazone and the risk of renal progression in",
+        "Accuracy of glomerular filtration rate estimation ",
+        "Angiography-derived fractional flow reserve versus"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 9,
-    "Male": 9,
-    "Female": 9,
-    "Middle Aged": 9,
-    "Aged": 8,
+    "Humans": 15,
+    "Male": 14,
+    "Female": 14,
+    "Middle Aged": 14,
+    "Aged": 14,
+    "Adult": 11,
     "Retrospective Studies": 6,
-    "Adult": 4,
-    "Postoperative Complications": 3,
-    "Kidney Failure, Chronic": 3,
-    "Renal Insufficiency, Chronic": 3,
-    "Glomerular Filtration Rate": 2,
-    "Cohort Studies": 2,
-    "Treatment Outcome": 2,
-    "Biomarkers": 2,
-    "Prospective Studies": 2,
-    "Prognosis": 2,
-    "Disease Progression": 2,
+    "Renal Insufficiency, Chronic": 6,
+    "Treatment Outcome": 5,
+    "Disease Progression": 3,
+    "Risk Factors": 3,
+    "Hypertension": 3,
+    "Glomerular Filtration Rate": 3,
+    "Kidney Failure, Chronic": 2,
+    "Qualitative Research": 2,
     "Renal Dialysis": 2,
-    "Risk Factors": 2,
-    "Cystatin C": 1,
-    "Creatinine": 1,
-    "China": 1,
-    "Surgical Procedures, Operative": 1,
-    "Preoperative Care": 1,
-    "Echocardiography": 1,
-    "Amyloidosis": 1,
-    "Kidney Neoplasms": 1,
-    "Carcinoma, Renal Cell": 1,
-    "Neoplasm Grading": 1,
-    "Age Factors": 1
+    "Quality of Life": 2,
+    "Prevalence": 2,
+    "United States": 2,
+    "Cohort Studies": 2,
+    "Time Factors": 2,
+    "Prospective Studies": 2,
+    "Longitudinal Studies": 2,
+    "Aged, 80 and over": 2,
+    "Dose-Response Relationship, Drug": 2,
+    "Hemodialysis, Home": 1,
+    "Machine Learning": 1,
+    "Taiwan": 1,
+    "Polycystic Kidney, Autosomal Dominant": 1,
+    "Polycystic Kidney Diseases": 1
   }
 }
