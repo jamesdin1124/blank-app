@@ -1,660 +1,563 @@
 {
-  "報告日期": "2026-04-06T09:11:26.132696",
+  "報告日期": "2026-04-13T09:57:30.678117",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 62,
-    "高影響力期刊文章數": 10,
+    "總文章數": 9,
+    "高影響力期刊文章數": 0,
     "主要發現": [
-      "本週熱門研究主題: mortality (20篇), cardiovascular (13篇), proteinuria (7篇)",
-      "高影響力期刊發表 10 篇，包括: Transplantation, Kidney international, American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-      "高品質證據: 10 篇 RCT, 4 篇統合分析"
+      "本週熱門研究主題: biomarker (2篇), cardiovascular (2篇), heart failure (2篇)",
+      "高品質證據: 1 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
-    "兒童腎臟學": {
-      "文章數": 12,
-      "高影響力期刊文章數": 2,
-      "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 3,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
-        "International urology and nephrology": 1,
-        "The Journal of clinical investigation": 1,
-        "Experimental and therapeutic medicine": 1
-      }
-    },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 8,
+      "文章數": 9,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of the American Society of Nephrology : JASN": 3,
-        "Jornal brasileiro de nefrologia": 3,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-        "Diabetes, obesity & metabolism": 3,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2
+        "Medicine": 3,
+        "Scientific reports": 1,
+        "Journal of the American Heart Association": 1,
+        "HGG advances": 1,
+        "Renal failure": 1
       }
     }
   },
   "研究趨勢": {
     "熱門主題": [
       [
-        "mortality",
-        20
+        "biomarker",
+        2
       ],
       [
         "cardiovascular",
-        13
+        2
       ],
       [
-        "proteinuria",
-        7
+        "heart failure",
+        2
       ],
       [
-        "biomarker",
-        5
+        "metabolomics",
+        1
       ],
       [
-        "SGLT2 inhibitor",
-        3
+        "machine learning",
+        1
       ],
       [
         "inflammation",
-        3
+        1
       ],
       [
-        "empagliflozin",
-        2
-      ],
-      [
-        "finerenone",
-        2
-      ],
-      [
-        "quality of life",
-        2
-      ],
-      [
-        "ESKD",
-        2
+        "mortality",
+        1
       ]
     ],
     "趨勢關鍵詞": {
-      "治療方法": {
-        "SGLT2 inhibitor": 3,
-        "empagliflozin": 2,
-        "finerenone": 2,
-        "GLP-1": 1
-      },
-      "臨床結局": {
-        "mortality": 20,
-        "proteinuria": 7,
-        "quality of life": 2,
-        "ESKD": 2,
-        "cost-effectiveness": 1,
-        "eGFR decline": 1
-      },
       "診斷技術": {
-        "biomarker": 5,
-        "genetic testing": 2,
-        "machine learning": 2,
-        "proteomics": 1
+        "biomarker": 2,
+        "metabolomics": 1,
+        "machine learning": 1
       },
       "研究主題": {
-        "cardiovascular": 13,
-        "inflammation": 3,
+        "cardiovascular": 2,
         "heart failure": 2,
-        "personalized": 1
+        "inflammation": 1
+      },
+      "臨床結局": {
+        "mortality": 1
       }
     },
     "期刊分布": {
-      "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-      "The American journal of clinical nutrition": 3,
-      "Pediatric nephrology (Berlin, Germany)": 3,
-      "Journal of the American Society of Nephrology : JASN": 3,
-      "Jornal brasileiro de nefrologia": 3,
-      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-      "Diabetes, obesity & metabolism": 3,
-      "International urology and nephrology": 2,
-      "Anesthesiology": 2,
-      "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons": 2,
-      "Renal failure": 2,
-      "The Journal of clinical investigation": 1,
-      "Experimental and therapeutic medicine": 1,
-      "Kidney360": 1,
-      "The Journal of infection": 1
+      "Medicine": 3,
+      "Scientific reports": 1,
+      "Journal of the American Heart Association": 1,
+      "HGG advances": 1,
+      "Renal failure": 1,
+      "Journal for immunotherapy of cancer": 1,
+      "Annals of medicine": 1
     },
     "文章類型": {
-      "Journal Article": 62,
-      "Randomized Controlled Trial": 10,
-      "Multicenter Study": 9,
-      "Observational Study": 4,
-      "Systematic Review": 4,
-      "Meta-Analysis": 4,
-      "Clinical Trial": 3,
-      "Comparative Study": 3,
-      "Review": 1,
-      "Clinical Trial, Phase II": 1
+      "Journal Article": 9,
+      "Observational Study": 3,
+      "Multicenter Study": 2,
+      "Validation Study": 1,
+      "Clinical Trial, Phase I": 1,
+      "Randomized Controlled Trial": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "40996459",
-      "標題": "Antiproteinuric effect of SGLT2 inhibitors in non-diabetic glomerulopathies is dependent on body mass index.",
-      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "發表日期": "2026 Mar 31",
+      "pmid": "41957696",
+      "標題": "Accelerated bone loss increases osteoporosis and fracture risk in moderate to severe chronic kidney disease.",
+      "期刊": "Renal failure",
+      "發表日期": "2026 Dec",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "chronic kidney disease",
-        "I_介入": "SGLT2is between 2016 and 2023",
-        "C_對照": "0",
-        "O_結果": "the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is"
-      },
-      "中文摘要": "【研究背景】Sodium-glucose co-transporter 2 inhibitors (SGLT2is) are emerging as an essential part of the standard of care for proteinuria in patients with chronic kidney disease. To date, no study has specifically evaluated the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is.\n\n【研究方法】This is a retrospective, multicentre, international observational cohort study that included non-diabetic patients with biopsy-proven glomerular disease and proteinuria >0.5 g/24 h who received SGLT2is between 2016 and 2023.\n\n【主要結果】A total of 300 patients met the inclusion criteria. The median age was 51.82 years [interquartile range (IQR) 41-62.65], 64.7% were male and 92.7% were white. The most common glomerular disease was immunoglobulin A nephropathy (40.3%). The median eGFR was 52.26 ml/min/1.73 m2 (IQR 36.41-74.\n\n【結論】SGLT2is are ineffective in proteinuria reduction in patients with a BMI <25 kg/m2, which contrasts with the significant proteinuria reduction in overweight and obese patients with glomerulopathies.",
-      "結構化摘要": {
-        "背景": "Sodium-glucose co-transporter 2 inhibitors (SGLT2is) are emerging as an essential part of the standard of care for proteinuria in patients with chronic kidney disease. To date, no study has specifically evaluated the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is. Here we report the impact of BMI on the antiproteinuric efficacy of SGLT2is in non-diabetic patients with glomerular diseases.",
-        "方法": "This is a retrospective, multicentre, international observational cohort study that included non-diabetic patients with biopsy-proven glomerular disease and proteinuria >0.5 g/24 h who received SGLT2is between 2016 and 2023. Laboratory values, including proteinuria and estimated glomerular filtration rate (eGFR), were obtained at baseline and after 3-6 months. Changes in laboratory values over time were analysed using the paired signed-rank test.",
-        "結果": "A total of 300 patients met the inclusion criteria. The median age was 51.82 years [interquartile range (IQR) 41-62.65], 64.7% were male and 92.7% were white. The most common glomerular disease was immunoglobulin A nephropathy (40.3%). The median eGFR was 52.26 ml/min/1.73 m2 (IQR 36.41-74.01), the median proteinuria was 1.60 g/24 h (IQR 1.15-2.91) and the median serum albumin was 4.08 g/dl (IQR 3.80-4.30). Proteinuria reduction after SGLT2i initiation was significant only in overweight and obes",
-        "結論": "SGLT2is are ineffective in proteinuria reduction in patients with a BMI <25 kg/m2, which contrasts with the significant proteinuria reduction in overweight and obese patients with glomerulopathies."
-      },
-      "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [
-        "body mass index",
-        "glomerular disease",
-        "proteinuria",
-        "sodium–glucose co-transporter 2 inhibitors"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Male",
-        "Female",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Middle Aged",
-        "Retrospective Studies",
-        "Proteinuria",
-        "Glomerular Filtration Rate",
-        "Body Mass Index",
-        "Adult"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40996459/",
-      "DOI": "10.1093/ndt/gfaf197"
-    },
-    {
-      "pmid": "40996459",
-      "標題": "Antiproteinuric effect of SGLT2 inhibitors in non-diabetic glomerulopathies is dependent on body mass index.",
-      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "發表日期": "2026 Mar 31",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "chronic kidney disease",
-        "I_介入": "SGLT2is between 2016 and 2023",
-        "C_對照": "0",
-        "O_結果": "the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is"
-      },
-      "中文摘要": "【研究背景】Sodium-glucose co-transporter 2 inhibitors (SGLT2is) are emerging as an essential part of the standard of care for proteinuria in patients with chronic kidney disease. To date, no study has specifically evaluated the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is.\n\n【研究方法】This is a retrospective, multicentre, international observational cohort study that included non-diabetic patients with biopsy-proven glomerular disease and proteinuria >0.5 g/24 h who received SGLT2is between 2016 and 2023.\n\n【主要結果】A total of 300 patients met the inclusion criteria. The median age was 51.82 years [interquartile range (IQR) 41-62.65], 64.7% were male and 92.7% were white. The most common glomerular disease was immunoglobulin A nephropathy (40.3%). The median eGFR was 52.26 ml/min/1.73 m2 (IQR 36.41-74.\n\n【結論】SGLT2is are ineffective in proteinuria reduction in patients with a BMI <25 kg/m2, which contrasts with the significant proteinuria reduction in overweight and obese patients with glomerulopathies.",
-      "結構化摘要": {
-        "背景": "Sodium-glucose co-transporter 2 inhibitors (SGLT2is) are emerging as an essential part of the standard of care for proteinuria in patients with chronic kidney disease. To date, no study has specifically evaluated the effects of body mass index (BMI) on the antiproteinuric efficacy of SGLT2is. Here we report the impact of BMI on the antiproteinuric efficacy of SGLT2is in non-diabetic patients with glomerular diseases.",
-        "方法": "This is a retrospective, multicentre, international observational cohort study that included non-diabetic patients with biopsy-proven glomerular disease and proteinuria >0.5 g/24 h who received SGLT2is between 2016 and 2023. Laboratory values, including proteinuria and estimated glomerular filtration rate (eGFR), were obtained at baseline and after 3-6 months. Changes in laboratory values over time were analysed using the paired signed-rank test.",
-        "結果": "A total of 300 patients met the inclusion criteria. The median age was 51.82 years [interquartile range (IQR) 41-62.65], 64.7% were male and 92.7% were white. The most common glomerular disease was immunoglobulin A nephropathy (40.3%). The median eGFR was 52.26 ml/min/1.73 m2 (IQR 36.41-74.01), the median proteinuria was 1.60 g/24 h (IQR 1.15-2.91) and the median serum albumin was 4.08 g/dl (IQR 3.80-4.30). Proteinuria reduction after SGLT2i initiation was significant only in overweight and obes",
-        "結論": "SGLT2is are ineffective in proteinuria reduction in patients with a BMI <25 kg/m2, which contrasts with the significant proteinuria reduction in overweight and obese patients with glomerulopathies."
-      },
-      "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [
-        "body mass index",
-        "glomerular disease",
-        "proteinuria",
-        "sodium–glucose co-transporter 2 inhibitors"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Male",
-        "Female",
-        "Sodium-Glucose Transporter 2 Inhibitors",
-        "Middle Aged",
-        "Retrospective Studies",
-        "Proteinuria",
-        "Glomerular Filtration Rate",
-        "Body Mass Index",
-        "Adult"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40996459/",
-      "DOI": "10.1093/ndt/gfaf197"
-    },
-    {
-      "pmid": "41055402",
-      "標題": "Urinary sediment predicts active proliferative glomerular diseases.",
-      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "發表日期": "2026 Mar 31",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "glomerular diseases (GDs)",
+        "P_族群": "estimated glomerular filtration rate (eGFR) < 60 mL/min/1",
         "I_介入": "",
-        "C_對照": "WBCs",
-        "O_結果": "the frequency and number of red blood cells (RBCs)"
+        "C_對照": "",
+        "O_結果": "the longitudinal decline in BMD across levels of kidney function and examined the associations between kidney function and the risk of osteoporosis and fractures"
       },
-      "中文摘要": "【研究背景】Several studies have demonstrated the utility of urinary sediment (U-sed) examination in patients with glomerular diseases (GDs).In this prospective study we hypothesized that with a standardized approach for U-sed preparation and examination, we could distinguish proliferative GD (PGD) from non-pro...\n\n【研究方法】The U-sed of 285 patients with 12 different biopsy-proven GDs were investigated, 172 with PGD and 113 with NPGD. All RBs were scored for the presence/absence of active and chronic histologic lesions.\n\n【主要結果】supplied by the reagent strips (R-strip) for urine haemoglobin (U-Hb) and leukocyte esterase (U-LE). RESULTS: Patients with PGD had higher frequencies and numbers of RBCs, WBCs, RTECs and of casts containing RBCs, WBCs and RTECs.\n\n【結論】U-sed is a useful tool to predict the presence of PGD with a high histological activity score.",
+      "中文摘要": "【結論】, declining kidney function is associated with accelerated bone loss and increased risk of osteoporosis and fractures, underscoring the importance of BMD monitoring in patients with moderate to severe CKD.",
       "結構化摘要": {
-        "背景": "Several studies have demonstrated the utility of urinary sediment (U-sed) examination in patients with glomerular diseases (GDs).In this prospective study we hypothesized that with a standardized approach for U-sed preparation and examination, we could distinguish proliferative GD (PGD) from non-proliferative GD (NPGD) and predict GD with a high activity score at renal biopsy (RB).",
-        "方法": "The U-sed of 285 patients with 12 different biopsy-proven GDs were investigated, 172 with PGD and 113 with NPGD. All RBs were scored for the presence/absence of active and chronic histologic lesions. For each U-sed we evaluated the frequency and number of red blood cells (RBCs), white blood cells (WBCs), renal tubular epithelial cells (RTECs) and 8 types of casts. We also compared the frequency and number of RBCs and WBCs with the",
-        "結果": "supplied by the reagent strips (R-strip) for urine haemoglobin (U-Hb) and leukocyte esterase (U-LE). RESULTS: Patients with PGD had higher frequencies and numbers of RBCs, WBCs, RTECs and of casts containing RBCs, WBCs and RTECs. PGD also had higher numbers of waxy casts while NPGD had higher numbers of fat casts. A good correlation was found between RBCs and U-Hb, while U-LE, compared with WBCs, supplied a high number of false negative results. In predicting PGD, U-sed RBCs and WBCs supplied th",
-        "結論": "U-sed is a useful tool to predict the presence of PGD with a high histological activity score."
+        "結論": ", declining kidney function is associated with accelerated bone loss and increased risk of osteoporosis and fractures, underscoring the importance of BMD monitoring in patients with moderate to severe CKD."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "glomerular diseases",
-        "renal biopsy",
-        "urinalysis",
-        "urinary sediment",
-        "urine reagent strip"
+        "CKD–mineral and bone disorder",
+        "Chronic kidney disease",
+        "DEXA",
+        "dual-energy X-ray absorptiometry",
+        "osteoporotic fractures"
       ],
       "MeSH詞彙": [
         "Humans",
         "Female",
         "Male",
-        "Prospective Studies",
-        "Middle Aged",
-        "Adult",
-        "Urinalysis",
-        "Prognosis",
-        "Aged",
-        "Predictive Value of Tests"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41055402/",
-      "DOI": "10.1093/ndt/gfaf204"
-    },
-    {
-      "pmid": "41920552",
-      "標題": "Time to Quadruple Therapy After Initial Diagnosis of Heart Failure With Reduced Ejection Fraction.",
-      "期刊": "JAMA cardiology",
-      "發表日期": "2026 Apr 01",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "heart failure with reduced ejection fraction (HFrEF) is associated with improved morbidity and mortality",
-        "I_介入": "",
-        "C_對照": "males (HR",
-        "O_結果": "S AND MEASURES: The main outcome included quadruple therapy according to pharmacy fill data-concurrent use of evidence-based β-blockers, renin-angiotensin system inhibitors, mineralocorticoid receptor"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討To characterize TTQ and factors associated with TTQ in HFrEF.\n\n【主要結果】Among 52 850 patients with incident HFrEF (median [SD] age, 71.8 [11] years; 51 473 male [97%]; 10 791 Black [20%]; 2528 Hispanic [5%]; 35 867 White [68%]; 3664 other [7%]), 11 217 (21.2%) achieved quadruple therapy over a median (IQR) follow-up of 2.9 (1.9-3.9) years.\n\n【結論】AND RELEVANCE: Results of this cohort study suggest that opportunities exist to improve both the rate and timeliness of quadruple therapy as only 21.2% of patients with HFrEF achieved it, with a median follow-up of 2.9 years and TTQ of 6 months.",
-      "結構化摘要": {
-        "目的": "To characterize TTQ and factors associated with TTQ in HFrEF. DESIGN, SETTING, AND PARTICIPANTS: This was a retrospective cohort study including patients with incident HFrEF from the Veterans Health Administration database during the January 1, 2020, to December 31, 2023, period. Study data were analyzed from November 2024 to December 2025. EXPOSURES: Primary factors included race and ethnicity, sex, and copay status (priority group). Secondary factors included clinical characteristics. MAIN OUT",
-        "結果": "Among 52 850 patients with incident HFrEF (median [SD] age, 71.8 [11] years; 51 473 male [97%]; 10 791 Black [20%]; 2528 Hispanic [5%]; 35 867 White [68%]; 3664 other [7%]), 11 217 (21.2%) achieved quadruple therapy over a median (IQR) follow-up of 2.9 (1.9-3.9) years. The median (IQR) TTQ was 197 (49-528) days. After adjustment, Black patients (hazard ratio [HR], 1.22; 95% CI, 1.15-1.30), Hispanic patients (HR, 1.21; 95% CI, 1.09-1.33), and those from other racial or ethnic groups (HR, 1.11; 95",
-        "結論": "AND RELEVANCE: Results of this cohort study suggest that opportunities exist to improve both the rate and timeliness of quadruple therapy as only 21.2% of patients with HFrEF achieved it, with a median follow-up of 2.9 years and TTQ of 6 months. Medication copays represent a modifiable barrier, providing a potential target for interventions to enhance TTQ."
-      },
-      "相關趨勢": [
-        "研究主題: heart failure",
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41920552/",
-      "DOI": "10.1001/jamacardio.2026.0375"
-    },
-    {
-      "pmid": "41385712",
-      "標題": "The Association of Socioeconomic Status on Kidney Transplant Access and Outcomes: Cohort Studies of England and Northern Ireland.",
-      "期刊": "Transplantation",
-      "發表日期": "2026 Apr 01",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Kidney Transplantation, Kidney Failure, Chronic 的病人",
-        "I_介入": "",
-        "C_對照": "least deprived quintile",
-        "O_結果": "using national deprivation indices"
-      },
-      "中文摘要": "【研究背景】While socioeconomic status (SES) is an established determinant of kidney transplant access and outcomes, less is known about how these disparities vary within universal healthcare systems.\n\n【研究方法】We conducted a retrospective cohort study using national transplant registry data from England (n = 42 220) and NI (n = 1615) from 2000 to 2020. SES was measured using national deprivation indices.\n\n【主要結果】In England, lower SES was significantly associated with reduced transplant access (incidence rate ratio for most versus least deprived quintile, 0.71; 95% confidence interval [CI], 0.69-0.73), lower rates of preemptive and living donor transplantation, and poorer graft (hazard ratio, 1.\n\n【結論】SES remains strongly associated with transplant access in England but not in NI, suggesting that regional models of healthcare delivery may mitigate or exacerbate inequities.These findings suggest a role of system design in promoting equity.",
-      "結構化摘要": {
-        "背景": "While socioeconomic status (SES) is an established determinant of kidney transplant access and outcomes, less is known about how these disparities vary within universal healthcare systems. This study hypothesized that, despite shared healthcare and organ allocation systems, regional differences would be observed in the magnitude and pattern of the association between SES and transplant access and outcomes between England and Northern Ireland (NI).",
-        "方法": "We conducted a retrospective cohort study using national transplant registry data from England (n = 42 220) and NI (n = 1615) from 2000 to 2020. SES was measured using national deprivation indices. Outcomes included transplant incidence, preemptive and living donor transplantation, graft survival, and patient survival. Statistical analyses included Poisson regression, Cox proportional hazards models, and concentration indices to assess equity.",
-        "結果": "In England, lower SES was significantly associated with reduced transplant access (incidence rate ratio for most versus least deprived quintile, 0.71; 95% confidence interval [CI], 0.69-0.73), lower rates of preemptive and living donor transplantation, and poorer graft (hazard ratio, 1.41; 95% CI, 1.32-1.50) and patient survival (hazard ratio, 1.49; 95% CI, 1.39-1.59). These disparities persisted across ethnic groups. In contrast, NI showed no significant SES-related differences in transplant ac",
-        "結論": "SES remains strongly associated with transplant access in England but not in NI, suggesting that regional models of healthcare delivery may mitigate or exacerbate inequities.These findings suggest a role of system design in promoting equity."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Northern Ireland",
-        "England",
-        "Kidney Transplantation",
-        "Male",
-        "Female",
+        "Bone Density",
         "Retrospective Studies",
         "Middle Aged",
-        "Healthcare Disparities",
-        "Health Services Accessibility"
+        "Renal Insufficiency, Chronic",
+        "Glomerular Filtration Rate",
+        "Aged",
+        "Osteoporosis"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41385712/",
-      "DOI": "10.1097/TP.0000000000005596"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41957696/",
+      "DOI": "10.1080/0886022X.2026.2637321"
     },
     {
-      "pmid": "41763234",
-      "標題": "Combined associations of GLP-1 receptor agonists and a healthy lifestyle with cardiovascular outcomes among individuals with type 2 diabetes: a prospective cohort study.",
-      "期刊": "The lancet. Diabetes & endocrinology",
-      "發表日期": "2026 Apr",
+      "pmid": "41955451",
+      "標題": "Impacts of air pollution on postoperative renal injuries: evidence from a multicenter cohort study of 112, 643 patients.",
+      "期刊": "Annals of medicine",
+      "發表日期": "2026 Dec",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "type 2 diabetes: a prospective cohort study",
+        "P_族群": "underwent surgery under anesthesia at three academic medical centers from 2015 to 2023",
         "I_介入": "",
         "C_對照": "",
-        "O_結果": "were a higher quality diet"
+        "O_結果": "impacts postoperative adverse renal outcomes"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to examine the combined association of GLP-1 receptor agonist use and adherence to eight lifestyle habits with cardiovascular outcomes.\n\n【研究方法】We did a prospective cohort study of individuals with type 2 diabetes enrolled within the US Veterans Affairs' Million Veteran Program between Jan 10, 2011, and Sept 30, 2023. Participants had no previous history of myocardial infarction, stroke, or advanced chronic kidney disease.\n\n【主要結果】Of the 963 753 veterans enrolled, a total of 98 261 participants were included in the study with 632 543 person-years of follow-up, during which 10 443 people developed MACE.\n\n【結論】Adherence to low-risk lifestyle habits combined with GLP-1 receptor agonist use was associated with a greater reduction in MACE risk than either approach alone, underscoring the importance of integrating lifestyle modification with pharmacotherapy in type 2 diabetes management.",
+      "中文摘要": "【研究目的】本世代研究旨在探討Air pollution is an emerging risk factor for adverse surgical outcomes, but its impact on postoperative kidney health is unclear. This study aimed to examine the association between exposure to multiple air pollutants and the risk of acute kidney injury (AKI) after surgery.\n\n【研究方法】We conducted a retrospective cohort study among inpatients who underwent surgery under anesthesia at three academic medical centers from 2015 to 2023. The Air Quality Health Index (AQHI) was used to comprehensively quantify and score multiple ambient air pollutants.\n\n【主要結果】This study included 112, 643 surgical patients (with an average age of 54 years, 48.4% of whom were male), among whom 95.3% underwent non-cardiac surgeries and 80.8% had non-emergency surgeries.\n\n【結論】This study found that air pollution significantly impacts postoperative adverse renal outcomes.",
       "結構化摘要": {
-        "背景": "The long-term combined effects of lifestyle habits and GLP-1 receptor agonists on cardiovascular outcomes are unknown. We aimed to examine the combined association of GLP-1 receptor agonist use and adherence to eight lifestyle habits with cardiovascular outcomes.",
-        "方法": "We did a prospective cohort study of individuals with type 2 diabetes enrolled within the US Veterans Affairs' Million Veteran Program between Jan 10, 2011, and Sept 30, 2023. Participants had no previous history of myocardial infarction, stroke, or advanced chronic kidney disease. The eight low-risk lifestyle habits assessed were a higher quality diet, being physically active, not smoking, restful sleep, no heavy alcohol intake, good stress management, social connection and support, and no opio"
+        "方法": "We conducted a retrospective cohort study among inpatients who underwent surgery under anesthesia at three academic medical centers from 2015 to 2023. The Air Quality Health Index (AQHI) was used to comprehensively quantify and score multiple ambient air pollutants. In this study, short-term exposure was defined as the 30-day average prior to surgery, with long-term exposure defined as the 2-year average. The main endpoint was the occurrence of AKI within 7 days after surgery, stage 2 or 3 acute",
+        "結果": "This study included 112, 643 surgical patients (with an average age of 54 years, 48.4% of whom were male), among whom 95.3% underwent non-cardiac surgeries and 80.8% had non-emergency surgeries. In the quartile-based analysis of long-term AQHI exposure, higher AQHI levels were associated with increased odds of renal injury AKI (aOR(adjusted Odds Ratio) 1.24; 95% CI, 1.14-1.34), AKI 2+ (aOR 1.29; 95% CI, 1.19-1.53), and AKD (aOR 1.18; 95% CI, 0.97-1.43). However, in the short-term exposure analys",
+        "結論": "This study found that air pollution significantly impacts postoperative adverse renal outcomes."
       },
-      "相關趨勢": [
-        "治療方法: GLP-1",
-        "研究主題: cardiovascular"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Male",
-        "Glucagon-Like Peptide-1 Receptor Agonists",
-        "Female",
-        "Middle Aged",
-        "Prospective Studies",
-        "Cardiovascular Diseases",
-        "Aged",
-        "Healthy Lifestyle"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41763234/",
-      "DOI": "10.1016/S2213-8587(25)00395-X"
-    },
-    {
-      "pmid": "41412483",
-      "標題": "Risk factors and outcomes of Pneumocystis jirovecii pneumonia in kidney transplant recipients: A case-control study of the United States Renal Data System.",
-      "期刊": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-      "發表日期": "2026 Apr",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "received a kidney transplant from January 1",
-        "I_介入": "a kidney transplant from January 1",
-        "C_對照": "",
-        "O_結果": ""
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to determine risk factors and outcomes of the disease using a large national database. We first conducted a nested case-control study to identify risk factors associated with PJP in patients who received a kidney transplant from January 1, 1998, through December 31, 2019.",
-      "結構化摘要": {
-        "完整摘要": "Kidney transplant recipients are at increased risk for Pneumocystis jirovecii pneumonia (PJP). We aimed to determine risk factors and outcomes of the disease using a large national database. We first conducted a nested case-control study to identify risk factors associated with PJP in patients who received a kidney transplant from January 1, 1998, through December 31, 2019. We then performed a matched cohort study to evaluate clinical outcomes following the diagnosis of PJP. We matched 407 patients with PJP to 1625 uninfected controls. PJP was diagnosed at a median time of 55 months after transplant (85.3% of cases occurred after the first posttransplant year). Longer duration of pretransplant hemodialysis and higher Elixhauser comorbidity index were independent risk factors for disease. All-cause mortality within 12 months after infection was 25.8%. Older age, higher Elixhauser comorbidity index value, and chronic pulmonary disease were predictors of mortality. PJP was associated with"
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
+      "相關趨勢": [],
       "關鍵詞": [
-        "Elixhauser comorbidity index",
-        "Pneumocystis pneumonia",
-        "United States Renal Data System",
-        "allograft failure",
-        "hemodialysis",
-        "kidney transplant"
+        "Air pollution",
+        "acute kidney disease",
+        "acute kidney injury",
+        "perioperative medicine",
+        "postoperative renal injuries"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Kidney Transplantation",
         "Male",
         "Female",
-        "Case-Control Studies",
+        "Acute Kidney Injury",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Air Pollution",
+        "Postoperative Complications",
         "Risk Factors",
-        "Pneumonia, Pneumocystis",
-        "Middle Aged",
-        "Pneumocystis carinii",
-        "United States"
+        "Aged"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41412483/",
-      "DOI": "10.1016/j.ajt.2025.12.012"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41955451/",
+      "DOI": "10.1080/07853890.2026.2654944"
     },
     {
-      "pmid": "41314617",
-      "標題": "Pharmacokinetics, lineage identity, and trafficking of ex vivo expanded polyclonal regulatory T cells in a prospective randomized clinical trial of kidney transplant recipients with allograft inflammation.",
-      "期刊": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-      "發表日期": "2026 Apr",
+      "pmid": "41961689",
+      "標題": "Prognostic factors for mortality in age-stratified elderly sepsis patients: A retrospective cohort study based on the MIMIC-IV database.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Apr 10",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "sepsis",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "mortality risk among older patients"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to identify early predictors of mortality in elderly sepsis patients using the MIMIC-IV database. We included 13,461 sepsis patients aged ≥60 years, stratified into younger-old (60-74 years; n = 7618) and older-old (75-90 years; n = 5843) groups.\n\n【主要結果】underscore the importance of age-stratified prognostic models to guide targeted clinical interventions and potentially improve outcomes in elderly patients with sepsis.",
+      "結構化摘要": {
+        "完整摘要": "Sepsis represents a major cause of death among elderly patients; however, prognostic factors specific to different age strata within this population remain insufficiently characterized. This retrospective cohort study aimed to identify early predictors of mortality in elderly sepsis patients using the MIMIC-IV database. We included 13,461 sepsis patients aged ≥60 years, stratified into younger-old (60-74 years; n = 7618) and older-old (75-90 years; n = 5843) groups. Propensity score matching was applied to balance baseline characteristics, yielding 4657 matched patients per group. Multivariable logistic regression, receiver operating characteristic analysis, and Kaplan-Meier survival curves were employed to assess clinical and biochemical markers for 28-day mortality and to identify age-specific prognostic indicators. These findings underscore the importance of age-stratified prognostic models to guide targeted clinical interventions and potentially improve outcomes in elderly patients"
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "acute kidney injury",
+        "age stratification",
+        "elderly",
+        "mortality",
+        "prognostic factors",
+        "sepsis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Retrospective Studies",
+        "Aged",
+        "Male",
+        "Sepsis",
+        "Female",
+        "Middle Aged",
+        "Prognosis",
+        "Aged, 80 and over",
+        "Age Factors"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41961689/",
+      "DOI": "10.1097/MD.0000000000048209"
+    },
+    {
+      "pmid": "41961655",
+      "標題": "Enarodustat combined with oral iron supplementation for iron-deficient non-dialysis-dependent chronic kidney disease anemia patients: Synergistic effects and safety.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Apr 10",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "anemia",
+        "I_介入": "erythropoiesis-stimulating agents or intravenous iron within the preceding month",
+        "C_對照": "57",
+        "O_結果": "higher than those in the monotherapy group (P <"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the synergistic effect and safety of enarodustat combined with oral iron supplementation in the treatment of iron-deficient non-dialysis-dependent chronic kidney disease (NDD-CKD) patients with anemia.",
+      "結構化摘要": {
+        "完整摘要": "This study aimed to evaluate the synergistic effect and safety of enarodustat combined with oral iron supplementation in the treatment of iron-deficient non-dialysis-dependent chronic kidney disease (NDD-CKD) patients with anemia. This single-center retrospective cohort study enrolled 120 iron-deficient NDD-CKD patients with anemia who had not received erythropoiesis-stimulating agents or intravenous iron within the preceding month. According to the treatment protocols administered, the participants were divided into a combination therapy group (n = 64) and a monotherapy group (n = 56). The combination therapy group (n = 64) received enarodustat combined with ferrous succinate sustained-release tablets, while the monotherapy group (n = 56) received ferrous succinate sustained-release tablets alone. Patients were followed for 8 weeks to evaluate hemoglobin (Hb) levels, iron metabolism parameters, erythropoietic parameters, and adverse events. After 8 weeks of treatment, Hb levels in the"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "anemia",
+        "enarodustat",
+        "iron metabolism",
+        "non-dialysis-dependent chronic kidney disease",
+        "oral iron supplementation"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Renal Insufficiency, Chronic",
+        "Drug Therapy, Combination",
+        "Middle Aged",
+        "Anemia, Iron-Deficiency",
+        "Aged",
+        "Hemoglobins"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41961655/",
+      "DOI": "10.1097/MD.0000000000048101"
+    },
+    {
+      "pmid": "41961667",
+      "標題": "The association between heart rate variability and early kidney damage: The mediating role of blood lipid levels among hypertensive patients in a single-center cohort study.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Apr 10",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "1250 hypertensive patients treated between 2015 and 2020 in Hebei Province, China, with follow-up data available through December 31, 2022",
+        "I_介入": "",
+        "C_對照": "those in the lowest quartile (hazard ratio = 2",
+        "O_結果": "using 24-hour Holter monitoring"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to investigate the association between heart rate variability (HRV) and the risk of early kidney damage (EKD) among hypertensive patients, with particular emphasis on the mediating role of low-density lipoprotein cholesterol (LDL-C).\n\n【主要結果】. Elevated HRV, measured by 24-hour Holter-derived SDNN, was associated with increased EKD risk in hypertensive patients, with LDL-C acting as a significant intermediary factor.",
+      "結構化摘要": {
+        "完整摘要": "This study aimed to investigate the association between heart rate variability (HRV) and the risk of early kidney damage (EKD) among hypertensive patients, with particular emphasis on the mediating role of low-density lipoprotein cholesterol (LDL-C). This retrospective cohort study included 1250 hypertensive patients treated between 2015 and 2020 in Hebei Province, China, with follow-up data available through December 31, 2022. Participants were followed through routine clinical visits and electronic medical record review, during which renal function indicators were periodically reassessed. Baseline HRV was measured using 24-hour Holter monitoring, with the standard deviation of all normal-to-normal intervals (SDNN) as the primary HRV index. Cox proportional hazards models were used to estimate hazard ratios for EKD, adjusting for demographic, lifestyle, clinical, and laboratory factors. Exploratory mediation analysis assessed the indirect association via lipid parameters. Higher HRV w"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "blood lipid levels",
+        "cohort study",
+        "early kidney damage",
+        "heart rate variability",
+        "hypertension"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Heart Rate",
+        "Retrospective Studies",
+        "Hypertension",
+        "China",
+        "Aged",
+        "Cholesterol, LDL"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41961667/",
+      "DOI": "10.1097/MD.0000000000048197"
+    },
+    {
+      "pmid": "41508609",
+      "標題": "Transcriptome-wide association study of cardiovascular outcomes in chronic kidney disease: The chronic renal insufficiency cohort.",
+      "期刊": "HGG advances",
+      "發表日期": "2026 Apr 09",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "患有 Renal Insufficiency, Chronic, Cardiovascular Diseases 的病人",
+        "I_介入": "",
+        "C_對照": "traditional genome-wide association approaches",
+        "O_結果": "associated with all-cause stroke in CRIC AFR participants (p = 4"
+      },
+      "中文摘要": "【主要結果】may be impacted by the choice of gene expression reference. We performed TWAS of cardiovascular outcomes using multi-tissue and ancestry-matched gene expression references.",
+      "結構化摘要": {
+        "完整摘要": "Transcriptome-wide association studies (TWASs) are powerful for identifying gene-trait associations by integrating gene expression and genome-wide association data, but findings may be impacted by the choice of gene expression reference. We performed TWAS of cardiovascular outcomes using multi-tissue and ancestry-matched gene expression references. We used data from the Chronic Renal Insufficiency Cohort Study for participants of African (AFR, n = 1,512) and European (EUR, n = 2,067) ancestry and three outcomes: all-cause stroke, coronary heart disease, and heart failure. We performed TWASs using EUR and AFR predicted gene expression reference panels and multi-tissue TWAS by integrating gene expression from 10 GTEx selected tissues. TWAS identified KDELR2 associated with heart failure in AFR participants using matched AFR reference panel (p = 4.7 × 10-6), although findings were near significant using the EUR mismatched reference panel (p = 5.6 × 10-6). PSMC1 was associated with coronar"
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: heart failure"
+      ],
+      "關鍵詞": [
+        "ancestry",
+        "cardiovascular disease",
+        "chronic kidney disease",
+        "genes",
+        "multi-tissue",
+        "transcriptome"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Genome-Wide Association Study",
+        "Renal Insufficiency, Chronic",
+        "Male",
+        "Transcriptome",
+        "Female",
+        "Cardiovascular Diseases",
+        "Middle Aged",
+        "Cohort Studies",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41508609/",
+      "DOI": "10.1016/j.xhgg.2026.100562"
+    },
+    {
+      "pmid": "41956546",
+      "標題": "Simlukafusp alfa (FAP-IL2v) plus atezolizumab with or without bevacizumab in unresectable, metastatic renal cell carcinoma: a randomized, open-label phase Ib study.",
+      "期刊": "Journal for immunotherapy of cancer",
+      "發表日期": "2026 Apr 09",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "4 participants; these patients had higher concentrations of serum cytokines, indicative of more systemic inflammat",
-        "I_介入": "400 × 106 to 1 × 109 polyclonally expanded Tregs without adverse events",
-        "C_對照": "participants and 7 polyclonal Treg group participants; the latter received 400 × 106 to 1 × 109 polyclonally expanded Tregs without adverse events",
-        "O_結果": "the change in graft inflammation on a follow-up biopsy 6 months after Treg infusion"
+        "P_族群": "mRCC",
+        "I_介入": "up to one prior systemic therapy",
+        "C_對照": "the doublet",
+        "O_結果": ""
       },
-      "中文摘要": "【摘要】Regulatory T cells (Tregs) can reverse inflammation in animal models. We conducted a randomized controlled clinical trial of Treg therapy in kidney transplant recipients with subclinical graft inflammation (NCT02711826).",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討were the recommended FAP-IL2v dose and antitumor activity. Secondary objectives included safety, pharmacodynamics, and exploratory biomarkers in peripheral blood and paired biopsies. RESULTS: By the data cut-off date (31 August, 2021), 66 patients were enrolled.\n\n【研究方法】Patients with treatment-naïve or pretreated clear cell and/or sarcomatoid mRCC were eligible. Dose escalation explored FAP-IL2v every 2 weeks (Q2W) with atezolizumab Q2W (doublet, arm A), and with atezolizumab and bevacizumab Q2W (triplet, arm B) in patients treated with up to one prior systemic the...\n\n【主要結果】By the data cut-off date (31 August, 2021), 66 patients were enrolled. The median duration of treatment was 11.0 months. Objective response rates (ORRs) were 25% for the doublet and 47% for the triplet, and median progression-free survival was 6.3 and 18.3 months, respectively.\n\n【結論】The combination of FAP-IL2v plus atezolizumab with or without bevacizumab was consistent with the known safety profile of the individual drugs. The maximum tolerated dose was not reached, with a recommended FAP-IL2v dose of 10 mg.",
       "結構化摘要": {
-        "完整摘要": "Regulatory T cells (Tregs) can reverse inflammation in animal models. We conducted a randomized controlled clinical trial of Treg therapy in kidney transplant recipients with subclinical graft inflammation (NCT02711826). The primary endpoint was the change in graft inflammation on a follow-up biopsy 6 months after Treg infusion. The trial accrued 8 control group participants and 7 polyclonal Treg group participants; the latter received 400 × 106 to 1 × 109 polyclonally expanded Tregs without adverse events. Graft inflammation decreased substantially in both groups at 6 months; however, the degree of change was not significantly different between the groups. The peak of infused Tregs in circulation correlated positively with the pre-existing circulating CD4+ T cell numbers, suggesting that Treg engraftment was limited by the size of the endogenous CD4+ T cell compartment. Infused Tregs were detected in 14-day postinfusion biopsies, albeit at lower frequencies than in circulation. Unlike"
+        "背景": "Simlukafusp alfa (FAP-IL2v) was engineered to preferentially activate CD8+ T and natural killer (NK) cells in tumor microenvironments overexpressing fibroblast activation protein (FAP). Checkpoint inhibitors combined with antiangiogenic agents are standard therapy for metastatic renal cell carcinoma (mRCC), which overexpresses FAP. Here, we explored the efficacy, safety, and pharmacodynamic effects of FAP-IL2v in combination with atezolizumab with or without bevacizumab in patients with mRCC.",
+        "目的": "were the recommended FAP-IL2v dose and antitumor activity. Secondary objectives included safety, pharmacodynamics, and exploratory biomarkers in peripheral blood and paired biopsies.",
+        "方法": "Patients with treatment-naïve or pretreated clear cell and/or sarcomatoid mRCC were eligible. Dose escalation explored FAP-IL2v every 2 weeks (Q2W) with atezolizumab Q2W (doublet, arm A), and with atezolizumab and bevacizumab Q2W (triplet, arm B) in patients treated with up to one prior systemic therapy. Dose extension explored in untreated patients the recommended FAP-IL2v dose administered Q2W (doublet, arm A; and triplet, arm B) or 3-weekly (doublet, arm C; and triplet, arm D). Primary object",
+        "結果": "By the data cut-off date (31 August, 2021), 66 patients were enrolled. The median duration of treatment was 11.0 months. Objective response rates (ORRs) were 25% for the doublet and 47% for the triplet, and median progression-free survival was 6.3 and 18.3 months, respectively. Safety profiles were consistent with the individual drugs, including expected interleukin-2 (IL-2) class-specific adverse events (AEs). Two deaths were recorded caused by AEs related to study treatment (acute kidney injur",
+        "結論": "The combination of FAP-IL2v plus atezolizumab with or without bevacizumab was consistent with the known safety profile of the individual drugs. The maximum tolerated dose was not reached, with a recommended FAP-IL2v dose of 10 mg. ORR was higher among patients receiving the triplet therapy compared with the doublet. Pharmacodynamic results were consistent with the mechanism of action of IL-2, supporting further research in this field."
       },
       "相關趨勢": [
+        "診斷技術: biomarker",
         "研究主題: inflammation"
       ],
       "關鍵詞": [
-        "T cell biology",
-        "T cell lineage identity",
-        "T cell trafficking",
-        "borderline change",
-        "cellular therapy",
-        "immune modulation",
-        "immune regulation",
-        "kidney transplant",
-        "polyclonal regulatory T cells",
-        "protocol biopsy"
+        "Combination therapy",
+        "Immune Checkpoint Inhibitor",
+        "Pharmacodynamics - PD",
+        "Solid tumor",
+        "T cell"
       ],
       "MeSH詞彙": [
         "Humans",
-        "T-Lymphocytes, Regulatory",
-        "Kidney Transplantation",
+        "Carcinoma, Renal Cell",
         "Male",
         "Female",
-        "Prospective Studies",
-        "Inflammation",
+        "Kidney Neoplasms",
         "Middle Aged",
-        "Graft Rejection",
-        "Graft Survival"
+        "Aged",
+        "Bevacizumab",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41314617/",
-      "DOI": "10.1016/j.ajt.2025.11.011"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41956546/",
+      "DOI": "10.1136/jitc-2025-012466"
     },
     {
-      "pmid": "41571096",
-      "標題": "A secondary analysis of the TESTING trial predicted individual patient response to corticosteroid treatment in IgA nephropathy.",
-      "期刊": "Kidney international",
-      "發表日期": "2026 Apr",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "predicted ARR over 10% had greater observed benefit from methylprednisolone (ARR 24%) versus those with predicted ARR 10% or less (observed ARR -5%)",
-        "I_介入": "methylprednisolone",
-        "C_對照": "the average ARR associated with methylprednisolone (16",
-        "O_結果": "(40% reduction in eGFR, kidney failure or death due to kidney disease) was evaluated in a Cox proportional hazards model including all potential treatment modifiers as main effects"
-      },
-      "中文摘要": "【研究方法】Time to the primary outcome (40% reduction in eGFR, kidney failure or death due to kidney disease) was evaluated in a Cox proportional hazards model including all potential treatment modifiers as main effects.\n\n【主要結果】During a median of 43 months follow-up, 176 of 483 participants experienced the primary outcome. Selected treatment modifiers were eGFR, age, proteinuria, renin-angiotensin-aldosterone-system blockade dose, ethnicity, time from biopsy to enrollment, systolic blood pressure, sex, body mass index, and...\n\n【結論】We have generated a model that can predict individual patient response to methylprednisolone so that corticosteroids can be targeted to those most likely to benefit.",
-      "結構化摘要": {
-        "方法": "Time to the primary outcome (40% reduction in eGFR, kidney failure or death due to kidney disease) was evaluated in a Cox proportional hazards model including all potential treatment modifiers as main effects. Selected variables were forced into a model with treatment exposure and interaction terms between treatment and each included variable. The predicted four-year absolute risk of the primary outcome was generated for every patient individually under separate scenarios of being treated with m",
-        "結果": "During a median of 43 months follow-up, 176 of 483 participants experienced the primary outcome. Selected treatment modifiers were eGFR, age, proteinuria, renin-angiotensin-aldosterone-system blockade dose, ethnicity, time from biopsy to enrollment, systolic blood pressure, sex, body mass index, and MEST-C T-score and C-score. Compared to the average ARR associated with methylprednisolone (16.1%), the predicted individual-level ARR was highly variable (-10% to 40%). Patients with predicted ARR o",
-        "結論": "We have generated a model that can predict individual patient response to methylprednisolone so that corticosteroids can be targeted to those most likely to benefit."
-      },
-      "相關趨勢": [
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [
-        "IgA nephropathy",
-        "clinical trial",
-        "corticosteroids",
-        "kidney failure",
-        "prediction",
-        "response"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Glomerulonephritis, IGA",
-        "Male",
-        "Female",
-        "Methylprednisolone",
-        "Adult",
-        "Middle Aged",
-        "Glomerular Filtration Rate",
-        "Treatment Outcome",
-        "Proportional Hazards Models"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41571096/",
-      "DOI": "10.1016/j.kint.2025.12.024"
-    },
-    {
-      "pmid": "41763933",
-      "標題": "Relationship Between Arterioplasty and Renal Prognosis in Renal Transplantation: A Single-Center Retrospective Cohort Study.",
-      "期刊": "Transplantation proceedings",
-      "發表日期": "2026 Apr",
+      "pmid": "41946906",
+      "標題": "Characterization of residual kidney function in chronic hemodialysis patients using plasma metabolomics.",
+      "期刊": "Scientific reports",
+      "發表日期": "2026 Apr 07",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "multiple renal arteries",
-        "I_介入": "the AP and SA groups",
-        "C_對照": "single-artery transplantation",
-        "O_結果": "renal function and survival outcomes comparable to simple anastomosis"
+        "P_族群": "and without significant RKF",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": ""
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討Multi-artery kidney transplantation has historically been associated with a higher risk of complications and impaired graft function compared with single-artery transplantation. This study aimed to evaluate the relationship between arterioplasty and renal prognosis.\n\n【研究方法】We conducted a retrospective cohort study of living-donor kidney transplants performed at our center between January 2015 and December 2022. Patients with multiple renal arteries, excluding those in which branches were ligated, were divided into an arterioplasty group (AP group) and a simple anastom...\n\n【主要結果】Among 201 living-donor kidney transplants, 46 and 140 patients were assigned to the AP and SA groups, respectively. At discharge, serum creatinine (s-Cr) levels were 1.62 ± 0.86 mg/dL and 1.41 ± 0.46 mg/dL (p = .35), and estimated glomerular filtration rates (eGFR) were 39.98 ± 17.19 and 43.67 ± 13.\n\n【結論】In living-donor kidney transplantation with multiple renal arteries, arterioplasty showed renal function and survival outcomes comparable to simple anastomosis, suggesting it may be a safe and useful approach.",
+      "中文摘要": "【研究目的】本研究旨在探討ed to identify differences in plasma metabolites depending on the presence of RKF and to evaluate whether a subset of biomarkers could assist in classifying RKF. A prospective study was conducted among chronic hemodialysis (HD) patients in Geneva, Switzerland.",
       "結構化摘要": {
-        "方法": "We conducted a retrospective cohort study of living-donor kidney transplants performed at our center between January 2015 and December 2022. Patients with multiple renal arteries, excluding those in which branches were ligated, were divided into an arterioplasty group (AP group) and a simple anastomosis group (SA group).",
-        "結果": "Among 201 living-donor kidney transplants, 46 and 140 patients were assigned to the AP and SA groups, respectively. At discharge, serum creatinine (s-Cr) levels were 1.62 ± 0.86 mg/dL and 1.41 ± 0.46 mg/dL (p = .35), and estimated glomerular filtration rates (eGFR) were 39.98 ± 17.19 and 43.67 ± 13.28 mL/min/1.73 m² (P = .05). At 1 year, s-Cr levels were 1.43 ± 0.56 mg/dL and 1.31 ± 0.40 mg/dL (P = .49), and eGFR values were 43.06 ± 15.45 and 45.87 ± 12.80 mL/min/1.73 m² (P = .24), with no signi",
-        "結論": "In living-donor kidney transplantation with multiple renal arteries, arterioplasty showed renal function and survival outcomes comparable to simple anastomosis, suggesting it may be a safe and useful approach."
+        "完整摘要": "In dialysis, preservation of residual kidney function (RKF) is associated with a favorable prognosis. We aimed to identify differences in plasma metabolites depending on the presence of RKF and to evaluate whether a subset of biomarkers could assist in classifying RKF. A prospective study was conducted among chronic hemodialysis (HD) patients in Geneva, Switzerland. Presence of significant RKF was defined as residual clearance of urea (KRU) ≥ 2 mL/min on 24 h urine collection. A total of 89 a priori selected plasma metabolites were analyzed by liquid chromatography-mass spectrometry. We included 136 patients, 54 with KRU ≥ 2 mL/min (40%) and 82 (60%) with KRU < 2 mL/min. The overall metabolic profile strongly differed between patients with and without significant RKF, despite similar total (residual + dialytic) clearances. Classification based on the metabolic profile achieved a 93% accuracy to predict significant RKF at a 2 mL/min cut-off. A subset of 3 biomarkers allowed RKF classifi"
       },
-      "相關趨勢": [],
-      "關鍵詞": [],
+      "相關趨勢": [
+        "診斷技術: biomarker",
+        "診斷技術: metabolomics"
+      ],
+      "關鍵詞": [
+        "Dialysis",
+        "Hemodialysis",
+        "Metabolites",
+        "Metabolomics",
+        "Residual kidney function"
+      ],
       "MeSH詞彙": [
         "Humans",
-        "Kidney Transplantation",
-        "Retrospective Studies",
+        "Renal Dialysis",
         "Male",
         "Female",
+        "Metabolomics",
         "Middle Aged",
-        "Renal Artery",
-        "Adult",
-        "Living Donors",
-        "Glomerular Filtration Rate"
+        "Aged",
+        "Biomarkers",
+        "Prospective Studies",
+        "Metabolome"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41763933/",
-      "DOI": "10.1016/j.transproceed.2026.02.015"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41946906/",
+      "DOI": "10.1038/s41598-026-47357-1"
+    },
+    {
+      "pmid": "41848060",
+      "標題": "Development and Validation of a Machine Learning Model for Incident Heart Failure Prediction in Chronic Kidney Disease: A Multicenter Cohort Study.",
+      "期刊": "Journal of the American Heart Association",
+      "發表日期": "2026 Apr 07",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "CKD from the China Renal Data System (70% training; 30% internal validation)",
+        "I_介入": "",
+        "C_對照": "the Atherosclerosis Risk in Communities risk score",
+        "O_結果": "via area under the curve and compared"
+      },
+      "中文摘要": "【研究背景】Chronic kidney disease (CKD) and heart failure (HF) share pathophysiological mechanisms, rendering HF one of the most burdensome cardiovascular complication in CKD.\n\n【研究方法】The development set comprised 52 251 patients with CKD from the China Renal Data System (70% training; 30% internal validation). External validation used 21 798 patients from independent Chinese hospitals and 3323 UK Biobank participants. Outcome was 5-year new-onset HF.\n\n【主要結果】In the Chinese external validation cohort, the extreme gradient boosting model outperformed others (area under the curve, 0.879 [95% CI, 0.871-0.887]; DeLong P<0.05), with an area under the curve of 0.851 (95% CI, 0.831-0.870) in the UK Biobank cohort.\n\n【結論】The 9-variable extreme gradient boosting model tailored for patients with CKD may help predict HF risk in this high-risk population. Validation across diverse populations is warranted to confirm its generalizability.",
+      "結構化摘要": {
+        "背景": "Chronic kidney disease (CKD) and heart failure (HF) share pathophysiological mechanisms, rendering HF one of the most burdensome cardiovascular complication in CKD. Current HF prediction models, derived from the general population, exhibit limited accuracy in CKD, thus necessitating a CKD-specific risk model and clinical implementation.",
+        "方法": "The development set comprised 52 251 patients with CKD from the China Renal Data System (70% training; 30% internal validation). External validation used 21 798 patients from independent Chinese hospitals and 3323 UK Biobank participants. Outcome was 5-year new-onset HF. Five machine learning models were developed, with performance assessed via area under the curve and compared using DeLong test. The top-performing extreme gradient boosting model was simplified via forward stepwise selection; fe",
+        "結果": "In the Chinese external validation cohort, the extreme gradient boosting model outperformed others (area under the curve, 0.879 [95% CI, 0.871-0.887]; DeLong P<0.05), with an area under the curve of 0.851 (95% CI, 0.831-0.870) in the UK Biobank cohort. The model was simplified to 9 predictors; Shapley additive explanations analysis ranked estimated glomerular filtration rate and albuminuria as among the most important features. In Chinese and UK Biobank external validation sets, the simplified e",
+        "結論": "The 9-variable extreme gradient boosting model tailored for patients with CKD may help predict HF risk in this high-risk population. Validation across diverse populations is warranted to confirm its generalizability."
+      },
+      "相關趨勢": [
+        "診斷技術: machine learning",
+        "研究主題: cardiovascular",
+        "研究主題: heart failure"
+      ],
+      "關鍵詞": [
+        "chronic kidney disease",
+        "electronic health records",
+        "heart failure",
+        "machine learning",
+        "prediction model"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Male",
+        "Female",
+        "Machine Learning",
+        "Heart Failure",
+        "Middle Aged",
+        "Risk Assessment",
+        "China",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41848060/",
+      "DOI": "10.1161/JAHA.125.046156"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "mortality",
-      "頻率": 20,
-      "想法": "目前 'mortality' 是研究熱點 (20 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "biomarker",
+      "頻率": 2,
+      "想法": "目前 'biomarker' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 13,
-      "想法": "目前 'cardiovascular' 是研究熱點 (13 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 2,
+      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "proteinuria",
-      "頻率": 7,
-      "想法": "目前 'proteinuria' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "heart failure",
+      "頻率": 2,
+      "想法": "目前 'heart failure' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "biomarker",
-      "頻率": 5,
-      "想法": "目前 'biomarker' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "metabolomics",
+      "頻率": 1,
+      "想法": "目前 'metabolomics' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "SGLT2 inhibitor",
-      "頻率": 3,
-      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "machine learning",
+      "頻率": 1,
+      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "inflammation",
-      "頻率": 3,
-      "想法": "目前 'inflammation' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "empagliflozin",
-      "頻率": 2,
-      "想法": "目前 'empagliflozin' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "finerenone",
-      "頻率": 2,
-      "想法": "目前 'finerenone' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "quality of life",
-      "頻率": 2,
-      "想法": "目前 'quality of life' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "ESKD",
-      "頻率": 2,
-      "想法": "目前 'ESKD' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "SGLT2 inhibitor",
-      "頻率": 3,
-      "想法": "'SGLT2 inhibitor' (治療方法) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "empagliflozin",
-      "頻率": 2,
-      "想法": "'empagliflozin' (治療方法) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "finerenone",
-      "頻率": 2,
-      "想法": "'finerenone' (治療方法) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "GLP-1",
       "頻率": 1,
-      "想法": "'GLP-1' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "mortality",
+      "頻率": 1,
+      "想法": "目前 'mortality' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "biomarker",
+      "頻率": 2,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "quality of life",
-      "頻率": 2,
-      "想法": "'quality of life' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "關鍵詞": "metabolomics",
+      "頻率": 1,
+      "想法": "'metabolomics' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
-      "類型": "跨領域研究",
-      "關鍵詞": "兒童腎臟學 + 成人腎臟學",
-      "想法": "考慮進行兒童至成人的長期追蹤研究：\n1. 兒童期腎臟疾病對成年後的影響\n2. 早期介入對長期預後的效果\n3. 生命歷程觀點的腎臟病研究",
-      "建議研究類型": "長期追蹤世代研究"
+      "類型": "研究缺口",
+      "關鍵詞": "machine learning",
+      "頻率": 1,
+      "想法": "'machine learning' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "cardiovascular",
+      "頻率": 2,
+      "想法": "'cardiovascular' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "heart failure",
+      "頻率": 2,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "方法學創新",
@@ -667,49 +570,38 @@
       "關鍵詞": "真實世界數據",
       "想法": "利用真實世界數據進行研究：\n1. 健保資料庫分析\n2. 電子病歷數據挖掘\n3. 多中心登錄資料分析",
       "建議研究類型": "真實世界研究 (RWE)"
-    },
-    {
-      "類型": "高影響力研究延伸",
-      "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 10 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
-      "相關文章": [
-        "Antiproteinuric effect of SGLT2 inhibitors in non-",
-        "Time to Quadruple Therapy After Initial Diagnosis ",
-        "Antiproteinuric effect of SGLT2 inhibitors in non-"
-      ],
-      "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 57,
-    "Female": 55,
-    "Male": 54,
-    "Middle Aged": 51,
-    "Aged": 40,
-    "Adult": 31,
-    "Retrospective Studies": 19,
-    "Glomerular Filtration Rate": 18,
-    "Treatment Outcome": 14,
-    "Renal Insufficiency, Chronic": 13,
-    "Risk Factors": 13,
-    "Cohort Studies": 12,
-    "Prospective Studies": 11,
-    "Kidney Failure, Chronic": 11,
-    "Prognosis": 10,
-    "Kidney Transplantation": 9,
-    "Diabetic Nephropathies": 8,
-    "Kidney": 8,
-    "Acute Kidney Injury": 8,
-    "Incidence": 7,
-    "Graft Survival": 7,
-    "Cardiovascular Diseases": 7,
-    "Risk Assessment": 7,
-    "Follow-Up Studies": 6,
-    "Diabetes Mellitus, Type 2": 6,
-    "Biomarkers": 6,
-    "Graft Rejection": 6,
-    "Proportional Hazards Models": 6,
-    "Sodium-Glucose Transporter 2 Inhibitors": 5,
-    "Child": 5
+    "Humans": 9,
+    "Male": 9,
+    "Female": 9,
+    "Middle Aged": 9,
+    "Aged": 9,
+    "Risk Factors": 5,
+    "Retrospective Studies": 5,
+    "Renal Insufficiency, Chronic": 4,
+    "Biomarkers": 2,
+    "China": 2,
+    "Prognosis": 2,
+    "Adult": 2,
+    "Renal Dialysis": 1,
+    "Metabolomics": 1,
+    "Prospective Studies": 1,
+    "Metabolome": 1,
+    "Kidney": 1,
+    "Urea": 1,
+    "Kidney Function Tests": 1,
+    "Kidney Failure, Chronic": 1,
+    "Machine Learning": 1,
+    "Heart Failure": 1,
+    "Risk Assessment": 1,
+    "Incidence": 1,
+    "Reproducibility of Results": 1,
+    "Predictive Value of Tests": 1,
+    "United Kingdom": 1,
+    "Genome-Wide Association Study": 1,
+    "Transcriptome": 1,
+    "Cardiovascular Diseases": 1
   }
 }

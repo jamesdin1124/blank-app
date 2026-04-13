@@ -1,82 +1,29 @@
 {
-  "總文章數": 62,
-  "高影響力期刊文章數": 10,
-  "分析日期": "2026-04-06T09:11:26.120535",
+  "總文章數": 9,
+  "高影響力期刊文章數": 0,
+  "分析日期": "2026-04-13T09:57:30.675559",
   "趨勢關鍵詞統計": {
-    "治療方法": {
-      "SGLT2 inhibitor": 3,
-      "empagliflozin": 2,
-      "finerenone": 2,
-      "GLP-1": 1
-    },
-    "臨床結局": {
-      "mortality": 20,
-      "proteinuria": 7,
-      "quality of life": 2,
-      "ESKD": 2,
-      "cost-effectiveness": 1,
-      "eGFR decline": 1
-    },
     "診斷技術": {
-      "biomarker": 5,
-      "genetic testing": 2,
-      "machine learning": 2,
-      "proteomics": 1
+      "biomarker": 2,
+      "metabolomics": 1,
+      "machine learning": 1
     },
     "研究主題": {
-      "cardiovascular": 13,
-      "inflammation": 3,
+      "cardiovascular": 2,
       "heart failure": 2,
-      "personalized": 1
+      "inflammation": 1
+    },
+    "臨床結局": {
+      "mortality": 1
     }
   },
   "熱門主題": [
     [
-      "mortality",
-      20
+      "biomarker",
+      2
     ],
     [
       "cardiovascular",
-      13
-    ],
-    [
-      "proteinuria",
-      7
-    ],
-    [
-      "biomarker",
-      5
-    ],
-    [
-      "SGLT2 inhibitor",
-      3
-    ],
-    [
-      "inflammation",
-      3
-    ],
-    [
-      "empagliflozin",
-      2
-    ],
-    [
-      "finerenone",
-      2
-    ],
-    [
-      "quality of life",
-      2
-    ],
-    [
-      "ESKD",
-      2
-    ],
-    [
-      "genetic testing",
-      2
-    ],
-    [
-      "machine learning",
       2
     ],
     [
@@ -84,108 +31,81 @@
       2
     ],
     [
-      "GLP-1",
+      "metabolomics",
       1
     ],
     [
-      "cost-effectiveness",
+      "machine learning",
       1
     ],
     [
-      "eGFR decline",
+      "inflammation",
       1
     ],
     [
-      "proteomics",
-      1
-    ],
-    [
-      "personalized",
+      "mortality",
       1
     ]
   ],
   "期刊分布": {
-    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-    "The American journal of clinical nutrition": 3,
-    "Pediatric nephrology (Berlin, Germany)": 3,
-    "Journal of the American Society of Nephrology : JASN": 3,
-    "Jornal brasileiro de nefrologia": 3,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-    "Diabetes, obesity & metabolism": 3,
-    "International urology and nephrology": 2,
-    "Anesthesiology": 2,
-    "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons": 2,
-    "Renal failure": 2,
-    "The Journal of clinical investigation": 1,
-    "Experimental and therapeutic medicine": 1,
-    "Kidney360": 1,
-    "The Journal of infection": 1
+    "Medicine": 3,
+    "Scientific reports": 1,
+    "Journal of the American Heart Association": 1,
+    "HGG advances": 1,
+    "Renal failure": 1,
+    "Journal for immunotherapy of cancer": 1,
+    "Annals of medicine": 1
   },
   "文章類型分布": {
-    "Journal Article": 62,
-    "Randomized Controlled Trial": 10,
-    "Multicenter Study": 9,
-    "Observational Study": 4,
-    "Systematic Review": 4,
-    "Meta-Analysis": 4,
-    "Clinical Trial": 3,
-    "Comparative Study": 3,
-    "Review": 1,
-    "Clinical Trial, Phase II": 1
+    "Journal Article": 9,
+    "Observational Study": 3,
+    "Multicenter Study": 2,
+    "Validation Study": 1,
+    "Clinical Trial, Phase I": 1,
+    "Randomized Controlled Trial": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 57,
-    "Female": 55,
-    "Male": 54,
-    "Middle Aged": 51,
-    "Aged": 40,
-    "Adult": 31,
-    "Retrospective Studies": 19,
-    "Glomerular Filtration Rate": 18,
-    "Treatment Outcome": 14,
-    "Renal Insufficiency, Chronic": 13,
-    "Risk Factors": 13,
-    "Cohort Studies": 12,
-    "Prospective Studies": 11,
-    "Kidney Failure, Chronic": 11,
-    "Prognosis": 10,
-    "Kidney Transplantation": 9,
-    "Diabetic Nephropathies": 8,
-    "Kidney": 8,
-    "Acute Kidney Injury": 8,
-    "Incidence": 7,
-    "Graft Survival": 7,
-    "Cardiovascular Diseases": 7,
-    "Risk Assessment": 7,
-    "Follow-Up Studies": 6,
-    "Diabetes Mellitus, Type 2": 6,
-    "Biomarkers": 6,
-    "Graft Rejection": 6,
-    "Proportional Hazards Models": 6,
-    "Sodium-Glucose Transporter 2 Inhibitors": 5,
-    "Child": 5
+    "Humans": 9,
+    "Male": 9,
+    "Female": 9,
+    "Middle Aged": 9,
+    "Aged": 9,
+    "Risk Factors": 5,
+    "Retrospective Studies": 5,
+    "Renal Insufficiency, Chronic": 4,
+    "Biomarkers": 2,
+    "China": 2,
+    "Prognosis": 2,
+    "Adult": 2,
+    "Renal Dialysis": 1,
+    "Metabolomics": 1,
+    "Prospective Studies": 1,
+    "Metabolome": 1,
+    "Kidney": 1,
+    "Urea": 1,
+    "Kidney Function Tests": 1,
+    "Kidney Failure, Chronic": 1,
+    "Machine Learning": 1,
+    "Heart Failure": 1,
+    "Risk Assessment": 1,
+    "Incidence": 1,
+    "Reproducibility of Results": 1,
+    "Predictive Value of Tests": 1,
+    "United Kingdom": 1,
+    "Genome-Wide Association Study": 1,
+    "Transcriptome": 1,
+    "Cardiovascular Diseases": 1
   },
   "按類別統計": {
-    "兒童腎臟學": {
-      "文章數": 12,
-      "高影響力期刊文章數": 2,
-      "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 3,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
-        "International urology and nephrology": 1,
-        "The Journal of clinical investigation": 1,
-        "Experimental and therapeutic medicine": 1
-      }
-    },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 8,
+      "文章數": 9,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of the American Society of Nephrology : JASN": 3,
-        "Jornal brasileiro de nefrologia": 3,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-        "Diabetes, obesity & metabolism": 3,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2
+        "Medicine": 3,
+        "Scientific reports": 1,
+        "Journal of the American Heart Association": 1,
+        "HGG advances": 1,
+        "Renal failure": 1
       }
     }
   }
