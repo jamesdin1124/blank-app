@@ -16,71 +16,98 @@
     ],
     "articles": [
       {
-        "pmid": "42000952",
-        "title": "Clinical characteristics and genetic analyses of Korean children with Dent disease.",
-        "abstract": "BACKGROUND: Dent disease is a hereditary kidney tubular disorder caused by pathogenic variants in either the CLCN5 (Dent disease 1) or OCRL1 (Dent disease 2) genes. As a rare genetic disorder, Dent disease often presents with variable clinical manifestations, leading to frequent misdiagnosis or underdiagnosis, especially in milder cases. Consequently, limited research has addressed the long-term clinical outcomes of Dent disease. METHODS: This retrospective multicenter cohort study was conducted at 9 hospitals in Korea. A total of 48 male patients from 44 unrelated families with genetically confirmed Dent disease were enrolled, and their clinical phenotypes, and genetic backgrounds were assessed. RESULT: The median age at diagnosis for Dent disease was 6.8 years, and 42 patients were diagnosed with Dent disease 1. At diagnosis, 17 patients (37.0%) demonstrated the classic triad of Dent disease features, whereas 12 patients (26.1%) presented solely with isolated low-molecular-weight proteinuria. During follow-up, whereas all patients maintained low-molecular-weight proteinuria, hypercalciuria, nephrocalcinosis, and nephrolithiasis occurred in 82.6%, 56.5%, and 8.3% of patients, respectively. The cases with Dent disease 2 had a higher rate of hypophosphatemia and significant proteinuria compared to Dent disease 1. A negative correlation was identified between hypercalciuria and age in the overall Dent disease cohort. The decline rate of annual estimated glomerular filtration rate was 0.6 mL/min/1.73 m2, without the case of kidney failure. At last follow-up, kidney dysfunction was present in 39.5% of cases. CONCLUSIONS: Due to its rarity and phenotype variability, Dent disease is frequently under-recognized by clinicians. As over one-third of patients progress to chronic kidney disease by early adulthood, a high index of clinical suspicion and early genetic testing are essential, alongside rigorous monitoring of kidney function.",
+        "pmid": "42034693",
+        "title": "Incidence and risk factors of vancomycin-associated nephrotoxicity among neonates in the intensive care unit: a retrospective cohort study.",
+        "abstract": "BACKGROUND: Vancomycin-induced nephrotoxicity is associated with an increased risk of neonatal mortality and prolonged neonatal intensive care unit (NICU) stay. This retrospective cohort study aimed to assess the incidence of vancomycin-associated nephrotoxicity and its risk factors in neonates. METHODS: The study included neonates admitted to the NICU of the Maternity and Children Hospital (Makkah, Saudi Arabia) from January 2018 to December 2020 who received intravenous vancomycin for more than 48 h. The primary outcome was the incidence of newly developed acute kidney injury (AKI) after the initiation of vancomycin therapy, defined according to the neonatal modified Kidney Disease: Improving Global Outcomes criteria. Analyses included AKI incidence, comparison of clinical parameters between neonates with and without AKI, and multivariable logistic regression to identify predictors of AKI and mortality. RESULTS: Among 362 neonates treated with vancomycin, 11.3% developed AKI. Neonates with AKI had a lower postmenstrual age (31.3 vs. 34.1 weeks, p = 0.01) and higher rates of extreme prematurity (31.7% vs. 14.3%, p = 0.02) and extremely low birth weight (43.9% vs. 18.7%, p = 0.00). Vancomycin trough levels > 15 mg/L were more frequent in the AKI group (26.8%, 11/41) than in others (11.8%, 35/321) (p = 0.00). Only one-third of vancomycin trough measurements were obtained according to guideline-recommended timing. In multivariable analysis, each additional week of postmenstrual age was independently associated with a 10% reduction in the odds of AKI (OR 0.90; p = 0.00). Higher weight was associated with lower mortality (OR = 0.26; p < 0.001), while AKI incidence was associated with increased mortality (OR = 5.88; p < 0.001). Caffeine citrate use was associated with lower odds of mortality, but was not associated with AKI (OR = 0.21; p < 0.001). CONCLUSION: Lower postmenstrual age independently predicted vancomycin-associated AKI. Lower neonatal weight and AKI were associated with increased mortality, reinforcing the importance of individualized monitoring during vancomycin therapy.",
         "authors": [
-          "Yang Eun Mi",
-          "Ahn Yo Han",
-          "Kim Ji Hyun",
-          "Song Ji Yeon",
-          "Cho Min Hyun",
-          "Han Kyoung Hee",
-          "Park Se Jin",
-          "Kang Hee Gyung",
-          "Cho Heeyeon",
-          "Cheong Hae Il"
+          "Bafhaid Hanouf S",
+          "Bagbag Ibraheem H",
+          "Dearar Abdullah Hassan",
+          "Monshi Rashed S",
+          "Alrammaal Hanadi H",
+          "Khan Lujain Khalid",
+          "Felemban Walaa Anwar",
+          "Alhazmi Kholod A",
+          "Alharbi Roaa S"
         ],
         "journal": "Pediatric nephrology (Berlin, Germany)",
-        "pub_date": "2026 Apr 18",
+        "pub_date": "2026 Apr 25",
         "pub_types": [
           "Journal Article"
         ],
         "keywords": [
-          "CLCN5",
-          "OCRL",
-          "Chronic kidney disease",
-          "Dent disease"
+          "Acute kidney injury",
+          "Neonate",
+          "Nephrotoxicity",
+          "Risk factors",
+          "Vancomycin"
         ],
         "mesh_terms": [],
-        "doi": "10.1007/s00467-026-07291-w",
+        "doi": "10.1007/s00467-026-07296-5",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42000952/",
-        "fetched_at": "2026-04-20T09:59:53.081729"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42034693/",
+        "fetched_at": "2026-04-27T10:19:27.709590"
       },
       {
-        "pmid": "41979713",
-        "title": "Temporary mycophenolate discontinuation and reintroduction in pediatric kidney transplantation: predictors and long-term outcomes.",
-        "abstract": "BACKGROUND: Temporary discontinuation of mycophenolate mofetil (MMF) is frequently required in pediatric kidney transplant recipients, most often in response to viral complications. However, data regarding the long-term safety of MMF discontinuation, feasibility of reintroduction, and predictors of the need for MMF withdrawal in children remain limited. METHODS: We conducted a retrospective, single-center cohort study of pediatric kidney transplant recipients with longitudinal follow-up. Clinical, virologic, immunologic, and transplant-related data were collected. Outcomes included longitudinal estimated glomerular filtration rate (eGFR), biopsy-proven acute rejection, graft loss, de novo donor-specific antibody (dnDSA) development, unplanned hospitalization, and MMF reintroduction. Factors associated with MMF discontinuation were evaluated using multivariable regression analysis. RESULTS: Among 65 pediatric kidney transplant recipients, 22 (33.8%) required temporary MMF discontinuation, most commonly within the first post-transplant year. Opportunistic viral infections accounted for the majority of MMF withdrawal events, with BK virus as the predominant indication. MMF reintroduction was feasible in most patients (15/22). Longitudinal eGFR trajectories, rates of rejection, graft loss, dnDSA development, and unplanned hospitalization did not differ between patients who discontinued MMF and those who maintained full therapy. Younger age at transplantation emerged as the sole independent predictor of the need for MMF discontinuation. CONCLUSIONS: In this real-world pediatric cohort, temporary MMF discontinuation, when clinically indicated, closely monitored, and followed by cautious reintroduction, was not associated with adverse long-term graft outcomes. Younger age at transplantation was associated with a higher likelihood of MMF discontinuation, supporting individualized immunosuppression strategies and proactive efforts to identify children at risk for viral-driven immunosuppression intolerance.",
+        "pmid": "42018764",
+        "title": "Prognostic Value of PALBI in Patients With Hepatocellular Carcinoma and Concurrent Chronic Kidney Disease: A Nomogram Development.",
+        "abstract": "AIM: Prognosis in hepatocellular carcinoma (HCC) depends not only on tumor burden but also on liver function and comorbidities, particularly chronic kidney disease (CKD). Although several prognostic models exist, their performance in patients with HCC and CKD has not been systematically evaluated. This study compared the predictive accuracy of liver-specific models and developed a nomogram for individualized survival prediction. METHODS: We conducted a nationwide multicenter cohort study of 1201 treatment-naive patients newly diagnosed with HCC and concurrent CKD. Prognostic performance for overall survival was assessed for Child-Pugh, MELD, MELD-Na, MELD 3.0, ALBI, and PALBI scores. RESULTS: The mean age was 70.4 ± 10.7 years, and 72.6% were male. Over a mean follow-up of 37.8 months, 1017 deaths occurred with an incidence rate of 269.1 per 1000 person-years. Among prognostic models, PALBI showed favorable discriminative ability with area under the receiver operating characteristic curve values of 0.871, 0.857, and 0.833 at 3, 6, and 12 months, respectively. Concordance index values were generally comparable among the models, with the PALBI-based model demonstrating consistent and reliable performance across most clinical subgroups. A nomogram incorporating age, AFP, CKD stage, BCLC stage, treatment modality, and PALBI grade provided individualized survival estimates with good calibration. CONCLUSIONS: In patients with HCC and CKD, PALBI showed comparable prognostic performance to other liver-specific models, while maintaining clinical applicability based exclusively on objective laboratory parameters. The proposed nomogram, integrating PALBI with clinical and tumor factors, may serve as a practical tool to support personalized risk stratification and treatment decision-making in this complex population.",
         "authors": [
-          "Plonsky Toder Moran",
-          "Pollack Shirley",
-          "Tibi Rami",
-          "Libinson-Zebegret Irina",
-          "Yakubov Renata",
-          "Magen Daniella"
+          "Lim Jihye",
+          "Kim Seok-Hwan",
+          "Song Myeong Jun"
         ],
-        "journal": "Pediatric nephrology (Berlin, Germany)",
-        "pub_date": "2026 Apr 14",
+        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+        "pub_date": "2026 Apr 22",
         "pub_types": [
           "Journal Article"
         ],
         "keywords": [
-          "Graft survival",
-          "Immunosuppression reduction",
-          "Mycophenolate mofetil",
-          "Opportunistic viral infections",
-          "Pediatric kidney transplantation"
+          "carcinoma",
+          "hepatocellular",
+          "kidney function tests",
+          "liver function tests",
+          "prognosis",
+          "risk assessment"
         ],
         "mesh_terms": [],
-        "doi": "10.1007/s00467-026-07231-8",
+        "doi": "10.1111/hepr.70191",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41979713/",
-        "fetched_at": "2026-04-20T09:59:53.081793"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018764/",
+        "fetched_at": "2026-04-27T10:19:27.709655"
+      },
+      {
+        "pmid": "42025782",
+        "title": "Allocation of Kidney Allografts From Donors With Kidney Donor Profile Index <35% and the Impact of Kidney Donor Profile Index Revisions on Access to Transplantation for Children.",
+        "abstract": "RATIONALE & OBJECTIVE: Children in the US receive priority for kidneys with a kidney donor profile index (KDPI) <35%, although their priority falls below that of certain adult recipients. Recently, the KDPI was revised to include 8 donor characteristics instead of 10. We sought to: 1) describe the allocation of these high-quality kidneys and 2) compare characteristics of donors with a KDPI <35% using the original KDPI (KDPI-10) versus the revised KDPI (KDPI-8) calculation. STUDY DESIGN: Retrospective cohort study. SETTINGS & PARTICIPANTS: 60,587 deceased donors and their kidney recipients in the Organ Procurement and Transplantation Network registry between January 1, 2018 and December 31, 2023. EXPOSURE: KDPI calculated using KDPI-10 and KDPI-8 (without race and hepatitis C virus [HCV]). OUTCOMES: The primary outcome was the utilization of kidneys with a KDPI <35% overall. Secondary outcome was the utilization of kidneys from \"ideal pediatric-quality donors\" who were defined as having a KDPI <35%, diagnosed with brain death, were aged <35 years, had a creatinine ≤1.5 mg/dL, and had no infectious risk, diabetes, or hypertension. Additionally, we assessed the changes in characteristics of KDPI<35% donors following revision to the KDPI. ANALYTICAL APPROACH: Descriptive statistics. RESULTS: During the study period, 23.4% KDPI-10 <35% and 34.3% of ideal pediatric-quality, KDPI-10 <35% kidneys were transplanted into adults in allocation categories that receive more priority than children. Nearly three-quarters of these adults were multiorgan recipients. Compared to the KDPI-10 calculation, donors with a KDPI <35% using the KDPI-8 calculation were more often Black (15.3% vs 9.9%), HCV-seropositive (11.1% vs 3.6%), and less frequently donated after circulatory death (12.7% vs 20.3%). The proportion of KDPI <35% donors who are ideal pediatric-quality was similar (32.7% KDPI-10 vs 33.5% KDPI-8). LIMITATIONS: Extrapolation of KDPI-8 donor characteristics using an historical cohort. CONCLUSIONS: Many ideal pediatric-quality kidneys are allocated to adults, primarily multiorgan transplant recipients. We anticipate no meaningful change in the proportion of ideal pediatric-quality kidneys prioritized for children using the revised KDPI-8 calculation. PLAIN-LANGUAGE SUMMARY: Children with end-stage kidney disease are intended to have priority for kidneys from the best quality kidney donors. However, their priority may fall below adult candidates who need multiple organs or are highly sensitized. Only about one-third of donors prioritized for children are \"ideal pediatric-quality\", meaning they come from young donors with minimal risk of kidney dysfunction. About one-third of these top-quality kidneys are transplanted into adults with more priority than children, most often transplanted into recipients receiving more than one organ transplant. Recently, the risk index used to determine which kidneys are prioritized for children was revised by excluding donor race and donor infection with hepatitis C. Our study suggests this change will not substantially affect the proportion of ideal pediatric-quality kidneys offered to children.",
+        "authors": [
+          "Sonnenberg Elizabeth M",
+          "Amaral Sandra",
+          "Zhang Siqi",
+          "Rubin Jeremy",
+          "Levine Matthew H",
+          "Potluri Vishnu S"
+        ],
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "pub_date": "2026 Apr 21",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "KDPI",
+          "KDRI",
+          "deceased donor allocation",
+          "pediatric kidney transplant"
+        ],
+        "mesh_terms": [],
+        "doi": "10.1053/j.ajkd.2026.02.643",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025782/",
+        "fetched_at": "2026-04-27T10:19:27.709716"
       }
     ],
-    "count": 2,
-    "search_date": "2026-04-20T09:59:53.081839",
+    "count": 3,
+    "search_date": "2026-04-27T10:19:27.709769",
     "days_back": 7
   },
   "adult_nephrology": {
@@ -100,6 +127,219 @@
       "腎臟腫瘤"
     ],
     "articles": [
+      {
+        "pmid": "42035778",
+        "title": "Pharmacological blood-pressure lowering for the prevention of cardiovascular disease and death across the full spectrum of chronic kidney disease severity: an individual-participant data meta-analysis.",
+        "abstract": "BACKGROUND: Individuals with chronic kidney disease (CKD), particularly those at more advanced stages, have been systematically under-represented in randomised controlled trials (RCTs) of blood-pressure-lowering treatment due to safety concerns, leading to a persistent paucity of evidence for cardiovascular risk management in this high-risk group. We investigated the effect of blood-pressure-lowering treatment on the risk of major cardiovascular disease and death across the full spectrum of CKD stages and by key clinical subgroups. METHODS: We conducted a one-stage meta-analysis of individual-participant data from RCTs in which participants were randomly assigned to a blood-pressure-lowering therapy versus a comparator. We used RCTs collated in the Blood Pressure Lowering Treatment Trialists' Collaboration dataset, published at any time in any language, which were eligible for inclusion if they had at least 1000 person-years of follow-up per arm, baseline blood-pressure and creatinine measurements, and time-to-event outcomes; those with unclear randomisation procedures or restricted to heart failure or acute care settings were excluded. Participants with a documented history of heart failure or extreme creatinine values were excluded. No age criteria were applied. The primary outcome was major cardiovascular events, defined as a composite of fatal or non-fatal stroke, ischaemic heart disease, or hospitalisation for, or death from, heart failure. Relative treatment effects were estimated with a stratified Cox proportional hazards model. Heterogeneity of treatment effects was evaluated across prespecified subgroups defined by CKD status, CKD stage (1-5), diabetes, proteinuria, and baseline blood pressure. A stratified network meta-analysis was performed to examine whether treatment effects differed by defined subgroups within each of five principal antihypertensive drug classes. The systematic review was registered in PROSPERO (CRD42018099283). FINDINGS: From 52 RCTs (363 684 participants), a total of 285 124 participants from 46 randomised trials met the eligibility criteria; 116 145 (40·7%) were women, 168 979 (59·3%) were men, 59 185 (20·7%) had CKD at baseline, and 86 067 (30·2%) had type 2 diabetes. During a median follow-up of 4·4 years (IQR 3·2-5·1), a 5 mm Hg reduction in systolic blood pressure reduced the risk of major cardiovascular disease in individuals with CKD (hazard ratio [HR] 0·91 [95% CI 0·87-0·94]) and without CKD (0·90 [0·88-0·93]; pinteraction>0·99). Furthermore, these observed relative risk reductions were consistent across all CKD stages, including severe stages 4-5 (pinteraction>0·99). Similar treatment effects were observed by proteinuria status and across blood-pressure categories, down to <120/70 mm Hg. However, the relative treatment effect in individuals with CKD was notably attenuated among those with coexisting diabetes (HR 0·96 [95% CI 0·90-1·02]) compared with those without (0·88 [0·84-0·93]; pinteraction=0·044). The stratified analysis within each drug class showed that the class-specific effects of antihypertensive agents versus placebo on cardiovascular disease risk remained unchanged across the investigated subgroups. INTERPRETATION: In the context of cardiovascular risk reduction, the relative benefit of blood-pressure lowering in patients with CKD is similar to that in individuals without CKD, with consistent efficacy across all CKD stages, blood-pressure thresholds, and proteinuria status. However, notably, this relative benefit is attenuated in patients with CKD and concomitant diabetes, underscoring the requirement for adapted therapeutic strategies in this high-risk subgroup. Moreover, the class-specific effects of principal antihypertensives in CKD mirror those observed in the broader population, independent of CKD stage or proteinuria status. FUNDING: British Heart Foundation.",
+        "authors": [
+          "Zeng Guyu",
+          "Bidel Zeinab",
+          "Yang Qianqian",
+          "Canoy Dexter",
+          "Woodward Mark",
+          "Lewis Julia",
+          "Kjeldsen Sverre E",
+          "Cushman William C",
+          "Yuan Jinqing",
+          "Teo Koon",
+          "Davis Barry R",
+          "Chalmers John",
+          "Pepine Carl J",
+          "Rahimi Kazem",
+          "Nazarzadeh Milad"
+        ],
+        "journal": "Lancet (London, England)",
+        "pub_date": "2026 Apr 25",
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Renal Insufficiency, Chronic",
+          "Antihypertensive Agents",
+          "Cardiovascular Diseases",
+          "Randomized Controlled Trials as Topic",
+          "Hypertension",
+          "Male",
+          "Female",
+          "Blood Pressure",
+          "Middle Aged",
+          "Aged",
+          "Severity of Illness Index"
+        ],
+        "doi": "10.1016/S0140-6736(26)00367-3",
+        "is_high_impact": true,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42035778/",
+        "fetched_at": "2026-04-27T10:19:29.689165"
+      },
+      {
+        "pmid": "42008485",
+        "title": "Pre-CRRT furosemide and mortality in sepsis-associated AKI: A retrospective cohort study.",
+        "abstract": "OBJECTIVE: We aimed to assess whether pre-CRRT furosemide use in SAKI patients requiring CRRT is associated with 28-day mortality, and to evaluate its relationship with secondary outcomes including short-term mortality, in-hospital death, and length of stay. We also examined potential effect modification by CKD status and furosemide dosage. DESIGN: Retrospective cohort study. SETTING: Data were extracted from the MIMIC-IV database, a large publicly available critical care database. PARTICIPANTS: A total of 969 adult patients with SAKI requiring CRRT were included. INTERVENTION: Patients were stratified based on pre-CRRT furosemide use (defined as administration within 72 hours prior to CRRT initiation). Propensity score matching (1:1) was applied to generate balanced cohorts (n = 560). MEASUREMENTS: Primary outcome: 28-day all-cause mortality. Secondary outcomes: 7-day mortality, 90-day mortality, in-hospital mortality, and length of ICU and hospital stay. Multivariable Cox regression was used to adjust for potential confounders. RESULTS: In the matched analysis, furosemide use was associated with significantly lower 28-day mortality (44.3% vs 58.6%; HR 0.58, 95% CI 0.46-0.73, p < 0.001). Consistent reductions were observed in 7-day mortality (HR 0.45), 90-day mortality (HR 0.59), and in-hospital mortality (HR 0.50; all p < 0.01). Subgroup analyses showed greater benefit in non-chronic kidney disease patients (interaction p = 0.021) and with high-dose furosemide (>90mg/72h; HR 0.62, 95% CI 0.45-0.85). Sensitivity analyses in the full cohort confirmed robustness (HR 0.59, 95% CI 0.49-0.72). The use of furosemide is related to the prolongation of CRRT startup time (1.52 vs 1.46 days). However, furosemide use was associated with prolonged median ICU stay (9.3 vs 6.1 days) and hospital stay (20.8 vs 12.5 days). CONCLUSIONS: These findings suggest that, in this selected cohort, pre-CRRT furosemide use was associated with lower mortality and does not appear to be associated with harm from delayed CRRT initiation. However, due to the observational design, these results should be warrant confirmation in prospective, randomized controlled trials.",
+        "authors": [
+          "Shen Si-Ye",
+          "Fu Lu",
+          "Liang Dai-Yun",
+          "Wang Shao-Kang",
+          "Chen Hu",
+          "Cao Li-Jun",
+          "Yu Wei-Li",
+          "Sun Yun",
+          "Lu Zhong-Hua"
+        ],
+        "journal": "PloS one",
+        "pub_date": "2026",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Furosemide",
+          "Female",
+          "Male",
+          "Retrospective Studies",
+          "Aged",
+          "Middle Aged",
+          "Sepsis",
+          "Acute Kidney Injury",
+          "Hospital Mortality",
+          "Length of Stay",
+          "Renal Replacement Therapy",
+          "Diuretics",
+          "Intensive Care Units",
+          "Aged, 80 and over"
+        ],
+        "doi": "10.1371/journal.pone.0347094",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42008485/",
+        "fetched_at": "2026-04-27T10:19:29.689262"
+      },
+      {
+        "pmid": "41817597",
+        "title": "Human antibody repertoire among kidney donors with and without HIV.",
+        "abstract": "BACKGROUNDTransplanting kidneys from donors with HIV to recipients with HIV has become standard clinical practice. However, donors with HIV may have higher prevalence of viral and bacterial infections and autoimmunity that could increase allograft rejection in recipients.METHODSWe included deceased kidney donors (60 with HIV and 41 without HIV) who participated in a multicenter prospective study of HIV kidney transplantation between April 2018 and September 2021. Using phage immunoprecipitation sequencing, we compared the human antibody repertoire (allergens, autoantibodies, viruses, and bacterial toxins) between donors with and without HIV and evaluated their association with recipient allograft rejection. Moderated t tests were used to assess reactivity and a multivariate logistic regression model adjusted for donor sex and kidney donor profile index assessed the association between donor adenovirus reactivity and recipient allograft rejection.RESULTSCompared with donors without HIV, donors with HIV had lower BMI and were more likely to be African American. The median number of positive autoantibodies was marginally higher among donors with HIV (499 [IQR, 357, 579]) compared with that of donors without HIV (395 [IQR, 256, 538], P = 0.058). Donors with HIV additionally had significantly higher antibody reactivity to Epstein-Barr virus and cytomegalovirus (q < 0.05). Among all donors with and without HIV, antibodies against adenovirus were significantly associated with increased rejection among recipients, including after adjusting for false discovery (q < 0.05) and also adjusting for demographic factors using multivariable logistic regression (odds ratio = 4.97; 95% CI = 1.89-13.61).CONCLUSIONThe presence of antibodies against adenovirus infection in kidney donors with HIV may be associated with allograft rejection.TRIAL REGISTRATIONClinicalTrials.gov NCT03500315.FUNDINGUS NIH.",
+        "authors": [
+          "Zhu Xianming",
+          "Morgenlander William R",
+          "Brown Diane M",
+          "Eby Yolanda",
+          "Morsheimer Megan",
+          "Odim Jonah",
+          "Bagnasco Serena M",
+          "Rana Meenakshi M",
+          "Florman Sander S",
+          "Friedman-Moraco Rachel J",
+          "Stock Peter G",
+          "Gilbert Alexander J",
+          "Mehta Shikha",
+          "Stosor Valentina",
+          "Mehta Sapna A",
+          "Pereira Marcus R",
+          "Small Catherine B",
+          "Morris Michele I",
+          "Hand Jonathan",
+          "Aslam Saima",
+          "Haidar Ghady",
+          "Malinis Maricar",
+          "Santos Carlos Aq",
+          "Schaenman Joanna",
+          "Wojciechowski David",
+          "Ranganna Karthik",
+          "Blumberg Emily",
+          "Elias Nahel",
+          "Castillo-Lugo Josa A",
+          "Giorgakis Emmanouil",
+          "Apewokin Senu",
+          "Grabowski M Kate",
+          "Segev Dorry L",
+          "Redd Andrew D",
+          "Durand Christine M",
+          "Larman H Benjamin",
+          "Tobian Aaron Ar"
+        ],
+        "journal": "JCI insight",
+        "pub_date": "2026 Apr 22",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "AIDS/HIV",
+          "Infectious disease",
+          "Organ transplantation",
+          "Public Health"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Kidney Transplantation",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "HIV Infections",
+          "Adult",
+          "Prospective Studies",
+          "Graft Rejection",
+          "Tissue Donors",
+          "Autoantibodies"
+        ],
+        "doi": "10.1172/jci.insight.203645",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41817597/",
+        "fetched_at": "2026-04-27T10:19:29.689354"
+      },
+      {
+        "pmid": "42026889",
+        "title": "Machine learning prediction of CKD progression in hyperglycemic elderly adults: a prospective community cohort study.",
+        "abstract": "Hyperglycemia is a major risk factor for chronic kidney disease (CKD). This multicenter prospective study developed and validated a machine learning (ML) model to predict CKD risk in prediabetic and diabetic populations for early intervention, following TRIPOD+AI guidelines. Participants were enrolled from four communities, with three sites providing training (80%) and internal test (20%) datasets, and the fourth for external validation. Five ML algorithms were constructed, and SHapley Additive exPlanations (SHAP) was applied to interpret the optimal model. The XGBoost model showed excellent predictive performance, with AUCs of 0.905, 0.809, and 0.837 in training, internal test, and external validation sets, respectively. Serum creatinine (Scr), age, and hemoglobin (Hb) were the leading predictors, with higher Scr, older age, and lower Hb elevating CKD risk. Risk stratification (low: 0%-5%, medium: 5%-25%, high: 25%-100%) yielded distinct CKD incidences of 0.7%, 9.9%, and 55.5% (p < 0.001). An online prediction tool was further established for community screening. This validated ML model enables accurate risk prediction and stratification in hyperglycemic individuals, providing a feasible approach for early CKD detection and targeted prevention in community healthcare. Trial registration: Not applicable. The study is not a clinical trial.",
+        "authors": [
+          "Zhou Zhongqing",
+          "Sheng Fei",
+          "Hou Jiazhe",
+          "Yang Jing",
+          "Xu Dongjian",
+          "Shen Zhiping",
+          "Wu Hengjing",
+          "Zhang Lijuan"
+        ],
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "Hyperglycemia",
+          "SHAP",
+          "chronic kidney disease",
+          "community screening",
+          "machine learning",
+          "risk prediction"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Machine Learning",
+          "Female",
+          "Renal Insufficiency, Chronic",
+          "Male",
+          "Prospective Studies",
+          "Aged",
+          "Hyperglycemia",
+          "Disease Progression",
+          "Risk Assessment",
+          "Middle Aged",
+          "Creatinine",
+          "Risk Factors",
+          "Prediabetic State",
+          "Hemoglobins"
+        ],
+        "doi": "10.1080/0886022X.2026.2648313",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42026889/",
+        "fetched_at": "2026-04-27T10:19:29.689428"
+      },
       {
         "pmid": "41861260",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
@@ -158,360 +398,336 @@
         "doi": "10.1200/JCO-25-01840",
         "is_high_impact": false,
         "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41861260/",
-        "fetched_at": "2026-04-20T09:59:54.966792"
+        "fetched_at": "2026-04-27T10:19:29.689528"
       },
       {
-        "pmid": "41236157",
-        "title": "Association of clinical, psychological, and lifestyle factors with disparities in sleep: the CARDIA sleep study.",
-        "abstract": "STUDY OBJECTIVES: To determine the degree to which clinical, psychosocial, and lifestyle factors are associated with racial disparities in sleep health. METHODS: The sleep ancillary to the Coronary Artery Risk Development in Young Adults (CARDIA) study included 7 days of wrist actigraphy, home sleep apnea testing, and questionnaires. The CARDIA study collected clinical (body mass index, hypertension, diabetes, cardiovascular disease, heart failure, chronic kidney disease), psychosocial (education, household size, depressive symptoms), and lifestyle (smoking, alcohol, physical activity) information in black and white adults over 35 years. Sleep characteristics included: sleep duration, sleep percentage, fragmentation, sleep timing, sleep regularity, rest activity rhythms, insomnia severity, and sleep apnea (apnea-hypopnea index ≥15). In cross-sectional and longitudinal analyses, we calculated how much the racial difference in sleep was reduced after adjusting for each risk factor domain (expressed as % reduction). RESULTS: There were 899 participants aged 53-69 years; 41 per cent were black and 63.4 per cent were women. Most sleep characteristics were significantly worse in the black participants. In cross-sectional analyses, the clinical domain resulted in the largest reduction in racial differences, ranging from 4.2 per cent for sleep duration to 118.9 per cent for sleep apnea. In longitudinal analyses, the clinical domain resulted in the largest reduction in racial differences, ranging from 5.2 per cent to 65.5 per cent. Psychosocial factor adjustment had largest reduction in racial differences in sleep percentage (by 17.8 per cent) and sleep regularity (by 23.4 per cent). CONCLUSIONS: These findings suggest that clinical and to a lesser degree psychosocial domains should be the foci of future work aimed at understanding and ultimately reducing racial sleep disparities. Statement of Significance Research describes poorer sleep health among black adults compared to white adults in the United States. We aimed to identify whether clinical, psychosocial, and lifestyle characteristics were associated with racial sleep disparities in an observational study of 899 adults aged 53-69 years. We included several dimensions of sleep based on wrist actigraphy and a home sleep apnea test. The clinical characteristics were associated with the largest reduction in racial differences in sleep health, suggesting that health-related factors may account for some racial differences in sleep. Psychosocial factors, such as education, household size, and depressive symptoms, were also associated with racial differences in some sleep measures. Future research should test whether improvements in these domains can improve sleep heath and reduce disparities.",
+        "pmid": "42010859",
+        "title": "Early Post-Transplant Bacterial Infections Predict Long-Term Mortality in Kidney Transplant Recipients: A 10-Year Retrospective Cohort Study.",
+        "abstract": "BACKGROUND Kidney transplant recipients require lifelong immunosuppression, predisposing them to bacterial infections that can impair survival. This study evaluated the impact of early bacterial infections on long-term mortality and sought to identify clinical and procedural predictors of infection. MATERIAL AND METHODS This retrospective study included kidney transplant recipients (2014-2024) with ≥12 months of follow-up. Bacterial infections were classified as early (≤6 months) or late (>6 months). Clinical, laboratory, and microbiological data were analyzed. Cox regression analysis identified independent predictors of mortality, and logistic regression determined factors associated with early infections. RESULTS Early bacterial infections occurred in 35.4% of patients and were independently associated with a 3-fold increase in mortality risk (adjusted hazard ratio [aHR]=3.03, 95% CI: 1.42-6.44, P=0.004). Diabetic nephropathy-related end-stage kidney disease (aHR=4.14, P=0.003) and older recipient age (aHR=1.10 per year, P<0.001) were additional independent predictors. The final Cox model demonstrated good discriminative performance (C-index=0.821). Urinary tract infections were most common (67%), followed by bloodstream infections (25%) and pneumonia (10%). Escherichia coli, Klebsiella spp., and Enterococcus spp. predominated. Low albumin and hemoglobin levels and ureteral stent placement were associated with early infection. Infection episodes were treated using antibiogram-guided therapy, and no multidrug-resistant organisms were identified. CONCLUSIONS Early infections and diabetic nephropathy-related ESKD predict long-term mortality after kidney transplantation. Optimizing nutritional status to improve albumin and hemoglobin levels, ensuring careful use and timely removal of ureteral stents, and implementing strict antibiogram-guided antibiotic stewardship can help reduce early infection risk. Targeted early interventions and closer surveillance of high-risk patients may improve long-term outcomes.",
         "authors": [
-          "Knutson Kristen L",
-          "Reid Kathryn J",
-          "Cai Xuan",
-          "Alexandria Shaina J",
-          "Abbott Sabra M",
-          "Chapagai Swaty",
-          "Chirinos Diana",
-          "Thomas Stephen Justin",
-          "Lewis Cora E",
-          "Schreiner Pamela J",
-          "Carnethon Mercedes R"
+          "Kılıç İlhan",
+          "Karakılıç Ersen",
+          "Metilli Nilay",
+          "Bakırdöğen Serkan",
+          "Kurt Hasan Anıl",
+          "Alıravcı Işıl Deniz"
         ],
-        "journal": "Sleep",
-        "pub_date": "2026 Apr 16",
+        "journal": "Annals of transplantation",
+        "pub_date": "2026 Apr 21",
         "pub_types": [
           "Journal Article"
         ],
-        "keywords": [
-          "cohort study",
-          "disparities",
-          "epidemiology",
-          "health equity",
-          "sleep health"
-        ],
+        "keywords": [],
         "mesh_terms": [
           "Humans",
-          "Female",
-          "Male",
-          "Middle Aged",
-          "Cross-Sectional Studies",
-          "Life Style",
-          "Aged",
-          "White People",
-          "Black or African American",
-          "Longitudinal Studies",
-          "Health Status Disparities",
-          "Actigraphy",
-          "Risk Factors",
-          "Sleep",
-          "Surveys and Questionnaires",
-          "Sleep Wake Disorders",
-          "Adult",
-          "United States",
-          "White"
-        ],
-        "doi": "10.1093/sleep/zsaf367",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41236157/",
-        "fetched_at": "2026-04-20T09:59:54.966894"
-      },
-      {
-        "pmid": "41974505",
-        "title": "Renal involvement in ankylosing spondylitis: a retrospective, population-based cohort study using data from the TriNetX Global Network.",
-        "abstract": "BACKGROUND: Renal involvement in ankylosing spondylitis (AS) is recognised but understudied, with heterogeneous reports ranging from urinalysis abnormalities to end-stage disease and malignancy. Robust, contemporary and population-level estimates remain lacking. OBJECTIVE: To quantify the burden and risk of major nephrological outcomes in AS versus matched controls, estimate long-term occurrence, and explore sex-specific differences. METHODS: We performed a retrospective, population-based cohort study using the TriNetX Global Collaborative Network of anonymised electronic health records. Adults with AS were compared 1:1 with controls using propensity score matching across demographic factors and relevant comorbidities. The primary renal outcome was chronic kidney disease (CKD), while the secondary outcomes were as follows: acute kidney injury (AKI), dialysis initiation, glomerular diseases, tubulointerstitial nephropathies, proteinuria, haematuria, urolithiasis, nephrological neoplasms and kidney transplantation. Time-to-event analyses used Cox models; robustness was assessed in prespecified sensitivity analyses. RESULTS: After matching, AS was associated with markedly higher hazards across the full spectrum of renal outcomes. The risk of developing CKD (primary outcome) was more than twofold higher in the AS cohort (HR 2.51; 95% CI 2.21 to 2.84). Among secondary outcomes, the highest risk was observed for dialysis initiation (HR 7.58; 95% CI 6.19 to 9.27), followed by AKI (HR 2.18; 95% CI 2.03 to 2.35) and glomerular diseases (HR 2.06; 95% CI 1.71 to 2.49). Associations were consistent across prespecified sensitivity analyses. CONCLUSIONS: AS confers a broad, multifactorial increase in renal morbidity. These findings support routine nephrological surveillance within rheumatology pathways. A multidisciplinary approach is warranted to enable earlier detection and mitigate irreversible kidney injury.",
-        "authors": [
-          "Tyczyńska Kinga Maria",
-          "Krajewski Piotr Krzysztof",
-          "Świerkot Jerzy"
-        ],
-        "journal": "RMD open",
-        "pub_date": "2026 Apr 13",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "Axial Spondyloarthritis",
-          "Epidemiology",
-          "Incidence",
-          "Prevalence",
-          "Spondylitis, Ankylosing"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Female",
-          "Male",
+          "Kidney Transplantation",
           "Retrospective Studies",
-          "Adult",
-          "Spondylitis, Ankylosing",
-          "Middle Aged",
-          "Renal Insufficiency, Chronic",
-          "Risk Factors"
-        ],
-        "doi": "10.1136/rmdopen-2025-006484",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41974505/",
-        "fetched_at": "2026-04-20T09:59:54.966963"
-      },
-      {
-        "pmid": "41989885",
-        "title": "A Digital Inclusion Intervention to Improve Access to a Digital Health Intervention Among Digitally Excluded Adults: Mixed Methods Pilot Randomized Controlled Trial.",
-        "abstract": "BACKGROUND: The National Health Service 10-year health plan emphasizes an increasing shift toward digital health care delivery. However, there is limited research on how best to support, engage, and include individuals who are digitally excluded. As health care services become more digitally driven, evidence-based interventions are needed to address digital exclusion and ensure equitable access to care, particularly for people living with long-term conditions. OBJECTIVE: This study aimed to evaluate the feasibility and acceptability of providing digital literacy training alongside a digital health intervention (DHI; Ex-Tab intervention), compared with providing a DHI alone. Kidney Beam, a DHI designed to promote physical activity and improve quality of life in people with chronic kidney disease (CKD), was used as an exemplar DHI. METHODS: This mixed methods, single-site pilot randomized controlled trial recruited 40 adults with CKD who were digitally excluded. Digital exclusion was defined as lacking access to a Wi-Fi-enabled digital device or having a Digital Health Care Literacy Scale (DHLS) score of <7 (range 0-21). Participants were randomized 1:1 to receive either the Kidney Beam Ex-Tab intervention or Kidney Beam alone (control). The intervention group received a Wi-Fi-enabled iPad on loan with Kidney Beam preinstalled, digital literacy training, and ongoing support to access the 12-week Kidney Beam program (twice weekly live exercise and education sessions). The control group received sign-up instructions for Kidney Beam only. Feasibility outcomes were assessed against a priori progression criteria and included screening, recruitment, retention, adherence, safety, and acceptability. Secondary outcomes included the Kidney Disease Quality of Life Questionnaire, Chalder Fatigue Questionnaire, and Patient Health Questionnaire-4. Outcomes were measured at baseline and 12 weeks. Acceptability and user experience were explored through semistructured interviews with participants from both groups at 12 weeks (n=25). RESULTS: Between September 2023 and September 2024, a total of 169 individuals were screened and 40 were enrolled (median age 66.5 years; 20 male individuals; median DHLS score: 4). Twenty-one participants were randomized to the Kidney Beam Ex-Tab group and 19 to the Kidney Beam alone group. Of the 40 participants, 35 (88%) completed the 12-week follow-up (intervention: n=18; control: n=17). All prespecified feasibility criteria for recruitment, retention, adherence, and safety were met. Qualitative findings indicated that the tablet loan and digital literacy training were acceptable and highly valued, enhancing confidence, motivation, and DHI engagement. Providing loaned devices was particularly important for overcoming access barriers, especially for participants unable to afford their own device. CONCLUSIONS: Providing Wi-Fi-enabled devices and digital literacy training alongside a DHI was feasible and acceptable for people with lower digital literacy levels. The findings support progression to a future definitive multicenter trial or implementation study and offer transferable insights for the design of digital inclusion strategies for other long-term health conditions.",
-        "authors": [
-          "Walklin Christy",
-          "Briggs Juliet",
-          "Freeman Siobhan",
-          "Mangahis Emmanuel",
-          "Dias Camila",
-          "Bhandari Sunil",
-          "Bramham Kate",
-          "Burton James O",
-          "Campbell Jackie",
-          "Kalra Philip A",
-          "Macdonald Jamie",
-          "Taal Maarten W",
-          "Wheeler David C",
-          "Greenwood Sharlene A",
-          "Young Hannah M L"
-        ],
-        "journal": "JMIR formative research",
-        "pub_date": "2026 Apr 16",
-        "pub_types": [
-          "Journal Article",
-          "Randomized Controlled Trial"
-        ],
-        "keywords": [
-          "Kidney Beam",
-          "digital health intervention",
-          "digital inclusion",
-          "exercise",
-          "renal rehabilitation"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Pilot Projects",
           "Male",
           "Female",
           "Middle Aged",
+          "Bacterial Infections",
+          "Adult",
+          "Postoperative Complications",
+          "Risk Factors",
+          "Aged"
+        ],
+        "doi": "10.12659/AOT.951801",
+        "is_high_impact": true,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42010859/",
+        "fetched_at": "2026-04-27T10:19:29.689595"
+      },
+      {
+        "pmid": "41290528",
+        "title": "Utilization patterns and determinants of guideline-recommended therapies for acute heart failure in Denmark.",
+        "abstract": "AIMS: Acute heart failure (AHF) is a leading cause of frequent hospitalizations and poor outcomes. While chronic HF is treated with guideline-directed medical therapy, acute hospital care often requires loop diuretics, vasodilators, inotropes, and vasopressors. This study aimed to evaluate the inpatient use, dosing, and determinants of guideline-recommended therapies in patients hospitalized with AHF. METHODS AND RESULTS: This nationwide, register-based cohort study included 6009 patients aged ≥45 years hospitalized with AHF with a left ventricular ejection fraction (LVEF) of ≤40% in Denmark from 2018 to 2023. Data from the Danish Heart Failure Registry were linked to national healthcare registers. The main outcomes were inpatient use and doses of loop diuretics, vasodilators, inotropes, and vasopressors. Loop diuretics were used in 88.7% of patients [median dose (MD) of furosemide: 50 mg parenteral, 40 mg oral]. Vasodilators were administered to 36.1% (MD of nitroglycerine: 30 mg parenteral, 7.5 mg oral). Inotropes were administered to 3.0%, including dopamine (0.5%), dobutamine (1.0%), milrinone (0.9%), and levosimendan (1.1%). Vasopressors were used in 8.4%, with norepinephrine (7.3%) and epinephrine (2.0%). Older patients (≥75) had lower prevalence of vasodilator, inotrope, and vasopressor use. Severe HF (LVEF < 25%) was associated with lower prevalence of vasodilator and vasopressor use. In contrast, chronic kidney disease and recurrent HF hospitalization were linked to higher prevalence of use of all AHF therapies. CONCLUSION: Loop diuretics were widely used, while vasodilators, inotropes, and vasopressors had lower utilization. The observed variation in treatment reflects complexity of inpatient AHF management, warranting further studies to assess treatment outcomes.",
+        "authors": [
+          "Mkoma George Frederick",
+          "Hviid Anders",
+          "Pasternak Björn",
+          "Svanström Henrik"
+        ],
+        "journal": "European heart journal. Acute cardiovascular care",
+        "pub_date": "2026 Apr 20",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "Acute heart failure",
+          "Determinants",
+          "Therapies",
+          "Utilization"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Heart Failure",
+          "Denmark",
+          "Male",
+          "Female",
           "Aged",
-          "Health Services Accessibility",
-          "Adult",
-          "Renal Insufficiency, Chronic",
-          "Health Literacy",
-          "Quality of Life",
-          "Feasibility Studies",
-          "Digital Health"
-        ],
-        "doi": "10.2196/91438",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41989885/",
-        "fetched_at": "2026-04-20T09:59:54.967062"
-      },
-      {
-        "pmid": "41981959",
-        "title": "Effects of race distance and probiotics intervention on kidney, muscle, and gut injury and inflammation biomarker responses during running.",
-        "abstract": "INTRODUCTION: Prolonged intense physical activity, such as long-distance running, may lead to systemic inflammation and cause organ injury, particularly to the kidneys. This study aimed to assess the impact of trail race running on kidney and muscle injury and gut inflammation biomarkers, and the potential mitigating effects of Lactiplantibacillus plantarum 299v (Lp299v) supplementation. METHODS: This randomized, double-blind, placebo-controlled study included 34 participants who completed 42 races, ranging from 20 to 164 km. Participants were divided into two groups, receiving either 40 bn CFU Lp299v or a placebo for 4 weeks before the race. Urine and fecal samples were collected pre- and post-race (immediately after, morning after and 24 h after the race) to measure biomarkers of muscle and kidney injury, and gut inflammation. Principal component analysis was used to create a single tubular kidney injury biomarker component variable (TKIBC1) positively associated with five separate tubular kidney injury biomarkers (MCP-1, KIM-1, GST-π, clusterin, and calbindin) at the three post-race time points. RESULTS: Running led to increased tubular and glomerular kidney injury markers, increased levels of fecal calprotectin, and, in some cases, elevated urine myoglobin levels. These effects were more pronounced in races ≥107 km (ultradistance). While Lp299v supplementation did not significantly influence TKIBC1, it was associated with a protective effect against gut inflammation. CONCLUSION: These findings suggest that prolonged intense exercise induces kidney and muscle injury as well as gut inflammation, with more severe effects observed in ultra-distance running. Lp299v may have some protective effects, particularly against gut inflammation, but further studies are needed to confirm these findings and explore the underlying mechanisms linking gut health and kidney injury during extreme physical exertion.",
-        "authors": [
-          "Hansson Erik",
-          "Skinner Bethany",
-          "Falcone Tiziana",
-          "Halder Amitava",
-          "Lucas Rebekah A I"
-        ],
-        "journal": "Journal of the International Society of Sports Nutrition",
-        "pub_date": "2026 Dec 31",
-        "pub_types": [
-          "Journal Article",
-          "Randomized Controlled Trial"
-        ],
-        "keywords": [
-          "Kidney",
-          "exercise-induced organ stress",
-          "gut–kidney axis",
-          "intestinal permeability",
-          "probiotics"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Probiotics",
-          "Biomarkers",
-          "Male",
-          "Double-Blind Method",
-          "Running",
-          "Adult",
-          "Female",
-          "Inflammation",
-          "Feces",
-          "Leukocyte L1 Antigen Complex",
-          "Kidney",
+          "Acute Disease",
+          "Registries",
+          "Practice Guidelines as Topic",
           "Middle Aged",
-          "Muscle, Skeletal",
-          "Myoglobin",
-          "Acute Kidney Injury"
+          "Cardiotonic Agents",
+          "Stroke Volume",
+          "Vasodilator Agents",
+          "Hospitalization",
+          "Aged, 80 and over",
+          "Sodium Potassium Chloride Symporter Inhibitors",
+          "Vasoconstrictor Agents",
+          "Guideline Adherence",
+          "Retrospective Studies"
         ],
-        "doi": "10.1080/15502783.2026.2651356",
+        "doi": "10.1093/ehjacc/zuaf156",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41981959/",
-        "fetched_at": "2026-04-20T09:59:54.967143"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41290528/",
+        "fetched_at": "2026-04-27T10:19:29.689679"
       },
       {
-        "pmid": "41996380",
-        "title": "Complications and mortality following percutaneous and laparoscopic liver biopsy: A multicenter study in a resource‑limited healthcare system.",
-        "abstract": "This study was conducted to assess the incidence and types of complications and mortality following liver biopsy, and to identify independently associated factors that can inform clinical practice in a resource‑limited healthcare system. A retrospective multicenter study was conducted across six major hospitals between January 2020 and December 2025. Medical records of 218 patients undergoing percutaneous and laparoscopic liver biopsies were reviewed. Demographic, clinical, laboratory, procedural, and outcome variables were extracted using a validated data collection form. Inferential analyses were conducted using chi‑square, Fisher's exact, and Mann‑Whitney U tests, while multivariate logistic regression models were employed to identify factors independently associated with complications and mortality. The most common types of complications were infection (n = 7, 3.2%) and hemorrhage (n = 6, 2.8%), followed by pulmonary complications (n = 4, 1.8%), metabolic disturbances (n = 3, 1.4%), and acute kidney injury (n = 2, 0.9%). Mortality was recorded in 6 patients (2.8%). Higher pre-operative white blood cell count was independently associated with infections (OR: 1.28, 95% CI: 1.02-1.62, p = 0.036). Older age was independently associated with mortality (OR: 1.07 per year increase, 95% CI: 1.01-1.15, p = 0.035). Hemorrhage and pulmonary complications were more frequent after laparoscopic biopsy and under general anesthesia, although these associations did not remain significant in adjusted models. This study provides the first systematic evidence on liver biopsy safety in Palestine, a resource‑limited healthcare system, thereby filling a critical gap in the regional literature. The study identified pre-operative increases in white blood cell count as a predictor of infection and older age as a predictor of mortality. These simple, pragmatic markers can guide monitoring and risk stratification in constrained environments, offering actionable insights for clinicians and policymakers. Future studies should be conducted to evaluate whether these markers can help reduce complications and mortality.",
+        "pmid": "42018543",
+        "title": "In-hospital outcomes and hospital charges after robotic-assisted versus conventional total knee arthroplasty: A 2016-2022 Nationwide Inpatient Sample study.",
+        "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty has been adopted to enhance surgical precision, yet contemporary national evidence on clinical and economic outcomes remains limited. OBJECTIVE: To compare in-hospital complications, length of stay, and hospital charges between robotic-assisted and conventional total knee arthroplasty using recent nationwide data. METHODS: We conducted a retrospective cohort study using the Nationwide Inpatient Sample from 2016-2022. Adult elective primary knee arthroplasty admissions were identified; cases with revision procedures or documented coronavirus disease were excluded. Robotic-assisted and conventional procedures were compared after 1:1 propensity score matching on demographics, hospital factors, and comorbidities and year of admission (two cohorts of 173,565 patients each). Outcomes included length of stay, total hospital charges, and major in-hospital complications. Two-sided tests were used with a significance threshold of 0.05. RESULTS: The proportion of robotic-assisted procedures increased from 0.7% in 2016 to 14.9% in 2022. After matching, robotic-assisted surgery was associated with a shorter mean length of stay (1.9 vs 2.7 days; p < 0.001) and lower rates of several complications. When expressed as relative risks (RR) (risk in conventional TKA divided by risk in robotic-assisted TKA), transfusion (RR 3.7), pneumonia (RR 3.0), pulmonary embolism (RR 2.6), prolonged ventilation (RR 2.1), and deep vein thrombosis (RR 1.8) were all higher in the conventional group (all p < 0.01). Acute kidney injury was marginally more frequent with robotic assistance (relative risk 0.9; p = 0.03). Mean hospital charges were higher for robotic-assisted procedures (US$70,758 vs US$62,618; p < 0.001). CONCLUSIONS: In a large, contemporary national cohort, robotic-assisted total knee arthroplasty was associated with fewer in-hospital complications and shorter hospital stays than conventional surgery, while incurring higher hospital charges. These findings support a potential safety advantage for robotic assistance during the index admission and motivate further study of longer-term clinical and economic outcomes. Levels of Evidence: LEVEL III.",
         "authors": [
-          "Abdallah Nadieh",
-          "Almahdi Ahed",
-          "Shella Diana",
-          "Al-Masri Rasha",
-          "Maqboul Iyad",
-          "Jaber Mohammad",
-          "Shawahna Ramzi"
+          "Maman David",
+          "Steinfeld Yaniv",
+          "Berkovich Yaron"
         ],
         "journal": "PloS one",
         "pub_date": "2026",
         "pub_types": [
           "Journal Article",
-          "Multicenter Study"
+          "Comparative Study"
         ],
         "keywords": [],
         "mesh_terms": [
           "Humans",
+          "Arthroplasty, Replacement, Knee",
           "Female",
           "Male",
-          "Middle Aged",
-          "Laparoscopy",
-          "Retrospective Studies",
-          "Liver",
-          "Adult",
+          "Robotic Surgical Procedures",
+          "Hospital Charges",
           "Aged",
-          "Biopsy",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Length of Stay",
           "Postoperative Complications",
-          "Health Resources",
-          "Risk Factors"
+          "Inpatients",
+          "United States",
+          "Adult",
+          "Treatment Outcome"
         ],
-        "doi": "10.1371/journal.pone.0347300",
+        "doi": "10.1371/journal.pone.0346031",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41996380/",
-        "fetched_at": "2026-04-20T09:59:54.967217"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018543/",
+        "fetched_at": "2026-04-27T10:19:29.689749"
       },
       {
-        "pmid": "41986033",
-        "title": "Percutaneous Coronary Intervention in Frail Patients Undergoing Transcatheter Aortic Valve Replacement: A NOTION-3 Substudy.",
-        "abstract": "BACKGROUND: Frailty is an important predictor of outcomes in patients with coronary artery disease (CAD) and following transcatheter aortic valve replacement (TAVR). The NOTION-3 (Third Nordic Aortic Valve Intervention) trial demonstrated that performing percutaneous coronary intervention (PCI) in addition to TAVR reduced the risk for major adverse cardiac events (MACE). Whether this benefit applies to frail patients remains uncertain. OBJECTIVES: The aim of this study was to evaluate efficacy and safety of PCI in frail TAVR patients with CAD. METHODS: NOTION-3 was an international, open-label, randomized superiority trial enrolling patients with CAD and severe aortic stenosis undergoing TAVR. Patients were randomized 1:1 to PCI or conservative treatment. Frailty was assessed post hoc using a calculated frailty score derived from baseline data on symptom-related limitations, daily function, and quality of life. Primary endpoint was a composite of all-cause mortality, myocardial infarction (MI), and urgent coronary revascularization. Safety endpoints included bleeding and acute kidney injury. RESULTS: Frailty data were available for 407 patients (90%), of whom 130 (32%) were frail. During median follow-up of 2 years (Q1-Q3: 1-4 years), PCI reduced MACE in nonfrail patients (15% vs 33%; HR: 0.42; 95% CI: 0.25-0.69; P < 0.001), as well as death of any cause (P = 0.019), MI (P = 0.004), and urgent revascularization (P = 0.005). No differences were observed in frail patients. In contrast, frail patients undergoing PCI had more bleeding events (HR: 2.51; 95% CI: 1.23-5.11; P = 0.011). CONCLUSIONS: In nonfrail patients with CAD undergoing TAVR, PCI lowered the risk for MACE, all-cause mortality, and MI compared to conservative treatment. In frail patients, PCI increased bleeding without clinical benefit. These findings require confirmation in larger prospective studies.",
+        "pmid": "42021629",
+        "title": "Urinary NGAL and trehalase predict end-stage kidney disease in ANCA-associated vasculitis: a prospective cohort study.",
+        "abstract": "BACKGROUND: Accurate prediction of renal outcomes in ANCA-associated vasculitis (AAV) is critical. This study evaluated the predictive value of urinary biomarkers for end-stage kidney disease (ESKD) progression. METHODS: A prospective cohort of 88 AAV patients with renal involvement was followed for a median of 27 months. Urinary β-catenin, IL-18, trehalase, and NGAL were measured. Cox regression and ROC analyses assessed associations and predictive performance. RESULTS: 65 patients (73.9%) progressed to ESKD. Urinary trehalase and NGAL were significantly elevated in the ESKD group and were independent predictors of ESKD in multivariable analysis (both p < 0.05), with AUCs of 0.857 and 0.852, respectively. Their combination improved predictive accuracy (AUC = 0.869). β-catenin showed moderate predictive value (AUC = 0.705). Although urinary IL-18 showed statistical significance when analyzed as a continuous variable in an initial model, this association was not consistent across alternative modeling strategies and therefore was not considered a stable independent predictor. Stratified and landmark analyses confirmed the robustness of trehalase and NGAL's prognostic value. CONCLUSION: Urinary trehalase and NGAL are strong, noninvasive predictors of ESKD in AAV, and their combination enhances risk stratification, supporting potential clinical utility for personalized treatment decisions.",
         "authors": [
-          "Ratcovich Hanna",
-          "Holmvang Lene",
-          "Sadjadieh Golnaz",
-          "Jabbari Reza",
-          "Glinge Charlotte",
-          "Sabbah Muhammad",
-          "Veien Karsten Tange",
-          "Niemela Matti",
-          "Freeman Phillip",
-          "Linder Rickard",
-          "Sørensen Rikke",
-          "Ioanes Dan",
-          "Terkelsen Christian Juhl",
-          "Ellert-Gregersen Julia",
-          "Christiansen Evald",
-          "Eftekhari Ashkan",
-          "Piuhola Jarkko",
-          "Kajander Olli",
-          "Koul Sasha",
-          "Savontaus Mikko",
-          "Karjalainen Pasi",
-          "Rück Andreas",
-          "Angerås Oskar",
-          "Bieliauskas Gintautas",
-          "Jørgensen Troels Højsgaard",
-          "Søndergaard Lars",
-          "De Backer Ole",
-          "Engstrøm Thomas",
-          "Lønborg Jacob"
+          "Qiu Miaohua",
+          "Guan Mengqian",
+          "Weng Xiaoxue",
+          "Zheng Ruiying",
+          "Chen Jiejian",
+          "Peng Weihua"
         ],
-        "journal": "JACC. Cardiovascular interventions",
-        "pub_date": "2026 Apr 13",
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Antineutrophil cytoplasmic antibody-associated vasculitis",
+          "cox proportional hazards model",
+          "end-stage kidney disease",
+          "neutrophil gelatinase-associated lipocalin",
+          "trehalase",
+          "tubulointerstitial injury"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Kidney Failure, Chronic",
+          "Middle Aged",
+          "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+          "Prospective Studies",
+          "Biomarkers",
+          "Aged",
+          "Lipocalin-2",
+          "Trehalase",
+          "Disease Progression",
+          "Prognosis",
+          "Predictive Value of Tests",
+          "Interleukin-18",
+          "ROC Curve",
+          "Adult"
+        ],
+        "doi": "10.1080/0886022X.2026.2650258",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42021629/",
+        "fetched_at": "2026-04-27T10:19:29.689833"
+      },
+      {
+        "pmid": "42010883",
+        "title": "The Effects of Conservative Fluid Management and Active Deresuscitation on Markers of Tissue Perfusion, Kidney Injury, and Vascular Injury in Critically Ill Adults: A Secondary Analysis of the Role of Active Deresuscitation After Resuscitation-2 (RADAR-2) Trial.",
+        "abstract": "OBJECTIVES: Test the hypothesis that conservative fluid management with active deresuscitation would not adversely affect tissue perfusion or kidney injury and would be associated with reduced vascular injury compared with usual care. DESIGN: Secondary analysis of the Role of Active Deresuscitation After Resuscitation-2 (RADAR-2) trial. SETTING: ICUs. PATIENTS OR SUBJECTS: Critically ill patients enrolled in the RADAR-2 trial. INTERVENTIONS: Conservative fluid management with active deresuscitation vs. usual care. MEASUREMENTS AND MAIN RESULTS: Measures of tissue hypoperfusion (whole blood lactate), acute kidney injury (AKIRisk score and urinary cystatin-C), and vascular injury (plasma hyaluronan, syndecan-1, and angiopoietin-2) were compared between groups. For each analyte, change from baseline was compared between groups and the median inter-group difference at each timepoint was estimated with bootstrapped CIs. Exploratory logistic regression examined associations between plasma biomarker levels (including N-terminal pro-B-type natriuretic peptide [NT-proBNP]), 28-day mortality, and treatment allocation. Whole blood lactate levels were similar between groups at all timepoints. Using change from baseline comparisons, no statistically detectable between-group differences were observed in AKIRisk scores or urinary cystatin-C levels. Plasma vascular injury biomarkers showed no statistically detectable between-group differences at any timepoint. High baseline hyaluronan (adjusted odds ratio [aOR], 5.75; 95% CI, 1.94-17.02; p = 0.002), syndecan-1 (aOR, 8.82; 95% CI, 2.67-29.15; p < 0.001), and NT-proBNP greater than 2500 pg/mL (aOR, 21.48; 95% CI, 3.57-129.41; p < 0.001) were independently associated with increased 28-day mortality. There was no evidence of differential treatment response based on these biomarker levels. CONCLUSIONS: Conservative fluid management and active deresuscitation were not associated with worsening tissue perfusion or acute kidney injury. A reduction in vascular injury markers was not observed. Given the modest sample size and resultant imprecision, clinically important effects cannot be excluded.",
+        "authors": [
+          "McMullan Ross R",
+          "McGrath Christopher",
+          "Cody Neil",
+          "Conlon John",
+          "McCamley Gemma",
+          "Symington Evie",
+          "Scannell Sarah",
+          "Raja Pappitha",
+          "Rostron Anthony",
+          "Bannard-Smith Jonathan",
+          "Szakmány Tamas",
+          "Trinder John",
+          "Johnston Paul",
+          "Marshall John C",
+          "O'Kane Cecilia M",
+          "Busby John",
+          "McAuley Daniel F",
+          "Boyle Andrew J",
+          "Silversides Jonathan A"
+        ],
+        "journal": "Critical care explorations",
+        "pub_date": "2026 Apr 01",
         "pub_types": [
           "Journal Article",
-          "Multicenter Study",
-          "Equivalence Trial",
           "Randomized Controlled Trial"
         ],
         "keywords": [
-          "PCI",
-          "aging",
-          "coronary artery disease",
-          "frailty",
-          "transcatheter aortic valve replacement"
+          "acute kidney injury",
+          "edema",
+          "fluid therapy",
+          "glycocalyx",
+          "ischemia"
         ],
         "mesh_terms": [
           "Humans",
-          "Percutaneous Coronary Intervention",
-          "Female",
           "Male",
-          "Transcatheter Aortic Valve Replacement",
-          "Aortic Valve Stenosis",
-          "Frailty",
-          "Treatment Outcome",
-          "Time Factors",
-          "Aged, 80 and over",
-          "Risk Factors",
-          "Coronary Artery Disease",
-          "Frail Elderly",
+          "Female",
+          "Acute Kidney Injury",
+          "Biomarkers",
+          "Middle Aged",
+          "Fluid Therapy",
+          "Critical Illness",
+          "Hyaluronic Acid",
+          "Syndecan-1",
           "Aged",
-          "Risk Assessment",
-          "Severity of Illness Index",
-          "Geriatric Assessment",
-          "Conservative Treatment",
-          "Aortic Valve"
+          "Resuscitation",
+          "Vascular System Injuries",
+          "Intensive Care Units",
+          "Lactic Acid",
+          "Cystatin C"
         ],
-        "doi": "10.1016/j.jcin.2025.12.028",
+        "doi": "10.1097/CCE.0000000000001404",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41986033/",
-        "fetched_at": "2026-04-20T09:59:54.967316"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42010883/",
+        "fetched_at": "2026-04-27T10:19:29.689922"
       },
       {
-        "pmid": "41995484",
-        "title": "Saturation effect of anion gap in predicting long-term mortality in critically ill patients with chronic obstructive pulmonary disease (COPD): A retrospective cohort study based on the MIMIC-IV database.",
-        "abstract": "The relationship between anion gap (AG) and long-term mortality in intensive care unit has been widely reported, but whether this association exists in critically ill patients with chronic obstructive pulmonary disease (COPD) is still unknown. The data of this study were collected from the Medical Information Mart for Intensive Care-IV. First of all, we used the Cox regression analysis and Kaplan-Meier curves to measure the relationship between AG and 365-day mortality for critically ill patients with COPD. Next, a restricted cubic spline was used to analyze the relationship between AG and mortality. Finally, age, sex, weight, hypertension, type 2 diabetes mellitus, heart failure, myocardial infarction, and chronic kidney disease were considered for subgroup analysis. A total of 2594 eligible subjects were sampled, of which 36.24% died within 365 days of intensive care unit admission. Cox regression analysis, after adjusting for confounders, demonstrated a significant association between AG and 365-day mortality in patients with COPD (hazard ratio = 1.03, 95% confidence interval: 1.01-1.05. P < .05). Stratifying AG into quartiles revealed higher levels of AG associated with an increased risk of death (Q1: 1.00, Q2: 1.34 [1.09-1.66], Q3: 1.44 [1.17-1.78], and Q4: 1.49 [1.19-1.87]). Additionally, restricted cubic spline analysis indicated a nonlinear relationship, with a critical value of AG at 14 mmol/L. Subgroup analysis highlighted AG as a significant predictor of long-term mortality in COPD patients across different subgroups, with an interaction effect observed in the subgroup with type 2 diabetes mellitus. In critically ill patients with COPD, there was a significant positive association between AG and 365-day mortality. In addition, there is a saturation effect at AG of 14 mmol/L.",
+        "pmid": "42020337",
+        "title": "Cardiometabolic risk burden and kidney function in middle-aged and older adults: evidence from two national, cross-sectional studies in China and the United States.",
+        "abstract": "Individual cardiometabolic risk factors (CMRFs) are contributors to reduced kidney function, their cumulative impact and population-specific differences remain unclear. This cross-sectional study investigated the association between incremental CMRFs and estimated glomerular filtration rate (eGFR). We analyzed data from two nationally representative surveys, China Health and Retirement Longitudinal Study wave 3 (N = 10,043) and the U.S. Health and Retirement Study wave 13 (N = 9,373), comprising 19,416 participants aged ≥45 years. Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equations, integrating serum creatinine and cystatin C, were applied to calculate eGFRscr-cysc, categorized into normal (≥90 mL/min/1.73 m2), mildly decreased (60-89 mL/min/1.73 m2), and moderately/severely decreased (<60 mL/min/1.73 m2). Multinomial logistic regression was employed to assess the association between cumulative CMRFs (0-5) and eGFRscr-cysc categories, adjusting for covariables. Analyses were conducted on unweighted data without applying complex survey sampling weights. A graded association between the cumulative burden of CMRFs and eGFRscr-cysc decline was observed. Each additional CMRF was associated with an increased risk of mild eGFRscr-cysc decline in the fully adjusted model (relative risk ratio [RRR] = 1.141, 95% confidence interval [95% CI]: 1.108-1.175) and moderate/severe eGFRscr-cysc decline (RRR = 1.433, 95% CI: 1.364-1.505). Participants with five CMRFs had a significantly higher risk of moderate/severe eGFRscr-cysc decline compared to those without CMRFs (RRR = 6.178; 95% CI: 3.718-10.268). Predictive margins showed that eGFRscr-cysc decline was more prevalent in the American population compared to the Chinese population. These cross-sectional findings suggest that integrating routine screening and management of cardiometabolic risk factors into CKD prevention programs may help protect kidney health in aging populations.",
         "authors": [
-          "Xiu Xiaohan",
-          "Yang Zhenyu",
-          "Chen Xuemei"
+          "Jiang Wei",
+          "Zhang Fan",
+          "Zhang Xianwen",
+          "Zhong Yifei",
+          "Chen Yiping"
         ],
-        "journal": "Medicine",
-        "pub_date": "2026 Apr 17",
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
         "pub_types": [
-          "Journal Article",
-          "Observational Study"
+          "Journal Article"
         ],
         "keywords": [
-          "MIMIC IV database",
-          "anion gap",
-          "chronic obstructive pulmonary disease"
+          "Cardiometabolic risk factors",
+          "cohort study",
+          "estimated glomerular filtration rate",
+          "kidney function"
         ],
         "mesh_terms": [
           "Humans",
-          "Pulmonary Disease, Chronic Obstructive",
+          "Cross-Sectional Studies",
+          "Male",
+          "Middle Aged",
+          "China",
+          "Female",
+          "United States",
+          "Aged",
+          "Glomerular Filtration Rate",
+          "Renal Insufficiency, Chronic",
+          "Cardiometabolic Risk Factors",
+          "Cystatin C",
+          "Longitudinal Studies",
+          "Creatinine",
+          "Cardiovascular Diseases",
+          "Kidney",
+          "Risk Factors"
+        ],
+        "doi": "10.1080/0886022X.2026.2646035",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42020337/",
+        "fetched_at": "2026-04-27T10:19:29.690036"
+      },
+      {
+        "pmid": "42014630",
+        "title": "Comparative evaluation of flexible and navigable suction sheath (FANS), percutaneous nephrostomy (PCN), and conventional ureteral access sheath (UAS) during retrograde intrarenal surgery: a randomized controlled trial.",
+        "abstract": "PURPOSE: Optimizing drainage during retrograde intrarenal surgery (RIRS) is crucial for procedural efficacy and safety. Flexible and navigable suction ureteral access sheath (FANS) offers active intrarenal suction without external access, while percutaneous nephrostomy (PCN) provides reliable but invasive drainage. This study compared the efficacy and safety of FANS versus PCN tube drainage during RIRS as compared to conventional ureteral access sheath (UAS). METHODS: This randomized controlled trial included 217 adult patients with renal stones (14-27 mm) undergoing RIRS. Patients were randomized into three groups: (UAS, n = 72), PCN (n = 72), and FANS (n = 73). Outcomes assessed included operative time, stone-free rate (SFR), complications, and postoperative recovery. RESULTS: SFR was significantly higher with PCN (97.2%) and FANS (98.6%) versus UAS (81.9%; p < 0.001). The mean operative time was shorter with PCN (48 ± 14 min) than UAS (58 ± 13 min) and FANS (58 ± 11 min; p < 0.001). Loin/suprapubic pain and hematuria were more frequent with UAS, whereas infectious and major complications were infrequent and similar. On stepwise multivariable analysis, lower Hounsfield units and use of PCN (OR 7.756, 95% CI 1.655-36.346) or FANS (OR 17.25, 95% CI 2.156-138.024) independently predicted stone-free status. CONCLUSIONS: PCN and FANS are both effective and safe drainage strategies during RIRS and outperform conventional UAS in SFR. FANS provides a minimally invasive, entirely endoscopic alternative to PCN with comparable safety and efficacy.",
+        "authors": [
+          "Alhefnawy Mohamed Abdelrahman",
+          "El-Karamany T M",
+          "Farag Mahmoud",
+          "Mobarak Mahmoud",
+          "Mohamed Islam Saied Ahmed",
+          "Shaher Hussein"
+        ],
+        "journal": "World journal of urology",
+        "pub_date": "2026 Apr 21",
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "keywords": [
+          "Flexible and navigable suction",
+          "Percutaneous nephrostomy",
+          "Renal stones",
+          "Retrograde intrarenal surgery",
+          "Stone-free rate",
+          "Ureteral access sheath"
+        ],
+        "mesh_terms": [
+          "Humans",
           "Male",
           "Female",
-          "Critical Illness",
-          "Retrospective Studies",
-          "Aged",
+          "Kidney Calculi",
           "Middle Aged",
-          "Acid-Base Equilibrium",
-          "Proportional Hazards Models",
-          "Intensive Care Units",
-          "Kaplan-Meier Estimate",
-          "Databases, Factual"
+          "Nephrostomy, Percutaneous",
+          "Suction",
+          "Adult",
+          "Aged",
+          "Equipment Design",
+          "Ureter",
+          "Operative Time",
+          "Treatment Outcome"
         ],
-        "doi": "10.1097/MD.0000000000041364",
+        "doi": "10.1007/s00345-026-06410-4",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41995484/",
-        "fetched_at": "2026-04-20T09:59:54.967380"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42014630/",
+        "fetched_at": "2026-04-27T10:19:29.690121"
       }
     ],
-    "count": 8,
-    "search_date": "2026-04-20T09:59:54.967526",
+    "count": 12,
+    "search_date": "2026-04-27T10:19:29.690308",
     "days_back": 7
   }
 }

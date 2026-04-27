@@ -1,40 +1,39 @@
 {
-  "總文章數": 10,
-  "高影響力期刊文章數": 0,
-  "分析日期": "2026-04-20T09:59:55.468713",
+  "總文章數": 15,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-04-27T10:19:30.191738",
   "趨勢關鍵詞統計": {
-    "診斷技術": {
-      "biomarker": 2,
-      "genetic testing": 1,
-      "digital health": 1
-    },
     "臨床結局": {
-      "mortality": 3,
-      "proteinuria": 2,
-      "quality of life": 2,
+      "mortality": 4,
+      "ESKD": 2,
+      "proteinuria": 1,
       "hospitalization": 1
     },
     "研究主題": {
+      "personalized": 2,
       "heart failure": 2,
-      "cardiovascular": 1,
-      "inflammation": 1
+      "cardiovascular": 1
+    },
+    "診斷技術": {
+      "biomarker": 3,
+      "machine learning": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      3
+      4
     ],
     [
       "biomarker",
+      3
+    ],
+    [
+      "ESKD",
       2
     ],
     [
-      "proteinuria",
-      2
-    ],
-    [
-      "quality of life",
+      "personalized",
       2
     ],
     [
@@ -42,11 +41,7 @@
       2
     ],
     [
-      "genetic testing",
-      1
-    ],
-    [
-      "digital health",
+      "proteinuria",
       1
     ],
     [
@@ -58,78 +53,83 @@
       1
     ],
     [
-      "inflammation",
+      "machine learning",
       1
     ]
   ],
   "期刊分布": {
-    "Pediatric nephrology (Berlin, Germany)": 2,
+    "Renal failure": 3,
+    "PloS one": 2,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+    "Lancet (London, England)": 1,
+    "JCI insight": 1,
     "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1,
-    "Sleep": 1,
-    "RMD open": 1,
-    "JMIR formative research": 1,
-    "Journal of the International Society of Sports Nutrition": 1,
-    "PloS one": 1,
-    "JACC. Cardiovascular interventions": 1,
-    "Medicine": 1
+    "Annals of transplantation": 1,
+    "European heart journal. Acute cardiovascular care": 1,
+    "Critical care explorations": 1,
+    "World journal of urology": 1
   },
   "文章類型分布": {
-    "Journal Article": 10,
-    "Multicenter Study": 3,
-    "Randomized Controlled Trial": 3,
-    "Clinical Trial, Phase II": 1,
-    "Equivalence Trial": 1,
-    "Observational Study": 1
+    "Journal Article": 15,
+    "Multicenter Study": 4,
+    "Comparative Study": 2,
+    "Randomized Controlled Trial": 2,
+    "Meta-Analysis": 1,
+    "Clinical Trial, Phase II": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 8,
-    "Female": 8,
-    "Male": 8,
-    "Middle Aged": 7,
-    "Aged": 6,
+    "Humans": 12,
+    "Male": 12,
+    "Female": 12,
+    "Middle Aged": 12,
+    "Aged": 11,
     "Adult": 6,
-    "Risk Factors": 4,
-    "Retrospective Studies": 3,
-    "Aged, 80 and over": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Kidney Neoplasms": 1,
-    "Antineoplastic Combined Chemotherapy Protocols": 1,
-    "Circulating Tumor DNA": 1,
-    "Antibodies, Monoclonal": 1,
-    "Carcinoma, Renal Cell": 1,
-    "Biomarkers, Tumor": 1,
-    "Progression-Free Survival": 1,
-    "Mutation": 1,
-    "Pyrazines": 1,
-    "Triazines": 1,
-    "Cross-Sectional Studies": 1,
-    "Life Style": 1,
-    "White People": 1,
-    "Black or African American": 1,
-    "Longitudinal Studies": 1,
-    "Health Status Disparities": 1,
-    "Actigraphy": 1,
-    "Sleep": 1,
-    "Surveys and Questionnaires": 1,
-    "Sleep Wake Disorders": 1
+    "Retrospective Studies": 4,
+    "Renal Insufficiency, Chronic": 3,
+    "Aged, 80 and over": 3,
+    "Prospective Studies": 3,
+    "Risk Factors": 3,
+    "Cardiovascular Diseases": 2,
+    "Acute Kidney Injury": 2,
+    "Length of Stay": 2,
+    "Intensive Care Units": 2,
+    "Kidney Transplantation": 2,
+    "Disease Progression": 2,
+    "Creatinine": 2,
+    "Postoperative Complications": 2,
+    "United States": 2,
+    "Treatment Outcome": 2,
+    "Biomarkers": 2,
+    "Cystatin C": 2,
+    "Antihypertensive Agents": 1,
+    "Randomized Controlled Trials as Topic": 1,
+    "Hypertension": 1,
+    "Blood Pressure": 1,
+    "Severity of Illness Index": 1,
+    "Furosemide": 1,
+    "Sepsis": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 2,
+      "文章數": 3,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 2
+        "Pediatric nephrology (Berlin, Germany)": 1,
+        "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 8,
-      "高影響力期刊文章數": 0,
+      "文章數": 12,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1,
-        "Sleep": 1,
-        "RMD open": 1,
-        "JMIR formative research": 1,
-        "Journal of the International Society of Sports Nutrition": 1
+        "Renal failure": 3,
+        "PloS one": 2,
+        "Lancet (London, England)": 1,
+        "JCI insight": 1,
+        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1
       }
     }
   }
