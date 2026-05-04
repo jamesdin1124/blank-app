@@ -1,43 +1,68 @@
 {
-  "總文章數": 15,
-  "高影響力期刊文章數": 2,
-  "分析日期": "2026-04-27T10:19:30.191738",
+  "總文章數": 60,
+  "高影響力期刊文章數": 7,
+  "分析日期": "2026-05-04T10:15:36.253481",
   "趨勢關鍵詞統計": {
     "臨床結局": {
-      "mortality": 4,
+      "mortality": 19,
+      "hospitalization": 2,
       "ESKD": 2,
       "proteinuria": 1,
-      "hospitalization": 1
-    },
-    "研究主題": {
-      "personalized": 2,
-      "heart failure": 2,
-      "cardiovascular": 1
+      "quality of life": 1
     },
     "診斷技術": {
       "biomarker": 3,
-      "machine learning": 1
+      "genetic testing": 2
+    },
+    "研究主題": {
+      "cardiovascular": 10,
+      "heart failure": 7,
+      "inflammation": 3,
+      "personalized": 3
+    },
+    "治療方法": {
+      "GLP-1": 3
     }
   },
   "熱門主題": [
     [
       "mortality",
-      4
+      19
+    ],
+    [
+      "cardiovascular",
+      10
+    ],
+    [
+      "heart failure",
+      7
     ],
     [
       "biomarker",
       3
     ],
     [
+      "inflammation",
+      3
+    ],
+    [
+      "personalized",
+      3
+    ],
+    [
+      "GLP-1",
+      3
+    ],
+    [
+      "hospitalization",
+      2
+    ],
+    [
       "ESKD",
       2
     ],
     [
-      "personalized",
-      2
-    ],
-    [
-      "heart failure",
+      "genetic testing",
       2
     ],
     [
@@ -45,91 +70,92 @@
       1
     ],
     [
-      "hospitalization",
-      1
-    ],
-    [
-      "cardiovascular",
-      1
-    ],
-    [
-      "machine learning",
+      "quality of life",
       1
     ]
   ],
   "期刊分布": {
-    "Renal failure": 3,
-    "PloS one": 2,
-    "Pediatric nephrology (Berlin, Germany)": 1,
-    "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
-    "Lancet (London, England)": 1,
-    "JCI insight": 1,
-    "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1,
-    "Annals of transplantation": 1,
-    "European heart journal. Acute cardiovascular care": 1,
-    "Critical care explorations": 1,
-    "World journal of urology": 1
+    "Pediatric nephrology (Berlin, Germany)": 5,
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
+    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
+    "International journal of radiation oncology, biology, physics": 2,
+    "Mayo Clinic proceedings": 2,
+    "Transplantation direct": 1,
+    "Kidney international reports": 1,
+    "Clinical and experimental pediatrics": 1,
+    "JHLT open": 1,
+    "Pharmacotherapy": 1,
+    "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 1,
+    "World journal of urology": 1,
+    "American journal of ophthalmology": 1,
+    "Cancer medicine": 1,
+    "Medicine": 1
   },
   "文章類型分布": {
-    "Journal Article": 15,
-    "Multicenter Study": 4,
-    "Comparative Study": 2,
-    "Randomized Controlled Trial": 2,
-    "Meta-Analysis": 1,
-    "Clinical Trial, Phase II": 1
+    "Journal Article": 60,
+    "Multicenter Study": 11,
+    "Observational Study": 6,
+    "Comparative Study": 5,
+    "Randomized Controlled Trial": 4,
+    "Systematic Review": 3,
+    "Review": 3,
+    "Meta-Analysis": 2,
+    "Clinical Trial": 1,
+    "Validation Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 12,
-    "Male": 12,
-    "Female": 12,
-    "Middle Aged": 12,
-    "Aged": 11,
-    "Adult": 6,
-    "Retrospective Studies": 4,
-    "Renal Insufficiency, Chronic": 3,
-    "Aged, 80 and over": 3,
-    "Prospective Studies": 3,
-    "Risk Factors": 3,
-    "Cardiovascular Diseases": 2,
-    "Acute Kidney Injury": 2,
-    "Length of Stay": 2,
-    "Intensive Care Units": 2,
-    "Kidney Transplantation": 2,
-    "Disease Progression": 2,
-    "Creatinine": 2,
-    "Postoperative Complications": 2,
-    "United States": 2,
-    "Treatment Outcome": 2,
-    "Biomarkers": 2,
-    "Cystatin C": 2,
-    "Antihypertensive Agents": 1,
-    "Randomized Controlled Trials as Topic": 1,
-    "Hypertension": 1,
-    "Blood Pressure": 1,
-    "Severity of Illness Index": 1,
-    "Furosemide": 1,
-    "Sepsis": 1
+    "Humans": 55,
+    "Female": 53,
+    "Male": 53,
+    "Middle Aged": 46,
+    "Aged": 46,
+    "Retrospective Studies": 27,
+    "Adult": 27,
+    "Risk Factors": 18,
+    "Prospective Studies": 15,
+    "Cohort Studies": 13,
+    "Treatment Outcome": 13,
+    "Aged, 80 and over": 12,
+    "Follow-Up Studies": 11,
+    "Renal Insufficiency, Chronic": 11,
+    "Kidney Failure, Chronic": 11,
+    "Renal Dialysis": 9,
+    "Prognosis": 8,
+    "Incidence": 8,
+    "Adolescent": 7,
+    "Postoperative Complications": 7,
+    "Kidney Neoplasms": 7,
+    "Diabetes Mellitus, Type 2": 6,
+    "Child": 5,
+    "United Kingdom": 5,
+    "United States": 5,
+    "Time Factors": 5,
+    "Cardiovascular Diseases": 5,
+    "Propensity Score": 5,
+    "Biomarkers": 5,
+    "Risk Assessment": 5
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 3,
-      "高影響力期刊文章數": 0,
+      "文章數": 10,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 1,
-        "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1
+        "Pediatric nephrology (Berlin, Germany)": 5,
+        "Transplantation direct": 1,
+        "Kidney international reports": 1,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
+        "Clinical and experimental pediatrics": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 12,
-      "高影響力期刊文章數": 2,
+      "文章數": 50,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Renal failure": 3,
-        "PloS one": 2,
-        "Lancet (London, England)": 1,
-        "JCI insight": 1,
-        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
+        "International journal of radiation oncology, biology, physics": 2,
+        "Mayo Clinic proceedings": 2,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
+        "Pharmacotherapy": 1
       }
     }
   }

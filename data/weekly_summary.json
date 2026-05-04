@@ -1,34 +1,36 @@
 {
-  "報告日期": "2026-04-27T10:19:30.195564",
+  "報告日期": "2026-05-04T10:15:36.265813",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 15,
-    "高影響力期刊文章數": 2,
+    "總文章數": 60,
+    "高影響力期刊文章數": 7,
     "主要發現": [
-      "本週熱門研究主題: mortality (4篇), biomarker (3篇), ESKD (2篇)",
-      "高影響力期刊發表 2 篇，包括: Annals of transplantation, Lancet (London, England)",
-      "高品質證據: 2 篇 RCT, 1 篇統合分析"
+      "本週熱門研究主題: mortality (19篇), cardiovascular (10篇), heart failure (7篇)",
+      "高影響力期刊發表 7 篇，包括: Kidney international reports, Clinical transplantation, Transplantation direct",
+      "高品質證據: 4 篇 RCT, 2 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 3,
-      "高影響力期刊文章數": 0,
+      "文章數": 10,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 1,
-        "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1
+        "Pediatric nephrology (Berlin, Germany)": 5,
+        "Transplantation direct": 1,
+        "Kidney international reports": 1,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
+        "Clinical and experimental pediatrics": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 12,
-      "高影響力期刊文章數": 2,
+      "文章數": 50,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Renal failure": 3,
-        "PloS one": 2,
-        "Lancet (London, England)": 1,
-        "JCI insight": 1,
-        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
+        "International journal of radiation oncology, biology, physics": 2,
+        "Mayo Clinic proceedings": 2,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
+        "Pharmacotherapy": 1
       }
     }
   },
@@ -36,385 +38,212 @@
     "熱門主題": [
       [
         "mortality",
-        4
+        19
+      ],
+      [
+        "cardiovascular",
+        10
+      ],
+      [
+        "heart failure",
+        7
       ],
       [
         "biomarker",
         3
       ],
       [
+        "inflammation",
+        3
+      ],
+      [
+        "personalized",
+        3
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "hospitalization",
+        2
+      ],
+      [
         "ESKD",
         2
       ],
       [
-        "personalized",
+        "genetic testing",
         2
-      ],
-      [
-        "heart failure",
-        2
-      ],
-      [
-        "proteinuria",
-        1
-      ],
-      [
-        "hospitalization",
-        1
-      ],
-      [
-        "cardiovascular",
-        1
-      ],
-      [
-        "machine learning",
-        1
       ]
     ],
     "趨勢關鍵詞": {
       "臨床結局": {
-        "mortality": 4,
+        "mortality": 19,
+        "hospitalization": 2,
         "ESKD": 2,
         "proteinuria": 1,
-        "hospitalization": 1
-      },
-      "研究主題": {
-        "personalized": 2,
-        "heart failure": 2,
-        "cardiovascular": 1
+        "quality of life": 1
       },
       "診斷技術": {
         "biomarker": 3,
-        "machine learning": 1
+        "genetic testing": 2
+      },
+      "研究主題": {
+        "cardiovascular": 10,
+        "heart failure": 7,
+        "inflammation": 3,
+        "personalized": 3
+      },
+      "治療方法": {
+        "GLP-1": 3
       }
     },
     "期刊分布": {
-      "Renal failure": 3,
-      "PloS one": 2,
-      "Pediatric nephrology (Berlin, Germany)": 1,
-      "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
-      "Lancet (London, England)": 1,
-      "JCI insight": 1,
-      "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 1,
-      "Annals of transplantation": 1,
-      "European heart journal. Acute cardiovascular care": 1,
-      "Critical care explorations": 1,
-      "World journal of urology": 1
+      "Pediatric nephrology (Berlin, Germany)": 5,
+      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
+      "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
+      "International journal of radiation oncology, biology, physics": 2,
+      "Mayo Clinic proceedings": 2,
+      "Transplantation direct": 1,
+      "Kidney international reports": 1,
+      "Clinical and experimental pediatrics": 1,
+      "JHLT open": 1,
+      "Pharmacotherapy": 1,
+      "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 1,
+      "World journal of urology": 1,
+      "American journal of ophthalmology": 1,
+      "Cancer medicine": 1,
+      "Medicine": 1
     },
     "文章類型": {
-      "Journal Article": 15,
-      "Multicenter Study": 4,
-      "Comparative Study": 2,
-      "Randomized Controlled Trial": 2,
-      "Meta-Analysis": 1,
-      "Clinical Trial, Phase II": 1
+      "Journal Article": 60,
+      "Multicenter Study": 11,
+      "Observational Study": 6,
+      "Comparative Study": 5,
+      "Randomized Controlled Trial": 4,
+      "Systematic Review": 3,
+      "Review": 3,
+      "Meta-Analysis": 2,
+      "Clinical Trial": 1,
+      "Validation Study": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42035778",
-      "標題": "Pharmacological blood-pressure lowering for the prevention of cardiovascular disease and death across the full spectrum of chronic kidney disease severity: an individual-participant data meta-analysis.",
-      "期刊": "Lancet (London, England)",
-      "發表日期": "2026 Apr 25",
-      "研究類型": "統合分析",
-      "PICO": {
-        "P_族群": "chronic kidney disease (CKD)",
-        "I_介入": "a blood-pressure-lowering therapy",
-        "C_對照": "a comparator",
-        "O_結果": "major cardiovascular events, defined as a composite of fatal or non-fatal stroke, ischaemic heart disease, or hospitalisation for, or death from, heart failure"
-      },
-      "中文摘要": "【研究背景】Individuals with chronic kidney disease (CKD), particularly those at more advanced stages, have been systematically under-represented in randomised controlled trials (RCTs) of blood-pressure-lowering treatment due to safety concerns, leading to a persistent paucity of evidence for cardiovascular ris...\n\n【研究方法】We conducted a one-stage meta-analysis of individual-participant data from RCTs in which participants were randomly assigned to a blood-pressure-lowering therapy versus a comparator.\n\n【主要結果】From 52 RCTs (363 684 participants), a total of 285 124 participants from 46 randomised trials met the eligibility criteria; 116 145 (40·7%) were women, 168 979 (59·3%) were men, 59 185 (20·7%) had CKD at baseline, and 86 067 (30·2%) had type 2 diabetes.\n\n【結論】In the context of cardiovascular risk reduction, the relative benefit of blood-pressure lowering in patients with CKD is similar to that in individuals without CKD, with consistent efficacy across all CKD stages, blood-pressure thresholds, and proteinuria status.",
-      "結構化摘要": {
-        "背景": "Individuals with chronic kidney disease (CKD), particularly those at more advanced stages, have been systematically under-represented in randomised controlled trials (RCTs) of blood-pressure-lowering treatment due to safety concerns, leading to a persistent paucity of evidence for cardiovascular risk management in this high-risk group. We investigated the effect of blood-pressure-lowering treatment on the risk of major cardiovascular disease and death across the full spectrum of CKD stages and b",
-        "方法": "We conducted a one-stage meta-analysis of individual-participant data from RCTs in which participants were randomly assigned to a blood-pressure-lowering therapy versus a comparator. We used RCTs collated in the Blood Pressure Lowering Treatment Trialists' Collaboration dataset, published at any time in any language, which were eligible for inclusion if they had at least 1000 person-years of follow-up per arm, baseline blood-pressure and creatinine measurements, and time-to-event outcomes; those"
-      },
-      "相關趨勢": [
-        "研究主題: cardiovascular",
-        "研究主題: heart failure",
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Renal Insufficiency, Chronic",
-        "Antihypertensive Agents",
-        "Cardiovascular Diseases",
-        "Randomized Controlled Trials as Topic",
-        "Hypertension",
-        "Male",
-        "Female",
-        "Blood Pressure",
-        "Middle Aged"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42035778/",
-      "DOI": "10.1016/S0140-6736(26)00367-3"
-    },
-    {
-      "pmid": "42010859",
-      "標題": "Early Post-Transplant Bacterial Infections Predict Long-Term Mortality in Kidney Transplant Recipients: A 10-Year Retrospective Cohort Study.",
-      "期刊": "Annals of transplantation",
-      "發表日期": "2026 Apr 21",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Kidney Transplantation 的病人",
-        "I_介入": "early bacterial",
-        "C_對照": "",
-        "O_結果": "the impact of early bacterial infections on long-term mortality and sought to identify clinical and procedural predictors of infection"
-      },
-      "中文摘要": "【研究背景】Kidney transplant recipients require lifelong immunosuppression, predisposing them to bacterial infections that can impair survival. This study evaluated the impact of early bacterial infections on long-term mortality and sought to identify clinical and procedural predictors of infection.\n\n【研究方法】This retrospective study included kidney transplant recipients (2014-2024) with ≥12 months of follow-up. Bacterial infections were classified as early (≤6 months) or late (>6 months). Clinical, laboratory, and microbiological data were analyzed.\n\n【主要結果】Early bacterial infections occurred in 35.4% of patients and were independently associated with a 3-fold increase in mortality risk (adjusted hazard ratio [aHR]=3.03, 95% CI: 1.42-6.44, P=0.004). Diabetic nephropathy-related end-stage kidney disease (aHR=4.14, P=0.\n\n【結論】Early infections and diabetic nephropathy-related ESKD predict long-term mortality after kidney transplantation. Optimizing nutritional status to improve albumin and hemoglobin levels, ensuring careful use and timely removal of ureteral stents, and implementing strict antibiogram-guided antibiotic s...",
-      "結構化摘要": {
-        "背景": "Kidney transplant recipients require lifelong immunosuppression, predisposing them to bacterial infections that can impair survival. This study evaluated the impact of early bacterial infections on long-term mortality and sought to identify clinical and procedural predictors of infection. MATERIAL AND",
-        "方法": "This retrospective study included kidney transplant recipients (2014-2024) with ≥12 months of follow-up. Bacterial infections were classified as early (≤6 months) or late (>6 months). Clinical, laboratory, and microbiological data were analyzed. Cox regression analysis identified independent predictors of mortality, and logistic regression determined factors associated with early infections.",
-        "結果": "Early bacterial infections occurred in 35.4% of patients and were independently associated with a 3-fold increase in mortality risk (adjusted hazard ratio [aHR]=3.03, 95% CI: 1.42-6.44, P=0.004). Diabetic nephropathy-related end-stage kidney disease (aHR=4.14, P=0.003) and older recipient age (aHR=1.10 per year, P<0.001) were additional independent predictors. The final Cox model demonstrated good discriminative performance (C-index=0.821). Urinary tract infections were most common (67%), follow",
-        "結論": "Early infections and diabetic nephropathy-related ESKD predict long-term mortality after kidney transplantation. Optimizing nutritional status to improve albumin and hemoglobin levels, ensuring careful use and timely removal of ureteral stents, and implementing strict antibiogram-guided antibiotic stewardship can help reduce early infection risk. Targeted early interventions and closer surveillance of high-risk patients may improve long-term outcomes."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality",
-        "臨床結局: ESKD"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Transplantation",
-        "Retrospective Studies",
-        "Male",
-        "Female",
-        "Middle Aged",
-        "Bacterial Infections",
-        "Adult",
-        "Postoperative Complications",
-        "Risk Factors"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42010859/",
-      "DOI": "10.12659/AOT.951801"
-    },
-    {
-      "pmid": "42026889",
-      "標題": "Machine learning prediction of CKD progression in hyperglycemic elderly adults: a prospective community cohort study.",
-      "期刊": "Renal failure",
-      "發表日期": "2026 Dec",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Renal Insufficiency, Chronic, Disease Progression 的病人",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "excellent predictive performance"
-      },
-      "中文摘要": "【摘要】Hyperglycemia is a major risk factor for chronic kidney disease (CKD). This multicenter prospective study developed and validated a machine learning (ML) model to predict CKD risk in prediabetic and diabetic populations for early intervention, following TRIPOD+AI guidelines.",
-      "結構化摘要": {
-        "完整摘要": "Hyperglycemia is a major risk factor for chronic kidney disease (CKD). This multicenter prospective study developed and validated a machine learning (ML) model to predict CKD risk in prediabetic and diabetic populations for early intervention, following TRIPOD+AI guidelines. Participants were enrolled from four communities, with three sites providing training (80%) and internal test (20%) datasets, and the fourth for external validation. Five ML algorithms were constructed, and SHapley Additive exPlanations (SHAP) was applied to interpret the optimal model. The XGBoost model showed excellent predictive performance, with AUCs of 0.905, 0.809, and 0.837 in training, internal test, and external validation sets, respectively. Serum creatinine (Scr), age, and hemoglobin (Hb) were the leading predictors, with higher Scr, older age, and lower Hb elevating CKD risk. Risk stratification (low: 0%-5%, medium: 5%-25%, high: 25%-100%) yielded distinct CKD incidences of 0.7%, 9.9%, and 55.5% (p < 0."
-      },
-      "相關趨勢": [
-        "診斷技術: machine learning"
-      ],
-      "關鍵詞": [
-        "Hyperglycemia",
-        "SHAP",
-        "chronic kidney disease",
-        "community screening",
-        "machine learning",
-        "risk prediction"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Machine Learning",
-        "Female",
-        "Renal Insufficiency, Chronic",
-        "Male",
-        "Prospective Studies",
-        "Aged",
-        "Hyperglycemia",
-        "Disease Progression",
-        "Risk Assessment"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42026889/",
-      "DOI": "10.1080/0886022X.2026.2648313"
-    },
-    {
-      "pmid": "42021629",
-      "標題": "Urinary NGAL and trehalase predict end-stage kidney disease in ANCA-associated vasculitis: a prospective cohort study.",
-      "期刊": "Renal failure",
-      "發表日期": "2026 Dec",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "renal involvement",
-        "I_介入": "decisions",
-        "C_對照": "",
-        "O_結果": "the predictive value of urinary biomarkers for end-stage kidney disease (ESKD) progression"
-      },
-      "中文摘要": "【研究背景】Accurate prediction of renal outcomes in ANCA-associated vasculitis (AAV) is critical. This study evaluated the predictive value of urinary biomarkers for end-stage kidney disease (ESKD) progression.\n\n【研究方法】A prospective cohort of 88 AAV patients with renal involvement was followed for a median of 27 months. Urinary β-catenin, IL-18, trehalase, and NGAL were measured. Cox regression and ROC analyses assessed associations and predictive performance.\n\n【主要結果】65 patients (73.9%) progressed to ESKD. Urinary trehalase and NGAL were significantly elevated in the ESKD group and were independent predictors of ESKD in multivariable analysis (both p < 0.05), with AUCs of 0.857 and 0.852, respectively. Their combination improved predictive accuracy (AUC = 0.\n\n【結論】Urinary trehalase and NGAL are strong, noninvasive predictors of ESKD in AAV, and their combination enhances risk stratification, supporting potential clinical utility for personalized treatment decisions.",
-      "結構化摘要": {
-        "背景": "Accurate prediction of renal outcomes in ANCA-associated vasculitis (AAV) is critical. This study evaluated the predictive value of urinary biomarkers for end-stage kidney disease (ESKD) progression.",
-        "方法": "A prospective cohort of 88 AAV patients with renal involvement was followed for a median of 27 months. Urinary β-catenin, IL-18, trehalase, and NGAL were measured. Cox regression and ROC analyses assessed associations and predictive performance.",
-        "結果": "65 patients (73.9%) progressed to ESKD. Urinary trehalase and NGAL were significantly elevated in the ESKD group and were independent predictors of ESKD in multivariable analysis (both p < 0.05), with AUCs of 0.857 and 0.852, respectively. Their combination improved predictive accuracy (AUC = 0.869). β-catenin showed moderate predictive value (AUC = 0.705). Although urinary IL-18 showed statistical significance when analyzed as a continuous variable in an initial model, this association was not ",
-        "結論": "Urinary trehalase and NGAL are strong, noninvasive predictors of ESKD in AAV, and their combination enhances risk stratification, supporting potential clinical utility for personalized treatment decisions."
-      },
-      "相關趨勢": [
-        "診斷技術: biomarker",
-        "研究主題: personalized",
-        "臨床結局: ESKD"
-      ],
-      "關鍵詞": [
-        "Antineutrophil cytoplasmic antibody-associated vasculitis",
-        "cox proportional hazards model",
-        "end-stage kidney disease",
-        "neutrophil gelatinase-associated lipocalin",
-        "trehalase",
-        "tubulointerstitial injury"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Male",
-        "Female",
-        "Kidney Failure, Chronic",
-        "Middle Aged",
-        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
-        "Prospective Studies",
-        "Biomarkers",
-        "Aged",
-        "Lipocalin-2"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42021629/",
-      "DOI": "10.1080/0886022X.2026.2650258"
-    },
-    {
-      "pmid": "42020337",
-      "標題": "Cardiometabolic risk burden and kidney function in middle-aged and older adults: evidence from two national, cross-sectional studies in China and the United States.",
-      "期刊": "Renal failure",
-      "發表日期": "2026 Dec",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "five CMRFs had a significantly higher risk of moderate/severe eGFRscr-cysc decline compared to those without CMRFs (RRR = 6",
-        "I_介入": "",
-        "C_對照": "those without CMRFs (RRR = 6",
-        "O_結果": "higher risk of moderate/severe eGFRscr-cysc decline compared to those without CMRFs (RRR = 6"
-      },
-      "中文摘要": "【主要結果】suggest that integrating routine screening and management of cardiometabolic risk factors into CKD prevention programs may help protect kidney health in aging populations.",
-      "結構化摘要": {
-        "完整摘要": "Individual cardiometabolic risk factors (CMRFs) are contributors to reduced kidney function, their cumulative impact and population-specific differences remain unclear. This cross-sectional study investigated the association between incremental CMRFs and estimated glomerular filtration rate (eGFR). We analyzed data from two nationally representative surveys, China Health and Retirement Longitudinal Study wave 3 (N = 10,043) and the U.S. Health and Retirement Study wave 13 (N = 9,373), comprising 19,416 participants aged ≥45 years. Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equations, integrating serum creatinine and cystatin C, were applied to calculate eGFRscr-cysc, categorized into normal (≥90 mL/min/1.73 m2), mildly decreased (60-89 mL/min/1.73 m2), and moderately/severely decreased (<60 mL/min/1.73 m2). Multinomial logistic regression was employed to assess the association between cumulative CMRFs (0-5) and eGFRscr-cysc categories, adjusting for covariables. Analys"
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Cardiometabolic risk factors",
-        "cohort study",
-        "estimated glomerular filtration rate",
-        "kidney function"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Cross-Sectional Studies",
-        "Male",
-        "Middle Aged",
-        "China",
-        "Female",
-        "United States",
-        "Aged",
-        "Glomerular Filtration Rate",
-        "Renal Insufficiency, Chronic"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42020337/",
-      "DOI": "10.1080/0886022X.2026.2646035"
-    },
-    {
-      "pmid": "42034693",
-      "標題": "Incidence and risk factors of vancomycin-associated nephrotoxicity among neonates in the intensive care unit: a retrospective cohort study.",
-      "期刊": "Pediatric nephrology (Berlin, Germany)",
-      "發表日期": "2026 Apr 25",
+      "pmid": "42022973",
+      "標題": "Effect of Donor-recipient Size on Graft Growth in Pediatric Donor-to-pediatric Recipient Kidney Transplantation.",
+      "期刊": "Transplantation direct",
+      "發表日期": "2026 May",
       "研究類型": "研究",
       "PICO": {
         "P_族群": "",
-        "I_介入": "intravenous vancomycin for more than 48 h",
-        "C_對照": "34",
-        "O_結果": "the incidence of newly developed acute kidney injury (AKI) after the initiation of vancomycin therapy, defined according to the neonatal modified Kidney Disease: Improving Global Outcomes criteria"
+        "I_介入": "for pediatric end-stage kidney disease",
+        "C_對照": "",
+        "O_結果": "a significant positive correlation with donor-recipient body weight ratio during the early posttransplant period (1"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討ed to assess the incidence of vancomycin-associated nephrotoxicity and its risk factors in neonates.\n\n【研究方法】The study included neonates admitted to the NICU of the Maternity and Children Hospital (Makkah, Saudi Arabia) from January 2018 to December 2020 who received intravenous vancomycin for more than 48 h.\n\n【主要結果】Among 362 neonates treated with vancomycin, 11.3% developed AKI. Neonates with AKI had a lower postmenstrual age (31.3 vs. 34.1 weeks, p = 0.01) and higher rates of extreme prematurity (31.7% vs. 14.3%, p = 0.02) and extremely low birth weight (43.9% vs. 18.7%, p = 0.00).\n\n【結論】Lower postmenstrual age independently predicted vancomycin-associated AKI. Lower neonatal weight and AKI were associated with increased mortality, reinforcing the importance of individualized monitoring during vancomycin therapy.",
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to investigate the effect of donor-recipient size on graft growth in PTP kidney transplantation.\n\n【研究方法】This retrospective cohort study included kidney transplant recipients who underwent regular follow-ups between January 2016 and December 2023 at the Children's Hospital of Fudan University. All donors were deceased and aged <18 y.\n\n【主要結果】A total of 136 patients were enrolled, 93 of whom had an initial transplant kidney length. Cumulative average growth of kidney length was 5.5 mm at 1 mo, 9.9 mm at 3 mo, 15.3 mm at 6 mo, 22.3 mm at 1 y, 31.5 mm at 3 y, and 39.5 mm at 5 y posttransplant. The corresponding growth rates were 8.3%, 15.\n\n【結論】Grafts showed stable growth patterns and favorable short-term follow-up outcomes. Additionally, PTP kidney transplantation demonstrated both clinical value and practical utility.",
       "結構化摘要": {
-        "背景": "Vancomycin-induced nephrotoxicity is associated with an increased risk of neonatal mortality and prolonged neonatal intensive care unit (NICU) stay. This retrospective cohort study aimed to assess the incidence of vancomycin-associated nephrotoxicity and its risk factors in neonates.",
-        "方法": "The study included neonates admitted to the NICU of the Maternity and Children Hospital (Makkah, Saudi Arabia) from January 2018 to December 2020 who received intravenous vancomycin for more than 48 h. The primary outcome was the incidence of newly developed acute kidney injury (AKI) after the initiation of vancomycin therapy, defined according to the neonatal modified Kidney Disease: Improving Global Outcomes criteria. Analyses included AKI incidence, comparison of clinical parameters between n",
-        "結果": "Among 362 neonates treated with vancomycin, 11.3% developed AKI. Neonates with AKI had a lower postmenstrual age (31.3 vs. 34.1 weeks, p = 0.01) and higher rates of extreme prematurity (31.7% vs. 14.3%, p = 0.02) and extremely low birth weight (43.9% vs. 18.7%, p = 0.00). Vancomycin trough levels > 15 mg/L were more frequent in the AKI group (26.8%, 11/41) than in others (11.8%, 35/321) (p = 0.00). Only one-third of vancomycin trough measurements were obtained according to guideline-recommended ",
-        "結論": "Lower postmenstrual age independently predicted vancomycin-associated AKI. Lower neonatal weight and AKI were associated with increased mortality, reinforcing the importance of individualized monitoring during vancomycin therapy."
+        "背景": "Kidney transplantation is the optimal treatment for pediatric end-stage kidney disease, yet donor shortages have driven the use of pediatric donor kidneys through pediatric donor-to-pediatric recipient (PTP) kidney transplantation. This study aimed to investigate the effect of donor-recipient size on graft growth in PTP kidney transplantation.",
+        "方法": "This retrospective cohort study included kidney transplant recipients who underwent regular follow-ups between January 2016 and December 2023 at the Children's Hospital of Fudan University. All donors were deceased and aged <18 y. Dynamic clinical data were obtained from medical records spanning the pretransplant to posttransplant period.",
+        "結果": "A total of 136 patients were enrolled, 93 of whom had an initial transplant kidney length. Cumulative average growth of kidney length was 5.5 mm at 1 mo, 9.9 mm at 3 mo, 15.3 mm at 6 mo, 22.3 mm at 1 y, 31.5 mm at 3 y, and 39.5 mm at 5 y posttransplant. The corresponding growth rates were 8.3%, 15.1%, 22.3%, 30.6%, 41.3%, and 53.4%. Kidney growth rates were negatively correlated with the donor-recipient body weight ratio at 3 mo, 6 mo, and 1 y posttransplant (P < 0.01). The mean estimated glomer",
+        "結論": "Grafts showed stable growth patterns and favorable short-term follow-up outcomes. Additionally, PTP kidney transplantation demonstrated both clinical value and practical utility."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42022973/",
+      "DOI": "10.1097/TXD.0000000000001938"
+    },
+    {
+      "pmid": "41907822",
+      "標題": "Cross-Population Validation of the Pediatric CKD Risk-Prediction Tool.",
+      "期刊": "Kidney international reports",
+      "發表日期": "2026 May",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "171 participants (32",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "based on goodness-of-fit"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to externally validate the performance of the kidney replacement therapy (KRT) risk prediction calculator for chronic kidney disease (CKD) in children in an ethnically distinct East Asian population.\n\n【研究方法】We externally validated the KRT risk prediction calculator for CKD in children using data from the KoreaN Cohort Study on Outcomes in Pediatric CKD (KNOW-Ped CKD) cohort.\n\n【主要結果】Overall, 533 children were included in the validation cohort. The median age and baseline estimated GFR (eGFR) were 10.8 years (interquartile range [IQR]: 5.3-14.5) and 57.6 ml/min per 1.73 m2 (IQR: 34.8-81.4), respectively. Over a median follow-up of 4.8 years (IQR: 2.0-8.\n\n【結論】These findings underscore the potential utility of the calculator in improving prognostication and clinical decision-making in pediatric CKD.",
+      "結構化摘要": {
+        "方法": "We externally validated the KRT risk prediction calculator for CKD in children using data from the KoreaN Cohort Study on Outcomes in Pediatric CKD (KNOW-Ped CKD) cohort. Six parametric survival models from the generalized gamma family were tested, stratified into 2 groups as follows: change in glomerular filtration rate (GFR)-based (group 1) and cross-sectional (group 2). Missing data (≤ 7.9%) were addressed via multiple imputations using chained equations. Outcomes were timed to KRT initiation",
+        "結果": "Overall, 533 children were included in the validation cohort. The median age and baseline estimated GFR (eGFR) were 10.8 years (interquartile range [IQR]: 5.3-14.5) and 57.6 ml/min per 1.73 m2 (IQR: 34.8-81.4), respectively. Over a median follow-up of 4.8 years (IQR: 2.0-8.9), KRT was initiated in 171 participants (32.1%). Models in group 1 (n = 433) and 2 (n = 533) demonstrated excellent discrimination ability (C-statistic: 0.911-0.972). The calibration slopes exceeded 0.9 across all models, th",
+        "結論": "These findings underscore the potential utility of the calculator in improving prognostication and clinical decision-making in pediatric CKD."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "chronic kidney disease",
+        "kidney replacement therapy",
+        "pediatric nephrology",
+        "prediction",
+        "risk stratification"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41907822/",
+      "DOI": "10.1016/j.ekir.2026.106373"
+    },
+    {
+      "pmid": "41786346",
+      "標題": "Effects of induction-phase acute kidney injury and age at diagnosis on chronic kidney disease in pediatric acute lymphoblastic leukemia: a time-to-event cohort study.",
+      "期刊": "Clinical and experimental pediatrics",
+      "發表日期": "2026 May",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "ALL",
+        "I_介入": "",
+        "C_對照": "without AKI (P=0",
+        "O_結果": "using the Cox proportional hazards model"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討To quantify the burden of AKI during induction and CKD in children with ALL, estimate CKD-free survival, and identify clinical predictors of CKD.\n\n【研究方法】This retrospective cohort at a single university-affiliated tertiary center included patients aged 2-18 years with ALL who completed ≥3 months of follow-up.\n\n【主要結果】Of 113 children (median age, 5.6; interquartile range [IQR], 3.8-9.4 years), AKI occurred during induction in 49 (43.4%). Leukemic kidney infiltration (LKI) was more frequently noted in patients with versus without AKI (P=0.01). Over 644 patient-years of follow-up (median, 5.1; IQR, 2.9-8.\n\n【結論】AKI commonly developed during induction. An older age at diagnosis was the principal independent predictor of CKD development. The age effect demonstrated a linear risk gradient rather than a conventional dichotomous ≥10-year threshold. A LKI was associated with AKI and suggestive of subsequent CKD.",
+      "結構化摘要": {
+        "背景": "The survival rate of pediatric acute lymphoblastic leukemia (ALL) currently exceeds 90% in high-income settings, shifting the focus to its long-term effects. Kidney injury, acute kidney injury (AKI), and chronic kidney disease (CKD) are increasingly recognized associated conditions; however, the determinants of CKD in pediatric ALL remain poorly defined. PURPOSE: To quantify the burden of AKI during induction and CKD in children with ALL, estimate CKD-free survival, and identify clinical predict",
+        "方法": "This retrospective cohort at a single university-affiliated tertiary center included patients aged 2-18 years with ALL who completed ≥3 months of follow-up. AKI was classified by Kidney Disease: Improving Global Outcomes serum-creatinine criteria, while CKD was defined as a glomerular filtration rate <90 mL/min/1.73 m2 for ≥3 months. CKD-free survival was estimated using the Kaplan-Meier method. Associations with time to CKD were assessed using the Cox proportional hazards model.",
+        "結果": "Of 113 children (median age, 5.6; interquartile range [IQR], 3.8-9.4 years), AKI occurred during induction in 49 (43.4%). Leukemic kidney infiltration (LKI) was more frequently noted in patients with versus without AKI (P=0.01). Over 644 patient-years of follow-up (median, 5.1; IQR, 2.9-8.3 years), 15 (13.3%) developed CKD (stage 2 [n=12], stage 3 [n=3]). The 1-, 3-, and 5-year CKD-free survival rates were 99.1%, 95.3%, and 94.1%, respectively. In multivariate models, age was independently assoc",
+        "結論": "AKI commonly developed during induction. An older age at diagnosis was the principal independent predictor of CKD development. The age effect demonstrated a linear risk gradient rather than a conventional dichotomous ≥10-year threshold. A LKI was associated with AKI and suggestive of subsequent CKD. These results suggest that older children may benefit from intensive kidney surveillance and supportive care. Multicenter prospective studies are warranted to refine the prevention strategies."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Acute kidney injury",
+        "Age factors",
+        "Child",
+        "Chronic kidney disease",
+        "Leukemia"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41786346/",
+      "DOI": "10.3345/cep.2025.02327"
+    },
+    {
+      "pmid": "42062200",
+      "標題": "The Association Between Post-Kidney Transplant Persistent Hyperparathyroidism and Fracture Risk: A Longitudinal Cohort Study.",
+      "期刊": "Clinical transplantation",
+      "發表日期": "2026 May",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "患有 Kidney Transplantation, Kidney Failure, Chronic 的病人",
+        "I_介入": "of persistent HPT to mitigate fracture-related morbidity and mortality",
+        "C_對照": "",
+        "O_結果": "higher risk of fractures than those without persistent HPT"
+      },
+      "中文摘要": "【研究方法】We leveraged a longitudinal prospective cohort of 344 adult KT recipients who underwent KT at a single institution (12/2008-07/2019). PTH levels were retroactively abstracted, and fractures after 1-year-post-KT were ascertained using ICD-9/ICD-10 codes.\n\n【主要結果】Among 344 KT recipients, 227 (66.0%) had persistent HPT at 1-year post-KT. After adjusting for confounders, HPT 1-year after KT was associated with a 3.11-fold increased risk of fractures (95% CI: 1.08-8.91).\n\n【結論】Recipients with HPT 1-year after KT had a significantly higher risk of fractures than those without persistent HPT. Future studies should establish standardized practice guidelines for the treatment of persistent HPT to mitigate fracture-related morbidity and mortality.",
+      "結構化摘要": {
+        "方法": "We leveraged a longitudinal prospective cohort of 344 adult KT recipients who underwent KT at a single institution (12/2008-07/2019). PTH levels were retroactively abstracted, and fractures after 1-year-post-KT were ascertained using ICD-9/ICD-10 codes. Competing risk models were used to estimate the association between persistent HPT (PTH ≥ 70 pg/mL) at 1-year post-KT and the risk of fracture, with death treated as a competing event.",
+        "結果": "Among 344 KT recipients, 227 (66.0%) had persistent HPT at 1-year post-KT. After adjusting for confounders, HPT 1-year after KT was associated with a 3.11-fold increased risk of fractures (95% CI: 1.08-8.91). There were no differences in this association by age, sex, race, eGFR at 1-year-post-KT, osteoporosis at KT, or dialysis vintage.",
+        "結論": "Recipients with HPT 1-year after KT had a significantly higher risk of fractures than those without persistent HPT. Future studies should establish standardized practice guidelines for the treatment of persistent HPT to mitigate fracture-related morbidity and mortality."
       },
       "相關趨勢": [
         "臨床結局: mortality"
       ],
       "關鍵詞": [
-        "Acute kidney injury",
-        "Neonate",
-        "Nephrotoxicity",
-        "Risk factors",
-        "Vancomycin"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42034693/",
-      "DOI": "10.1007/s00467-026-07296-5"
-    },
-    {
-      "pmid": "42018764",
-      "標題": "Prognostic Value of PALBI in Patients With Hepatocellular Carcinoma and Concurrent Chronic Kidney Disease: A Nomogram Development.",
-      "期刊": "Hepatology research : the official journal of the Japan Society of Hepatology",
-      "發表日期": "2026 Apr 22",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "Hepatocellular Carcinoma and Concurrent Chronic Kidney Disease: A Nomogram Development",
-        "I_介入": "modality",
-        "C_對照": "",
-        "O_結果": "for Child-Pugh"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Prognosis in hepatocellular carcinoma (HCC) depends not only on tumor burden but also on liver function and comorbidities, particularly chronic kidney disease (CKD). Although several prognostic models exist, their performance in patients with HCC and CKD has not been systematically evaluated.\n\n【研究方法】We conducted a nationwide multicenter cohort study of 1201 treatment-naive patients newly diagnosed with HCC and concurrent CKD. Prognostic performance for overall survival was assessed for Child-Pugh, MELD, MELD-Na, MELD 3.0, ALBI, and PALBI scores.\n\n【主要結果】The mean age was 70.4 ± 10.7 years, and 72.6% were male. Over a mean follow-up of 37.8 months, 1017 deaths occurred with an incidence rate of 269.1 per 1000 person-years.\n\n【結論】In patients with HCC and CKD, PALBI showed comparable prognostic performance to other liver-specific models, while maintaining clinical applicability based exclusively on objective laboratory parameters.",
-      "結構化摘要": {
-        "目的": "laboratory parameters. The proposed nomogram, integrating PALBI with clinical and tumor factors, may serve as a practical tool to support personalized risk stratification and treatment decision-making in this complex population.",
-        "方法": "We conducted a nationwide multicenter cohort study of 1201 treatment-naive patients newly diagnosed with HCC and concurrent CKD. Prognostic performance for overall survival was assessed for Child-Pugh, MELD, MELD-Na, MELD 3.0, ALBI, and PALBI scores.",
-        "結果": "The mean age was 70.4 ± 10.7 years, and 72.6% were male. Over a mean follow-up of 37.8 months, 1017 deaths occurred with an incidence rate of 269.1 per 1000 person-years. Among prognostic models, PALBI showed favorable discriminative ability with area under the receiver operating characteristic curve values of 0.871, 0.857, and 0.833 at 3, 6, and 12 months, respectively. Concordance index values were generally comparable among the models, with the PALBI-based model demonstrating consistent and r",
-        "結論": "In patients with HCC and CKD, PALBI showed comparable prognostic performance to other liver-specific models, while maintaining clinical applicability based exclusively on objective laboratory parameters. The proposed nomogram, integrating PALBI with clinical and tumor factors, may serve as a practical tool to support personalized risk stratification and treatment decision-making in this complex population."
-      },
-      "相關趨勢": [
-        "研究主題: personalized"
-      ],
-      "關鍵詞": [
-        "carcinoma",
-        "hepatocellular",
-        "kidney function tests",
-        "liver function tests",
-        "prognosis",
-        "risk assessment"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42018764/",
-      "DOI": "10.1111/hepr.70191"
-    },
-    {
-      "pmid": "41817597",
-      "標題": "Human antibody repertoire among kidney donors with and without HIV.",
-      "期刊": "JCI insight",
-      "發表日期": "2026 Apr 22",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Kidney Transplantation 的病人",
-        "I_介入": "",
-        "C_對照": "donors without HIV",
-        "O_結果": "their association with recipient allograft rejection"
-      },
-      "中文摘要": "【研究背景】Transplanting kidneys from donors with HIV to recipients with HIV has become standard clinical practice. However, donors with HIV may have higher prevalence of viral and bacterial infections and autoimmunity that could increase allograft rejection in recipients.\n\n【研究方法】We included deceased kidney donors (60 with HIV and 41 without HIV) who participated in a multicenter prospective study of HIV kidney transplantation between April 2018 and September 2021.\n\n【主要結果】Compared with donors without HIV, donors with HIV had lower BMI and were more likely to be African American. The median number of positive autoantibodies was marginally higher among donors with HIV (499 [IQR, 357, 579]) compared with that of donors without HIV (395 [IQR, 256, 538], P = 0.058).\n\n【結論】The presence of antibodies against adenovirus infection in kidney donors with HIV may be associated with allograft rejection.TRIAL REGISTRATIONClinicalTrials.gov NCT03500315.FUNDINGUS NIH.",
-      "結構化摘要": {
-        "背景": "Transplanting kidneys from donors with HIV to recipients with HIV has become standard clinical practice. However, donors with HIV may have higher prevalence of viral and bacterial infections and autoimmunity that could increase allograft rejection in recipients.",
-        "方法": "We included deceased kidney donors (60 with HIV and 41 without HIV) who participated in a multicenter prospective study of HIV kidney transplantation between April 2018 and September 2021. Using phage immunoprecipitation sequencing, we compared the human antibody repertoire (allergens, autoantibodies, viruses, and bacterial toxins) between donors with and without HIV and evaluated their association with recipient allograft rejection. Moderated t tests were used to assess reactivity and a multiva",
-        "結果": "Compared with donors without HIV, donors with HIV had lower BMI and were more likely to be African American. The median number of positive autoantibodies was marginally higher among donors with HIV (499 [IQR, 357, 579]) compared with that of donors without HIV (395 [IQR, 256, 538], P = 0.058). Donors with HIV additionally had significantly higher antibody reactivity to Epstein-Barr virus and cytomegalovirus (q < 0.05). Among all donors with and without HIV, antibodies against adenovirus were sig",
-        "結論": "The presence of antibodies against adenovirus infection in kidney donors with HIV may be associated with allograft rejection.TRIAL REGISTRATIONClinicalTrials.gov NCT03500315.FUNDINGUS NIH."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "AIDS/HIV",
-        "Infectious disease",
-        "Organ transplantation",
-        "Public Health"
+        "fracture risk",
+        "hyperparathyroidism",
+        "transplant"
       ],
       "MeSH詞彙": [
         "Humans",
@@ -422,96 +251,293 @@
         "Male",
         "Female",
         "Middle Aged",
-        "HIV Infections",
-        "Adult",
-        "Prospective Studies",
-        "Graft Rejection",
-        "Tissue Donors"
+        "Longitudinal Studies",
+        "Fractures, Bone",
+        "Follow-Up Studies",
+        "Risk Factors",
+        "Prognosis"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41817597/",
-      "DOI": "10.1172/jci.insight.203645"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42062200/",
+      "DOI": "10.1111/ctr.70553"
     },
     {
-      "pmid": "42025782",
-      "標題": "Allocation of Kidney Allografts From Donors With Kidney Donor Profile Index <35% and the Impact of Kidney Donor Profile Index Revisions on Access to Transplantation for Children.",
-      "期刊": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
-      "發表日期": "2026 Apr 21",
+      "pmid": "41134021",
+      "標題": "Molecular genetics and long-term outcomes of primary distal renal tubular acidosis in Asia.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Apr 30",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "end-stage kidney disease are intended to have priority for kidneys from the best quality kidney donors",
-        "I_介入": "Kidney Donor Profile",
-        "C_對照": "the revised KDPI (KDPI-8) calculation",
-        "O_結果": "the utilization of kidneys with a KDPI <35% overall"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Children in the US receive priority for kidneys with a kidney donor profile index (KDPI) <35%, although their priority falls below that of certain adult recipients. Recently, the KDPI was revised to include 8 donor characteristics instead of 10.\n\n【主要結果】During the study period, 23.4% KDPI-10 <35% and 34.3% of ideal pediatric-quality, KDPI-10 <35% kidneys were transplanted into adults in allocation categories that receive more priority than children. Nearly three-quarters of these adults were multiorgan recipients.\n\n【結論】Many ideal pediatric-quality kidneys are allocated to adults, primarily multiorgan transplant recipients. We anticipate no meaningful change in the proportion of ideal pediatric-quality kidneys prioritized for children using the revised KDPI-8 calculation.",
-      "結構化摘要": {
-        "目的": "Children in the US receive priority for kidneys with a kidney donor profile index (KDPI) <35%, although their priority falls below that of certain adult recipients. Recently, the KDPI was revised to include 8 donor characteristics instead of 10. We sought to: 1) describe the allocation of these high-quality kidneys and 2) compare characteristics of donors with a KDPI <35% using the original KDPI (KDPI-10) versus the revised KDPI (KDPI-8) calculation. STUDY DESIGN: Retrospective cohort study. SET",
-        "結果": "During the study period, 23.4% KDPI-10 <35% and 34.3% of ideal pediatric-quality, KDPI-10 <35% kidneys were transplanted into adults in allocation categories that receive more priority than children. Nearly three-quarters of these adults were multiorgan recipients. Compared to the KDPI-10 calculation, donors with a KDPI <35% using the KDPI-8 calculation were more often Black (15.3% vs 9.9%), HCV-seropositive (11.1% vs 3.6%), and less frequently donated after circulatory death (12.7% vs 20.3%). T",
-        "結論": "Many ideal pediatric-quality kidneys are allocated to adults, primarily multiorgan transplant recipients. We anticipate no meaningful change in the proportion of ideal pediatric-quality kidneys prioritized for children using the revised KDPI-8 calculation. PLAIN-LANGUAGE SUMMARY: Children with end-stage kidney disease are intended to have priority for kidneys from the best quality kidney donors. However, their priority may fall below adult candidates who need multiple organs or are highly sensit"
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "KDPI",
-        "KDRI",
-        "deceased donor allocation",
-        "pediatric kidney transplant"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42025782/",
-      "DOI": "10.1053/j.ajkd.2026.02.643"
-    },
-    {
-      "pmid": "42014630",
-      "標題": "Comparative evaluation of flexible and navigable suction sheath (FANS), percutaneous nephrostomy (PCN), and conventional ureteral access sheath (UAS) during retrograde intrarenal surgery: a randomized controlled trial.",
-      "期刊": "World journal of urology",
-      "發表日期": "2026 Apr 21",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "renal stones (14-27 mm) undergoing RIRS",
+        "P_族群": "患有 Acidosis, Renal Tubular 的病人",
         "I_介入": "",
-        "C_對照": "PCN tube drainage during RIRS as compared to conventional ureteral access sheath (UAS)",
-        "O_結果": "included operative time"
+        "C_對照": "",
+        "O_結果": ""
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討Optimizing drainage during retrograde intrarenal surgery (RIRS) is crucial for procedural efficacy and safety. Flexible and navigable suction ureteral access sheath (FANS) offers active intrarenal suction without external access, while percutaneous nephrostomy (PCN) provides reliable but invasive dr...\n\n【研究方法】This randomized controlled trial included 217 adult patients with renal stones (14-27 mm) undergoing RIRS. Patients were randomized into three groups: (UAS, n = 72), PCN (n = 72), and FANS (n = 73).\n\n【主要結果】SFR was significantly higher with PCN (97.2%) and FANS (98.6%) versus UAS (81.9%; p < 0.001). The mean operative time was shorter with PCN (48 ± 14 min) than UAS (58 ± 13 min) and FANS (58 ± 11 min; p < 0.001).\n\n【結論】PCN and FANS are both effective and safe drainage strategies during RIRS and outperform conventional UAS in SFR. FANS provides a minimally invasive, entirely endoscopic alternative to PCN with comparable safety and efficacy.",
+      "中文摘要": "【研究背景】AND HYPOTHESIS: Primary distal renal tubular acidosis (dRTA) is a rare inherited renal tubular disorder having a significant impact on growth and kidney function. Data on molecular genetics and long-term outcomes of primary dRTA, especially for newer genotypes, are limited.\n\n【研究方法】63 probands with a clinical diagnosis of dRTA underwent molecular genetic testing, specifically including SLC4A1, ATP6V1B1, ATP6V0A4, WDR72, and FOXI1. Genotype-phenotype characteristics and long-term outcomes were studied in this observational cohort study.\n\n【主要結果】Diagnostic yield of genetic testing was 58.7%. Genotype positivity was associated with severe clinical and biochemical disease. SLC4A1 (38.5%) was the most common genotype, followed by WDR72 (13.5%) and ATP6V1B1 (11.5%). SLC4A1: p.Ala858Asp (32.\n\n【結論】Primary dRTA in Asian Indians is a genetically diverse disease, and is characterized by delayed diagnosis, severe growth failure, bone deformities, and decreased kidney function in the long term.",
       "結構化摘要": {
-        "方法": "This randomized controlled trial included 217 adult patients with renal stones (14-27 mm) undergoing RIRS. Patients were randomized into three groups: (UAS, n = 72), PCN (n = 72), and FANS (n = 73). Outcomes assessed included operative time, stone-free rate (SFR), complications, and postoperative recovery.",
-        "結果": "SFR was significantly higher with PCN (97.2%) and FANS (98.6%) versus UAS (81.9%; p < 0.001). The mean operative time was shorter with PCN (48 ± 14 min) than UAS (58 ± 13 min) and FANS (58 ± 11 min; p < 0.001). Loin/suprapubic pain and hematuria were more frequent with UAS, whereas infectious and major complications were infrequent and similar. On stepwise multivariable analysis, lower Hounsfield units and use of PCN (OR 7.756, 95% CI 1.655-36.346) or FANS (OR 17.25, 95% CI 2.156-138.024) indepe",
-        "結論": "PCN and FANS are both effective and safe drainage strategies during RIRS and outperform conventional UAS in SFR. FANS provides a minimally invasive, entirely endoscopic alternative to PCN with comparable safety and efficacy."
+        "背景": "AND HYPOTHESIS: Primary distal renal tubular acidosis (dRTA) is a rare inherited renal tubular disorder having a significant impact on growth and kidney function. Data on molecular genetics and long-term outcomes of primary dRTA, especially for newer genotypes, are limited.",
+        "方法": "63 probands with a clinical diagnosis of dRTA underwent molecular genetic testing, specifically including SLC4A1, ATP6V1B1, ATP6V0A4, WDR72, and FOXI1. Genotype-phenotype characteristics and long-term outcomes were studied in this observational cohort study.",
+        "結果": "Diagnostic yield of genetic testing was 58.7%. Genotype positivity was associated with severe clinical and biochemical disease. SLC4A1 (38.5%) was the most common genotype, followed by WDR72 (13.5%) and ATP6V1B1 (11.5%). SLC4A1: p.Ala858Asp (32.7%) was the exclusive biallelic variant detected (likely founder variant in the region). Five (9.6%) had variants of unknown significance. Notable features at initial presentation were delayed diagnosis (median 17 months), frequent failure to thrive [44 (",
+        "結論": "Primary dRTA in Asian Indians is a genetically diverse disease, and is characterized by delayed diagnosis, severe growth failure, bone deformities, and decreased kidney function in the long term. Findings from this study highlight the regional diversity and expand genotype-phenotype correlations in primary dRTA."
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "診斷技術: genetic testing"
+      ],
       "關鍵詞": [
-        "Flexible and navigable suction",
-        "Percutaneous nephrostomy",
-        "Renal stones",
-        "Retrograde intrarenal surgery",
-        "Stone-free rate",
-        "Ureteral access sheath"
+        "distal renal tubule",
+        "genetics",
+        "genotype–phenotype",
+        "rare kidney disease",
+        "renal tubular acidosis"
       ],
       "MeSH詞彙": [
         "Humans",
+        "Acidosis, Renal Tubular",
         "Male",
         "Female",
-        "Kidney Calculi",
+        "Child, Preschool",
+        "Anion Exchange Protein 1, Erythrocyte",
+        "Follow-Up Studies",
+        "Infant",
+        "Child",
+        "Prognosis"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41134021/",
+      "DOI": "10.1093/ndt/gfaf222"
+    },
+    {
+      "pmid": "41134021",
+      "標題": "Molecular genetics and long-term outcomes of primary distal renal tubular acidosis in Asia.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Apr 30",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "患有 Acidosis, Renal Tubular 的病人",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究背景】AND HYPOTHESIS: Primary distal renal tubular acidosis (dRTA) is a rare inherited renal tubular disorder having a significant impact on growth and kidney function. Data on molecular genetics and long-term outcomes of primary dRTA, especially for newer genotypes, are limited.\n\n【研究方法】63 probands with a clinical diagnosis of dRTA underwent molecular genetic testing, specifically including SLC4A1, ATP6V1B1, ATP6V0A4, WDR72, and FOXI1. Genotype-phenotype characteristics and long-term outcomes were studied in this observational cohort study.\n\n【主要結果】Diagnostic yield of genetic testing was 58.7%. Genotype positivity was associated with severe clinical and biochemical disease. SLC4A1 (38.5%) was the most common genotype, followed by WDR72 (13.5%) and ATP6V1B1 (11.5%). SLC4A1: p.Ala858Asp (32.\n\n【結論】Primary dRTA in Asian Indians is a genetically diverse disease, and is characterized by delayed diagnosis, severe growth failure, bone deformities, and decreased kidney function in the long term.",
+      "結構化摘要": {
+        "背景": "AND HYPOTHESIS: Primary distal renal tubular acidosis (dRTA) is a rare inherited renal tubular disorder having a significant impact on growth and kidney function. Data on molecular genetics and long-term outcomes of primary dRTA, especially for newer genotypes, are limited.",
+        "方法": "63 probands with a clinical diagnosis of dRTA underwent molecular genetic testing, specifically including SLC4A1, ATP6V1B1, ATP6V0A4, WDR72, and FOXI1. Genotype-phenotype characteristics and long-term outcomes were studied in this observational cohort study.",
+        "結果": "Diagnostic yield of genetic testing was 58.7%. Genotype positivity was associated with severe clinical and biochemical disease. SLC4A1 (38.5%) was the most common genotype, followed by WDR72 (13.5%) and ATP6V1B1 (11.5%). SLC4A1: p.Ala858Asp (32.7%) was the exclusive biallelic variant detected (likely founder variant in the region). Five (9.6%) had variants of unknown significance. Notable features at initial presentation were delayed diagnosis (median 17 months), frequent failure to thrive [44 (",
+        "結論": "Primary dRTA in Asian Indians is a genetically diverse disease, and is characterized by delayed diagnosis, severe growth failure, bone deformities, and decreased kidney function in the long term. Findings from this study highlight the regional diversity and expand genotype-phenotype correlations in primary dRTA."
+      },
+      "相關趨勢": [
+        "診斷技術: genetic testing"
+      ],
+      "關鍵詞": [
+        "distal renal tubule",
+        "genetics",
+        "genotype–phenotype",
+        "rare kidney disease",
+        "renal tubular acidosis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Acidosis, Renal Tubular",
+        "Male",
+        "Female",
+        "Child, Preschool",
+        "Anion Exchange Protein 1, Erythrocyte",
+        "Follow-Up Studies",
+        "Infant",
+        "Child",
+        "Prognosis"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41134021/",
+      "DOI": "10.1093/ndt/gfaf222"
+    },
+    {
+      "pmid": "41100161",
+      "標題": "Chronic kidney disease confers increased excess risks of mortality and cardiovascular events in women compared with men.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Apr 30",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "CKD both for all-cause mortality (HR 0",
+        "I_介入": "",
+        "C_對照": "men",
+        "O_結果": "s were all-cause mortality and cardiovascular composite outcome"
+      },
+      "中文摘要": "【研究背景】AND HYPOTHESIS: Women exhibit a lower cardiovascular risk and longer life expectancy compared with men in the general population. However, this advantage is diminished in dialysis and transplant patients, suggesting greater excess risk, i.e.\n\n【研究方法】In this retrospective cohort study, we analyzed de-identified, patient-level data from electronic medical records within the TriNetX database. Adults aged 18-90 years with an eGFR ≥15 mL/min/1.73 m2 without maintenance dialysis or kidney transplantation were included.\n\n【主要結果】Of 328 431 eligible individuals, 43 830 were women with CKD, 45 173 men with CKD, 127 383 women without CKD and 112 045 men without CKD. In individuals without CKD, women displayed a reduced risk of all-cause mortality [hazard ratio (HR) 0.53; 95% confidence interval (CI) 0.49-0.\n\n【結論】The cardiovascular and survival advantage observed in women compared with men in the general population is significantly reduced in individuals with CKD, confining an increased excess risk in women with CKD.",
+      "結構化摘要": {
+        "背景": "AND HYPOTHESIS: Women exhibit a lower cardiovascular risk and longer life expectancy compared with men in the general population. However, this advantage is diminished in dialysis and transplant patients, suggesting greater excess risk, i.e. risk above the general population, in women with kidney failure. Yet, data on excess risk in chronic kidney disease (CKD) populations, using those without CKD as the reference, are lacking.",
+        "方法": "In this retrospective cohort study, we analyzed de-identified, patient-level data from electronic medical records within the TriNetX database. Adults aged 18-90 years with an eGFR ≥15 mL/min/1.73 m2 without maintenance dialysis or kidney transplantation were included. Primary outcomes were all-cause mortality and cardiovascular composite outcome. Analyses were adjusted for age, sociodemographic factors, cardiovascular risk factors, laboratory measurements, medications and history of CVD, using m",
+        "結果": "Of 328 431 eligible individuals, 43 830 were women with CKD, 45 173 men with CKD, 127 383 women without CKD and 112 045 men without CKD. In individuals without CKD, women displayed a reduced risk of all-cause mortality [hazard ratio (HR) 0.53; 95% confidence interval (CI) 0.49-0.58] and cardiovascular events (HR 0.70; 95% CI 0.68-0.71) compared with men. However, this risk reduction in women compared with men was significantly attenuated in individuals with CKD both for all-cause mortality (HR 0",
+        "結論": "The cardiovascular and survival advantage observed in women compared with men in the general population is significantly reduced in individuals with CKD, confining an increased excess risk in women with CKD."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "cardiovascular disease",
+        "chronic kidney disease",
+        "mortality",
+        "sex",
+        "women health"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Male",
         "Middle Aged",
-        "Nephrostomy, Percutaneous",
-        "Suction",
-        "Adult",
+        "Cardiovascular Diseases",
+        "Retrospective Studies",
+        "Renal Insufficiency, Chronic",
         "Aged",
-        "Equipment Design"
+        "Adult",
+        "Young Adult"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41100161/",
+      "DOI": "10.1093/ndt/gfaf217"
+    },
+    {
+      "pmid": "40451439",
+      "標題": "A Prospective Study of Stereotactic Body Radiation Therapy in Oligometastatic Renal Cell Carcinoma.",
+      "期刊": "International journal of radiation oncology, biology, physics",
+      "發表日期": "2026 May 01",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "oligometastatic or recurrent RCC (1-5 lesions",
+        "I_介入": "SBRT to 23 lesions (median",
+        "C_對照": "",
+        "O_結果": "the rate of grade 4+ adverse events, and secondary endpoints included local failure, distant progression, and PFS"
+      },
+      "中文摘要": "【研究目的】本研究旨在探討Metastasis-directed therapy for oligometastatic renal cell carcinoma (RCC) with stereotactic body radiation therapy (SBRT) has been shown to improve progression-free survival (PFS) and delay time to systemic therapy. Here, we present long-term follow-up of a prospective trial.\n\n【研究方法】AND MATERIALS: Patients with oligometastatic or recurrent RCC (1-5 lesions, with no therapies in prior month) were enrolled on a pilot study (NCT02542202). SBRT was delivered to all sites (preferred regimen of 50 Gy in 5 fractions).\n\n【主要結果】Fifteen patients (all with resected primary tumors, 40% prior systemic therapy, 47% International Metastatic RCC (Renal Cell Carcinoma) Database Consortium intermediate risk) received SBRT to 23 lesions (median, 1; range, 1-4; median BED10 (Biologically Effective Dose, α/β=10) of 100 Gy; 43% lung, 3...\n\n【結論】Multisite SBRT in oligometastatic RCC offers excellent local control with a low risk of severe late toxicity. This study supports an approach to treat limited metastatic disease with SBRT to delay additional systemic therapy.",
+      "結構化摘要": {
+        "方法": "AND MATERIALS: Patients with oligometastatic or recurrent RCC (1-5 lesions, with no therapies in prior month) were enrolled on a pilot study (NCT02542202). SBRT was delivered to all sites (preferred regimen of 50 Gy in 5 fractions). The primary endpoint was the rate of grade 4+ adverse events, and secondary endpoints included local failure, distant progression, and PFS. Exploratory endpoints included time to subsequent systemic therapy and time to subsequent metastasis-directed therapy.",
+        "結果": "Fifteen patients (all with resected primary tumors, 40% prior systemic therapy, 47% International Metastatic RCC (Renal Cell Carcinoma) Database Consortium intermediate risk) received SBRT to 23 lesions (median, 1; range, 1-4; median BED10 (Biologically Effective Dose, α/β=10) of 100 Gy; 43% lung, 35% abdomen, 17% bone, 4% head and neck). The trial was closed early due to slow accrual. At a median follow-up of 4.8 years, there were no grade 3+ adverse events (AEs) and no late grade 2+ AEs. Five ",
+        "結論": "Multisite SBRT in oligometastatic RCC offers excellent local control with a low risk of severe late toxicity. This study supports an approach to treat limited metastatic disease with SBRT to delay additional systemic therapy. A subset of patients may benefit from additional, repeated ablative local interventions."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Carcinoma, Renal Cell",
+        "Radiosurgery",
+        "Kidney Neoplasms",
+        "Male",
+        "Aged",
+        "Middle Aged",
+        "Female",
+        "Prospective Studies",
+        "Aged, 80 and over"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42014630/",
-      "DOI": "10.1007/s00345-026-06410-4"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40451439/",
+      "DOI": "10.1016/j.ijrobp.2025.05.059"
+    },
+    {
+      "pmid": "42065210",
+      "標題": "Association between postoperative nadir hematocrit and mortality within 28-day after coronary artery bypass grafting: A retrospective cohort study based on the MIMIC-IV database.",
+      "期刊": "Medicine",
+      "發表日期": "2026 May 01",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "survived",
+        "I_介入": "",
+        "C_對照": "patients with nHCT < 23%",
+        "O_結果": "associated with higher 28-day mortality and worse secondary outcomes"
+      },
+      "中文摘要": "【主要結果】were consistent. Postoperative nHCT after CABG was independently associated with 28-day mortality. An nHCT range of approximately 27% to 31% was associated with the lowest observed mortality risk.",
+      "結構化摘要": {
+        "完整摘要": "Nadir hematocrit (nHCT) has been implicated in postoperative risk, but its association with 28-day mortality after coronary artery bypass grafting (CABG) remains uncertain. We investigated the association between postoperative nHCT and 28-day mortality after CABG. This retrospective cohort study used Medical Information Mart for Intensive Care IV and included adults (≥18 years) who underwent CABG during an ICU stay; patients missing postoperative hematocrit (HCT) or 28-day vital status were excluded. Postoperative nadir hematocrit (nHCT) was defined as the lowest HCT value recorded after CABG surgery and prior to the occurrence of death, or within 28 days postoperatively for patients who survived. Secondary outcomes included acute kidney injury, postoperative delirium, ICU length of stay, and total hospital length of stay. Lower nadir HCT was significantly associated with higher 28-day mortality and worse secondary outcomes. In the fully adjusted model, compared with patients with nHCT"
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "28-day mortality",
+        "Medical Information Mart for Intensive Care IV database",
+        "acute kidney injury",
+        "coronary artery bypass grafting",
+        "hematocrit"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Hematocrit",
+        "Retrospective Studies",
+        "Coronary Artery Bypass",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Postoperative Complications",
+        "Length of Stay"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42065210/",
+      "DOI": "10.1097/MD.0000000000048517"
+    },
+    {
+      "pmid": "41563389",
+      "標題": "Severe Maternal Morbidity and Long-Term Kidney Outcomes among Pregnant Women Receiving Maintenance Dialysis.",
+      "期刊": "Journal of the American Society of Nephrology : JASN",
+      "發表日期": "2026 May 01",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "experienced severe maternal morbidity had a higher risk of mortality than those who did not (adjusted hazard ratio",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "from 4 weeks before birth to 6 weeks postpartum"
+      },
+      "中文摘要": "【研究背景】Pregnant women receiving maintenance dialysis are at high risk for adverse pregnancy outcomes. Little is known about their rates of severe maternal morbidity and the association of severe maternal morbidity with future kidney transplant wait times and mortality.\n\n【研究方法】This is a cohort study of women who gave birth while receiving maintenance dialysis from January 1, 2000, to December 31, 2019, as captured in the United States Renal Data System.\n\n【主要結果】We identified 1082 births among 986 women who were receiving dialysis at the time of birth. In total, 332 women (34%) and 342 births (32%) experienced at least one nonkidney severe maternal morbidity.\n\n【結論】In the United States, one in three pregnant women receiving maintenance dialysis experienced severe maternal morbidity with risk factors that included recent dialysis initiation.",
+      "結構化摘要": {
+        "背景": "Pregnant women receiving maintenance dialysis are at high risk for adverse pregnancy outcomes. Little is known about their rates of severe maternal morbidity and the association of severe maternal morbidity with future kidney transplant wait times and mortality.",
+        "方法": "This is a cohort study of women who gave birth while receiving maintenance dialysis from January 1, 2000, to December 31, 2019, as captured in the United States Renal Data System. Nonkidney severe maternal morbidity, defined by the US Centers for Disease Control and Prevention, was assessed from 4 weeks before birth to 6 weeks postpartum. Multivariable regression models examined risk factors independently associated with severe maternal morbidity. Multivariable Cox proportional hazards were stra",
+        "結果": "We identified 1082 births among 986 women who were receiving dialysis at the time of birth. In total, 332 women (34%) and 342 births (32%) experienced at least one nonkidney severe maternal morbidity. The most common severe maternal morbidity events were blood transfusion (16% of all births), pulmonary edema/acute heart failure (10%), sepsis (6%), and acute respiratory distress syndrome (5%). In multivariable analyses, risk factors independently associated with severe maternal morbidity included",
+        "結論": "In the United States, one in three pregnant women receiving maintenance dialysis experienced severe maternal morbidity with risk factors that included recent dialysis initiation. In the following years, the history of severe maternal morbidity was associated with higher mortality and a longer time to kidney transplantation."
+      },
+      "相關趨勢": [
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "women's health"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Renal Dialysis",
+        "Adult",
+        "Pregnancy Complications",
+        "Kidney Transplantation",
+        "United States",
+        "Kidney Failure, Chronic",
+        "Cohort Studies"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41563389/",
+      "DOI": "10.1681/ASN.0000000949"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 4,
-      "想法": "目前 'mortality' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 19,
+      "想法": "目前 'mortality' 是研究熱點 (19 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cardiovascular",
+      "頻率": 10,
+      "想法": "目前 'cardiovascular' 是研究熱點 (10 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 7,
+      "想法": "目前 'heart failure' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -523,6 +549,34 @@
     },
     {
       "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 3,
+      "想法": "目前 'inflammation' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "personalized",
+      "頻率": 3,
+      "想法": "目前 'personalized' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "GLP-1",
+      "頻率": 3,
+      "想法": "目前 'GLP-1' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 2,
+      "想法": "目前 'hospitalization' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
       "關鍵詞": "ESKD",
       "頻率": 2,
       "想法": "目前 'ESKD' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
@@ -530,45 +584,17 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "personalized",
+      "關鍵詞": "genetic testing",
       "頻率": 2,
-      "想法": "目前 'personalized' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'genetic testing' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 2,
-      "想法": "目前 'heart failure' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "proteinuria",
-      "頻率": 1,
-      "想法": "目前 'proteinuria' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
+      "類型": "研究缺口",
       "關鍵詞": "hospitalization",
-      "頻率": 1,
-      "想法": "目前 'hospitalization' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "cardiovascular",
-      "頻率": 1,
-      "想法": "目前 'cardiovascular' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
-      "頻率": 1,
-      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
+      "頻率": 2,
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
@@ -586,23 +612,16 @@
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "hospitalization",
+      "關鍵詞": "quality of life",
       "頻率": 1,
-      "想法": "'hospitalization' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "personalized",
-      "頻率": 2,
-      "想法": "'personalized' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "heart failure",
-      "頻率": 2,
-      "想法": "'heart failure' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "關鍵詞": "biomarker",
+      "頻率": 3,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -626,44 +645,45 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 2 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 7 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Pharmacological blood-pressure lowering for the pr",
-        "Early Post-Transplant Bacterial Infections Predict"
+        "Effect of Donor-recipient Size on Graft Growth in ",
+        "Cross-Population Validation of the Pediatric CKD R",
+        "Molecular genetics and long-term outcomes of prima"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 12,
-    "Male": 12,
-    "Female": 12,
-    "Middle Aged": 12,
-    "Aged": 11,
-    "Adult": 6,
-    "Retrospective Studies": 4,
-    "Renal Insufficiency, Chronic": 3,
-    "Aged, 80 and over": 3,
-    "Prospective Studies": 3,
-    "Risk Factors": 3,
-    "Cardiovascular Diseases": 2,
-    "Acute Kidney Injury": 2,
-    "Length of Stay": 2,
-    "Intensive Care Units": 2,
-    "Kidney Transplantation": 2,
-    "Disease Progression": 2,
-    "Creatinine": 2,
-    "Postoperative Complications": 2,
-    "United States": 2,
-    "Treatment Outcome": 2,
-    "Biomarkers": 2,
-    "Cystatin C": 2,
-    "Antihypertensive Agents": 1,
-    "Randomized Controlled Trials as Topic": 1,
-    "Hypertension": 1,
-    "Blood Pressure": 1,
-    "Severity of Illness Index": 1,
-    "Furosemide": 1,
-    "Sepsis": 1
+    "Humans": 55,
+    "Female": 53,
+    "Male": 53,
+    "Middle Aged": 46,
+    "Aged": 46,
+    "Retrospective Studies": 27,
+    "Adult": 27,
+    "Risk Factors": 18,
+    "Prospective Studies": 15,
+    "Cohort Studies": 13,
+    "Treatment Outcome": 13,
+    "Aged, 80 and over": 12,
+    "Follow-Up Studies": 11,
+    "Renal Insufficiency, Chronic": 11,
+    "Kidney Failure, Chronic": 11,
+    "Renal Dialysis": 9,
+    "Prognosis": 8,
+    "Incidence": 8,
+    "Adolescent": 7,
+    "Postoperative Complications": 7,
+    "Kidney Neoplasms": 7,
+    "Diabetes Mellitus, Type 2": 6,
+    "Child": 5,
+    "United Kingdom": 5,
+    "United States": 5,
+    "Time Factors": 5,
+    "Cardiovascular Diseases": 5,
+    "Propensity Score": 5,
+    "Biomarkers": 5,
+    "Risk Assessment": 5
   }
 }
