@@ -1,161 +1,115 @@
 {
-  "總文章數": 60,
-  "高影響力期刊文章數": 7,
-  "分析日期": "2026-05-04T10:15:36.253481",
+  "總文章數": 12,
+  "高影響力期刊文章數": 0,
+  "分析日期": "2026-05-11T11:24:58.175812",
   "趨勢關鍵詞統計": {
+    "研究主題": {
+      "personalized": 1
+    },
     "臨床結局": {
-      "mortality": 19,
-      "hospitalization": 2,
-      "ESKD": 2,
+      "mortality": 2,
       "proteinuria": 1,
-      "quality of life": 1
+      "hospitalization": 1
     },
     "診斷技術": {
-      "biomarker": 3,
-      "genetic testing": 2
-    },
-    "研究主題": {
-      "cardiovascular": 10,
-      "heart failure": 7,
-      "inflammation": 3,
-      "personalized": 3
-    },
-    "治療方法": {
-      "GLP-1": 3
+      "biomarker": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      19
-    ],
-    [
-      "cardiovascular",
-      10
-    ],
-    [
-      "heart failure",
-      7
-    ],
-    [
-      "biomarker",
-      3
-    ],
-    [
-      "inflammation",
-      3
+      2
     ],
     [
       "personalized",
-      3
-    ],
-    [
-      "GLP-1",
-      3
-    ],
-    [
-      "hospitalization",
-      2
-    ],
-    [
-      "ESKD",
-      2
-    ],
-    [
-      "genetic testing",
-      2
+      1
     ],
     [
       "proteinuria",
       1
     ],
     [
-      "quality of life",
+      "hospitalization",
+      1
+    ],
+    [
+      "biomarker",
       1
     ]
   ],
   "期刊分布": {
-    "Pediatric nephrology (Berlin, Germany)": 5,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
-    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-    "International journal of radiation oncology, biology, physics": 2,
-    "Mayo Clinic proceedings": 2,
-    "Transplantation direct": 1,
-    "Kidney international reports": 1,
-    "Clinical and experimental pediatrics": 1,
-    "JHLT open": 1,
-    "Pharmacotherapy": 1,
-    "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 1,
-    "World journal of urology": 1,
-    "American journal of ophthalmology": 1,
-    "Cancer medicine": 1,
-    "Medicine": 1
+    "World journal of urology": 2,
+    "Renal failure": 2,
+    "Pediatric surgery international": 1,
+    "PloS one": 1,
+    "Journal of neurology": 1,
+    "Journal of robotic surgery": 1,
+    "Urolithiasis": 1,
+    "European journal of clinical pharmacology": 1,
+    "Revista medica del Instituto Mexicano del Seguro Social": 1,
+    "Endocrine": 1
   },
   "文章類型分布": {
-    "Journal Article": 60,
-    "Multicenter Study": 11,
-    "Observational Study": 6,
-    "Comparative Study": 5,
-    "Randomized Controlled Trial": 4,
-    "Systematic Review": 3,
-    "Review": 3,
-    "Meta-Analysis": 2,
-    "Clinical Trial": 1,
-    "Validation Study": 1
+    "Journal Article": 12,
+    "Multicenter Study": 2,
+    "Clinical Trial": 2,
+    "Validation Study": 2,
+    "Systematic Review": 1,
+    "Meta-Analysis": 1,
+    "Review": 1,
+    "Letter": 1,
+    "Comparative Study": 1,
+    "Randomized Controlled Trial": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 55,
-    "Female": 53,
-    "Male": 53,
-    "Middle Aged": 46,
-    "Aged": 46,
-    "Retrospective Studies": 27,
-    "Adult": 27,
-    "Risk Factors": 18,
-    "Prospective Studies": 15,
-    "Cohort Studies": 13,
-    "Treatment Outcome": 13,
-    "Aged, 80 and over": 12,
-    "Follow-Up Studies": 11,
-    "Renal Insufficiency, Chronic": 11,
-    "Kidney Failure, Chronic": 11,
-    "Renal Dialysis": 9,
-    "Prognosis": 8,
-    "Incidence": 8,
-    "Adolescent": 7,
-    "Postoperative Complications": 7,
-    "Kidney Neoplasms": 7,
-    "Diabetes Mellitus, Type 2": 6,
-    "Child": 5,
-    "United Kingdom": 5,
-    "United States": 5,
-    "Time Factors": 5,
-    "Cardiovascular Diseases": 5,
-    "Propensity Score": 5,
-    "Biomarkers": 5,
-    "Risk Assessment": 5
+    "Humans": 12,
+    "Male": 11,
+    "Female": 11,
+    "Aged": 10,
+    "Middle Aged": 10,
+    "Adult": 6,
+    "Retrospective Studies": 5,
+    "Cohort Studies": 4,
+    "Treatment Outcome": 3,
+    "Postoperative Complications": 3,
+    "Risk Factors": 3,
+    "Kidney Failure, Chronic": 2,
+    "Nephrolithotomy, Percutaneous": 2,
+    "Kidney Calculi": 2,
+    "Acute Kidney Injury": 2,
+    "Prospective Studies": 2,
+    "Critical Illness": 2,
+    "Risk Assessment": 2,
+    "Aged, 80 and over": 2,
+    "Length of Stay": 2,
+    "Peritoneal Dialysis": 1,
+    "Laparoscopy": 1,
+    "Child": 1,
+    "Abdominal Wall": 1,
+    "Child, Preschool": 1,
+    "Catheterization": 1,
+    "Catheters, Indwelling": 1,
+    "Age Factors": 1,
+    "Furosemide": 1,
+    "Continuous Renal Replacement Therapy": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 10,
-      "高影響力期刊文章數": 4,
+      "文章數": 1,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 5,
-        "Transplantation direct": 1,
-        "Kidney international reports": 1,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
-        "Clinical and experimental pediatrics": 1
+        "Pediatric surgery international": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 3,
+      "文章數": 11,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 5,
-        "International journal of radiation oncology, biology, physics": 2,
-        "Mayo Clinic proceedings": 2,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
-        "Pharmacotherapy": 1
+        "World journal of urology": 2,
+        "Renal failure": 2,
+        "PloS one": 1,
+        "Journal of neurology": 1,
+        "Journal of robotic surgery": 1
       }
     }
   }
