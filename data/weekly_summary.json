@@ -1,522 +1,566 @@
 {
-  "報告日期": "2026-05-18T11:45:47.647241",
+  "報告日期": "2026-05-25T11:54:00.079546",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 13,
-    "高影響力期刊文章數": 1,
+    "總文章數": 19,
+    "高影響力期刊文章數": 2,
     "主要發現": [
-      "本週熱門研究主題: biomarker (2篇), proteinuria (1篇), mortality (1篇)",
-      "高影響力期刊發表 1 篇，包括: Lancet (London, England)",
-      "高品質證據: 6 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (8篇), cardiovascular (6篇), heart failure (3篇)",
+      "高影響力期刊發表 2 篇，包括: BMJ open gastroenterology, World journal of pediatrics : WJP",
+      "高品質證據: 2 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 1,
-      "高影響力期刊文章數": 0,
+      "文章數": 5,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "World journal of urology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+        "Ophthalmic epidemiology": 1,
+        "BMC nephrology": 1,
+        "World journal of pediatrics : WJP": 1,
+        "BJOG : an international journal of obstetrics and gynaecology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 12,
+      "文章數": 14,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "The Journal of clinical investigation": 2,
-        "Lancet (London, England)": 1,
-        "Molecular biology reports": 1,
-        "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-        "Scientific reports": 1
+        "World journal of urology": 1,
+        "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer": 1,
+        "Chinese medical journal": 1,
+        "Cell reports. Medicine": 1,
+        "Rheumatology international": 1
       }
     }
   },
   "研究趨勢": {
     "熱門主題": [
       [
-        "biomarker",
+        "mortality",
+        8
+      ],
+      [
+        "cardiovascular",
+        6
+      ],
+      [
+        "heart failure",
+        3
+      ],
+      [
+        "machine learning",
         2
+      ],
+      [
+        "hospitalization",
+        2
+      ],
+      [
+        "inflammation",
+        1
       ],
       [
         "proteinuria",
         1
       ],
       [
-        "mortality",
+        "cost-effectiveness",
         1
       ],
       [
-        "immunotherapy",
-        1
-      ],
-      [
-        "gut microbiome",
-        1
-      ],
-      [
-        "cardiovascular",
+        "quality of life",
         1
       ]
     ],
     "趨勢關鍵詞": {
+      "研究主題": {
+        "cardiovascular": 6,
+        "heart failure": 3,
+        "inflammation": 1
+      },
       "診斷技術": {
-        "biomarker": 2
+        "machine learning": 2
       },
       "臨床結局": {
+        "mortality": 8,
+        "hospitalization": 2,
         "proteinuria": 1,
-        "mortality": 1
-      },
-      "治療方法": {
-        "immunotherapy": 1
-      },
-      "研究主題": {
-        "gut microbiome": 1,
-        "cardiovascular": 1
+        "cost-effectiveness": 1,
+        "quality of life": 1
       }
     },
     "期刊分布": {
-      "The Journal of clinical investigation": 2,
+      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+      "Ophthalmic epidemiology": 1,
+      "BMC nephrology": 1,
+      "World journal of pediatrics : WJP": 1,
+      "BJOG : an international journal of obstetrics and gynaecology": 1,
       "World journal of urology": 1,
-      "Lancet (London, England)": 1,
-      "Molecular biology reports": 1,
-      "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-      "Scientific reports": 1,
-      "The New England journal of medicine": 1,
-      "European journal of cancer (Oxford, England : 1990)": 1,
-      "Food & function": 1,
+      "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer": 1,
+      "Chinese medical journal": 1,
+      "Cell reports. Medicine": 1,
+      "Rheumatology international": 1,
       "Renal failure": 1,
-      "Journal of robotic surgery": 1,
+      "BMJ open gastroenterology": 1,
+      "Anesthesia and analgesia": 1,
+      "JMIR cardio": 1,
       "PloS one": 1
     },
     "文章類型": {
-      "Journal Article": 12,
-      "Randomized Controlled Trial": 6,
-      "Multicenter Study": 5,
-      "Clinical Trial, Phase II": 4,
-      "Comparative Study": 3,
-      "Clinical Trial, Phase III": 2,
-      "Research Support, Non-U.S. Gov't": 1
+      "Journal Article": 19,
+      "Multicenter Study": 4,
+      "Observational Study": 2,
+      "Randomized Controlled Trial": 2,
+      "Clinical Trial, Phase II": 1,
+      "Validation Study": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42134354",
-      "標題": "Efficacy and safety of cefepime-nacubactam and aztreonam-nacubactam compared with imipenem-cilastatin for complicated urinary tract infection or acute uncomplicated pyelonephritis (Integral-1): a double-blind, randomised phase 3 trial.",
-      "期刊": "Lancet (London, England)",
-      "發表日期": "2026 May 16",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42167798",
+      "標題": "Burden of non-cancer comorbidities and mortality in chronic pancreatitis: a retrospective cohort study.",
+      "期刊": "BMJ open gastroenterology",
+      "發表日期": "2026 May 21",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "were randomly assigned",
-        "I_介入": "any amount of the study drug",
-        "C_對照": "imipenem-cilastatin for complicated urinary tract infection or acute uncomplicated pyelonephritis (Integral-1): a double-blind",
-        "O_結果": "the proportion of patients achieving composite clinical and microbiological success at test of cure in the microbiological modified intention-to-treat population-all patients who were randomly assigne"
+        "P_族群": "CP",
+        "I_介入": "strategies may help prevent or delay the onset of these associated conditions",
+        "C_對照": "national data from England in 2022 to calculate standardised prevalence ratios (SPRs)",
+        "O_結果": "elevated SPRs for heart failure (3"
       },
-      "中文摘要": "【研究背景】Nacubactam (OP0595) is a newly developed diazabicyclooctane β-lactamase inhibitor used in combination with cefepime or aztreonam. We assessed the efficacy and safety of cefepime-nacubactam and aztreonam-nacubactam versus imipenem-cilastatin in complicated urinary tract infection (cUTI) or acute unco...\n\n【研究方法】The Integral-1 global, phase 3, multicentre, randomised, double-blind study recruited adults (aged ≥18 years) with cUTI or acute uncomplicated pyelonephritis at 79 sites in Bulgaria, China, Czech Republic, Estonia, Georgia, Japan, Latvia, Lithuania, and Slovakia.\n\n【主要結果】Between May 22, 2023, and Nov 26, 2024, 614 patients were randomly assigned and 431 were included in the primary efficacy analysis (cefepime-nacubactam [n=214], aztreonam-nacubactam [n=112], or imipenem-cilastatin [n=105]); 228 patients (53%) were male and 203 (47%) were female.\n\n【結論】Cefepime-nacubactam and aztreonam-nacubactam are potential treatment options for Gram-negative cUTI and acute uncomplicated pyelonephritis, including infections caused by antimicrobial-resistant strains. FUNDING: Meiji Seika Pharma and Japan Agency for Medical Research and Development.",
+      "中文摘要": "【研究目的】本世代研究旨在探討Chronic pancreatitis (CP) is a progressive fibro-inflammatory disease associated with increased comorbidity and mortality. This study aimed to characterise the natural history of CP by assessing comorbidity prevalence and mortality in a CP cohort.\n\n【研究方法】A retrospective cohort study was performed at Nottingham University Hospitals NHS Trust, including patients diagnosed with CP between 1 January 2006 and 31 December 2014. Participants were followed up until 31 May 2023.\n\n【主要結果】Of the 1003 patients with CP, 678 who resided within the Greater Nottingham area were included in the study cohort. The overall median follow-up was 5.7 years (IQR 1.2-10.6). Compared with the general population, patients with CP had significantly elevated SPRs for heart failure (3.0; 95% CI 2.\n\n【結論】CP is associated with increased risk of multiple comorbidities and elevated mortality as compared with the general population. Enhanced surveillance and early intervention strategies may help prevent or delay the onset of these associated conditions.",
       "結構化摘要": {
-        "背景": "Nacubactam (OP0595) is a newly developed diazabicyclooctane β-lactamase inhibitor used in combination with cefepime or aztreonam. We assessed the efficacy and safety of cefepime-nacubactam and aztreonam-nacubactam versus imipenem-cilastatin in complicated urinary tract infection (cUTI) or acute uncomplicated pyelonephritis.",
-        "方法": "The Integral-1 global, phase 3, multicentre, randomised, double-blind study recruited adults (aged ≥18 years) with cUTI or acute uncomplicated pyelonephritis at 79 sites in Bulgaria, China, Czech Republic, Estonia, Georgia, Japan, Latvia, Lithuania, and Slovakia. Patients were randomly assigned (2:1:1) to receive intravenous cefepime (2 g) plus nacubactam (1 g), aztreonam (2 g) plus nacubactam (1 g), or imipenem (1 g) plus cilastatin (1 g) every 8 h for 5-14 days. Randomisation was stratified by"
+        "目的": "Chronic pancreatitis (CP) is a progressive fibro-inflammatory disease associated with increased comorbidity and mortality. This study aimed to characterise the natural history of CP by assessing comorbidity prevalence and mortality in a CP cohort.",
+        "方法": "A retrospective cohort study was performed at Nottingham University Hospitals NHS Trust, including patients diagnosed with CP between 1 January 2006 and 31 December 2014. Participants were followed up until 31 May 2023. Comorbidity prevalence was compared with national data from England in 2022 to calculate standardised prevalence ratios (SPRs). Similarly, standardised mortality ratios (SMRs) were also evaluated.",
+        "結果": "Of the 1003 patients with CP, 678 who resided within the Greater Nottingham area were included in the study cohort. The overall median follow-up was 5.7 years (IQR 1.2-10.6). Compared with the general population, patients with CP had significantly elevated SPRs for heart failure (3.0; 95% CI 2.3 to 3.8), diabetes mellitus (2.4; 95% CI 2.1 to 2.7), ischaemic heart disease (2.4; 95% CI 2.0 to 2.8), atrial fibrillation (1.9; 95% CI 1.5 to 2.3) and cerebrovascular disease (1.4; 95% CI 1.0 to 1.8). T",
+        "結論": "CP is associated with increased risk of multiple comorbidities and elevated mortality as compared with the general population. Enhanced surveillance and early intervention strategies may help prevent or delay the onset of these associated conditions."
       },
-      "相關趨勢": [],
-      "關鍵詞": [],
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "CARDIOVASCULAR DISEASE",
+        "CHRONIC LIVER DISEASE",
+        "CHRONIC PANCREATITIS",
+        "DIABETES MELLITUS"
+      ],
       "MeSH詞彙": [
-        "Aged",
-        "Female",
         "Humans",
+        "Pancreatitis, Chronic",
         "Male",
+        "Retrospective Studies",
+        "Female",
         "Middle Aged",
-        "Acute Disease",
-        "Anti-Bacterial Agents",
-        "Azabicyclo Compounds",
-        "Aztreonam",
-        "beta-Lactamase Inhibitors"
+        "Comorbidity",
+        "England",
+        "Adult",
+        "Prevalence"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42134354/",
-      "DOI": "10.1016/S0140-6736(26)00596-9"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42167798/",
+      "DOI": "10.1136/bmjgast-2025-002194"
     },
     {
-      "pmid": "42144503",
-      "標題": "Supine mini-PCNL using pneumatic lithotripsy for pediatric renal stones: safety and efficacy in low-income countries.",
+      "pmid": "42151593",
+      "標題": "Supervised machine learning models for predicting sepsis-associated acute kidney injury in children: a real-world evaluation.",
+      "期刊": "World journal of pediatrics : WJP",
+      "發表日期": "2026 May 18",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "sepsis as defined by the Phoenix criteria",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "on the training set"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to develop a machine learning (ML) model to identify key predictors of AKI in pediatric patients with sepsis as defined by the Phoenix criteria.\n\n【研究方法】This retrospective cohort study included 2424 pediatric patients with a diagnosis of sepsis, of whom 484 developed AKI according to Kidney Disease: Improving Global Outcomes criteria. Data from the first 24 hours of admission were analyzed.\n\n【主要結果】Feature selection identified 13 key predictors, including SpO₂/FiO₂ ratio, international normalized ratio, procalcitonin, absolute neutrophil count, and mean arterial pressure. The categorical boosting (CatBoost) model achieved the best performance, with an AUC of 0.\n\n【結論】Based on the Phoenix criteria, we developed an interpretable CatBoost-based early prediction model and web tool for pediatric S-AKI using 13 clinical features. The model showed good predictive performance and provides a preliminary data-driven framework for S-AKI risk stratification.",
+      "結構化摘要": {
+        "背景": "Sepsis-associated acute kidney injury (S-AKI) substantially increases mortality. The recent Phoenix criteria have redefined pediatric sepsis, yet AKI risk factors under this framework remain unclear. This study aimed to develop a machine learning (ML) model to identify key predictors of AKI in pediatric patients with sepsis as defined by the Phoenix criteria.",
+        "方法": "This retrospective cohort study included 2424 pediatric patients with a diagnosis of sepsis, of whom 484 developed AKI according to Kidney Disease: Improving Global Outcomes criteria. Data from the first 24 hours of admission were analyzed. The cohort was randomly divided into a training set (70%) and a test set (30%). A least absolute shrinkage and selection operator-random forest hybrid approach selected features, and ten ML algorithms were developed and evaluated on the training set, with the",
+        "結果": "Feature selection identified 13 key predictors, including SpO₂/FiO₂ ratio, international normalized ratio, procalcitonin, absolute neutrophil count, and mean arterial pressure. The categorical boosting (CatBoost) model achieved the best performance, with an AUC of 0.843 [95% confidence interval (CI) = 0.818-0.867] in the training set and 0.797 (95% CI = 0.755-0.839) in the test set. SHAP analysis highlighted procalcitonin and absolute neutrophil count as the most influential features. A web-base",
+        "結論": "Based on the Phoenix criteria, we developed an interpretable CatBoost-based early prediction model and web tool for pediatric S-AKI using 13 clinical features. The model showed good predictive performance and provides a preliminary data-driven framework for S-AKI risk stratification. Future multi-center external validation is needed to confirm generalizability and explore feasibility of clinical integration."
+      },
+      "相關趨勢": [
+        "診斷技術: machine learning",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Machine learning",
+        "Pediatric sepsis",
+        "Phoenix sepsis score",
+        "Risk prediction",
+        "Sepsis-associated acute kidney injury"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42151593/",
+      "DOI": "10.1007/s12519-026-01038-1"
+    },
+    {
+      "pmid": "42177707",
+      "標題": "Flexible ureterorenoscopy and lithotripsy with pulsed thulium: YAG laser: a multicenter retrospective study.",
       "期刊": "World journal of urology",
-      "發表日期": "2026 May 17",
-      "研究類型": "隨機對照試驗",
+      "發表日期": "2026 May 24",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "患有 Kidney Calculi, Nephrolithotomy, Percutaneous 的病人",
-        "I_介入": "its lower cost and comparable stone-free rates",
-        "C_對照": "Holmium: YAG (Ho: YAG) laser dusting during supine mini-percutaneous nephrolithotomy (mini-PCNL) in pediatric patients",
-        "O_結果": "s included operative time, stone-free rate (SFR), complications (Clavien-Dindo), and biochemical markers of renal injury, including Kidney Injury Molecule-1 (KIM-1) and albumin/creatinine (A/C) ratio"
+        "P_族群": "postoperative non-contrast CT (NCCT)",
+        "I_介入": "",
+        "C_對照": "established laser platforms",
+        "O_結果": "1-3 months postoperatively"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To compare the efficacy, safety, and acute renal parenchymal impact of pneumatic lithotripsy versus Holmium: YAG (Ho: YAG) laser dusting during supine mini-percutaneous nephrolithotomy (mini-PCNL) in pediatric patients. PATIENTS AND\n\n【研究方法】A double-masked, randomized clinical trial was conducted between March 2023 and October 2024. A total of 104 pediatric patients (ages 3-10 years) with solitary renal stones (10-25 mm) were randomized into two groups: Group 1 (n = 53) underwent mini-PCNL using a pneumatic lithotripter, and Group 2 (n...\n\n【主要結果】Pneumatic lithotripsy demonstrated significantly shorter mean operative times (59.5 vs. 67.6 min, p = 0.007) and lithotripsy times (p < 0.001) compared to the laser group. The stone-free rates were comparable between the pneumatic and laser groups (92.45% vs. 94.1%, p > 0.05).\n\n【結論】Pneumatic lithotripsy is a highly effective and safe alternative to laser lithotripsy for pediatric mini-PCNL. It offers comparable operative efficiency, reduced hospital stays, and potentially lower acute tubular injury as evidenced by lower KIM-1 levels.",
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the real-world in vivo volumetric ablation efficiency of the p-Tm: YAG laser during flexible ureterorenoscopy (FURS), with secondary assessment of clinical outcomes and safety in a multicenter cohort.\n\n【研究方法】We conducted a retrospective multicenter cohort study including adult patients (≥ 18 years) who underwent p-Tm: YAG-based FURS for ureteral and/or renal calculi at three tertiary referral centers between 2023 and 2025.\n\n【主要結果】Of 222 screened patients, 167 met the inclusion criteria. Median preoperative stone volume was 987 mm³ (IQR 329-3,124), and 47% of patients presented with multiple/complex stones. Median LOT was 21.4 min, and median total delivered energy was 12 kJ.\n\n【結論】In this multicenter real-world cohort, p-Tm: YAG laser lithotripsy showed measurable volumetric efficiency and was associated with acceptable stone clearance and a favorable safety profile during FURS.",
       "結構化摘要": {
-        "背景": "Mini-percutaneous nephrolithotomy (mini-PCNL) is an effective surgical technique for pediatric renal stones. However, data comparing different lithotripsy modalities in this population are limited. PURPOSE: To compare the efficacy, safety, and acute renal parenchymal impact of pneumatic lithotripsy versus Holmium: YAG (Ho: YAG) laser dusting during supine mini-percutaneous nephrolithotomy (mini-PCNL) in pediatric patients. PATIENTS AND",
-        "方法": "A double-masked, randomized clinical trial was conducted between March 2023 and October 2024. A total of 104 pediatric patients (ages 3-10 years) with solitary renal stones (10-25 mm) were randomized into two groups: Group 1 (n = 53) underwent mini-PCNL using a pneumatic lithotripter, and Group 2 (n = 51) underwent mini-PCNL using Ho: YAG laser dusting. Primary outcomes included operative time, stone-free rate (SFR), complications (Clavien-Dindo), and biochemical markers of renal injury, includi",
-        "結果": "Pneumatic lithotripsy demonstrated significantly shorter mean operative times (59.5 vs. 67.6 min, p = 0.007) and lithotripsy times (p < 0.001) compared to the laser group. The stone-free rates were comparable between the pneumatic and laser groups (92.45% vs. 94.1%, p > 0.05). Group 1 (pneumatic) had a significantly shorter hospital stay (2.2 vs. 2.6 days, p = 0.004). While both groups showed postoperative elevations in injury markers, the laser group exhibited significantly higher and more sust",
-        "結論": "Pneumatic lithotripsy is a highly effective and safe alternative to laser lithotripsy for pediatric mini-PCNL. It offers comparable operative efficiency, reduced hospital stays, and potentially lower acute tubular injury as evidenced by lower KIM-1 levels. Given its lower cost and comparable stone-free rates, pneumatic lithotripsy is a favorable option for managing pediatric renal stones in resource-conscious settings."
+        "方法": "We conducted a retrospective multicenter cohort study including adult patients (≥ 18 years) who underwent p-Tm: YAG-based FURS for ureteral and/or renal calculi at three tertiary referral centers between 2023 and 2025. Preoperative stone volume was quantified using manual three-dimensional CT segmentation. Laser-on time (LOT), total delivered energy, and laser settings were prospectively recorded. Volumetric ablation speed (mm³/s) and energy consumption (J/mm³) were calculated using standardized",
+        "結果": "Of 222 screened patients, 167 met the inclusion criteria. Median preoperative stone volume was 987 mm³ (IQR 329-3,124), and 47% of patients presented with multiple/complex stones. Median LOT was 21.4 min, and median total delivered energy was 12 kJ. In the 108 patients with paired volumetric data and postoperative NCCT, median ablation speed was 0.55 mm³/s (IQR 0.30-0.95), and median energy consumption was 13 J/mm³ (IQR 8-23). In this NCCT subgroup, SFR were 47%, 59%, and 66% for Grade A, B, and",
+        "結論": "In this multicenter real-world cohort, p-Tm: YAG laser lithotripsy showed measurable volumetric efficiency and was associated with acceptable stone clearance and a favorable safety profile during FURS. These findings support the clinical feasibility of this technology in routine endourological practice; however, prospective comparative studies are warranted to further define its relative performance compared with established laser platforms."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "Efficacy",
-        "Laser lithotripsy",
-        "Mini-PCNL",
-        "Pediatric renal stones",
-        "Percutaneous nephrolithotomy",
-        "Pneumatic lithotripsy",
-        "Safety"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Calculi",
-        "Child",
-        "Male",
-        "Female",
-        "Child, Preschool",
-        "Double-Blind Method",
-        "Nephrolithotomy, Percutaneous",
+        "Laser",
         "Lithotripsy",
-        "Treatment Outcome"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42144503/",
-      "DOI": "10.1007/s00345-026-06426-w"
-    },
-    {
-      "pmid": "42142189",
-      "標題": "Pharmacogenetics and pharmacokinetics of immunosuppressants: clinical correlations and disease activity control in Egyptian female patients with lupus nephritis.",
-      "期刊": "Molecular biology reports",
-      "發表日期": "2026 May 16",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "lupus nephritis",
-        "I_介入": "response",
-        "C_對照": "non-response at 6 months",
-        "O_結果": "between responders and non-responders"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Mycophenolate mofetil (MMF) is widely used in lupus nephritis (LN), but interindividual variability in pharmacokinetics and pharmacogenetics may affect treatment response.\n\n【研究方法】AND\n\n【主要結果】In this prospective study, 53 female patients with active LN (ISN/RPS class III-IV) maintained on 2 g/day MMF were enrolled at the Urology and Nephrology Center, Mansoura University, Egypt. Baseline clinical, laboratory, and histopathological data were collected.\n\n【結論】MMF exposure, biopsy class, and induction regimen significantly influence therapeutic response in LN. Pharmacokinetic monitoring of MPA may help optimize MMF therapy, while common UGT2B7 and SLCO1B1 variants showed limited predictive value in this cohort.",
-      "結構化摘要": {
-        "方法": "AND",
-        "結果": "In this prospective study, 53 female patients with active LN (ISN/RPS class III-IV) maintained on 2 g/day MMF were enrolled at the Urology and Nephrology Center, Mansoura University, Egypt. Baseline clinical, laboratory, and histopathological data were collected. Serial blood samples were obtained over 8 h for mycophenolic acid (MPA) quantification by LC/MS. Genomic DNA was extracted for UGT2B7 (rs7438135) and SLCO1B1 (rs183624077) genotyping using TaqMan real-time PCR assays. Treatment response",
-        "結論": "MMF exposure, biopsy class, and induction regimen significantly influence therapeutic response in LN. Pharmacokinetic monitoring of MPA may help optimize MMF therapy, while common UGT2B7 and SLCO1B1 variants showed limited predictive value in this cohort."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Lupus nephritis",
-        "Mycophenolate mofetil",
-        "Pharmacogenetics",
-        "Pharmacokinetics",
-        "SLCO1B1",
-        "Treatment response",
-        "UGT2B7"
+        "Multicenter",
+        "Pulsed thulium YAG",
+        "Stone composition",
+        "Ureterorenoscopy",
+        "Volume"
       ],
       "MeSH詞彙": [
         "Humans",
+        "Retrospective Studies",
+        "Ureteroscopy",
         "Female",
-        "Lupus Nephritis",
-        "Mycophenolic Acid",
-        "Adult",
-        "Egypt",
-        "Glucuronosyltransferase",
-        "Immunosuppressive Agents",
-        "Liver-Specific Organic Anion Transporter 1",
-        "Pharmacogenetics"
+        "Male",
+        "Kidney Calculi",
+        "Lithotripsy, Laser",
+        "Middle Aged",
+        "Lasers, Solid-State",
+        "Ureteral Calculi"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42142189/",
-      "DOI": "10.1007/s11033-026-11881-0"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42177707/",
+      "DOI": "10.1007/s00345-026-06467-1"
     },
     {
-      "pmid": "42138077",
-      "標題": "Metastatic tropism of molecularly defined clear-cell renal cell carcinoma clusters.",
-      "期刊": "The Journal of clinical investigation",
-      "發表日期": "2026 May 15",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42176126",
+      "標題": "Palliative care involvement and use of critical care therapies in patients with advanced cancer: a multicenter retrospective cohort study.",
+      "期刊": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "發表日期": "2026 May 23",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "pancreatic metastases receiving sunitinib had higher odds of overall response (OR",
-        "I_介入": "",
-        "C_對照": "6",
+        "P_族群": "advanced cancer: a multicenter retrospective cohort study",
+        "I_介入": "palliative care",
+        "C_對照": "those who did not (54% vs",
         "O_結果": ""
       },
-      "中文摘要": "【研究背景】The relationship between molecular subgroups in clear-cell renal cell carcinoma (ccRCC) and metastatic tropism is poorly understood.\n\n【研究方法】We analyzed over 5,000 metastatic sites from 305 treatment-naive ccRCC patients in the IMmotion150 phase II clinical trial, where patients were randomized to atezolizumab, atezolizumab/bevacizumab, or sunitinib.\n\n【主要結果】Angiogenic tumors (clusters 1 and 2) had a higher rate of pancreatic (21% vs. 6.9%; P = 0.002) and lower absolute number of lymph node (2.5 vs. 4.2; P = 0.006) metastases. In contrast, proliferative tumors (clusters 4 and 5) exhibited a higher absolute number of lymph node metastases (5.5 vs. 3.\n\n【結論】ccRCC metastatic tropism relates to molecular clusters that predict response to therapy for tumors that metastasize to the pancreas.TRIAL REGISTRATIONClinicalTrials.gov NCT01984242FUNDINGNIH grants R01CA154475 and P50CA196516.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To evaluate the association between palliative care involvement and the use of critical care therapies among critically ill patients with advanced solid tumors and in-hospital mortality.\n\n【主要結果】Overall, 23% of patients (95% CI, 19-29) received palliative care, including 18% (95% CI, 13-22) prior to ICU admission. Use of critical care therapies was lower among patients receiving palliative care compared with those who did not (54% vs. 72%; p < 0.01).\n\n【結論】In this multicenter cohort of critically ill patients with advanced solid tumors, palliative care involvement was independently associated with reduced use of critical care therapies (including invasive mechanical ventilation, dialysis, parenteral nutrition, or tracheostomy) and shorter hospital len...",
       "結構化摘要": {
-        "背景": "The relationship between molecular subgroups in clear-cell renal cell carcinoma (ccRCC) and metastatic tropism is poorly understood.",
-        "方法": "We analyzed over 5,000 metastatic sites from 305 treatment-naive ccRCC patients in the IMmotion150 phase II clinical trial, where patients were randomized to atezolizumab, atezolizumab/bevacizumab, or sunitinib.",
-        "結果": "Angiogenic tumors (clusters 1 and 2) had a higher rate of pancreatic (21% vs. 6.9%; P = 0.002) and lower absolute number of lymph node (2.5 vs. 4.2; P = 0.006) metastases. In contrast, proliferative tumors (clusters 4 and 5) exhibited a higher absolute number of lymph node metastases (5.5 vs. 3.5; P = 0.019). Patients with pancreatic metastases receiving sunitinib had higher odds of overall response (OR, 7.13; 95% CI, 1.81-28.07; P = 0.0049) and longer progression-free survival than those withou",
-        "結論": "ccRCC metastatic tropism relates to molecular clusters that predict response to therapy for tumors that metastasize to the pancreas.TRIAL REGISTRATIONClinicalTrials.gov NCT01984242FUNDINGNIH grants R01CA154475 and P50CA196516."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Cancer",
-        "Clinical Research",
-        "Diagnostic imaging",
-        "Molecular genetics",
-        "Oncology",
-        "Public Health"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Carcinoma, Renal Cell",
-        "Kidney Neoplasms",
-        "Male",
-        "Female",
-        "Middle Aged",
-        "Aged",
-        "Lymphatic Metastasis",
-        "Antibodies, Monoclonal, Humanized",
-        "Pancreatic Neoplasms"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42138077/",
-      "DOI": "10.1172/JCI195288"
-    },
-    {
-      "pmid": "42007903",
-      "標題": "Phase II Trial of Ixazomib Combined with Gemcitabine and Doxorubicin in Patients with SMARCB1-Deficient Renal Medullary Carcinoma.",
-      "期刊": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "發表日期": "2026 May 15",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "SMARCB1-Deficient Renal Medullary Carcinoma",
-        "I_介入": "every 2 weeks for up to 13 cycles",
-        "C_對照": "historic gemcitabine plus doxorubicin",
-        "O_結果": "s were objective response rate (ORR) and 28-week disease-control rate (DCR) versus historic gemcitabine plus doxorubicin"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討SMARCB1-deficient renal medullary carcinoma (RMC) is an aggressive kidney cancer lacking mechanism-directed therapies. We conducted a single-center, single-arm, phase II study (NCT03587662) testing the proteasome inhibitor ixazomib combined with gemcitabine and doxorubicin. PATIENTS AND\n\n【研究方法】Ixazomib 5.5 mg, gemcitabine 756 mg/m2, and doxorubicin 42 mg/m2 were given every 2 weeks for up to 13 cycles, followed by ixazomib plus gemcitabine maintenance.\n\n【主要結果】Thirty patients (median age 34.5 years old, 90% Black) were treated. The posterior ORR was 36% [95% credible interval (CrI), 21%-54%] with a 91.4% probability of exceeding historic doublet therapy. However, the 28-week DCR was 17% (95% CrI, 6%-31%), crossing the predefined futility boundary.\n\n【結論】Addition of ixazomib to gemcitabine plus doxorubicin modestly increased radiographic response but did not extend disease control in an all-comer biomarker-unstratified RMC cohort. The integrated correlatives nominate mechanisms and biomarkers to guide future mechanism-directed trials in RMC.",
-      "結構化摘要": {
-        "目的": "response rate (ORR) and 28-week disease-control rate (DCR) versus historic gemcitabine plus doxorubicin. Secondary endpoints included progression-free survival (PFS), overall survival (OS), and safety.",
-        "方法": "Ixazomib 5.5 mg, gemcitabine 756 mg/m2, and doxorubicin 42 mg/m2 were given every 2 weeks for up to 13 cycles, followed by ixazomib plus gemcitabine maintenance. Coprimary endpoints were objective response rate (ORR) and 28-week disease-control rate (DCR) versus historic gemcitabine plus doxorubicin. Secondary endpoints included progression-free survival (PFS), overall survival (OS), and safety.",
-        "結果": "Thirty patients (median age 34.5 years old, 90% Black) were treated. The posterior ORR was 36% [95% credible interval (CrI), 21%-54%] with a 91.4% probability of exceeding historic doublet therapy. However, the 28-week DCR was 17% (95% CrI, 6%-31%), crossing the predefined futility boundary. Median PFS and OS were 3.5 and 7.4 months, respectively. Grade ≥3 toxicities were predominantly hematologic (thrombocytopenia 20%, leukopenia 17%) and manageable, with no treatment-related deaths. Single-cel",
-        "結論": "Addition of ixazomib to gemcitabine plus doxorubicin modestly increased radiographic response but did not extend disease control in an all-comer biomarker-unstratified RMC cohort. The integrated correlatives nominate mechanisms and biomarkers to guide future mechanism-directed trials in RMC."
+        "背景": "Cancer is a leading cause of mortality worldwide, and a substantial proportion of patients with advanced disease require ICU admission, where decisions regarding critical care therapies are complex. Despite recommendations for early palliative care integration, its implementation in ICU settings remains limited. AIM: To evaluate the association between palliative care involvement and the use of critical care therapies among critically ill patients with advanced solid tumors and in-hospital morta",
+        "結果": "Overall, 23% of patients (95% CI, 19-29) received palliative care, including 18% (95% CI, 13-22) prior to ICU admission. Use of critical care therapies was lower among patients receiving palliative care compared with those who did not (54% vs. 72%; p < 0.01). After inverse probability weighting, palliative care involvement remained independently associated with lower odds of receiving critical care therapies (adjusted OR, 0.46; 95% CI, 0.33-0.66; p < 0.01). Hospital length of stay was shorter in",
+        "結論": "In this multicenter cohort of critically ill patients with advanced solid tumors, palliative care involvement was independently associated with reduced use of critical care therapies (including invasive mechanical ventilation, dialysis, parenteral nutrition, or tracheostomy) and shorter hospital length of stay, supporting its role in facilitating goal-concordant care."
       },
       "相關趨勢": [
-        "診斷技術: biomarker"
+        "臨床結局: mortality",
+        "臨床結局: hospitalization"
       ],
-      "關鍵詞": [],
+      "關鍵詞": [
+        "Advanced cancer",
+        "Critical care therapies",
+        "Intensive care",
+        "Intrahospital mortality",
+        "Palliative care",
+        "Retrospective cohort"
+      ],
       "MeSH詞彙": [
         "Humans",
+        "Retrospective Studies",
         "Female",
+        "Palliative Care",
         "Male",
-        "Gemcitabine",
-        "Adult",
-        "Glycine",
-        "Antineoplastic Combined Chemotherapy Protocols",
-        "Deoxycytidine",
+        "Neoplasms",
         "Middle Aged",
-        "Kidney Neoplasms"
+        "Aged",
+        "Critical Care",
+        "Intensive Care Units"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42007903/",
-      "DOI": "10.1158/1078-0432.CCR-25-4518"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42176126/",
+      "DOI": "10.1007/s00520-026-10808-6"
     },
     {
-      "pmid": "42138079",
-      "標題": "Phase II trial of sodium phenylbutyrate and taurursodiol in Wolfram syndrome.",
-      "期刊": "The Journal of clinical investigation",
-      "發表日期": "2026 May 15",
+      "pmid": "42176044",
+      "標題": "Muscle-dominant ANCA-associated vasculitis: a single-center cohort study.",
+      "期刊": "Rheumatology international",
+      "發表日期": "2026 May 23",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "Wolfram syndrome",
+        "P_族群": "muscle-dominant AAV (100%)",
         "I_介入": "",
-        "C_對照": "",
-        "O_結果": ""
+        "C_對照": "the comparison group",
+        "O_結果": "higher rheumatoid factor (RF) levels"
       },
-      "中文摘要": "【摘要】PB&TURSO was associated with improved or stabilized pancreatic function, vision, and overall symptom burden in individuals with Wolfram syndrome, a rare and progressive degenerative disease.",
+      "中文摘要": "【主要結果】suggest a possible clinical pattern within AAV, which we tentatively refer to as the hypothesized IMARM pattern (ILD, MPO-ANCA, RF, myopathy).",
       "結構化摘要": {
-        "完整摘要": "PB&TURSO was associated with improved or stabilized pancreatic function, vision, and overall symptom burden in individuals with Wolfram syndrome, a rare and progressive degenerative disease."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Cell stress",
-        "Clinical trials",
-        "Endocrinology",
-        "Genetic diseases",
-        "Genetics"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Wolfram Syndrome",
-        "Female",
-        "Male",
-        "Adult",
-        "Phenylbutyrates",
-        "Middle Aged",
-        "Adolescent",
-        "Drug Combinations",
-        "Taurochenodeoxycholic Acid"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42138079/",
-      "DOI": "10.1172/JCI198519"
-    },
-    {
-      "pmid": "41946178",
-      "標題": "Cabozantinib in patients with non-locally pretreated brain metastases from renal cell carcinoma: Results of the multicenter phase II trial CABRAMET.",
-      "期刊": "European journal of cancer (Oxford, England : 1990)",
-      "發表日期": "2026 May 15",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "non-locally pretreated brain metastases from renal cell carcinoma: Results of the multicenter phase II trial CABRAMET",
-        "I_介入": "60mg/day oral cabozantinib with dose adjustments for toxicity",
-        "C_對照": "",
-        "O_結果": "the 6-month progression-free rate in brain metastases (6m-BM-PFR)"
-      },
-      "中文摘要": "【研究目的】本研究旨在探討ed to provide prospective data on systemic treatment outcomes. PATIENTS AND\n\n【研究方法】This multicenter open-label trial included RCC patients with BM with less than three prior systemic treatments excluding cabozantinib. Eligible patients received 60mg/day oral cabozantinib with dose adjustments for toxicity.\n\n【主要結果】The study enrolled 26 patients, with a median follow-up of 38.8 months (range 28.3-52.7 months). The 6m-BM-PFR was 56% (unilateral 95%CI 37.9-) by central review. BM partial responses were achieved in 16/26 patients (BM ORR of 61.5%) by investigator assessment.\n\n【結論】The CABRAMET trial is the first to prospectively assess cabozantinib in the challenging population of non-locally pretreated brain metastases from RCC, highlighting its prolonged efficacy and tolerability in selected patients with BM. CLINICAL TRIAL REGISTRATION: NCT03967522.",
-      "結構化摘要": {
-        "背景": "The phase II trial CABRAMET evaluates the efficacy of the VEGFR tyrosine kinase inhibitor (TKI) cabozantinib in patients with non-locally pretreated brain metastases (BM) from renal cell carcinoma (RCC). Faced with historical challenges in treating BM in RCC, this study aimed to provide prospective data on systemic treatment outcomes. PATIENTS AND",
-        "目的": "response rate (ORR) and response duration in BM, extra-cranial ORR, BM and overall progression-free survival (PFS), overall survival (OS), and safety.",
-        "方法": "This multicenter open-label trial included RCC patients with BM with less than three prior systemic treatments excluding cabozantinib. Eligible patients received 60mg/day oral cabozantinib with dose adjustments for toxicity. The primary endpoint was the 6-month progression-free rate in brain metastases (6m-BM-PFR). The main secondary endpoints included BM objective response rate (ORR) and response duration in BM, extra-cranial ORR, BM and overall progression-free survival (PFS), overall survival",
-        "結果": "The study enrolled 26 patients, with a median follow-up of 38.8 months (range 28.3-52.7 months). The 6m-BM-PFR was 56% (unilateral 95%CI 37.9-) by central review. BM partial responses were achieved in 16/26 patients (BM ORR of 61.5%) by investigator assessment. The median BM response duration was not reached and 58.3% (95%CI 29.3-78.9%) of the patients were event-free at 24 months. The median BM-PFS was 10.7 (95%CI 5.4-NR) months, and the median overall PFS was 8.1 (95%CI 4-11.9) months. The med",
-        "結論": "The CABRAMET trial is the first to prospectively assess cabozantinib in the challenging population of non-locally pretreated brain metastases from RCC, highlighting its prolonged efficacy and tolerability in selected patients with BM. CLINICAL TRIAL REGISTRATION: NCT03967522."
+        "完整摘要": "To investigate the clinical characteristics of muscle-dominant ANCA-associated vasculitis (muscle-dominant AAV) in a consecutive single-center cohort. We retrospectively analyzed consecutive patients newly diagnosed with microscopic polyangiitis (MPA) and granulomatosis with polyangiitis (GPA) at a single center. Cases with muscle-dominant AAV were defined as those with muscle involvement due to AAV in the absence of other organ manifestations, including glomerulonephritis, cutaneous vasculitis, vasculitic neuropathy, or alveolar hemorrhage. We compared the muscle-dominant AAV group with all remaining AAV patients, who served as the comparison group. Among 72 consecutive patients newly diagnosed with MPA or GPA, 8 (11%) were classified as having muscle-dominant AAV. All patients with muscle-dominant AAV (100%) were MPO-ANCA-positive. In all patients with muscle-dominant AAV, serum creatine kinase levels remained within the normal range despite MRI-confirmed muscle inflammation. Compare"
       },
       "相關趨勢": [
-        "治療方法: immunotherapy"
+        "研究主題: inflammation"
       ],
       "關鍵詞": [
-        "Brain metastases",
-        "Cabozantinib",
-        "Renal cell carcinoma",
-        "Systemic treatment"
+        "ANCA-associated vasculitis",
+        "Interstitial lung disease",
+        "MPO-ANCA",
+        "Muscle-dominant AAV",
+        "Myopathy",
+        "Rheumatoid factor"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Anilides",
-        "Carcinoma, Renal Cell",
         "Male",
-        "Pyridines",
         "Female",
         "Middle Aged",
-        "Kidney Neoplasms",
+        "Retrospective Studies",
         "Aged",
-        "Brain Neoplasms"
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Microscopic Polyangiitis",
+        "Rheumatoid Factor",
+        "Adult"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41946178/",
-      "DOI": "10.1016/j.ejca.2026.116712"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42176044/",
+      "DOI": "10.1007/s00296-026-06151-y"
     },
     {
-      "pmid": "42127391",
-      "標題": "Telitacicept for IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
-      "期刊": "The New England journal of medicine",
-      "發表日期": "2026 May 14",
+      "pmid": "42174255",
+      "標題": "Acute effect of photobiomodulation therapy in quadriceps strength, fatigue and pain of patients with chronic kidney failure: a randomized, double-blind, placebo controlled crossover clinical trial.",
+      "期刊": "Lasers in medical science",
+      "發表日期": "2026 May 23",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "biopsy-proven IgA nephropathy and persistent proteinuria (protein level",
-        "I_介入": "receive telitacicept",
-        "C_對照": "78",
-        "O_結果": "the 24-hour urinary protein-to-creatinine ratio was -58"
+        "P_族群": "chronic kidney failure: a randomized",
+        "I_介入": "four PBMT applications with different energy doses (30J",
+        "C_對照": "placebo",
+        "O_結果": "by dynamometry"
       },
-      "中文摘要": "【研究背景】The pathogenesis of IgA nephropathy is mediated by B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL). Telitacicept is a fusion protein that targets and neutralizes both BAFF and APRIL and, as such, might be effective in IgA nephropathy.\n\n【研究方法】We now report a prespecified interim analysis of a phase 3, multicenter, double-blind, randomized, placebo-controlled trial, which enrolled adults with biopsy-proven IgA nephropathy and persistent proteinuria (protein level, ≥1.0 g per day), despite appropriate supportive care.\n\n【主要結果】A total of 318 patients were assigned to receive telitacicept or placebo (159 in each group). At week 39, the percentage change in the 24-hour urinary protein-to-creatinine ratio was -58.9% with telitacicept and -8.\n\n【結論】In patients with IgA nephropathy at high risk for progression, 39 weeks of treatment with telitacicept led to a greater reduction in the 24-hour urinary protein-to-creatinine ratio than placebo. (Funded by RemeGen; TELIGAN ClinicalTrials.gov number, NCT05799287.).",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to evaluate the acute effects of different doses of PBMT on quadriceps strength, fatigue and muscle pain in CKF patients. This study is a randomized, placebo-controlled, double-blind, crossover clinical trial.",
       "結構化摘要": {
-        "背景": "The pathogenesis of IgA nephropathy is mediated by B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL). Telitacicept is a fusion protein that targets and neutralizes both BAFF and APRIL and, as such, might be effective in IgA nephropathy.",
-        "方法": "We now report a prespecified interim analysis of a phase 3, multicenter, double-blind, randomized, placebo-controlled trial, which enrolled adults with biopsy-proven IgA nephropathy and persistent proteinuria (protein level, ≥1.0 g per day), despite appropriate supportive care. Patients were randomly assigned in a 1:1 ratio to receive subcutaneous once-weekly telitacicept (240 mg) or matching placebo. The primary end point was the geometric mean ratio of the 24-hour urinary protein-to-creatinine",
-        "結果": "A total of 318 patients were assigned to receive telitacicept or placebo (159 in each group). At week 39, the percentage change in the 24-hour urinary protein-to-creatinine ratio was -58.9% with telitacicept and -8.8% with placebo, which corresponded to a relative difference (based on the ratio of geometric mean reductions between the two groups) of -55.0% (95% confidence interval [CI], -61.3 to -47.6; P<0.001) in favor of active medication. The percentage change in the estimated glomerular filt",
-        "結論": "In patients with IgA nephropathy at high risk for progression, 39 weeks of treatment with telitacicept led to a greater reduction in the 24-hour urinary protein-to-creatinine ratio than placebo. (Funded by RemeGen; TELIGAN ClinicalTrials.gov number, NCT05799287.)."
+        "完整摘要": "Patients with chronic kidney failure (CKF) present changes in physical capacity and low exercise tolerance. Photobiomodulation therapy (PBMT) has shown an ergogenic effect on exercise in studies with different populations and may be an adjuvant treatment in rehabilitation programs for CKF patients. This study aimed to evaluate the acute effects of different doses of PBMT on quadriceps strength, fatigue and muscle pain in CKF patients. This study is a randomized, placebo-controlled, double-blind, crossover clinical trial. Adult patients with CKF received four PBMT applications with different energy doses (30J, 60J, 90J, or placebo), administered in a random order. A one-week interval was maintained between each dose, and an 830nm laser was applied to six points of the quadriceps muscle. Immediately after PBMT, maximal isometric quadriceps muscle strength was assessed by dynamometry. Before the intervention and after the assessment of muscle strength, muscle fatigue (Borg rating of perce"
       },
-      "相關趨勢": [
-        "臨床結局: proteinuria"
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Kidney failure, chronic",
+        "Low-level light therapy",
+        "Phototherapy",
+        "Randomized controlled trial",
+        "Renal dialysis"
       ],
-      "關鍵詞": [],
       "MeSH詞彙": [
-        "Adult",
-        "Female",
         "Humans",
-        "Male",
-        "Middle Aged",
-        "B-Cell Activating Factor",
-        "Creatinine",
-        "Disease Progression",
+        "Low-Level Light Therapy",
         "Double-Blind Method",
-        "Glomerular Filtration Rate"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42127391/",
-      "DOI": "10.1056/NEJMoa2514415"
-    },
-    {
-      "pmid": "42120900",
-      "標題": "Exploring the psychological and physiological effects of a virtual reality-based bicycle exercise in hemodialysis patients: a randomized controlled trial.",
-      "期刊": "Scientific reports",
-      "發表日期": "2026 May 12",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "患有 Renal Dialysis 的病人",
-        "I_介入": "represents a promising non-pharmacological strategy to complement standard care in MHD patients",
-        "C_對照": "(routine nursing care, n = 35)",
-        "O_結果": "by Self-rating Depression Scale (SDS)"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to evaluate the efficacy of a virtual reality (VR)-based bicycle exercise in psychological distress (depression and anxiety) and selected biochemical parameters among patients receiving maintenance hemodialysis (MHD).",
-      "結構化摘要": {
-        "完整摘要": "This study aimed to evaluate the efficacy of a virtual reality (VR)-based bicycle exercise in psychological distress (depression and anxiety) and selected biochemical parameters among patients receiving maintenance hemodialysis (MHD). A total of 70 patients from the dialysis station at Changzhou Medical District of the No. 904th Hospital were randomly allocated into study group(VR-based bicycle exercise, n = 35) and control group(routine nursing care, n = 35). The depression and anxiety levels were assessed by Self-rating Depression Scale (SDS), and Self-rating Anxiety Scale (SAS) respectively. Physiological indicators, including serum creatinine (Scr) and blood urea nitrogen (BUN) levels, were also analyzed. Following the intervention, the study group exhibited significant reductions in SDS and SAS scores (both P < 0.05). The levels of Scr and BUN in peripheral blood were also observed to be significantly decreased in study group (P < 0.05). Correlation analysis revealed a significant"
-      },
-      "相關趨勢": [
-        "診斷技術: biomarker"
-      ],
-      "關鍵詞": [
-        "Anxiety",
-        "Biomarkers",
-        "Depression",
-        "Hemodialysis nursing",
-        "VR-based bicycle exercise"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Renal Dialysis",
         "Male",
+        "Quadriceps Muscle",
+        "Cross-Over Studies",
         "Female",
         "Middle Aged",
-        "Virtual Reality",
-        "Exercise Therapy",
-        "Anxiety",
-        "Adult",
-        "Depression"
+        "Muscle Strength",
+        "Muscle Fatigue"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42120900/",
-      "DOI": "10.1038/s41598-026-42972-4"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42174255/",
+      "DOI": "10.1007/s10103-026-04886-5"
     },
     {
-      "pmid": "42023825",
-      "標題": "The dietary index for gut microbiota, genetically predicted gut microbiome, and the risk of chronic kidney disease: a cohort study.",
-      "期刊": "Food & function",
-      "發表日期": "2026 May 12",
+      "pmid": "42176877",
+      "標題": "Clinical and Social Risk Factors for 30-Day Readmissions in Children With Kidney Disease.",
+      "期刊": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "發表日期": "2026 May 22",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "high gut microbial abundance",
+        "P_族群": "Kidney Disease",
         "I_介入": "",
-        "C_對照": "the lowest group for the DI-GM (0-3 points)",
-        "O_結果": "through a 24 h dietary recall questionnaire"
+        "C_對照": "",
+        "O_結果": "30-day all-cause readmission rates among U"
       },
-      "中文摘要": "【研究背景】the dietary index for gut microbiota (DI-GM) is a recently proposed index that reflects the diversity of the gut microbiota from the perspective of dietary intake. However, its association with chronic kidney disease (CKD) has not been widely studied.\n\n【研究方法】this prospective cohort study included 166 865 participants free of CKD at baseline. The DI-GM was assessed through a 24 h dietary recall questionnaire. Incident CKD was ascertained using hospital inpatient records, death registry data, and primary care data.\n\n【主要結果】during a median follow-up of 9.44 years, 3977 participants developed CKD. In the fully adjusted model, compared with the lowest group for the DI-GM (0-3 points), participants in higher DI-GM groups (4, 5, and ≥6 points) had a significantly lower risk of CKD.\n\n【結論】adherence to the DI-GM was strongly linked to a reduced risk of incident CKD, particularly in individuals with high gut microbial abundance.",
+      "中文摘要": "【研究目的】本世代研究旨在探討Hospital readmissions represent a significant burden for children with chronic kidney disease (CKD), however, the epidemiology and drivers of readmission remain poorly understood. We evaluated 30-day all-cause readmission rates among U.S.\n\n【主要結果】Among 48,228 pediatric patients with CKD (median age 5.8 years, IQR 1.0-12.5; 46.7% female; 50.2% non-Hispanic White), 6,172 (12.8%) were readmitted within 30 days. Among children with kidney failure, 22.3% experienced readmission.\n\n【結論】Approximately 1 in 8 children with CKD and 1 in 5 with kidney failure were readmitted within 30 days. Readmission risk was driven primarily by clinical complexity, illness severity, and mental health comorbidity.",
       "結構化摘要": {
-        "背景": "the dietary index for gut microbiota (DI-GM) is a recently proposed index that reflects the diversity of the gut microbiota from the perspective of dietary intake. However, its association with chronic kidney disease (CKD) has not been widely studied.",
-        "方法": "this prospective cohort study included 166 865 participants free of CKD at baseline. The DI-GM was assessed through a 24 h dietary recall questionnaire. Incident CKD was ascertained using hospital inpatient records, death registry data, and primary care data. A genetic risk score for gut microbial abundance was constructed based on 19 variants. The Cox proportional hazards model was used to estimate the hazard ratio (HR) and 95% confidence interval (CI) for CKD incidence.",
-        "結果": "during a median follow-up of 9.44 years, 3977 participants developed CKD. In the fully adjusted model, compared with the lowest group for the DI-GM (0-3 points), participants in higher DI-GM groups (4, 5, and ≥6 points) had a significantly lower risk of CKD. The adjusted HRs (95% CIs) for these groups were 0.81 (0.74, 0.88), 0.79 (0.72, 0.86), and 0.73 (0.67, 0.80), respectively (P for trend <0.0001). Significant multiplicative interactions were observed between genetically predicted gut microbi",
-        "結論": "adherence to the DI-GM was strongly linked to a reduced risk of incident CKD, particularly in individuals with high gut microbial abundance."
+        "目的": "Hospital readmissions represent a significant burden for children with chronic kidney disease (CKD), however, the epidemiology and drivers of readmission remain poorly understood. We evaluated 30-day all-cause readmission rates among U.S. pediatric patients with kidney disease and examined associations with clinical and social factors. STUDY DESIGN: Retrospective cohort study. SETTING & PARTICIPANTS: Children ≤18 years old with a diagnosis of CKD discharged from 49 tertiary care centers particip",
+        "結果": "Among 48,228 pediatric patients with CKD (median age 5.8 years, IQR 1.0-12.5; 46.7% female; 50.2% non-Hispanic White), 6,172 (12.8%) were readmitted within 30 days. Among children with kidney failure, 22.3% experienced readmission. In adjusted analyses, higher readmission risk was associated with glomerular CKD etiology (OR 1.34 [95% CI, 1.23-1.46]), complex chronic disease (OR 6.13 [95% CI, 4.53-8.29]), increasing illness severity by APR-DRG (OR 2.10 [95% CI, 1.84-2.40]), longer length of stay ",
+        "結論": "Approximately 1 in 8 children with CKD and 1 in 5 with kidney failure were readmitted within 30 days. Readmission risk was driven primarily by clinical complexity, illness severity, and mental health comorbidity. These findings inform integrated transitional care strategies and targeted interventions addressing medical and behavioral health needs to reduce preventable hospital utilization in pediatric CKD."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Chronic Kidney Disease",
+        "Health Disparities",
+        "Pediatric Kidney Disease",
+        "Readmission"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42176877/",
+      "DOI": "10.1053/j.ajkd.2026.03.043"
+    },
+    {
+      "pmid": "42174354",
+      "標題": "Osteoporosis risk in alpha and beta thalassemia: An age- and sex-specific retrospective cohort study.",
+      "期刊": "Archives of osteoporosis",
+      "發表日期": "2026 May 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "alpha- and beta-thalassemia (identified by ICD-10 codes)",
+        "I_介入": "",
+        "C_對照": "matched controls",
+        "O_結果": "the risk of osteoporosis"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討The differences in osteoporosis and fracture risk between alpha- and beta-thalassemia subtypes, and how these differences vary by age and sex, remain poorly understood. We conducted a large-scale analysis to characterize these risks and guide risk-stratified protocols.\n\n【研究方法】This retrospective cohort study used the TriNetX health research network. Patients with alpha- and beta-thalassemia (identified by ICD-10 codes) were matched 1:1 with non-anemic controls by age, sex, race, and comorbidities (chronic kidney disease, diabetes mellitus, rheumatoid arthritis, malnutriti...\n\n【主要結果】Beta-thalassemia patients have a significantly greater risk of osteoporosis (HR = 1.26, 95% CI: 1.11-1.43) than alpha-thalassemia patients. Within the beta-thalassemia group, males demonstrated a risk of osteoporosis that was more than three times higher than that of controls (HR = 3.28, 95% CI: 2.\n\n【結論】Beta-thalassemia is associated with worse skeletal outcomes than alpha-thalassemia. Young male patients demonstrate substantially elevated risk of osteoporosis and mortality. These findings highlight the need for age- and sex-specific risk assessment in thalassemia patients.",
+      "結構化摘要": {
+        "方法": "This retrospective cohort study used the TriNetX health research network. Patients with alpha- and beta-thalassemia (identified by ICD-10 codes) were matched 1:1 with non-anemic controls by age, sex, race, and comorbidities (chronic kidney disease, diabetes mellitus, rheumatoid arthritis, malnutrition, and endocrine dysfunction) using propensity scores. We assessed the risk of osteoporosis, fractures, and mortality from Kaplan-Meier analyses.",
+        "結果": "Beta-thalassemia patients have a significantly greater risk of osteoporosis (HR = 1.26, 95% CI: 1.11-1.43) than alpha-thalassemia patients. Within the beta-thalassemia group, males demonstrated a risk of osteoporosis that was more than three times higher than that of controls (HR = 3.28, 95% CI: 2.51-4.28), which was notably higher than that observed in females (HR = 1.42, 95% CI: 1.26-1.60). Young males (aged 18-50) demonstrated a markedly elevated risk of osteoporosis (HR = 13.97, 95% CI: 7.30",
+        "結論": "Beta-thalassemia is associated with worse skeletal outcomes than alpha-thalassemia. Young male patients demonstrate substantially elevated risk of osteoporosis and mortality. These findings highlight the need for age- and sex-specific risk assessment in thalassemia patients."
       },
       "相關趨勢": [
-        "研究主題: gut microbiome"
+        "臨床結局: mortality"
       ],
-      "關鍵詞": [],
+      "關鍵詞": [
+        "Beta thalassemia",
+        "Osteoporosis",
+        "Real-world data",
+        "Thalassemia",
+        "Thalassemia-associated osteoporosis"
+      ],
       "MeSH詞彙": [
         "Humans",
-        "Gastrointestinal Microbiome",
-        "Renal Insufficiency, Chronic",
         "Male",
+        "beta-Thalassemia",
+        "Retrospective Studies",
         "Female",
-        "Middle Aged",
-        "Prospective Studies",
-        "Aged",
-        "Diet",
-        "Risk Factors"
+        "Osteoporosis",
+        "Adult",
+        "Adolescent",
+        "Young Adult",
+        "Middle Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42023825/",
-      "DOI": "10.1039/d6fo00453a"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42174354/",
+      "DOI": "10.1007/s11657-026-01711-y"
+    },
+    {
+      "pmid": "42175514",
+      "標題": "ADHERE CART versus GWTG-HF for 30-day mortality and intensive care outcomes in emergency department patients with heart failure: A retrospective cohort study (MIMIC-IV-ED).",
+      "期刊": "Medicine",
+      "發表日期": "2026 May 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "heart failure: A retrospective cohort study (MIMIC-IV-ED)",
+        "I_介入": "",
+        "C_對照": "GWTG-HF for 30-day mortality and intensive care outcomes in emergency department patients with heart failure: A retrospective cohort study (MIMIC-IV-ED)",
+        "O_結果": "30-day all-cause mortality; secondary outcomes were intensive care unit (ICU) admission within 24 hours after ED disposition, any ICU admission, acute kidney injury (AKI; Kidney Disease Improving Glob"
+      },
+      "中文摘要": "【摘要】Early risk stratification may support emergency department (ED) decision-making for patients hospitalized with heart failure (HF), yet commonly used tools may perform differently across clinically relevant outcomes. We conducted a retrospective observational cohort study using MIMIC-IV (v3.",
+      "結構化摘要": {
+        "完整摘要": "Early risk stratification may support emergency department (ED) decision-making for patients hospitalized with heart failure (HF), yet commonly used tools may perform differently across clinically relevant outcomes. We conducted a retrospective observational cohort study using MIMIC-IV (v3.1) linked to MIMIC-IV-ED (2011-2019). Adult ED encounters with HF International Classification of Diseases-9/10 codes from the ED diagnosis table that were linkable to an inpatient admission were included. The primary analytic cohort was restricted to complete-case encounters with sufficient data to compute both Acute Decompensated Heart Failure National Registry (ADHERE) CART and Get With The Guidelines-Heart Failure (GWTG-HF). The primary outcome was 30-day all-cause mortality; secondary outcomes were intensive care unit (ICU) admission within 24 hours after ED disposition, any ICU admission, acute kidney injury (AKI; Kidney Disease Improving Global Outcomes creatinine criteria), and hospital/ICU l"
+      },
+      "相關趨勢": [
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "ADHERE CART",
+        "GWTG-HF",
+        "emergency department",
+        "heart failure",
+        "risk stratification"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Retrospective Studies",
+        "Heart Failure",
+        "Male",
+        "Female",
+        "Emergency Service, Hospital",
+        "Aged",
+        "Middle Aged",
+        "Risk Assessment",
+        "Intensive Care Units"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42175514/",
+      "DOI": "10.1097/MD.0000000000049037"
+    },
+    {
+      "pmid": "42168923",
+      "標題": "Incidence and recognition of acute kidney injury in a semirural pediatric ward in Cameroon: a single-center prospective study.",
+      "期刊": "BMC nephrology",
+      "發表日期": "2026 May 21",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "",
+        "I_介入": "questionnaire",
+        "C_對照": "",
+        "O_結果": "the incidence and recognition of AKI in a semirural pediatric ward in Cameroon"
+      },
+      "中文摘要": "【研究背景】Early detection of acute kidney injury (AKI) remains a significant hurdle. This study evaluated the incidence and recognition of AKI in a semirural pediatric ward in Cameroon.\n\n【研究方法】We conducted a prospective observational study over a four-months period at the Kribi Regional Annex Hospital. Children aged 2 to 15 years who were admitted within less than 24 h before recruitment were included. All patients were followed up for at least 48 h.\n\n【主要結果】Out of 300 admissions, 150 children were included (median age 7 years [IQR 3-10]). The overall incidence of AKI was 14.7% (n = 22). Among children at risk (69%, n = 104), the incidence reached 21.1%. AKI was exclusively community-acquired.\n\n【結論】AKI is frequent in a semirural setting in Cameroon but seems to remain largely invisible to clinicians. Implementation of the ISN 5R strategy, clinician training on KDIGO criteria and improved laboratory access may increase AKI recognition.",
+      "結構化摘要": {
+        "背景": "Early detection of acute kidney injury (AKI) remains a significant hurdle. This study evaluated the incidence and recognition of AKI in a semirural pediatric ward in Cameroon.",
+        "方法": "We conducted a prospective observational study over a four-months period at the Kribi Regional Annex Hospital. Children aged 2 to 15 years who were admitted within less than 24 h before recruitment were included. All patients were followed up for at least 48 h. AKI was defined and staged according to the modified KDIGO (Kidney Disease: Improving Global Outcomes) 2012 criteria. The knowledge and attitudes of healthcare providers were assessed via a self-administered questionnaire.",
+        "結果": "Out of 300 admissions, 150 children were included (median age 7 years [IQR 3-10]). The overall incidence of AKI was 14.7% (n = 22). Among children at risk (69%, n = 104), the incidence reached 21.1%. AKI was exclusively community-acquired. It was prerenal in 91% (n = 20) and stage 1 in 59% (n = 13) of patients. The recognition rate was only 9% (2/22). Both recognized cases were stage 3 with overt clinical signs (malnutrition and edema). Healthcare provider's knowledge was rated as poor, insuffic",
+        "結論": "AKI is frequent in a semirural setting in Cameroon but seems to remain largely invisible to clinicians. Implementation of the ISN 5R strategy, clinician training on KDIGO criteria and improved laboratory access may increase AKI recognition."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Cameroon",
+        "Pediatric AKI",
+        "Recognition",
+        "Semirural setting"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42168923/",
+      "DOI": "10.1186/s12882-026-05052-3"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "biomarker",
+      "關鍵詞": "mortality",
+      "頻率": 8,
+      "想法": "目前 'mortality' 是研究熱點 (8 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cardiovascular",
+      "頻率": 6,
+      "想法": "目前 'cardiovascular' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 3,
+      "想法": "目前 'heart failure' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "machine learning",
       "頻率": 2,
-      "想法": "目前 'biomarker' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'machine learning' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 2,
+      "想法": "目前 'hospitalization' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -528,37 +572,44 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "mortality",
+      "關鍵詞": "cost-effectiveness",
       "頻率": 1,
-      "想法": "目前 'mortality' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'cost-effectiveness' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "immunotherapy",
+      "關鍵詞": "quality of life",
       "頻率": 1,
-      "想法": "目前 'immunotherapy' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "gut microbiome",
-      "頻率": 1,
-      "想法": "目前 'gut microbiome' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "cardiovascular",
-      "頻率": 1,
-      "想法": "目前 'cardiovascular' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'quality of life' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "biomarker",
+      "關鍵詞": "heart failure",
+      "頻率": 3,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "'inflammation' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "machine learning",
       "頻率": 2,
-      "想法": "'biomarker' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'machine learning' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "hospitalization",
+      "頻率": 2,
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -566,27 +617,6 @@
       "關鍵詞": "proteinuria",
       "頻率": 1,
       "想法": "'proteinuria' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "mortality",
-      "頻率": 1,
-      "想法": "'mortality' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "immunotherapy",
-      "頻率": 1,
-      "想法": "'immunotherapy' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "gut microbiome",
-      "頻率": 1,
-      "想法": "'gut microbiome' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -610,43 +640,44 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 1 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 2 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Efficacy and safety of cefepime-nacubactam and azt"
+        "Supervised machine learning models for predicting ",
+        "Burden of non-cancer comorbidities and mortality i"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 13,
-    "Female": 13,
-    "Male": 12,
-    "Middle Aged": 12,
-    "Aged": 9,
+    "Humans": 14,
+    "Female": 14,
+    "Male": 14,
+    "Middle Aged": 14,
+    "Aged": 13,
+    "Retrospective Studies": 11,
     "Adult": 9,
-    "Treatment Outcome": 6,
-    "Kidney Neoplasms": 4,
-    "Double-Blind Method": 3,
-    "Prospective Studies": 3,
-    "Drug Combinations": 2,
-    "Young Adult": 2,
-    "Carcinoma, Renal Cell": 2,
-    "Renal Dialysis": 2,
-    "Exercise Therapy": 2,
-    "Creatinine": 2,
-    "Exercise": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Risk Factors": 2,
-    "Cohort Studies": 2,
-    "Proportional Hazards Models": 2,
+    "Treatment Outcome": 4,
+    "Risk Factors": 4,
+    "Hospital Mortality": 3,
+    "Aged, 80 and over": 3,
+    "Acute Kidney Injury": 3,
+    "Risk Assessment": 3,
+    "Neoplasms": 2,
+    "Intensive Care Units": 2,
+    "Critical Illness": 2,
     "Kidney Failure, Chronic": 2,
+    "Biomarkers": 2,
+    "Ureteroscopy": 1,
     "Kidney Calculi": 1,
-    "Child": 1,
-    "Child, Preschool": 1,
-    "Nephrolithotomy, Percutaneous": 1,
-    "Lithotripsy": 1,
-    "Developing Countries": 1,
-    "Supine Position": 1,
-    "Lasers, Solid-State": 1
+    "Lithotripsy, Laser": 1,
+    "Lasers, Solid-State": 1,
+    "Ureteral Calculi": 1,
+    "Palliative Care": 1,
+    "Critical Care": 1,
+    "Argentina": 1,
+    "Cohort Studies": 1,
+    "Kidney Transplantation": 1,
+    "Renal Dialysis": 1,
+    "Sunitinib": 1
   }
 }

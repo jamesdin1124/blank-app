@@ -1,121 +1,140 @@
 {
-  "總文章數": 13,
-  "高影響力期刊文章數": 1,
-  "分析日期": "2026-05-18T11:45:47.643847",
+  "總文章數": 19,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-05-25T11:54:00.075136",
   "趨勢關鍵詞統計": {
+    "研究主題": {
+      "cardiovascular": 6,
+      "heart failure": 3,
+      "inflammation": 1
+    },
     "診斷技術": {
-      "biomarker": 2
+      "machine learning": 2
     },
     "臨床結局": {
+      "mortality": 8,
+      "hospitalization": 2,
       "proteinuria": 1,
-      "mortality": 1
-    },
-    "治療方法": {
-      "immunotherapy": 1
-    },
-    "研究主題": {
-      "gut microbiome": 1,
-      "cardiovascular": 1
+      "cost-effectiveness": 1,
+      "quality of life": 1
     }
   },
   "熱門主題": [
     [
-      "biomarker",
+      "mortality",
+      8
+    ],
+    [
+      "cardiovascular",
+      6
+    ],
+    [
+      "heart failure",
+      3
+    ],
+    [
+      "machine learning",
       2
+    ],
+    [
+      "hospitalization",
+      2
+    ],
+    [
+      "inflammation",
+      1
     ],
     [
       "proteinuria",
       1
     ],
     [
-      "mortality",
+      "cost-effectiveness",
       1
     ],
     [
-      "immunotherapy",
-      1
-    ],
-    [
-      "gut microbiome",
-      1
-    ],
-    [
-      "cardiovascular",
+      "quality of life",
       1
     ]
   ],
   "期刊分布": {
-    "The Journal of clinical investigation": 2,
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+    "Ophthalmic epidemiology": 1,
+    "BMC nephrology": 1,
+    "World journal of pediatrics : WJP": 1,
+    "BJOG : an international journal of obstetrics and gynaecology": 1,
     "World journal of urology": 1,
-    "Lancet (London, England)": 1,
-    "Molecular biology reports": 1,
-    "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-    "Scientific reports": 1,
-    "The New England journal of medicine": 1,
-    "European journal of cancer (Oxford, England : 1990)": 1,
-    "Food & function": 1,
+    "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer": 1,
+    "Chinese medical journal": 1,
+    "Cell reports. Medicine": 1,
+    "Rheumatology international": 1,
     "Renal failure": 1,
-    "Journal of robotic surgery": 1,
+    "BMJ open gastroenterology": 1,
+    "Anesthesia and analgesia": 1,
+    "JMIR cardio": 1,
     "PloS one": 1
   },
   "文章類型分布": {
-    "Journal Article": 12,
-    "Randomized Controlled Trial": 6,
-    "Multicenter Study": 5,
-    "Clinical Trial, Phase II": 4,
-    "Comparative Study": 3,
-    "Clinical Trial, Phase III": 2,
-    "Research Support, Non-U.S. Gov't": 1
+    "Journal Article": 19,
+    "Multicenter Study": 4,
+    "Observational Study": 2,
+    "Randomized Controlled Trial": 2,
+    "Clinical Trial, Phase II": 1,
+    "Validation Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 13,
-    "Female": 13,
-    "Male": 12,
-    "Middle Aged": 12,
-    "Aged": 9,
+    "Humans": 14,
+    "Female": 14,
+    "Male": 14,
+    "Middle Aged": 14,
+    "Aged": 13,
+    "Retrospective Studies": 11,
     "Adult": 9,
-    "Treatment Outcome": 6,
-    "Kidney Neoplasms": 4,
-    "Double-Blind Method": 3,
-    "Prospective Studies": 3,
-    "Drug Combinations": 2,
-    "Young Adult": 2,
-    "Carcinoma, Renal Cell": 2,
-    "Renal Dialysis": 2,
-    "Exercise Therapy": 2,
-    "Creatinine": 2,
-    "Exercise": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Risk Factors": 2,
-    "Cohort Studies": 2,
-    "Proportional Hazards Models": 2,
+    "Treatment Outcome": 4,
+    "Risk Factors": 4,
+    "Hospital Mortality": 3,
+    "Aged, 80 and over": 3,
+    "Acute Kidney Injury": 3,
+    "Risk Assessment": 3,
+    "Neoplasms": 2,
+    "Intensive Care Units": 2,
+    "Critical Illness": 2,
     "Kidney Failure, Chronic": 2,
+    "Biomarkers": 2,
+    "Ureteroscopy": 1,
     "Kidney Calculi": 1,
-    "Child": 1,
-    "Child, Preschool": 1,
-    "Nephrolithotomy, Percutaneous": 1,
-    "Lithotripsy": 1,
-    "Developing Countries": 1,
-    "Supine Position": 1,
-    "Lasers, Solid-State": 1
+    "Lithotripsy, Laser": 1,
+    "Lasers, Solid-State": 1,
+    "Ureteral Calculi": 1,
+    "Palliative Care": 1,
+    "Critical Care": 1,
+    "Argentina": 1,
+    "Cohort Studies": 1,
+    "Kidney Transplantation": 1,
+    "Renal Dialysis": 1,
+    "Sunitinib": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 1,
-      "高影響力期刊文章數": 0,
+      "文章數": 5,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "World journal of urology": 1
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+        "Ophthalmic epidemiology": 1,
+        "BMC nephrology": 1,
+        "World journal of pediatrics : WJP": 1,
+        "BJOG : an international journal of obstetrics and gynaecology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 12,
+      "文章數": 14,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "The Journal of clinical investigation": 2,
-        "Lancet (London, England)": 1,
-        "Molecular biology reports": 1,
-        "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-        "Scientific reports": 1
+        "World journal of urology": 1,
+        "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer": 1,
+        "Chinese medical journal": 1,
+        "Cell reports. Medicine": 1,
+        "Rheumatology international": 1
       }
     }
   }
