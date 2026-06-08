@@ -1,25 +1,26 @@
 {
   "總文章數": 61,
-  "高影響力期刊文章數": 4,
-  "分析日期": "2026-06-01T13:37:59.772760",
+  "高影響力期刊文章數": 5,
+  "分析日期": "2026-06-08T12:35:05.491470",
   "趨勢關鍵詞統計": {
     "研究主題": {
       "cardiovascular": 19,
-      "heart failure": 3,
-      "fibrosis": 1
+      "heart failure": 4,
+      "fibrosis": 2
     },
     "臨床結局": {
       "mortality": 22,
-      "hospitalization": 4,
       "proteinuria": 4,
-      "eGFR decline": 3,
+      "hospitalization": 3,
+      "ESKD": 3,
+      "cost-effectiveness": 2,
+      "eGFR decline": 2,
       "quality of life": 2,
-      "ESKD": 2,
       "patient-reported outcomes": 1
     },
     "診斷技術": {
-      "biomarker": 5,
-      "machine learning": 2
+      "biomarker": 4,
+      "machine learning": 1
     },
     "治療方法": {
       "GLP-1": 1,
@@ -36,11 +37,7 @@
       19
     ],
     [
-      "biomarker",
-      5
-    ],
-    [
-      "hospitalization",
+      "heart failure",
       4
     ],
     [
@@ -48,31 +45,39 @@
       4
     ],
     [
-      "heart failure",
+      "biomarker",
+      4
+    ],
+    [
+      "hospitalization",
       3
     ],
     [
-      "eGFR decline",
+      "ESKD",
       3
+    ],
+    [
+      "fibrosis",
+      2
+    ],
+    [
+      "cost-effectiveness",
+      2
+    ],
+    [
+      "eGFR decline",
+      2
     ],
     [
       "quality of life",
       2
     ],
     [
-      "ESKD",
-      2
-    ],
-    [
-      "machine learning",
-      2
-    ],
-    [
-      "fibrosis",
+      "patient-reported outcomes",
       1
     ],
     [
-      "patient-reported outcomes",
+      "machine learning",
       1
     ],
     [
@@ -85,87 +90,87 @@
     ]
   ],
   "期刊分布": {
-    "Pediatric nephrology (Berlin, Germany)": 6,
-    "Diabetes research and clinical practice": 4,
+    "Pediatric nephrology (Berlin, Germany)": 3,
     "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
+    "Diabetes research and clinical practice": 3,
+    "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions": 2,
     "Kidney international": 2,
+    "The Lancet. Oncology": 2,
+    "Journal of critical care": 2,
     "Clinical nutrition ESPEN": 2,
+    "Mayo Clinic proceedings": 2,
     "Diabetes, obesity & metabolism": 2,
     "Acta clinica Belgica": 2,
-    "Journal of critical care": 2,
+    "Transplant immunology": 2,
     "Thrombosis and haemostasis": 1,
-    "The Lancet. Child & adolescent health": 1,
-    "Journal of translational autoimmunity": 1,
-    "American journal of hematology": 1,
-    "Journal of pediatric urology": 1,
-    "Journal of intensive care medicine": 1,
-    "Journal of the American College of Cardiology": 1
+    "Environmental health : a global access science source": 1,
+    "Journal of translational autoimmunity": 1
   },
   "文章類型分布": {
     "Journal Article": 61,
-    "Multicenter Study": 11,
-    "Randomized Controlled Trial": 10,
-    "Comparative Study": 6,
-    "Systematic Review": 4,
+    "Multicenter Study": 10,
+    "Randomized Controlled Trial": 8,
+    "Systematic Review": 7,
     "Meta-Analysis": 4,
+    "Comparative Study": 3,
+    "Clinical Trial, Phase II": 3,
     "Observational Study": 2,
-    "Research Support, Non-U.S. Gov't": 2,
-    "Clinical Trial": 1,
-    "Research Support, N.I.H., Extramural": 1
+    "Review": 2,
+    "Clinical Trial": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 58,
+    "Humans": 59,
+    "Male": 57,
     "Female": 56,
-    "Male": 55,
-    "Middle Aged": 47,
-    "Aged": 40,
+    "Middle Aged": 49,
+    "Aged": 41,
     "Adult": 29,
-    "Retrospective Studies": 26,
-    "Risk Factors": 23,
-    "Acute Kidney Injury": 14,
-    "Treatment Outcome": 12,
-    "Glomerular Filtration Rate": 11,
-    "Cohort Studies": 10,
+    "Retrospective Studies": 24,
+    "Risk Factors": 22,
+    "Treatment Outcome": 15,
+    "Glomerular Filtration Rate": 12,
+    "Renal Insufficiency, Chronic": 11,
+    "Acute Kidney Injury": 10,
+    "Prospective Studies": 10,
+    "Aged, 80 and over": 9,
     "Adolescent": 9,
-    "Postoperative Complications": 9,
-    "Renal Insufficiency, Chronic": 9,
-    "Incidence": 8,
-    "Prospective Studies": 8,
+    "Risk Assessment": 8,
+    "Cohort Studies": 8,
+    "Renal Dialysis": 8,
+    "Kidney Failure, Chronic": 8,
+    "Cardiovascular Diseases": 8,
     "Young Adult": 7,
-    "Risk Assessment": 7,
     "Child, Preschool": 7,
     "Child": 7,
-    "Cardiovascular Diseases": 7,
-    "Aged, 80 and over": 6,
-    "Creatinine": 6,
-    "Biomarkers": 6,
-    "Renal Dialysis": 6,
+    "Incidence": 7,
+    "Postoperative Complications": 7,
+    "Diabetes Mellitus, Type 2": 6,
+    "Infant": 6,
+    "Time Factors": 6,
     "Prognosis": 6,
-    "Proportional Hazards Models": 6,
-    "Kidney Failure, Chronic": 6,
-    "Diabetes Mellitus, Type 2": 5
+    "Proportional Hazards Models": 5
   },
   "按類別統計": {
     "兒童腎臟學": {
       "文章數": 11,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 6,
+        "Pediatric nephrology (Berlin, Germany)": 3,
         "Thrombosis and haemostasis": 1,
-        "The Lancet. Child & adolescent health": 1,
+        "Environmental health : a global access science source": 1,
         "Journal of translational autoimmunity": 1,
-        "American journal of hematology": 1
+        "PloS one": 1
       }
     },
     "成人腎臟學": {
       "文章數": 50,
-      "高影響力期刊文章數": 3,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Diabetes research and clinical practice": 4,
         "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
+        "Diabetes research and clinical practice": 3,
         "Kidney international": 2,
-        "Clinical nutrition ESPEN": 2,
-        "Diabetes, obesity & metabolism": 2
+        "The Lancet. Oncology": 2,
+        "Journal of critical care": 2
       }
     }
   }

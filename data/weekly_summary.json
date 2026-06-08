@@ -1,13 +1,13 @@
 {
-  "報告日期": "2026-06-01T13:37:59.786627",
+  "報告日期": "2026-06-08T12:35:05.504756",
   "報告週期": "過去 7 天",
   "執行摘要": {
     "總文章數": 61,
-    "高影響力期刊文章數": 4,
+    "高影響力期刊文章數": 5,
     "主要發現": [
-      "本週熱門研究主題: mortality (22篇), cardiovascular (19篇), biomarker (5篇)",
-      "高影響力期刊發表 4 篇，包括: The Lancet. Child & adolescent health, BMJ health & care informatics, Kidney international",
-      "高品質證據: 10 篇 RCT, 4 篇統合分析"
+      "本週熱門研究主題: mortality (22篇), cardiovascular (19篇), heart failure (4篇)",
+      "高影響力期刊發表 5 篇，包括: Kidney international, The Lancet. Oncology, The Lancet. Child & adolescent health",
+      "高品質證據: 8 篇 RCT, 4 篇統合分析"
     ]
   },
   "分類統計": {
@@ -15,22 +15,22 @@
       "文章數": 11,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 6,
+        "Pediatric nephrology (Berlin, Germany)": 3,
         "Thrombosis and haemostasis": 1,
-        "The Lancet. Child & adolescent health": 1,
+        "Environmental health : a global access science source": 1,
         "Journal of translational autoimmunity": 1,
-        "American journal of hematology": 1
+        "PloS one": 1
       }
     },
     "成人腎臟學": {
       "文章數": 50,
-      "高影響力期刊文章數": 3,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Diabetes research and clinical practice": 4,
         "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
+        "Diabetes research and clinical practice": 3,
         "Kidney international": 2,
-        "Clinical nutrition ESPEN": 2,
-        "Diabetes, obesity & metabolism": 2
+        "The Lancet. Oncology": 2,
+        "Journal of critical care": 2
       }
     }
   },
@@ -45,11 +45,7 @@
         19
       ],
       [
-        "biomarker",
-        5
-      ],
-      [
-        "hospitalization",
+        "heart failure",
         4
       ],
       [
@@ -57,44 +53,49 @@
         4
       ],
       [
-        "heart failure",
-        3
+        "biomarker",
+        4
       ],
       [
-        "eGFR decline",
+        "hospitalization",
         3
-      ],
-      [
-        "quality of life",
-        2
       ],
       [
         "ESKD",
+        3
+      ],
+      [
+        "fibrosis",
         2
       ],
       [
-        "machine learning",
+        "cost-effectiveness",
+        2
+      ],
+      [
+        "eGFR decline",
         2
       ]
     ],
     "趨勢關鍵詞": {
       "研究主題": {
         "cardiovascular": 19,
-        "heart failure": 3,
-        "fibrosis": 1
+        "heart failure": 4,
+        "fibrosis": 2
       },
       "臨床結局": {
         "mortality": 22,
-        "hospitalization": 4,
         "proteinuria": 4,
-        "eGFR decline": 3,
+        "hospitalization": 3,
+        "ESKD": 3,
+        "cost-effectiveness": 2,
+        "eGFR decline": 2,
         "quality of life": 2,
-        "ESKD": 2,
         "patient-reported outcomes": 1
       },
       "診斷技術": {
-        "biomarker": 5,
-        "machine learning": 2
+        "biomarker": 4,
+        "machine learning": 1
       },
       "治療方法": {
         "GLP-1": 1,
@@ -102,81 +103,36 @@
       }
     },
     "期刊分布": {
-      "Pediatric nephrology (Berlin, Germany)": 6,
-      "Diabetes research and clinical practice": 4,
+      "Pediatric nephrology (Berlin, Germany)": 3,
       "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
+      "Diabetes research and clinical practice": 3,
+      "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions": 2,
       "Kidney international": 2,
+      "The Lancet. Oncology": 2,
+      "Journal of critical care": 2,
       "Clinical nutrition ESPEN": 2,
+      "Mayo Clinic proceedings": 2,
       "Diabetes, obesity & metabolism": 2,
       "Acta clinica Belgica": 2,
-      "Journal of critical care": 2,
+      "Transplant immunology": 2,
       "Thrombosis and haemostasis": 1,
-      "The Lancet. Child & adolescent health": 1,
-      "Journal of translational autoimmunity": 1,
-      "American journal of hematology": 1,
-      "Journal of pediatric urology": 1,
-      "Journal of intensive care medicine": 1,
-      "Journal of the American College of Cardiology": 1
+      "Environmental health : a global access science source": 1,
+      "Journal of translational autoimmunity": 1
     },
     "文章類型": {
       "Journal Article": 61,
-      "Multicenter Study": 11,
-      "Randomized Controlled Trial": 10,
-      "Comparative Study": 6,
-      "Systematic Review": 4,
+      "Multicenter Study": 10,
+      "Randomized Controlled Trial": 8,
+      "Systematic Review": 7,
       "Meta-Analysis": 4,
+      "Comparative Study": 3,
+      "Clinical Trial, Phase II": 3,
       "Observational Study": 2,
-      "Research Support, Non-U.S. Gov't": 2,
-      "Clinical Trial": 1,
-      "Research Support, N.I.H., Extramural": 1
+      "Review": 2,
+      "Clinical Trial": 1
     }
   },
   "重點文章": [
-    {
-      "pmid": "42203305",
-      "標題": "Machine learning-based prediction of a high-risk kidney function trajectory class after acute kidney injury.",
-      "期刊": "BMJ health & care informatics",
-      "發表日期": "2026 May 27",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "≥2 post-discharge eGFR measurements between 2010 and 2017",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "the strongest association with KRT"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Monitoring kidney function after acute kidney injury (AKI) hospitalisation is essential for identifying patients at risk of rapid progression. This study developed a machine learning (ML) model to predict membership in a high-risk longitudinal estimated glomerular filtration rate (eGFR) trajectory a...\n\n【研究方法】We conducted a cohort study of 88 632 adults with ≥2 post-discharge eGFR measurements between 2010 and 2017. Joint latent class mixed models were used to identify dynamic eGFR trajectories from 665 499 measurements. Patient-level data splitting (80/20) was strictly enforced.\n\n【主要結果】Three eGFR trajectories were identified: Steady Low (high-risk phenotype), Slow Decline and Recovery. The Steady Low group showed the strongest association with KRT. The 10-variable XGBoost model demonstrated excellent discrimination (AUROC 0.974, sensitivity 0.913, specificity 0.919).\n\n【結論】A 10-variable XGBoost model accurately identifies patients with deteriorative eGFR trajectories (Steady Low) early after discharge, providing a practical framework for personalised post-AKI kidney care.",
-      "結構化摘要": {
-        "目的": "Monitoring kidney function after acute kidney injury (AKI) hospitalisation is essential for identifying patients at risk of rapid progression. This study developed a machine learning (ML) model to predict membership in a high-risk longitudinal estimated glomerular filtration rate (eGFR) trajectory associated with subsequent kidney replacement therapy (KRT) initiation.",
-        "方法": "We conducted a cohort study of 88 632 adults with ≥2 post-discharge eGFR measurements between 2010 and 2017. Joint latent class mixed models were used to identify dynamic eGFR trajectories from 665 499 measurements. Patient-level data splitting (80/20) was strictly enforced. Extreme gradient boosting (XGBoost) and random forest models were trained using clinical features within 3 months after discharge to predict membership in the highest-risk eGFR trajectory class.",
-        "結果": "Three eGFR trajectories were identified: Steady Low (high-risk phenotype), Slow Decline and Recovery. The Steady Low group showed the strongest association with KRT. The 10-variable XGBoost model demonstrated excellent discrimination (AUROC 0.974, sensitivity 0.913, specificity 0.919). The eGFR slope from discharge to 3 months was the most influential predictor of high-risk progression.",
-        "結論": "A 10-variable XGBoost model accurately identifies patients with deteriorative eGFR trajectories (Steady Low) early after discharge, providing a practical framework for personalised post-AKI kidney care."
-      },
-      "相關趨勢": [
-        "診斷技術: machine learning"
-      ],
-      "關鍵詞": [
-        "Decision Making, Computer-Assisted",
-        "Decision Support Techniques",
-        "Hospitals",
-        "Machine Learning",
-        "Preventive Medicine"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Acute Kidney Injury",
-        "Glomerular Filtration Rate",
-        "Female",
-        "Predictive Learning Models",
-        "Machine Learning",
-        "Male",
-        "Boosting Machine Learning Algorithms",
-        "Middle Aged",
-        "Aged"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42203305/",
-      "DOI": "10.1136/bmjhci-2025-101578"
-    },
     {
       "pmid": "41974145",
       "標題": "Bedside model-informed precision dosing of vancomycin in severely ill neonates and children in Belgium (the BENEFICIAL trial): a multicentre, randomised controlled trial.",
@@ -258,6 +214,78 @@
       "DOI": "10.1016/j.kint.2026.02.023"
     },
     {
+      "pmid": "42144018",
+      "標題": "Long-term outcomes of stereotactic ablative body radiotherapy for primary kidney cancer (TROG 15.03 FASTRACK II): a multicentre, non-randomised, phase 2 study.",
+      "期刊": "The Lancet. Oncology",
+      "發表日期": "2026 Jun",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "T1a disease",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "freedom from local progression to assess local control after SABR evaluated with the Response Evaluation Criteria in Solid Tumours"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to provide the final long-term trial outcomes of TransTasman Radiation Oncology Group (TROG) 15.03 FASTRACK II, the first phase 2 trial investigating SABR for primary renal cell carcinoma to our knowledge.\n\n【研究方法】FASTRACK II was a non-randomised, phase 2 study conducted in eight hospitals in Australia and the Netherlands by TROG and the Australian and New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group. Here, we report the final pre-planned follow-up\n\n【主要結果】. Adult patients (aged ≥18 years) with histologically confirmed primary renal cell carcinoma, who were medically inoperable, high risk, or declined surgery, had an Eastern Cooperative Oncology Group performance status of 2 or less, had tumours 10 cm or less in size, and had N0-N1 disease were includ...\n\n【結論】Long-term follow-up supports the safety and local control of SABR for non-surgical patients with renal cell carcinoma, with no observed local recurrences or cancer-related deaths in this cohort, which had predominantly T1b disease or higher.",
+      "結構化摘要": {
+        "背景": "Stereotactic ablative body radiotherapy (SABR) is an emerging, non-invasive alternative for primary renal cell carcinoma. We aimed to provide the final long-term trial outcomes of TransTasman Radiation Oncology Group (TROG) 15.03 FASTRACK II, the first phase 2 trial investigating SABR for primary renal cell carcinoma to our knowledge.",
+        "方法": "FASTRACK II was a non-randomised, phase 2 study conducted in eight hospitals in Australia and the Netherlands by TROG and the Australian and New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group. Here, we report the final pre-planned follow-up",
+        "結果": ". Adult patients (aged ≥18 years) with histologically confirmed primary renal cell carcinoma, who were medically inoperable, high risk, or declined surgery, had an Eastern Cooperative Oncology Group performance status of 2 or less, had tumours 10 cm or less in size, and had N0-N1 disease were included. Patients underwent either a single fraction SABR of 26 Gy for tumours 4 cm or less in maximum diameter, or 42 Gy in three fractions delivered 48 h apart for tumours more than 4 cm in maximum diame"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Aged",
+        "Female",
+        "Kidney Neoplasms",
+        "Radiosurgery",
+        "Middle Aged",
+        "Carcinoma, Renal Cell",
+        "Aged, 80 and over",
+        "Australia"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42144018/",
+      "DOI": "10.1016/S1470-2045(26)00091-4"
+    },
+    {
+      "pmid": "42144019",
+      "標題": "Ultra-hypofractionated stereotactic ablative body radiotherapy for primary renal cell carcinoma: 5-year outcomes from a pooled analysis of the FASTRACK trials.",
+      "期刊": "The Lancet. Oncology",
+      "發表日期": "2026 Jun",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "commenced protocol treatment",
+        "I_介入": "a single fraction of 26 Gy and larger tumours received 42 Gy in three fractions 48 h apart",
+        "C_對照": "",
+        "O_結果": ", assessed using Response Evaluation Criteria in Solid Tumours (version 1"
+      },
+      "中文摘要": "【研究目的】本研究旨在探討ed to use pooled data from two clinical trials (FASTRACK and FASTRACK II) to evaluate activity and safety of SABR in the long term.\n\n【研究方法】In this pooled analysis, we used data from FASTRACK, a single-institutional, phase 1, prospective clinical trial conducted at the Peter MacCallum Cancer Centre (Melbourne, VIC, Australia), and FASTRACK II, an international, non-randomised, phase 2 clinical trial conducted in seven academic hospitals...\n\n【主要結果】108 patients were enrolled between June 28, 2012, and Oct 17, 2014 (FASTRACK), and between July 28, 2016, and Feb 27, 2020 (FASTRACK II). Five patients did not receive treatment (one opted for surgery, three did not meet dose constraints and were withdrawn, and one died before treatment).\n\n【結論】This pooled analysis from two clinical trials of SABR in patients with larger primary kidney tumours unsuitable for surgery supports evidence of long-term local control and low rate of severe adverse events.",
+      "結構化摘要": {
+        "背景": "Stereotactic ablative body radiotherapy (SABR) is a non-invasive therapy for inoperable primary renal cell carcinoma. However, long-term prospective clinical trial data are scarce. We aimed to use pooled data from two clinical trials (FASTRACK and FASTRACK II) to evaluate activity and safety of SABR in the long term.",
+        "方法": "In this pooled analysis, we used data from FASTRACK, a single-institutional, phase 1, prospective clinical trial conducted at the Peter MacCallum Cancer Centre (Melbourne, VIC, Australia), and FASTRACK II, an international, non-randomised, phase 2 clinical trial conducted in seven academic hospitals in Australia and one in the Netherlands. The treatment protocol, inclusion and exclusion criteria, and dose constraints were the same in both trials. Patients had primary renal cell carcinoma and wer",
+        "結果": "support further investigation through a randomised trial comparing SABR with surgery in select operable patients. FUNDING: None."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Australia",
+        "Carcinoma, Renal Cell",
+        "Dose Fractionation, Radiation",
+        "Kidney Neoplasms"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42144019/",
+      "DOI": "10.1016/S1470-2045(26)00170-1"
+    },
+    {
       "pmid": "41905593",
       "標題": "A randomized controlled non-inferiority trial examined lower dose prednisolone and activated vitamin D in adult minimal change podocytopathy.",
       "期刊": "Kidney international",
@@ -299,248 +327,209 @@
       "DOI": "10.1016/j.kint.2026.02.035"
     },
     {
-      "pmid": "42215737",
-      "標題": "Post-transplant kidney function decline in children with posterior urethral valves versus non-urologic etiologies: roles of catheterization, infection, and rejection.",
-      "期刊": "Pediatric nephrology (Berlin, Germany)",
-      "發表日期": "2026 May 30",
+      "pmid": "42249173",
+      "標題": "Impact of CKD on perioperative outcomes following TURBT: a national NSQIP analysis.",
+      "期刊": "World journal of urology",
+      "發表日期": "2026 Jun 06",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "posterior urethral valves versus non-urologic etiologies: roles of catheterization",
-        "I_介入": "",
-        "C_對照": "non-urologic etiologies: roles of catheterization",
-        "O_結果": "using estimated glomerular filtration rate (eGFR) at fixed time intervals"
+        "P_族群": "G2-G3 CKD",
+        "I_介入": "CKD",
+        "C_對照": "",
+        "O_結果": "associations between eGFR category and 30-day postoperative complications"
       },
-      "中文摘要": "【研究背景】Posterior urethral valves (PUV) is a leading cause of childhood kidney failure requiring kidney transplantation (KT). Although graft survival in transplant patients with PUV has been reported to be similar to non-urologic etiologies of kidney failure, differences in long-term graft function and clin...\n\n【研究方法】A retrospective cohort study of pediatric KT recipients transplanted between 2000 and 2024 was conducted. Thirty-one patients with PUV were matched 1:1 by age at KT to males with non-urologic causes.\n\n【主要結果】Baseline demographic and KT characteristics, including rejection rates, were similar across groups. Patients with PUV had lower eGFR than controls at 1-10 years after KT. Post-transplant urinary tract infections (UTI) were significantly more common in patients with PUV (68% vs. 3%, p < 0.01).\n\n【結論】Despite similar KT characteristics and rejection rates, children transplanted for PUV experience more infections and earlier deterioration of graft function and progression to CKD compared with children transplanted for non-urologic causes.",
+      "中文摘要": "【研究方法】We performed a retrospective cohort study using the American College of Surgeons National Surgical Quality Improvement Program (NSQIP) database. Adult patients undergoing TURBT were identified using CPT codes 52,234, 52,235, and 52,240.\n\n【主要結果】A total of 52,516 patients were included, of whom 18.4% were in G1, 76.4% G2-G3, and 5.2% G4-G5 kidney function group. After multivariable adjustment, patients with G2-G3 CKD were not independently associated with more adverse perioperative outcomes.\n\n【結論】Severe chronic kidney disease is an independent predictor of increased perioperative morbidity following TURBT, whereas mild-to-moderate CKD does not substantially increase short-term risk.",
       "結構化摘要": {
-        "背景": "Posterior urethral valves (PUV) is a leading cause of childhood kidney failure requiring kidney transplantation (KT). Although graft survival in transplant patients with PUV has been reported to be similar to non-urologic etiologies of kidney failure, differences in long-term graft function and clinically meaningful kidney outcomes remain incompletely characterized. We compared post-KT progression to chronic kidney disease (CKD) in children transplanted for PUV versus non-urological conditions, ",
-        "方法": "A retrospective cohort study of pediatric KT recipients transplanted between 2000 and 2024 was conducted. Thirty-one patients with PUV were matched 1:1 by age at KT to males with non-urologic causes. Kidney function was assessed using estimated glomerular filtration rate (eGFR) at fixed time intervals. Time-to-event (TTE) analyses were performed for the development of CKD stage ≥ 3. Multivariable Cox proportional hazards regression evaluated factors associated with progression to CKD stage ≥ 3.",
-        "結果": "Baseline demographic and KT characteristics, including rejection rates, were similar across groups. Patients with PUV had lower eGFR than controls at 1-10 years after KT. Post-transplant urinary tract infections (UTI) were significantly more common in patients with PUV (68% vs. 3%, p < 0.01). TTE analysis demonstrated earlier progression to CKD stage ≥ 3 among patients with PUV. In multivariable Cox regression, rejection was independently associated with progression to CKD stage ≥ 3 after adjust",
-        "結論": "Despite similar KT characteristics and rejection rates, children transplanted for PUV experience more infections and earlier deterioration of graft function and progression to CKD compared with children transplanted for non-urologic causes. These findings suggest the need for long-term, close monitoring and the proactive use of strategies to optimize bladder function in PUV KT recipients."
+        "方法": "We performed a retrospective cohort study using the American College of Surgeons National Surgical Quality Improvement Program (NSQIP) database. Adult patients undergoing TURBT were identified using CPT codes 52,234, 52,235, and 52,240. Estimated glomerular filtration rate (eGFR) was calculated using the CKD-EPI 2021 equation and categorized as G1 (eGFR ≥ 90 mL/min/1.73 m²), G2-G3 (eGFR 30-89 mL/min/1.73 m²), and G4-G5 (eGFR ≤ 29 mL/min/1.73 m²). Multivariable logistic and linear regression mode",
+        "結果": "A total of 52,516 patients were included, of whom 18.4% were in G1, 76.4% G2-G3, and 5.2% G4-G5 kidney function group. After multivariable adjustment, patients with G2-G3 CKD were not independently associated with more adverse perioperative outcomes. In contrast, patients in G4-G5 had significantly increased odds of postoperative renal insufficiency (OR 3.38), renal failure (OR 3.54), urinary tract infection (OR 1.87), sepsis (OR 2.97), myocardial infarction (OR 4.07), postoperative bleeding (OR",
+        "結論": "Severe chronic kidney disease is an independent predictor of increased perioperative morbidity following TURBT, whereas mild-to-moderate CKD does not substantially increase short-term risk. Incorporation of eGFR-based risk stratification into preoperative assessment may improve perioperative planning, patient counseling, and postoperative outcomes in patients undergoing TURBT."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "Allograft survival",
-        "Bladder function",
-        "Kidney transplant",
-        "Non-urologic controls",
-        "Posterior urethral valves"
+        "Bladder cancer",
+        "Chronic kidney disease",
+        "EGFR",
+        "NSQIP",
+        "Perioperative outcomes",
+        "Transurethral resection of bladder tumor"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Transurethral Resection of Bladder",
+        "Postoperative Complications",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Aged",
+        "Urinary Bladder Neoplasms",
+        "Middle Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42249173/",
+      "DOI": "10.1007/s00345-026-06488-w"
+    },
+    {
+      "pmid": "42243965",
+      "標題": "Air pollution and disease progression among patients with primary glomerular disease: an expanded study with extended follow-up.",
+      "期刊": "Environmental health : a global access science source",
+      "發表日期": "2026 Jun 05",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "primary glomerular disease: an expanded study with extended follow-up",
+        "I_介入": "exposure",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究背景】Air pollution is increasingly recognized as a risk factor for progression of kidney disease; however, few studies have examined its impact among patients with primary glomerular disorders.\n\n【研究方法】In this retrospective cohort study, we obtained air pollutant concentration data from NCAR based on participant residential census tract at enrollment. For each census tract and pollutant, we aggregated daily pollutant concentrations to annual averages.\n\n【主要結果】remain when using NCAR pollutant data. METHODS: In this retrospective cohort study, we obtained air pollutant concentration data from NCAR based on participant residential census tract at enrollment.\n\n【結論】Our findings highlight the importance of the systematic assessment including spatial and temporal variation of a broad range of air pollution components to determine the impact of exposure on short- and long-term outcomes in patients with primary glomerular disease (word count: 368).",
+      "結構化摘要": {
+        "背景": "Air pollution is increasingly recognized as a risk factor for progression of kidney disease; however, few studies have examined its impact among patients with primary glomerular disorders. To address this knowledge gap, we previously reported positive associations between fine particulate matter ≤ 2.5μm in aerodynamic diameter (PM2.5) and black carbon with kidney disease progression in an observational cohort of children and adults (n = 925) with primary glomerular diseases, namely minimal chang",
+        "方法": "In this retrospective cohort study, we obtained air pollutant concentration data from NCAR based on participant residential census tract at enrollment. For each census tract and pollutant, we aggregated daily pollutant concentrations to annual averages. We used Cox proportional hazards models to estimate associations between average baseline pollutant exposure and time to kidney disease progression, defined as a 40% decline in estimated glomerular filtration rate (eGFR) or occurrence of kidney f",
+        "結果": "Use of NCAR data supported our previous findings of adverse effects of PM2.5 and black carbon on the progression of glomerular disease. Moreover, using the NCAR data we identified novel associations with NO2 exposure, HR 1.12 [1.01, 1.26] and specific components of PM2.5, including organic matter, HR 1.17 [1.01, 1.37] and an increased risk of disease progression. When considering a longer follow-up period, associations between baseline exposures and kidney outcomes persisted, but were attenuated",
+        "結論": "Our findings highlight the importance of the systematic assessment including spatial and temporal variation of a broad range of air pollution components to determine the impact of exposure on short- and long-term outcomes in patients with primary glomerular disease (word count: 368)."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Air pollution",
+        "Black carbon",
+        "PM2.5",
+        "Primary glomerular disease"
       ],
       "MeSH詞彙": [],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42215737/",
-      "DOI": "10.1007/s00467-026-07361-z"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42243965/",
+      "DOI": "10.1186/s12940-026-01312-9"
     },
     {
-      "pmid": "42213149",
-      "標題": "Acute kidney injury in critically ill children: Incidence, severity, and clinical outcomes from a quaternary pediatric intensive care unit in an upper-middle-income country.",
-      "期刊": "Pediatric nephrology (Berlin, Germany)",
-      "發表日期": "2026 May 29",
+      "pmid": "42234249",
+      "標題": "Impact of intraoperative tidal volume on surgical parameters during flexible ureteroscopy.",
+      "期刊": "Lasers in medical science",
+      "發表日期": "2026 Jun 03",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "AKI",
-        "I_介入": "",
-        "C_對照": "21",
-        "O_結果": "the incidence"
-      },
-      "中文摘要": "【研究背景】Acute kidney injury (AKI) is a common and serious complication in critically ill children. Data from Southeast Asia remain limited, particularly from high-acuity pediatric centers.\n\n【研究方法】We conducted a prospective cohort study of children aged > 28 days to ≤ 18 years admitted to PICU between 1 July 2023 and 30 June 2024. AKI was defined and staged using Kidney Disease: Improving Global Outcomes (KDIGO) criteria.\n\n【主要結果】Among 422 children analyzed, 83 (19.7%) developed AKI, predominantly pre-renal (77.1%). Stage 3 AKI occurred in 34.9% at onset and 47.0% at peak within the first week. Older age (adjusted odds ratio [aOR] 1.10 per year, 95%CI 1.04-1.16), sepsis (aOR 2.41, 95%CI 1.32-4.\n\n【結論】AKI affected one in five critically ill children in this PICU cohort, frequently progressed to severe stages. Associated factors included age, sepsis, and inotropic support. Strategies to prevent AKI and enhance timely access to treatments are warranted to improve outcomes.",
-      "結構化摘要": {
-        "背景": "Acute kidney injury (AKI) is a common and serious complication in critically ill children. Data from Southeast Asia remain limited, particularly from high-acuity pediatric centers. This study evaluated the incidence, associated factors, and outcomes of AKI in a quaternary pediatric intensive care unit (PICU).",
-        "方法": "We conducted a prospective cohort study of children aged > 28 days to ≤ 18 years admitted to PICU between 1 July 2023 and 30 June 2024. AKI was defined and staged using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. Demographic and clinical data were collected, and multivariable logistic regression identified factors associated with AKI. Outcomes were assessed at 30 days and 3 months for kidney recovery.",
-        "結果": "Among 422 children analyzed, 83 (19.7%) developed AKI, predominantly pre-renal (77.1%). Stage 3 AKI occurred in 34.9% at onset and 47.0% at peak within the first week. Older age (adjusted odds ratio [aOR] 1.10 per year, 95%CI 1.04-1.16), sepsis (aOR 2.41, 95%CI 1.32-4.38), and use of multiple inotropes (aOR 5.83, 95%CI 2.73-12.46) were associated with AKI. Kidney replacement therapy (KRT) was required in 21.7%. Overall 30-day mortality was 8.8%, compared with 21.7% among children with AKI. At 3 ",
-        "結論": "AKI affected one in five critically ill children in this PICU cohort, frequently progressed to severe stages. Associated factors included age, sepsis, and inotropic support. Strategies to prevent AKI and enhance timely access to treatments are warranted to improve outcomes."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "Acute kidney injury",
-        "Epidemiology",
-        "Kidney replacement therapy",
-        "Pediatric intensive care",
-        "Risk factors"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42213149/",
-      "DOI": "10.1007/s00467-026-07383-7"
-    },
-    {
-      "pmid": "42216373",
-      "標題": "Integrated prediction of delayed graft function after kidney transplantation using the renal artery resistive index and pretransplant hematological parameters.",
-      "期刊": "Medicine",
-      "發表日期": "2026 May 29",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Kidney Transplantation, Renal Artery 的病人",
-        "I_介入": "",
+        "P_族群": "unilateral",
+        "I_介入": "intraoperative tidal volume",
         "C_對照": "",
-        "O_結果": "whether the renal artery resistive index (RI) combined with pretransplant hematological parameters could improve DGF prediction"
+        "O_結果": "between groups"
       },
-      "中文摘要": "【主要結果】support incorporating RI with routine hematological parameters to facilitate early risk stratification for DGF after kidney transplantation.",
+      "中文摘要": "【主要結果】should be interpreted as exploratory and hypothesis-generating.",
       "結構化摘要": {
-        "完整摘要": "Delayed graft function (DGF) remains a frequent early complication after kidney transplantation and is associated with prolonged hospitalization and inferior graft outcomes. This retrospective cohort study evaluated whether the renal artery resistive index (RI) combined with pretransplant hematological parameters could improve DGF prediction. Adult recipients who underwent kidney transplantation between January 2022 and December 2024 at Shulan (Hangzhou) Hospital were screened; 280 patients were included and categorized into a DGF group (n = 88) or a non-DGF group (n = 192) according to the requirement for dialysis within the first posttransplant week. Pretransplant blood tests and postoperative Doppler-derived RI were collected. Univariate analyses demonstrated significant between-group differences in RI, serum creatinine, blood urea nitrogen, and albumin, whereas demographic factors, primary kidney disease, dialysis characteristics, leukocyte indices, and immunosuppressive regimen di"
-      },
-      "相關趨勢": [
-        "臨床結局: hospitalization",
-        "臨床結局: quality of life"
-      ],
-      "關鍵詞": [
-        "delayed graft function",
-        "hematological parameters",
-        "kidney transplantation",
-        "renal artery resistive index",
-        "risk prediction model"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Transplantation",
-        "Female",
-        "Retrospective Studies",
-        "Delayed Graft Function",
-        "Renal Artery",
-        "Male",
-        "Middle Aged",
-        "Blood Urea Nitrogen",
-        "Creatinine"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42216373/",
-      "DOI": "10.1097/MD.0000000000048804"
-    },
-    {
-      "pmid": "42202288",
-      "標題": "Multimodal Prediction of Renal Tumor Malignancy From Radiology Reports and Structured Electronic Health Records: Retrospective Cohort Study.",
-      "期刊": "JMIR medical informatics",
-      "發表日期": "2026 May 27",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "renal tumors",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "against manual annotations of 500 reports"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討This study aimed to develop and evaluate a multimodal pipeline that integrates structured EHR variables with natural language processing features from computed tomography (CT) radiology reports, including large language model (LLM)-extracted abnormality characteristics and transformer-based report e...\n\n【研究方法】We conducted a retrospective cohort study using University of Florida Health Integrated Data Repository Observational Medical Outcomes Partnership-mapped EHR data from December 2011 to August 2024.\n\n【主要結果】and extracted abnormality characteristics. Four locally deployed LLMs were evaluated against manual annotations of 500 reports. Kidney-specific text was encoded using pretrained biomedical transformer models, including radiology Bidirectional Encoder Representations from Transformers (BERT) variants...\n\n【結論】Integrating unstructured radiology report text with structured EHR variables achieved higher mean predictive performance than unimodal approaches in descriptive comparisons.",
-      "結構化摘要": {
-        "背景": "Accurate preoperative prediction of renal tumor malignancy is critical for guiding decisions and reducing overtreatment, as a substantial proportion of renal masses prove benign. Although radiology assessments and structured electronic health record (EHR) data are routinely used, many tumor-specific descriptors remain embedded in free-text radiology reports and are underused due to extraction challenges.",
-        "目的": "This study aimed to develop and evaluate a multimodal pipeline that integrates structured EHR variables with natural language processing features from computed tomography (CT) radiology reports, including large language model (LLM)-extracted abnormality characteristics and transformer-based report embeddings, to improve malignancy prediction.",
-        "方法": "We conducted a retrospective cohort study using University of Florida Health Integrated Data Repository Observational Medical Outcomes Partnership-mapped EHR data from December 2011 to August 2024. Adults with renal tumors were included if they had longitudinal diagnostic documentation consistent with a renal mass and at least 1 preoperative renal CT report; final benign or malignant status served as the outcome. Structured features included demographics, comorbidities, medications, vital signs,",
-        "結果": "The final cohort included 967 patients (n=712, 73.6% malignant). In extraction evaluation, Qwen2.5-32B achieved 88.3% overall accuracy with a 100% extraction success rate and was selected for downstream feature generation. Among unimodal models, the structured clinical variable model achieved an AUC of 0.758 (SD 0.012), kidney-specific text with radiology BERT achieved an AUC of 0.746 (SD 0.058), and abnormality characteristics alone achieved an AUC of 0.716 (SD 0.015). Multimodal fusion models ",
-        "結論": "Integrating unstructured radiology report text with structured EHR variables achieved higher mean predictive performance than unimodal approaches in descriptive comparisons. Multimodal fusion, particularly early fusion incorporating radiology BERT-derived kidney-specific text embeddings, achieved the strongest discrimination, suggesting potential value of natural language processing-enabled multimodal EHR pipelines for informing preoperative risk stratification."
+        "完整摘要": "To investigate the impact of intraoperative tidal volume on surgical efficiency and outcomes in patients undergoing flexible ureteroscopy (fURS). This prospective cohort study included adult patients with unilateral, solitary renal stones located in the upper or middle calyx or in the renal pelvis. Patients were divided into two groups based on intraoperative tidal volume settings. Demographic factors, stone features, operative metrics, laser efficiency, complication rates, and hospital stay were compared. A total of 70 patients were included (median age: 49 years). Forty-two patients (60%) had a tidal volume ≥ 500 mL (Group 1) and 28 (40%) had a tidal volume < 500 mL (Group 2). Baseline characteristics, including age, ASA score, BMI, comorbidities, stone size, volume, density, laterality, and location, were comparable between groups, except for a higher proportion of males in Group 1 (p < 0.001). Operative time and lasing time did not differ significantly between groups. Total lasing "
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "EHR",
-        "LLM",
-        "ML",
-        "electronic health records",
-        "large language models",
-        "machine learning",
-        "multimodal data fusion",
-        "renal tumor malignancy prediction"
+        "Flexible ureteroscopy",
+        "Laser efficiency",
+        "Tidal volume",
+        "Urolithiasis"
       ],
       "MeSH詞彙": [
-        "Electronic Health Records",
-        "Retrospective Studies",
         "Humans",
-        "Kidney Neoplasms",
-        "Female",
+        "Ureteroscopy",
         "Male",
         "Middle Aged",
-        "Large Language Models",
-        "Tomography, X-Ray Computed",
-        "Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42202288/",
-      "DOI": "10.2196/84396"
-    },
-    {
-      "pmid": "42203250",
-      "標題": "Beyond renal response: sustained systemic disease control protects against adverse long-term outcomes in lupus nephritis.",
-      "期刊": "Lupus science & medicine",
-      "發表日期": "2026 May 27",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "LN",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "renal flare risk (aHR 0"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Lupus Low Disease Activity State (LLDAS) and Definition of Remission in SLE (DORIS) are associated with improved outcomes in SLE; however, their value in lupus nephritis (LN) remains unexplored.\n\n【研究方法】Multicentre retrospective cohort study of patients with biopsy-proven LN who achieved renal response. Enrolment date was the time of first renal response. Longitudinal data were analysed using Cox proportional hazards models.\n\n【主要結果】155 patients with 1703 visits were included. During a median follow-up of 3.5 years (IQR 4.5), 127 patients (81.9%) achieved mLLDAS and 92 (59.4%) achieved mDORIS. Both states demonstrated robust protective effects across all outcomes.\n\n【結論】Following renal response, achievement of mLLDAS and mDORIS is strongly associated with improved outcomes in LN patients. Earlier attainment and longer duration in these states confer progressively greater protection.",
-      "結構化摘要": {
-        "目的": "Lupus Low Disease Activity State (LLDAS) and Definition of Remission in SLE (DORIS) are associated with improved outcomes in SLE; however, their value in lupus nephritis (LN) remains unexplored. We sought to evaluate their prognostic value on organ damage accrual, renal flares and chronic kidney disease in patients with LN.",
-        "方法": "Multicentre retrospective cohort study of patients with biopsy-proven LN who achieved renal response. Enrolment date was the time of first renal response. Longitudinal data were analysed using Cox proportional hazards models. Modified LLDAS (mLLDAS) and DORIS (mDORIS) attainment and sustained durations were evaluated.",
-        "結果": "155 patients with 1703 visits were included. During a median follow-up of 3.5 years (IQR 4.5), 127 patients (81.9%) achieved mLLDAS and 92 (59.4%) achieved mDORIS. Both states demonstrated robust protective effects across all outcomes. For organ damage, mLLDAS attainment was associated with 85% risk reduction (adjusted HR (aHR 0.15, 95% CI 0.07 to 0.32), while mDORIS conferred a 79% reduction (aHR 0.21, 95% CI 0.08 to 0.55). Periods under mLLDAS were also associated with a 73% reduction in renal",
-        "結論": "Following renal response, achievement of mLLDAS and mDORIS is strongly associated with improved outcomes in LN patients. Earlier attainment and longer duration in these states confer progressively greater protection."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Lupus Erythematosus, Systemic",
-        "Lupus Nephritis",
-        "Outcome Assessment, Health Care"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Lupus Nephritis",
         "Female",
-        "Retrospective Studies",
-        "Male",
+        "Kidney Calculi",
+        "Prospective Studies",
+        "Tidal Volume",
         "Adult",
-        "Prognosis",
-        "Remission Induction",
-        "Severity of Illness Index",
-        "Proportional Hazards Models"
+        "Length of Stay"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42203250/",
-      "DOI": "10.1136/lupus-2026-002021"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42234249/",
+      "DOI": "10.1007/s10103-026-04894-5"
     },
     {
-      "pmid": "41879574",
-      "標題": "Renin-Aldosterone Profiles and Cardiorenal Outcomes in Hypertension: A Nationwide Cohort Study.",
+      "pmid": "42233552",
+      "標題": "Kidney and Survival Benefits of Semaglutide in Diabetes With Chronic Kidney Disease: FLOW Trial Cardiovascular Subgroup Analyses.",
       "期刊": "Journal of the American College of Cardiology",
-      "發表日期": "2026 May 26",
-      "研究類型": "研究",
+      "發表日期": "2026 Jun 02",
+      "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "hypertension",
+        "P_族群": "type 2 diabetes and CKD",
         "I_介入": "",
-        "C_對照": "",
-        "O_結果": "similar trends"
+        "C_對照": "placebo",
+        "O_結果": "≥50% estimated glomerular filtration rate (eGFR) decline, eGFR <15 mL/min/1"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討In this study, we sought to investigate the association of renin-aldosterone profiles with cardiorenal events in adults with hypertension.\n\n【研究方法】This cohort study used linked Danish health registries with complete laboratory test\n\n【主要結果】from January 2017 to November 2024. All adults with hypertension selected by clinicians for aldosterone and renin testing in the study period were included. Endpoints included kidney function decline and cardiovascular outcomes.\n\n【結論】Adults with hypertension and renin-independent aldosterone production are at increased risk of rapid kidney function decline as well as, at higher ARR levels, kidney failure and MACE.",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討The study sought to assess semaglutide effects on kidney and survival outcomes by baseline cardiovascular status in the FLOW trial.\n\n【研究方法】Participants with type 2 diabetes and CKD were randomized to once-weekly subcutaneous semaglutide 1.0 mg vs placebo. Baseline subgroups included atherosclerotic cardiovascular disease (ASCVD), heart failure, and high total cardiovascular disease risk without established cardiovascular disease (10-ye...\n\n【主要結果】At baseline, 1,198 (33.9%) of 3,533, 678 (19.2%) of 3,532, and 1,329 (66.5%) of 2,000 participants had ASCVD, heart failure, or high total cardiovascular disease risk in those without established cardiovascular disease, respectively.\n\n【結論】Semaglutide improved kidney and survival outcomes in type 2 diabetes with CKD, irrespective of established ASCVD, heart failure, or high total cardiovascular disease risk. (Evaluate Renal Function with Semaglutide Once Weekly [FLOW]; NCT03819153).",
       "結構化摘要": {
-        "背景": "Renin-independent aldosterone production may contribute to adverse cardiorenal outcomes, but population-based evidence remains limited.",
-        "目的": "In this study, we sought to investigate the association of renin-aldosterone profiles with cardiorenal events in adults with hypertension.",
-        "方法": "This cohort study used linked Danish health registries with complete laboratory test",
-        "結果": "from January 2017 to November 2024. All adults with hypertension selected by clinicians for aldosterone and renin testing in the study period were included. Endpoints included kidney function decline and cardiovascular outcomes. We used Cox regression and restricted cubic spline models adjusted for age, sex, index year, comorbidities, and comedications. RESULTS: Among 12,650 adults with hypertension, 1,840 (15%) had an aldosterone-to-renin ratio (ARR) of 27.7 to <70 pmol/mIU, 480 (4%) 70 to <138",
-        "結論": "Adults with hypertension and renin-independent aldosterone production are at increased risk of rapid kidney function decline as well as, at higher ARR levels, kidney failure and MACE. Although clinical practice guidelines recommend distinct thresholds for diagnosing primary aldosteronism, our findings underscore that the risk for kidney and cardiovascular outcomes in adults with hypertension manifests as a continuous gradient that parallels the magnitude of renin-independent aldosterone producti"
+        "背景": "Cardiovascular disease increases risks of chronic kidney disease (CKD) progression and mortality in type 2 diabetes.",
+        "目的": "The study sought to assess semaglutide effects on kidney and survival outcomes by baseline cardiovascular status in the FLOW trial.",
+        "方法": "Participants with type 2 diabetes and CKD were randomized to once-weekly subcutaneous semaglutide 1.0 mg vs placebo. Baseline subgroups included atherosclerotic cardiovascular disease (ASCVD), heart failure, and high total cardiovascular disease risk without established cardiovascular disease (10-year PREVENT [Predicting Risk of cardiovascular disease EVENTs] score ≥20%). The primary outcome was ≥50% estimated glomerular filtration rate (eGFR) decline, eGFR <15 mL/min/1.73 m2, dialysis, transpla",
+        "結果": "At baseline, 1,198 (33.9%) of 3,533, 678 (19.2%) of 3,532, and 1,329 (66.5%) of 2,000 participants had ASCVD, heart failure, or high total cardiovascular disease risk in those without established cardiovascular disease, respectively. Semaglutide reduced the primary outcome risk in subgroups with (119 of 593 vs 146 of 605) or without (212 of 1,174 vs 264 of 1,161) ASCVD (HR: 0.80; 95% CI: 0.63-1.02; and HR: 0.74; 95% CI: 0.62-0.89, respectively; P for interaction = 0.62), with (67 of 342 vs 88 of",
+        "結論": "Semaglutide improved kidney and survival outcomes in type 2 diabetes with CKD, irrespective of established ASCVD, heart failure, or high total cardiovascular disease risk. (Evaluate Renal Function with Semaglutide Once Weekly [FLOW]; NCT03819153)."
       },
       "相關趨勢": [
         "研究主題: cardiovascular",
-        "臨床結局: eGFR decline"
+        "研究主題: heart failure",
+        "臨床結局: mortality"
       ],
       "關鍵詞": [
-        "aldosterone dysregulation",
-        "clinical practice",
-        "cohort study",
-        "epidemiology",
-        "hypertension"
+        "atherosclerotic cardiovascular disease",
+        "cardiovascular risk",
+        "glomerular filtration rate",
+        "glucagon-like peptide-1",
+        "heart failure",
+        "mortality"
       ],
       "MeSH詞彙": [
         "Humans",
+        "Semaglutide",
+        "Glucagon-Like Peptides",
+        "Diabetes Mellitus, Type 2",
         "Female",
-        "Aldosterone",
-        "Renin",
-        "Hypertension",
         "Male",
-        "Denmark",
-        "Cohort Studies",
+        "Renal Insufficiency, Chronic",
+        "Hypoglycemic Agents",
         "Middle Aged",
-        "Aged"
+        "Glomerular Filtration Rate"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41879574/",
-      "DOI": "10.1016/j.jacc.2026.01.056"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42233552/",
+      "DOI": "10.1016/j.jacc.2026.02.5125"
+    },
+    {
+      "pmid": "41943210",
+      "標題": "Hearing Loss Following Cardiac Interventions.",
+      "期刊": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+      "發表日期": "2026 Jun 01",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "intermediate embolic risk (atrial fibrillation",
+        "I_介入": "",
+        "C_對照": "minimally invasive)",
+        "O_結果": "increased risk of hearing loss"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討This study investigates the association between cardiac interventions and the risk of developing unilateral sensorineural hearing loss (USNHL) or sudden sensorineural hearing loss (SSNHL). STUDY\n\n【主要結果】Patients with intermediate embolic risk (atrial fibrillation, TIA, or stroke without anticoagulation) had a significantly increased risk of hearing loss. High embolic risk patients with anticoagulation also had elevated risk but to a lesser degree.\n\n【結論】Embolic burden, valvular surgery, and dialysis dependence are associated with increased USNHL/SSNHL risk following cardiac interventions. While cardiac surgery contributes to hearing loss, open procedures do not necessarily increase risk compared with minimally invasive techniques.",
+      "結構化摘要": {
+        "目的": "This study investigates the association between cardiac interventions and the risk of developing unilateral sensorineural hearing loss (USNHL) or sudden sensorineural hearing loss (SSNHL). STUDY DESIGN: This retrospective cohort study included 120,429,580 patients from the TriNetX US Collaborative Network. SETTING: Inpatient, ambulatory, and academic medical centers. PATIENTS: All patients undergoing various cardiac interventions were stratified into groups based on embolic risk, surgical approa",
+        "結果": "Patients with intermediate embolic risk (atrial fibrillation, TIA, or stroke without anticoagulation) had a significantly increased risk of hearing loss. High embolic risk patients with anticoagulation also had elevated risk but to a lesser degree. Open valve replacement and open bypass did not significantly increase risk of hearing loss. Patients undergoing general anesthesia for cardiac surgery had a higher risk of hearing loss compared with general anesthesia alone. Dialysis-dependent patient",
+        "結論": "Embolic burden, valvular surgery, and dialysis dependence are associated with increased USNHL/SSNHL risk following cardiac interventions. While cardiac surgery contributes to hearing loss, open procedures do not necessarily increase risk compared with minimally invasive techniques. Further research is needed to identify preventive strategies. LEVEL OF EVIDENCE: Level III."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Cardiac surgery",
+        "Hearing loss",
+        "Sensorineural Hearing loss",
+        "Sudden Hearing loss",
+        "USNHL",
+        "Valve repair"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Retrospective Studies",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Hearing Loss, Sensorineural",
+        "Cardiac Surgical Procedures",
+        "Postoperative Complications",
+        "Risk Factors"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41943210/",
+      "DOI": "10.1097/MAO.0000000000004890"
     }
   ],
   "研究想法": [
@@ -560,16 +549,9 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "biomarker",
-      "頻率": 5,
-      "想法": "目前 'biomarker' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "hospitalization",
+      "關鍵詞": "heart failure",
       "頻率": 4,
-      "想法": "目前 'hospitalization' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'heart failure' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -581,72 +563,79 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 3,
-      "想法": "目前 'heart failure' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "biomarker",
+      "頻率": 4,
+      "想法": "目前 'biomarker' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "eGFR decline",
+      "關鍵詞": "hospitalization",
       "頻率": 3,
-      "想法": "目前 'eGFR decline' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "quality of life",
-      "頻率": 2,
-      "想法": "目前 'quality of life' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'hospitalization' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "ESKD",
-      "頻率": 2,
-      "想法": "目前 'ESKD' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 3,
+      "想法": "目前 'ESKD' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
+      "關鍵詞": "fibrosis",
       "頻率": 2,
-      "想法": "目前 'machine learning' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'fibrosis' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "研究缺口",
-      "關鍵詞": "heart failure",
-      "頻率": 3,
-      "想法": "'heart failure' (研究主題) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cost-effectiveness",
+      "頻率": 2,
+      "想法": "目前 'cost-effectiveness' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "eGFR decline",
+      "頻率": 2,
+      "想法": "目前 'eGFR decline' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
       "關鍵詞": "fibrosis",
-      "頻率": 1,
-      "想法": "'fibrosis' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "eGFR decline",
-      "頻率": 3,
-      "想法": "'eGFR decline' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "quality of life",
       "頻率": 2,
-      "想法": "'quality of life' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'fibrosis' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
       "關鍵詞": "ESKD",
+      "頻率": 3,
+      "想法": "'ESKD' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "cost-effectiveness",
       "頻率": 2,
-      "想法": "'ESKD' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'cost-effectiveness' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "eGFR decline",
+      "頻率": 2,
+      "想法": "'eGFR decline' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -670,45 +659,45 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 4 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 5 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
         "Bedside model-informed precision dosing of vancomy",
         "A double-blind, randomized, placebo-controlled, ph",
-        "A randomized controlled non-inferiority trial exam"
+        "Long-term outcomes of stereotactic ablative body r"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 58,
+    "Humans": 59,
+    "Male": 57,
     "Female": 56,
-    "Male": 55,
-    "Middle Aged": 47,
-    "Aged": 40,
+    "Middle Aged": 49,
+    "Aged": 41,
     "Adult": 29,
-    "Retrospective Studies": 26,
-    "Risk Factors": 23,
-    "Acute Kidney Injury": 14,
-    "Treatment Outcome": 12,
-    "Glomerular Filtration Rate": 11,
-    "Cohort Studies": 10,
+    "Retrospective Studies": 24,
+    "Risk Factors": 22,
+    "Treatment Outcome": 15,
+    "Glomerular Filtration Rate": 12,
+    "Renal Insufficiency, Chronic": 11,
+    "Acute Kidney Injury": 10,
+    "Prospective Studies": 10,
+    "Aged, 80 and over": 9,
     "Adolescent": 9,
-    "Postoperative Complications": 9,
-    "Renal Insufficiency, Chronic": 9,
-    "Incidence": 8,
-    "Prospective Studies": 8,
+    "Risk Assessment": 8,
+    "Cohort Studies": 8,
+    "Renal Dialysis": 8,
+    "Kidney Failure, Chronic": 8,
+    "Cardiovascular Diseases": 8,
     "Young Adult": 7,
-    "Risk Assessment": 7,
     "Child, Preschool": 7,
     "Child": 7,
-    "Cardiovascular Diseases": 7,
-    "Aged, 80 and over": 6,
-    "Creatinine": 6,
-    "Biomarkers": 6,
-    "Renal Dialysis": 6,
+    "Incidence": 7,
+    "Postoperative Complications": 7,
+    "Diabetes Mellitus, Type 2": 6,
+    "Infant": 6,
+    "Time Factors": 6,
     "Prognosis": 6,
-    "Proportional Hazards Models": 6,
-    "Kidney Failure, Chronic": 6,
-    "Diabetes Mellitus, Type 2": 5
+    "Proportional Hazards Models": 5
   }
 }
