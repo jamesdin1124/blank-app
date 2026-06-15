@@ -1,176 +1,127 @@
 {
-  "總文章數": 61,
-  "高影響力期刊文章數": 5,
-  "分析日期": "2026-06-08T12:35:05.491470",
+  "總文章數": 10,
+  "高影響力期刊文章數": 4,
+  "分析日期": "2026-06-15T13:57:02.164541",
   "趨勢關鍵詞統計": {
+    "治療方法": {
+      "finerenone": 2,
+      "SGLT2 inhibitor": 1
+    },
     "研究主題": {
-      "cardiovascular": 19,
-      "heart failure": 4,
-      "fibrosis": 2
+      "cardiovascular": 4,
+      "heart failure": 2,
+      "personalized": 1
     },
     "臨床結局": {
-      "mortality": 22,
-      "proteinuria": 4,
-      "hospitalization": 3,
-      "ESKD": 3,
-      "cost-effectiveness": 2,
-      "eGFR decline": 2,
-      "quality of life": 2,
-      "patient-reported outcomes": 1
+      "mortality": 3,
+      "proteinuria": 1
     },
     "診斷技術": {
-      "biomarker": 4,
       "machine learning": 1
-    },
-    "治療方法": {
-      "GLP-1": 1,
-      "SGLT2 inhibitor": 1
     }
   },
   "熱門主題": [
     [
-      "mortality",
-      22
+      "cardiovascular",
+      4
     ],
     [
-      "cardiovascular",
-      19
+      "mortality",
+      3
+    ],
+    [
+      "finerenone",
+      2
     ],
     [
       "heart failure",
-      4
+      2
+    ],
+    [
+      "SGLT2 inhibitor",
+      1
+    ],
+    [
+      "personalized",
+      1
     ],
     [
       "proteinuria",
-      4
-    ],
-    [
-      "biomarker",
-      4
-    ],
-    [
-      "hospitalization",
-      3
-    ],
-    [
-      "ESKD",
-      3
-    ],
-    [
-      "fibrosis",
-      2
-    ],
-    [
-      "cost-effectiveness",
-      2
-    ],
-    [
-      "eGFR decline",
-      2
-    ],
-    [
-      "quality of life",
-      2
-    ],
-    [
-      "patient-reported outcomes",
       1
     ],
     [
       "machine learning",
       1
-    ],
-    [
-      "GLP-1",
-      1
-    ],
-    [
-      "SGLT2 inhibitor",
-      1
     ]
   ],
   "期刊分布": {
-    "Pediatric nephrology (Berlin, Germany)": 3,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-    "Diabetes research and clinical practice": 3,
-    "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions": 2,
-    "Kidney international": 2,
-    "The Lancet. Oncology": 2,
-    "Journal of critical care": 2,
-    "Clinical nutrition ESPEN": 2,
-    "Mayo Clinic proceedings": 2,
-    "Diabetes, obesity & metabolism": 2,
-    "Acta clinica Belgica": 2,
-    "Transplant immunology": 2,
-    "Thrombosis and haemostasis": 1,
-    "Environmental health : a global access science source": 1,
-    "Journal of translational autoimmunity": 1
+    "Lancet (London, England)": 3,
+    "PloS one": 3,
+    "European journal of pediatrics": 1,
+    "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
+    "Critical care explorations": 1,
+    "Renal failure": 1
   },
   "文章類型分布": {
-    "Journal Article": 61,
-    "Multicenter Study": 10,
-    "Randomized Controlled Trial": 8,
-    "Systematic Review": 7,
-    "Meta-Analysis": 4,
-    "Comparative Study": 3,
-    "Clinical Trial, Phase II": 3,
-    "Observational Study": 2,
-    "Review": 2,
-    "Clinical Trial": 1
+    "Journal Article": 10,
+    "Multicenter Study": 4,
+    "Meta-Analysis": 3,
+    "Randomized Controlled Trial": 2,
+    "Systematic Review": 1,
+    "Review": 1,
+    "Clinical Trial, Phase III": 1,
+    "Observational Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 59,
-    "Male": 57,
-    "Female": 56,
-    "Middle Aged": 49,
-    "Aged": 41,
-    "Adult": 29,
-    "Retrospective Studies": 24,
-    "Risk Factors": 22,
-    "Treatment Outcome": 15,
-    "Glomerular Filtration Rate": 12,
-    "Renal Insufficiency, Chronic": 11,
-    "Acute Kidney Injury": 10,
-    "Prospective Studies": 10,
-    "Aged, 80 and over": 9,
-    "Adolescent": 9,
-    "Risk Assessment": 8,
-    "Cohort Studies": 8,
-    "Renal Dialysis": 8,
-    "Kidney Failure, Chronic": 8,
-    "Cardiovascular Diseases": 8,
-    "Young Adult": 7,
-    "Child, Preschool": 7,
-    "Child": 7,
-    "Incidence": 7,
-    "Postoperative Complications": 7,
-    "Diabetes Mellitus, Type 2": 6,
-    "Infant": 6,
-    "Time Factors": 6,
-    "Prognosis": 6,
-    "Proportional Hazards Models": 5
+    "Humans": 10,
+    "Female": 9,
+    "Male": 9,
+    "Middle Aged": 9,
+    "Adult": 5,
+    "Renal Insufficiency, Chronic": 4,
+    "Aged": 4,
+    "Risk Factors": 4,
+    "Glomerular Filtration Rate": 3,
+    "Double-Blind Method": 3,
+    "Treatment Outcome": 3,
+    "Cardiovascular Diseases": 3,
+    "Prospective Studies": 3,
+    "Naphthyridines": 2,
+    "Mineralocorticoid Receptor Antagonists": 2,
+    "Randomized Controlled Trials as Topic": 2,
+    "Cohort Studies": 2,
+    "Kidney Failure, Chronic": 2,
+    "Hypertrophy, Left Ventricular": 1,
+    "Child": 1,
+    "Hypertension": 1,
+    "Blood Pressure Monitoring, Ambulatory": 1,
+    "Blood Pressure": 1,
+    "Adolescent": 1,
+    "Glomerulonephritis, IGA": 1,
+    "Atrasentan": 1,
+    "Proteinuria": 1,
+    "Endothelin A Receptor Antagonists": 1,
+    "Prevalence": 1,
+    "HIV Infections": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 11,
-      "高影響力期刊文章數": 1,
+      "文章數": 2,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 3,
-        "Thrombosis and haemostasis": 1,
-        "Environmental health : a global access science source": 1,
-        "Journal of translational autoimmunity": 1,
-        "PloS one": 1
+        "Lancet (London, England)": 1,
+        "European journal of pediatrics": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 4,
+      "文章數": 8,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 3,
-        "Diabetes research and clinical practice": 3,
-        "Kidney international": 2,
-        "The Lancet. Oncology": 2,
-        "Journal of critical care": 2
+        "PloS one": 3,
+        "Lancet (London, England)": 2,
+        "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
+        "Critical care explorations": 1,
+        "Renal failure": 1
       }
     }
   }
