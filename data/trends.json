@@ -1,44 +1,42 @@
 {
-  "總文章數": 10,
-  "高影響力期刊文章數": 4,
-  "分析日期": "2026-06-15T13:57:02.164541",
+  "總文章數": 20,
+  "高影響力期刊文章數": 1,
+  "分析日期": "2026-06-22T13:36:14.858028",
   "趨勢關鍵詞統計": {
-    "治療方法": {
-      "finerenone": 2,
-      "SGLT2 inhibitor": 1
+    "診斷技術": {
+      "machine learning": 1,
+      "biomarker": 1
     },
     "研究主題": {
-      "cardiovascular": 4,
-      "heart failure": 2,
-      "personalized": 1
+      "cardiovascular": 2,
+      "personalized": 1,
+      "inflammation": 1,
+      "heart failure": 1
     },
     "臨床結局": {
-      "mortality": 3,
-      "proteinuria": 1
-    },
-    "診斷技術": {
-      "machine learning": 1
+      "mortality": 5,
+      "proteinuria": 2
     }
   },
   "熱門主題": [
     [
-      "cardiovascular",
-      4
-    ],
-    [
       "mortality",
-      3
+      5
     ],
     [
-      "finerenone",
+      "cardiovascular",
       2
     ],
     [
-      "heart failure",
+      "proteinuria",
       2
     ],
     [
-      "SGLT2 inhibitor",
+      "machine learning",
+      1
+    ],
+    [
+      "biomarker",
       1
     ],
     [
@@ -46,82 +44,94 @@
       1
     ],
     [
-      "proteinuria",
+      "inflammation",
       1
     ],
     [
-      "machine learning",
+      "heart failure",
       1
     ]
   ],
   "期刊分布": {
-    "Lancet (London, England)": 3,
-    "PloS one": 3,
-    "European journal of pediatrics": 1,
+    "Journal of nephrology": 4,
+    "Annals of medicine": 2,
+    "Pediatric surgery international": 1,
+    "NPJ digital medicine": 1,
+    "The Journal of pediatrics": 1,
+    "Chinese medical journal": 1,
+    "The New England journal of medicine": 1,
+    "Critical care (London, England)": 1,
+    "Orphanet journal of rare diseases": 1,
+    "Science translational medicine": 1,
+    "The Journal of clinical endocrinology and metabolism": 1,
     "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
-    "Critical care explorations": 1,
-    "Renal failure": 1
+    "European journal of clinical pharmacology": 1,
+    "European journal of cancer (Oxford, England : 1990)": 1,
+    "Journal of bronchology & interventional pulmonology": 1
   },
   "文章類型分布": {
-    "Journal Article": 10,
-    "Multicenter Study": 4,
-    "Meta-Analysis": 3,
+    "Journal Article": 20,
+    "Multicenter Study": 3,
+    "Systematic Review": 2,
     "Randomized Controlled Trial": 2,
-    "Systematic Review": 1,
+    "Comparative Study": 2,
+    "Clinical Trial, Phase I": 2,
+    "Meta-Analysis": 1,
     "Review": 1,
-    "Clinical Trial, Phase III": 1,
-    "Observational Study": 1
+    "Clinical Trial, Phase IV": 1,
+    "Equivalence Trial": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 10,
-    "Female": 9,
-    "Male": 9,
-    "Middle Aged": 9,
-    "Adult": 5,
+    "Humans": 18,
+    "Male": 17,
+    "Middle Aged": 17,
+    "Female": 16,
+    "Adult": 13,
+    "Aged": 9,
+    "Retrospective Studies": 5,
+    "Risk Factors": 5,
+    "Prospective Studies": 5,
     "Renal Insufficiency, Chronic": 4,
-    "Aged": 4,
-    "Risk Factors": 4,
-    "Glomerular Filtration Rate": 3,
-    "Double-Blind Method": 3,
-    "Treatment Outcome": 3,
-    "Cardiovascular Diseases": 3,
-    "Prospective Studies": 3,
-    "Naphthyridines": 2,
-    "Mineralocorticoid Receptor Antagonists": 2,
-    "Randomized Controlled Trials as Topic": 2,
-    "Cohort Studies": 2,
-    "Kidney Failure, Chronic": 2,
-    "Hypertrophy, Left Ventricular": 1,
-    "Child": 1,
-    "Hypertension": 1,
-    "Blood Pressure Monitoring, Ambulatory": 1,
+    "Incidence": 4,
+    "Treatment Outcome": 4,
+    "Young Adult": 4,
+    "Acute Kidney Injury": 3,
+    "Cohort Studies": 3,
+    "Adolescent": 3,
+    "Kidney Transplantation": 3,
+    "Child": 2,
+    "Glomerular Filtration Rate": 2,
+    "Proportional Hazards Models": 2,
+    "Anti-Bacterial Agents": 2,
+    "Bayes Theorem": 2,
+    "Case-Control Studies": 2,
+    "Biomarkers": 2,
+    "Kidney Neoplasms": 2,
+    "Mutation": 2,
+    "Urethra": 1,
     "Blood Pressure": 1,
-    "Adolescent": 1,
-    "Glomerulonephritis, IGA": 1,
-    "Atrasentan": 1,
-    "Proteinuria": 1,
-    "Endothelin A Receptor Antagonists": 1,
-    "Prevalence": 1,
-    "HIV Infections": 1
+    "Hypertension": 1,
+    "Antihypertensive Agents": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 2,
-      "高影響力期刊文章數": 2,
+      "文章數": 3,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Lancet (London, England)": 1,
-        "European journal of pediatrics": 1
+        "Pediatric surgery international": 1,
+        "NPJ digital medicine": 1,
+        "The Journal of pediatrics": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 8,
-      "高影響力期刊文章數": 2,
+      "文章數": 17,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "PloS one": 3,
-        "Lancet (London, England)": 2,
-        "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
-        "Critical care explorations": 1,
-        "Renal failure": 1
+        "Journal of nephrology": 4,
+        "Annals of medicine": 2,
+        "Chinese medical journal": 1,
+        "The New England journal of medicine": 1,
+        "Critical care (London, England)": 1
       }
     }
   }
