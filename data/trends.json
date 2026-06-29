@@ -1,137 +1,147 @@
 {
-  "總文章數": 20,
+  "總文章數": 23,
   "高影響力期刊文章數": 1,
-  "分析日期": "2026-06-22T13:36:14.858028",
+  "分析日期": "2026-06-29T12:36:17.527007",
   "趨勢關鍵詞統計": {
     "診斷技術": {
-      "machine learning": 1,
-      "biomarker": 1
-    },
-    "研究主題": {
-      "cardiovascular": 2,
-      "personalized": 1,
-      "inflammation": 1,
-      "heart failure": 1
+      "biomarker": 6,
+      "machine learning": 4,
+      "genetic testing": 1,
+      "metabolomics": 1
     },
     "臨床結局": {
-      "mortality": 5,
-      "proteinuria": 2
+      "mortality": 10,
+      "hospitalization": 2,
+      "quality of life": 1,
+      "proteinuria": 1
+    },
+    "研究主題": {
+      "cardiovascular": 4,
+      "inflammation": 3,
+      "oxidative stress": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      5
-    ],
-    [
-      "cardiovascular",
-      2
-    ],
-    [
-      "proteinuria",
-      2
-    ],
-    [
-      "machine learning",
-      1
+      10
     ],
     [
       "biomarker",
-      1
+      6
     ],
     [
-      "personalized",
-      1
+      "machine learning",
+      4
+    ],
+    [
+      "cardiovascular",
+      4
     ],
     [
       "inflammation",
+      3
+    ],
+    [
+      "hospitalization",
+      2
+    ],
+    [
+      "genetic testing",
       1
     ],
     [
-      "heart failure",
+      "metabolomics",
+      1
+    ],
+    [
+      "quality of life",
+      1
+    ],
+    [
+      "proteinuria",
+      1
+    ],
+    [
+      "oxidative stress",
       1
     ]
   ],
   "期刊分布": {
-    "Journal of nephrology": 4,
-    "Annals of medicine": 2,
-    "Pediatric surgery international": 1,
-    "NPJ digital medicine": 1,
-    "The Journal of pediatrics": 1,
-    "Chinese medical journal": 1,
-    "The New England journal of medicine": 1,
-    "Critical care (London, England)": 1,
-    "Orphanet journal of rare diseases": 1,
-    "Science translational medicine": 1,
-    "The Journal of clinical endocrinology and metabolism": 1,
-    "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
-    "European journal of clinical pharmacology": 1,
-    "European journal of cancer (Oxford, England : 1990)": 1,
-    "Journal of bronchology & interventional pulmonology": 1
+    "Medicine": 6,
+    "PloS one": 4,
+    "Renal failure": 3,
+    "BMJ open": 1,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "Oncoimmunology": 1,
+    "Annals of medicine": 1,
+    "Food & function": 1,
+    "JACC. Cardiovascular interventions": 1,
+    "Clinical chemistry and laboratory medicine": 1,
+    "Journal of robotic surgery": 1,
+    "Acta dermato-venereologica": 1,
+    "Lupus science & medicine": 1
   },
   "文章類型分布": {
-    "Journal Article": 20,
-    "Multicenter Study": 3,
+    "Journal Article": 23,
+    "Multicenter Study": 4,
     "Systematic Review": 2,
     "Randomized Controlled Trial": 2,
-    "Comparative Study": 2,
-    "Clinical Trial, Phase I": 2,
+    "Validation Study": 1,
     "Meta-Analysis": 1,
     "Review": 1,
-    "Clinical Trial, Phase IV": 1,
-    "Equivalence Trial": 1
+    "Comparative Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 18,
-    "Male": 17,
-    "Middle Aged": 17,
-    "Female": 16,
-    "Adult": 13,
-    "Aged": 9,
-    "Retrospective Studies": 5,
-    "Risk Factors": 5,
+    "Humans": 22,
+    "Female": 20,
+    "Male": 20,
+    "Middle Aged": 18,
+    "Aged": 16,
+    "Risk Factors": 11,
+    "Adult": 8,
+    "Retrospective Studies": 6,
+    "Prognosis": 5,
+    "Cohort Studies": 5,
+    "Biomarkers": 5,
     "Prospective Studies": 5,
+    "Proportional Hazards Models": 5,
     "Renal Insufficiency, Chronic": 4,
-    "Incidence": 4,
-    "Treatment Outcome": 4,
-    "Young Adult": 4,
-    "Acute Kidney Injury": 3,
-    "Cohort Studies": 3,
-    "Adolescent": 3,
-    "Kidney Transplantation": 3,
-    "Child": 2,
-    "Glomerular Filtration Rate": 2,
-    "Proportional Hazards Models": 2,
-    "Anti-Bacterial Agents": 2,
-    "Bayes Theorem": 2,
-    "Case-Control Studies": 2,
-    "Biomarkers": 2,
-    "Kidney Neoplasms": 2,
-    "Mutation": 2,
-    "Urethra": 1,
-    "Blood Pressure": 1,
-    "Hypertension": 1,
-    "Antihypertensive Agents": 1
+    "Acute Kidney Injury": 4,
+    "Predictive Learning Models": 3,
+    "Machine Learning": 3,
+    "Intensive Care Units": 3,
+    "Treatment Outcome": 3,
+    "Aged, 80 and over": 3,
+    "ROC Curve": 3,
+    "Kidney Failure, Chronic": 3,
+    "Boosting Machine Learning Algorithms": 2,
+    "Risk Assessment": 2,
+    "Prediction Algorithms": 2,
+    "Hospital Mortality": 2,
+    "Postoperative Complications": 2,
+    "Cardiovascular Diseases": 2,
+    "Metabolic Syndrome": 2,
+    "United Kingdom": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 3,
+      "文章數": 2,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric surgery international": 1,
-        "NPJ digital medicine": 1,
-        "The Journal of pediatrics": 1
+        "BMJ open": 1,
+        "Pediatric nephrology (Berlin, Germany)": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 17,
+      "文章數": 21,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of nephrology": 4,
-        "Annals of medicine": 2,
-        "Chinese medical journal": 1,
-        "The New England journal of medicine": 1,
-        "Critical care (London, England)": 1
+        "Medicine": 6,
+        "PloS one": 4,
+        "Renal failure": 3,
+        "Oncoimmunology": 1,
+        "Annals of medicine": 1
       }
     }
   }
