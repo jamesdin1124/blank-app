@@ -1,94 +1,41 @@
 {
-  "總文章數": 60,
-  "高影響力期刊文章數": 11,
-  "分析日期": "2026-07-06T12:06:14.103746",
+  "總文章數": 24,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-07-13T11:13:06.180422",
   "趨勢關鍵詞統計": {
-    "研究主題": {
-      "cardiovascular": 17,
-      "inflammation": 4,
-      "heart failure": 4,
-      "gut microbiome": 1
-    },
-    "診斷技術": {
-      "biomarker": 6
-    },
     "臨床結局": {
-      "mortality": 15,
-      "ESKD": 3,
-      "eGFR decline": 3,
-      "quality of life": 2,
-      "hospitalization": 2,
-      "proteinuria": 1,
+      "mortality": 9,
+      "hospitalization": 1,
       "cost-effectiveness": 1
     },
+    "研究主題": {
+      "cardiovascular": 4,
+      "heart failure": 1,
+      "inflammation": 1
+    },
+    "診斷技術": {
+      "biomarker": 4,
+      "machine learning": 1
+    },
     "治療方法": {
-      "SGLT2 inhibitor": 3,
-      "GLP-1": 3,
-      "canagliflozin": 2,
-      "dapagliflozin": 2,
-      "empagliflozin": 1,
-      "finerenone": 1
+      "immunotherapy": 1
     }
   },
   "熱門主題": [
     [
-      "cardiovascular",
-      17
+      "mortality",
+      9
     ],
     [
-      "mortality",
-      15
+      "cardiovascular",
+      4
     ],
     [
       "biomarker",
-      6
-    ],
-    [
-      "inflammation",
       4
-    ],
-    [
-      "heart failure",
-      4
-    ],
-    [
-      "ESKD",
-      3
-    ],
-    [
-      "eGFR decline",
-      3
-    ],
-    [
-      "SGLT2 inhibitor",
-      3
-    ],
-    [
-      "GLP-1",
-      3
-    ],
-    [
-      "quality of life",
-      2
     ],
     [
       "hospitalization",
-      2
-    ],
-    [
-      "canagliflozin",
-      2
-    ],
-    [
-      "dapagliflozin",
-      2
-    ],
-    [
-      "gut microbiome",
-      1
-    ],
-    [
-      "proteinuria",
       1
     ],
     [
@@ -96,96 +43,104 @@
       1
     ],
     [
-      "empagliflozin",
+      "heart failure",
       1
     ],
     [
-      "finerenone",
+      "inflammation",
+      1
+    ],
+    [
+      "machine learning",
+      1
+    ],
+    [
+      "immunotherapy",
       1
     ]
   ],
   "期刊分布": {
-    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 6,
-    "Journal of the American Society of Nephrology : JASN": 4,
-    "Pediatric nephrology (Berlin, Germany)": 4,
-    "Diabetes, obesity & metabolism": 3,
-    "Renal failure": 3,
-    "The New England journal of medicine": 2,
-    "Geriatrics & gerontology international": 2,
-    "Diabetologia": 2,
-    "Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association": 2,
-    "European journal of pediatrics": 1,
-    "Diabetes/metabolism research and reviews": 1,
-    "The Lancet. Infectious diseases": 1,
-    "Kidney medicine": 1,
-    "The lancet. Diabetes & endocrinology": 1,
-    "Mayo Clinic proceedings": 1
+    "Renal failure": 4,
+    "Medicine": 3,
+    "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 3,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "European journal of clinical pharmacology": 1,
+    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
+    "BMC nephrology": 1,
+    "Clinics (Sao Paulo, Brazil)": 1,
+    "Lancet (London, England)": 1,
+    "Gut microbes": 1,
+    "Annals of medicine": 1,
+    "Journal for immunotherapy of cancer": 1,
+    "BMC geriatrics": 1,
+    "Open heart": 1,
+    "Journal of Korean medical science": 1
   },
   "文章類型分布": {
-    "Journal Article": 60,
-    "Randomized Controlled Trial": 17,
-    "Multicenter Study": 10,
-    "Comparative Study": 6,
-    "Systematic Review": 5,
-    "Clinical Trial, Phase III": 5,
-    "Observational Study": 4,
-    "Review": 3,
-    "Meta-Analysis": 3,
-    "Clinical Trial, Phase II": 3
+    "Journal Article": 24,
+    "Multicenter Study": 6,
+    "Randomized Controlled Trial": 3,
+    "Observational Study": 2,
+    "Systematic Review": 1,
+    "Review": 1,
+    "Equivalence Trial": 1,
+    "Comparative Study": 1,
+    "Clinical Trial, Phase II": 1,
+    "Letter": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 59,
-    "Female": 56,
-    "Male": 52,
-    "Middle Aged": 46,
-    "Aged": 35,
-    "Adult": 23,
-    "Renal Insufficiency, Chronic": 22,
-    "Risk Factors": 17,
-    "Retrospective Studies": 17,
-    "Glomerular Filtration Rate": 16,
-    "Prognosis": 12,
-    "Follow-Up Studies": 11,
-    "Treatment Outcome": 11,
-    "Prospective Studies": 10,
-    "Kidney Failure, Chronic": 10,
-    "Diabetes Mellitus, Type 2": 8,
-    "Cohort Studies": 7,
-    "Aged, 80 and over": 7,
-    "Cardiovascular Diseases": 7,
-    "Acute Kidney Injury": 6,
-    "Kidney Transplantation": 6,
-    "Albuminuria": 5,
-    "Creatinine": 5,
-    "Child": 5,
-    "Biomarkers": 5,
-    "Incidence": 5,
-    "Double-Blind Method": 5,
-    "Diabetic Nephropathies": 5,
-    "Carcinoma, Renal Cell": 5,
-    "Kidney Neoplasms": 5
+    "Humans": 20,
+    "Female": 19,
+    "Male": 19,
+    "Middle Aged": 18,
+    "Aged": 14,
+    "Retrospective Studies": 10,
+    "Risk Factors": 10,
+    "Acute Kidney Injury": 7,
+    "Adult": 7,
+    "Postoperative Complications": 4,
+    "Anti-Bacterial Agents": 3,
+    "Treatment Outcome": 3,
+    "Critical Illness": 3,
+    "Biomarkers": 3,
+    "Cardiovascular Diseases": 3,
+    "Cohort Studies": 3,
+    "Bacteremia": 2,
+    "Staphylococcal Infections": 2,
+    "Intensive Care Units": 2,
+    "Severity of Illness Index": 2,
+    "Extracorporeal Membrane Oxygenation": 2,
+    "Proportional Hazards Models": 2,
+    "Prognosis": 2,
+    "Risk Assessment": 2,
+    "Prospective Studies": 2,
+    "Aged, 80 and over": 2,
+    "Lipocalin-2": 2,
+    "Predictive Value of Tests": 2,
+    "Rituximab": 1,
+    "Antineoplastic Agents, Immunological": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 10,
-      "高影響力期刊文章數": 2,
+      "文章數": 5,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 4,
-        "Journal of the American Society of Nephrology : JASN": 2,
-        "European journal of pediatrics": 1,
-        "Diabetes/metabolism research and reviews": 1,
-        "The Lancet. Infectious diseases": 1
+        "Pediatric nephrology (Berlin, Germany)": 1,
+        "European journal of clinical pharmacology": 1,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
+        "BMC nephrology": 1,
+        "Clinics (Sao Paulo, Brazil)": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 9,
+      "文章數": 19,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 6,
-        "Diabetes, obesity & metabolism": 3,
-        "Renal failure": 3,
-        "The New England journal of medicine": 2,
-        "Journal of the American Society of Nephrology : JASN": 2
+        "Renal failure": 4,
+        "Medicine": 3,
+        "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 3,
+        "Lancet (London, England)": 1,
+        "Gut microbes": 1
       }
     }
   }
