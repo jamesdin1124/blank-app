@@ -1,36 +1,25 @@
 {
-  "報告日期": "2026-07-13T11:13:06.186481",
+  "報告日期": "2026-07-20T10:53:37.955682",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 24,
-    "高影響力期刊文章數": 2,
+    "總文章數": 19,
+    "高影響力期刊文章數": 1,
     "主要發現": [
-      "本週熱門研究主題: mortality (9篇), cardiovascular (4篇), biomarker (4篇)",
-      "高影響力期刊發表 2 篇，包括: Lancet (London, England), Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "本週熱門研究主題: mortality (10篇), cardiovascular (5篇), heart failure (4篇)",
+      "高影響力期刊發表 1 篇，包括: BMJ open",
       "高品質證據: 3 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
-    "兒童腎臟學": {
-      "文章數": 5,
-      "高影響力期刊文章數": 1,
-      "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 1,
-        "European journal of clinical pharmacology": 1,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
-        "BMC nephrology": 1,
-        "Clinics (Sao Paulo, Brazil)": 1
-      }
-    },
     "成人腎臟學": {
       "文章數": 19,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Renal failure": 4,
         "Medicine": 3,
-        "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 3,
-        "Lancet (London, England)": 1,
-        "Gut microbes": 1
+        "European heart journal. Cardiovascular pharmacotherapy": 2,
+        "Renal failure": 2,
+        "Journal of the American College of Cardiology": 1,
+        "International journal of medical informatics": 1
       }
     }
   },
@@ -38,582 +27,617 @@
     "熱門主題": [
       [
         "mortality",
-        9
+        10
       ],
       [
         "cardiovascular",
+        5
+      ],
+      [
+        "heart failure",
         4
       ],
       [
-        "biomarker",
+        "machine learning",
         4
       ],
       [
         "hospitalization",
-        1
-      ],
-      [
-        "cost-effectiveness",
-        1
-      ],
-      [
-        "heart failure",
-        1
+        3
       ],
       [
         "inflammation",
+        2
+      ],
+      [
+        "personalized",
         1
       ],
       [
-        "machine learning",
+        "biomarker",
         1
       ],
       [
-        "immunotherapy",
+        "SGLT2 inhibitor",
         1
       ]
     ],
     "趨勢關鍵詞": {
-      "臨床結局": {
-        "mortality": 9,
-        "hospitalization": 1,
-        "cost-effectiveness": 1
-      },
       "研究主題": {
-        "cardiovascular": 4,
-        "heart failure": 1,
-        "inflammation": 1
+        "cardiovascular": 5,
+        "heart failure": 4,
+        "inflammation": 2,
+        "personalized": 1
+      },
+      "臨床結局": {
+        "mortality": 10,
+        "hospitalization": 3
       },
       "診斷技術": {
-        "biomarker": 4,
-        "machine learning": 1
+        "machine learning": 4,
+        "biomarker": 1
       },
       "治療方法": {
-        "immunotherapy": 1
+        "SGLT2 inhibitor": 1
       }
     },
     "期刊分布": {
-      "Renal failure": 4,
       "Medicine": 3,
-      "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America": 3,
-      "Pediatric nephrology (Berlin, Germany)": 1,
-      "European journal of clinical pharmacology": 1,
-      "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1,
-      "BMC nephrology": 1,
-      "Clinics (Sao Paulo, Brazil)": 1,
-      "Lancet (London, England)": 1,
-      "Gut microbes": 1,
-      "Annals of medicine": 1,
-      "Journal for immunotherapy of cancer": 1,
-      "BMC geriatrics": 1,
-      "Open heart": 1,
-      "Journal of Korean medical science": 1
+      "European heart journal. Cardiovascular pharmacotherapy": 2,
+      "Renal failure": 2,
+      "Journal of the American College of Cardiology": 1,
+      "International journal of medical informatics": 1,
+      "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group": 1,
+      "Blood advances": 1,
+      "Journal of medical Internet research": 1,
+      "Neurosurgical review": 1,
+      "BMJ open": 1,
+      "JACC. Cardiovascular interventions": 1,
+      "PloS one": 1,
+      "RMD open": 1,
+      "The Journal of the American Academy of Orthopaedic Surgeons": 1,
+      "BMC urology": 1
     },
     "文章類型": {
-      "Journal Article": 24,
+      "Journal Article": 19,
       "Multicenter Study": 6,
+      "Observational Study": 4,
       "Randomized Controlled Trial": 3,
-      "Observational Study": 2,
-      "Systematic Review": 1,
-      "Review": 1,
-      "Equivalence Trial": 1,
-      "Comparative Study": 1,
-      "Clinical Trial, Phase II": 1,
-      "Letter": 1
+      "Comparative Study": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42309115",
-      "標題": "Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial.",
-      "期刊": "Lancet (London, England)",
-      "發表日期": "2026 Jul 11",
+      "pmid": "42463183",
+      "標題": "Real-world impact of SGLT2 inhibitors on the risk of symptomatic urinary tract infections in patients with cardiometabolic and kidney diseases: a prospective, multicentre, observational cohort study protocol.",
+      "期刊": "BMJ open",
+      "發表日期": "2026 Jul 15",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "cardiometabolic and kidney diseases: a prospective",
+        "I_介入": "switching",
+        "C_對照": "",
+        "O_結果": "is the first newly onset symptomatic UTI during 12 months of follow-up, defined by prespecified clinical symptoms plus laboratory evidence"
+      },
+      "中文摘要": "【研究方法】AND ANALYSIS: This is a prospective, multicentre, observational cohort study conducted between June 2026 and June 2028 at two tertiary hospitals in China. Adults newly initiating an SGLT2 inhibitor or a clinically appropriate non-SGLT2 active comparator will be enrolled.\n\n【主要結果】will be disseminated through peer-reviewed publications and academic conferences, regardless of whether results are positive, negative or inconclusive. TRIAL REGISTRATION NUMBER: Chinese Clinical Trial Registry (ChiCTR), registration number ChiCTR2600124776; registered prior to first participant enr...",
+      "結構化摘要": {
+        "方法": "AND ANALYSIS: This is a prospective, multicentre, observational cohort study conducted between June 2026 and June 2028 at two tertiary hospitals in China. Adults newly initiating an SGLT2 inhibitor or a clinically appropriate non-SGLT2 active comparator will be enrolled. A new-user design and 1:1 propensity score matching will be used to reduce confounding by indication and prevalent-user bias. A total of 2400 participants (1200 per group) will be recruited. The primary endpoint is the first new",
+        "結果": "are positive, negative or inconclusive. TRIAL REGISTRATION NUMBER: Chinese Clinical Trial Registry (ChiCTR), registration number ChiCTR2600124776; registered prior to first participant enrolment."
+      },
+      "相關趨勢": [
+        "治療方法: SGLT2 inhibitor",
+        "研究主題: cardiovascular",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Clinical Protocols",
+        "Drug Utilization",
+        "EPIDEMIOLOGIC STUDIES",
+        "Urinary tract infections"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Urinary Tract Infections",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Prospective Studies",
+        "Multicenter Studies as Topic",
+        "Observational Studies as Topic",
+        "China",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Adult"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42463183/",
+      "DOI": "10.1136/bmjopen-2026-122826"
+    },
+    {
+      "pmid": "42472980",
+      "標題": "Radiological mass effect and neurological status are associated with mortality after burr-hole drainage for chronic subdural hematoma: a 10-year cohort study.",
+      "期刊": "Neurosurgical review",
+      "發表日期": "2026 Jul 20",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "neither cerebral edema nor significant midline shift (n = 59)",
+        "I_介入": "",
+        "C_對照": "72",
+        "O_結果": "in-hospital mortality"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to identify independent preoperative predictors of in-hospital mortality after burr-hole drainage for CSDH, with explicit characterization of causes of death, comorbidity burden, and the discriminative performance of candidate predictors.\n\n【主要結果】(n = 18). The exploratory interaction term (cerebral edema × midline shift ≥ 5 mm) was directionally consistent with synergy but did not reach statistical significance (OR 39.19, 95% CI 0.26-∞, p = 0.152), reflecting limited statistical power.",
+      "結構化摘要": {
+        "完整摘要": "Chronic subdural hematoma (CSDH) is increasingly common in older adults and in patients receiving antithrombotic therapy. Although burr-hole drainage is generally safe and effective, perioperative mortality remains a concern, and reliable preoperative predictors are incompletely defined. We aimed to identify independent preoperative predictors of in-hospital mortality after burr-hole drainage for CSDH, with explicit characterization of causes of death, comorbidity burden, and the discriminative performance of candidate predictors. This single-center retrospective cohort study included 121 consecutive adult patients surgically treated for CSDH between January 2015 and December 2024. Preoperative variables included demographics, Glasgow Coma Scale (GCS) score, hematoma thickness, midline shift (MLS), cerebral edema on CT, antithrombotic use, and a comprehensive set of comorbidities (chronic kidney disease, chronic obstructive pulmonary disease, congestive heart failure, coronary artery d"
+      },
+      "相關趨勢": [
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Burr-hole drainage",
+        "Cerebral edema",
+        "Chronic subdural hematoma",
+        "Mass effect",
+        "Midline shift",
+        "Mortality"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Hematoma, Subdural, Chronic",
+        "Aged",
+        "Female",
+        "Drainage",
+        "Retrospective Studies",
+        "Male",
+        "Hospital Mortality",
+        "Aged, 80 and over",
+        "Cohort Studies"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42472980/",
+      "DOI": "10.1007/s10143-026-04405-8"
+    },
+    {
+      "pmid": "42469992",
+      "標題": "Impact of sepsis with acute kidney injury and acute respiratory distress syndrome on patient prognosis: A multicenter retrospective cohort study.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Jul 17",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "sepsis",
+        "I_介入": "sepsis with acute kidney",
+        "C_對照": "the patients in the non-AKI and non-ARDS group",
+        "O_結果": "defined as mortality within 30 days of sepsis diagnosis"
+      },
+      "中文摘要": "【摘要】Sepsis, acute kidney injury (AKI), and acute respiratory distress syndrome (ARDS) are severe conditions commonly seen in the intensive care unit (ICU). The study was designed to evaluate the influence of single-organ dysfunction (AKI or ARDS) and 2-organ dysfunction (AKI combined with ARDS) on the 3...",
+      "結構化摘要": {
+        "完整摘要": "Sepsis, acute kidney injury (AKI), and acute respiratory distress syndrome (ARDS) are severe conditions commonly seen in the intensive care unit (ICU). The study was designed to evaluate the influence of single-organ dysfunction (AKI or ARDS) and 2-organ dysfunction (AKI combined with ARDS) on the 30-day mortality risk in patients with sepsis. Data originated from a prospective multicenter cohort involving 18 Chinese ICUs, which enrolled patients with sepsis following ICU admission. Patients were stratified into 4 groups according to their organ status within 7 days of sepsis onset: those who did not develop AKI or ARDS (non-AKI and non-ARDS group), those who developed AKI but not ARDS (AKI and non-ARDS group), those who developed ARDS but not AKI (ARDS and non-AKI group), and those who developed both AKI and ARDS (AKI and ARDS group). The primary endpoint was defined as mortality within 30 days of sepsis diagnosis. Furthermore, a survival analysis was conducted among the 4 groups. A t"
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "acute kidney injury",
+        "acute respiratory distress syndrome",
+        "sepsis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Respiratory Distress Syndrome",
+        "Sepsis",
+        "Acute Kidney Injury",
+        "Prognosis",
+        "Retrospective Studies",
+        "Female",
+        "Male",
+        "Intensive Care Units",
+        "Middle Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42469992/",
+      "DOI": "10.1097/MD.0000000000049743"
+    },
+    {
+      "pmid": "42470009",
+      "標題": "The prognostic value of the neutrophil percentage-to-albumin ratio for all-cause and cardiovascular mortality in chronic kidney disease: A retrospective cohort study using NHANES 1999 to 2018.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Jul 17",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "CKD",
+        "I_介入": "",
+        "C_對照": "Q1: adjusted hazard ratio = 2",
+        "O_結果": "s were all-cause and cardiovascular mortality, assessed via linkage with the National Death Index"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the association between NPAR and mortality outcomes in CKD patients using a nationally representative cohort. Data from National Health and Nutrition Examination Survey 1999 to 2018 were analyzed, including 1990 adults with CKD.",
+      "結構化摘要": {
+        "完整摘要": "Chronic kidney disease (CKD) is a global public health challenge associated with elevated all-cause and cardiovascular mortality, driven by chronic inflammation and malnutrition. The neutrophil percentage-to-albumin ratio (NPAR), integrating inflammatory, and nutritional markers, has shown prognostic value in other conditions but remains underexplored in CKD. This study aimed to evaluate the association between NPAR and mortality outcomes in CKD patients using a nationally representative cohort. Data from National Health and Nutrition Examination Survey 1999 to 2018 were analyzed, including 1990 adults with CKD. NPAR was calculated as neutrophil percentage divided by serum albumin and categorized into quartiles. Primary outcomes were all-cause and cardiovascular mortality, assessed via linkage with the National Death Index. Cox regression models adjusted for demographics, comorbidities, and laboratory parameters. Restricted cubic splines and mediation analyses explored dose-response re"
+      },
+      "相關趨勢": [
+        "診斷技術: biomarker",
+        "研究主題: cardiovascular",
+        "研究主題: inflammation",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "all-cause mortality",
+        "cardiovascular mortality",
+        "chronic kidney disease",
+        "neutrophils",
+        "serum albumin"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Cardiovascular Diseases",
+        "Female",
+        "Male",
+        "Renal Insufficiency, Chronic",
+        "Neutrophils",
+        "Prognosis",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Nutrition Surveys"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42470009/",
+      "DOI": "10.1097/MD.0000000000049786"
+    },
+    {
+      "pmid": "42470022",
+      "標題": "Analysis of risk factors associated with intimal hyperplasia in arteriovenous fistulas among patients undergoing hemodialysis.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Jul 17",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "a native AVF at our institution between May 2021 and May 2023",
+        "I_介入": "",
+        "C_對照": "(n = 126), followed by univariate and multivariable logistic regression analyses",
+        "O_結果": "higher rates of diabetes mellitus and recent infection"
+      },
+      "中文摘要": "【主要結果】suggest that cumulative access exposure, metabolic disease, systemic inflammation, nutritional status, and disordered mineral metabolism jointly contribute to IH risk and may inform targeted surveillance and preventive management in routine hemodialysis care.",
+      "結構化摘要": {
+        "完整摘要": "Arteriovenous fistula (AVF) intimal hyperplasia (IH) is a major pathological basis of AVF stenosis and dysfunction in patients undergoing maintenance hemodialysis. This single-center retrospective observational cohort study enrolled adult hemodialysis patients with a native AVF at our institution between May 2021 and May 2023. IH was determined primarily by duplex ultrasound (DUS) evidence of pathologic venous intimal thickening and/or hemodynamically significant stenosis attributable to IH, with angiographic confirmation when clinically indicated. Demographic characteristics, hemodialysis vintage, dialysis prescription and adequacy, vascular access profiles, comorbidities, medication exposure, and routine laboratory indices were extracted from electronic medical records, the hemodialysis information platform, and the vascular access imaging database. Comparisons were performed between the IH group (n = 38) and the control group (n = 126), followed by univariate and multivariable logis"
+      },
+      "相關趨勢": [
+        "研究主題: inflammation"
+      ],
+      "關鍵詞": [
+        "C-reactive protein",
+        "albumin",
+        "arteriovenous fistula",
+        "diabetes mellitus",
+        "hemodialysis",
+        "intimal hyperplasia"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Renal Dialysis",
+        "Female",
+        "Hyperplasia",
+        "Male",
+        "Risk Factors",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Aged",
+        "Tunica Intima"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42470022/",
+      "DOI": "10.1097/MD.0000000000049682"
+    },
+    {
+      "pmid": "42462211",
+      "標題": "Machine Learning Analysis of Sex Differences in Cardiovascular-Kidney-Metabolic Risk Factors and Prognosis Among Patients With Moderate-to-Severe Coronary Artery Calcification: Prospective Cohort Study.",
+      "期刊": "Journal of medical Internet research",
+      "發表日期": "2026 Jul 16",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "Moderate-to-Severe Coronary Artery Calcification: Prospective Cohort Study",
+        "I_介入": "were included",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討This study aimed to investigate sex disparities in CKM risk factors among patients with moderate-to-severe coronary artery calcification (MSCAC) and elucidate their association with adverse clinical outcomes.\n\n【研究方法】A total of 2418 patients with MSCAC undergoing their first percutaneous coronary intervention were included. Hazard ratios (HRs) were computed to evaluate sex differences in the prognostic significance of various CKM risk factors, including chronic kidney disease (CKD), diabetes mellitus (DM), obesi...\n\n【主要結果】Among the participants, 86.9% (2101/2418) had ≥1 CKM risk factor, while 3.1% (74/2418) had ≥4 risk factors. CKD was independently associated with the occurrence of MACEs in both female patients (HR 2.65, 95% CI 1.50-4.69) and male patients (HR 1.53, 95% CI 1.02-2.60).\n\n【結論】This study confirmed that CKM risk factors and their influence on prognosis in patients with MSCAC exhibit significant sex differences. The application of machine learning, particularly XGBoost, facilitates a deeper understanding of these disparities and provides a basis for personalized, sex-specif...",
+      "結構化摘要": {
+        "背景": "Patients with coronary artery calcification exhibit notable sex differences in clinical presentation, particularly concerning the role of cardiovascular-kidney-metabolic (CKM) risk factors and their impact on prognoses. However, the precise nature of these sex-specific differences remains incompletely understood.",
+        "目的": "This study aimed to investigate sex disparities in CKM risk factors among patients with moderate-to-severe coronary artery calcification (MSCAC) and elucidate their association with adverse clinical outcomes.",
+        "方法": "A total of 2418 patients with MSCAC undergoing their first percutaneous coronary intervention were included. Hazard ratios (HRs) were computed to evaluate sex differences in the prognostic significance of various CKM risk factors, including chronic kidney disease (CKD), diabetes mellitus (DM), obesity, hypertension, and hypertriglyceridemia. Four machine learning models-logistic regression, extreme gradient boosting (XGBoost), random forest, and support vector machine-were constructed to predict",
+        "結果": "Among the participants, 86.9% (2101/2418) had ≥1 CKM risk factor, while 3.1% (74/2418) had ≥4 risk factors. CKD was independently associated with the occurrence of MACEs in both female patients (HR 2.65, 95% CI 1.50-4.69) and male patients (HR 1.53, 95% CI 1.02-2.60). Notably, the association was stronger in female patients, with a female-to-male multivariate-adjusted HR ratio for CKD of 1.68 (95% CI 1.04-2.97). DM was also associated with MACEs in both sexes, with adjusted HRs of 1.20 (95% CI 1",
+        "結論": "This study confirmed that CKM risk factors and their influence on prognosis in patients with MSCAC exhibit significant sex differences. The application of machine learning, particularly XGBoost, facilitates a deeper understanding of these disparities and provides a basis for personalized, sex-specific risk assessment and targeted interventions for patients with MSCAC."
+      },
+      "相關趨勢": [
+        "診斷技術: machine learning",
+        "研究主題: cardiovascular",
+        "研究主題: personalized",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "cardiovascular-kidney-metabolic risk factors",
+        "coronary artery calcification",
+        "extreme gradient boosting",
+        "prognosis",
+        "sex difference"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Prognosis",
+        "Machine Learning",
+        "Risk Factors",
+        "Prospective Studies",
+        "Coronary Artery Disease",
+        "Middle Aged",
+        "Sex Factors"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42462211/",
+      "DOI": "10.2196/82742"
+    },
+    {
+      "pmid": "42464249",
+      "標題": "Two versus four weeks ureteral stenting prior to flexible ureteroscopy after failed primary ureteral access sheath insertion: a randomized trial.",
+      "期刊": "BMC urology",
+      "發表日期": "2026 Jul 16",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "available data",
-        "I_介入": "the flucloxacillin or cloxacillin group and 156 to the benzylpenicillin group",
-        "C_對照": "flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international",
-        "O_結果": "all-cause mortality 90 days after platform entry, assessed in the intention-to-treat population, including all patients with available data"
+        "P_族群": "required ureteric stent insertion for some time",
+        "I_介入": "",
+        "C_對照": "four weeks ureteral stenting prior to flexible ureteroscopy after failed primary ureteral access sheath insertion: a randomized trial",
+        "O_結果": "successful insertion of a 10/12 Fr ureteral access sheath (UAS)"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to compare benzylpenicillin with anti-staphylococcal penicillins (cloxacillin or flucloxacillin) for the treatment of PSSA bacteraemia in adults.\n\n【研究方法】This investigator-initiated, international, multicentre, open-label, non-inferiority, randomised controlled trial was conducted within the PSSA silo of the backbone domain of the ongoing S aureus Network Adaptive Platform (SNAP) trial.\n\n【主要結果】for adult patients (aged ≥18 years). Participants were randomly allocated 1:1 to receive either benzylpenicillin, or flucloxacillin or cloxacillin. Trial staff, staff caring for participants, and participants were aware of the treatment allocated and received.\n\n【結論】Although the prespecified non-inferiority criterion for benzylpenicillin was not met, the probability of benzylpenicillin being non-inferior for mortality, along with a reduction in risk of AKI, indicates that benzylpenicillin should be preferred over flucloxacillin or cloxacillin for treatment of P...",
+      "中文摘要": "【研究背景】During Flexible ureteroscopy; Failed primary placement of the ureteral access sheath (UAS) or backloading of flexible ureteroscopy occurred in up to 22% of patients who required ureteric stent insertion for some time.\n\n【研究方法】This single-blind, randomized controlled trial included 60 patients with upper and/or renal stones < 20 mm who had failed primary access during FURS between April 2024 and October 2025.\n\n【主要結果】Baseline demographic and clinical characteristics were comparable between groups. Successful UAS insertion was achieved in 90% of the 2-week group and 93.3% of the 4-week group with no difference between groups (p = 0.64).\n\n【結論】In this randomized trial, no statistically significant differences were observed between 2-week and 4-week preoperative stenting regarding UAS insertion success, stone-free rate, operative time, or complication rates.",
       "結構化摘要": {
-        "背景": "Previously considered rare, penicillin-susceptible Staphylococcus aureus (PSSA) bacteraemia has re-emerged worldwide. Although benzylpenicillin might offer advantages in terms of pharmacokinetic and adverse effect profiles, anti-staphylococcal penicillins are recommended for serious infections because of concern over undetected penicillin resistance. We aimed to compare benzylpenicillin with anti-staphylococcal penicillins (cloxacillin or flucloxacillin) for the treatment of PSSA bacteraemia in ",
-        "方法": "This investigator-initiated, international, multicentre, open-label, non-inferiority, randomised controlled trial was conducted within the PSSA silo of the backbone domain of the ongoing S aureus Network Adaptive Platform (SNAP) trial. We enrolled patients of all ages who were admitted with S aureus bacteraemia at 67 hospitals across Australia, New Zealand, Canada, Israel, the Netherlands, the UK, Singapore, and South Africa. Herein, we report",
-        "結果": "for adult patients (aged ≥18 years). Participants were randomly allocated 1:1 to receive either benzylpenicillin, or flucloxacillin or cloxacillin. Trial staff, staff caring for participants, and participants were aware of the treatment allocated and received. Cloxacillin was used only where flucloxacillin was not available (ie, Canada, Israel, Singapore, and South Africa). Recommended standard dosing for benzylpenicillin was 1·8 g intravenously once every 4 h or 2·4 g once every 6 h; for fluclo"
+        "背景": "During Flexible ureteroscopy; Failed primary placement of the ureteral access sheath (UAS) or backloading of flexible ureteroscopy occurred in up to 22% of patients who required ureteric stent insertion for some time. This study was conducted to compare the outcomes of two versus four weeks of preoperative ureteral stenting in patients with failed primary ureteral access undergoing flexible ureteroscopy (FURS). PATIENTS AND",
+        "方法": "This single-blind, randomized controlled trial included 60 patients with upper and/or renal stones < 20 mm who had failed primary access during FURS between April 2024 and October 2025. Patients were randomized into 2 groups to insert a ureteral double-J stent for either 2 weeks (n = 30) or 4 weeks (n = 30) before the definite FURS. The primary endpoint was successful insertion of a 10/12 Fr ureteral access sheath (UAS). Secondary outcomes included stone-free rate (SFR) (assessed by a postoperat",
+        "結果": "Baseline demographic and clinical characteristics were comparable between groups. Successful UAS insertion was achieved in 90% of the 2-week group and 93.3% of the 4-week group with no difference between groups (p = 0.64). No significant differences were found between groups regarding postoperative 4-week NCCT SFR (80.0% vs. 73.3%, p = 0.54), operative time (55 vs. 48.5 min, p = 0.44), or complication rates. Ureteric injuries were minor (6.7% in each group). Stent-related symptoms measured by US",
+        "結論": "In this randomized trial, no statistically significant differences were observed between 2-week and 4-week preoperative stenting regarding UAS insertion success, stone-free rate, operative time, or complication rates. These findings suggest that prolonging stent dwell time beyond 2 weeks may not provide a substantial additional benefit in this patient population. TRIAL REGISTRATION: The trial was retrospectively registered in 12/2024 on clinicaltrials.gov under the number: NCT06761378."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Double j stent",
+        "Duration",
+        "Flexible ureteroscopy",
+        "Stone",
+        "Ureteral access sheath"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Ureteroscopy",
+        "Stents",
+        "Female",
+        "Male",
+        "Single-Blind Method",
+        "Time Factors",
+        "Kidney Calculi",
+        "Middle Aged",
+        "Ureter"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42464249/",
+      "DOI": "10.1186/s12894-026-02244-9"
+    },
+    {
+      "pmid": "42008965",
+      "標題": "Preoperative frailty for predicting in-hospital mortality in patients after cardiac surgery: an interpretable Machine learning model based on a retrospective multicenter cohort study.",
+      "期刊": "International journal of medical informatics",
+      "發表日期": "2026 Jul 15",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "7,955 patients, and the external validation cohort included 3,021 patients",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "by receiver operating characteristic (ROC) curves"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討Accurate prediction of mortality risk after cardiac surgery is crucial for perioperative management. The laboratory-based frailty index (FI-lab) has been associated with adverse outcomes after surgery, but its predictive value for mortality after cardiac surgery remains to be validated.\n\n【研究方法】Data were obtained from the MIMIC-IV and eICU databases. FI-lab was used for frailty evaluation. Least Absolute Shrinkage and Selection Operator (LASSO) regression was used to select predictive variables, and six machine learning models were developed.\n\n【主要結果】The internal cohort included 7,955 patients, and the external validation cohort included 3,021 patients. LASSO regression identified 37 predictor variables. The Gradient Boosting model performed best, achieving an internal test set AUC of 0.900 (95% CI: 0.868-0.933), sensitivity of 0.\n\n【結論】. RESULTS: The internal cohort included 7,955 patients, and the external validation cohort included 3,021 patients. LASSO regression identified 37 predictor variables. The Gradient Boosting model performed best, achieving an internal test set AUC of 0.900 (95% CI: 0.868-0.933), sensitivity of 0.",
+      "結構化摘要": {
+        "背景": "AND",
+        "目的": "Accurate prediction of mortality risk after cardiac surgery is crucial for perioperative management. The laboratory-based frailty index (FI-lab) has been associated with adverse outcomes after surgery, but its predictive value for mortality after cardiac surgery remains to be validated. This study developed a novel interpretable machine learning model integrating FI-lab and routine clinical variables, with rigorous external validation using two independent critical care databases for reliable, c",
+        "方法": "Data were obtained from the MIMIC-IV and eICU databases. FI-lab was used for frailty evaluation. Least Absolute Shrinkage and Selection Operator (LASSO) regression was used to select predictive variables, and six machine learning models were developed. Synthetic Minority Oversampling Technique (SMOTE) addressed class imbalance. Model performance was evaluated by receiver operating characteristic (ROC) curves, calibration curves, and decision curve analysis (DCA). SHapley Additive exPlanations (S",
+        "結果": "The internal cohort included 7,955 patients, and the external validation cohort included 3,021 patients. LASSO regression identified 37 predictor variables. The Gradient Boosting model performed best, achieving an internal test set AUC of 0.900 (95% CI: 0.868-0.933), sensitivity of 0.844, and specificity of 0.800; external validation set AUC of 0.813 (95% CI: 0.768-0.857), sensitivity of 0.750, specificity of 0.760. SHAP analysis showed that chronic kidney disease (CKD), chronic heart failure (C",
+        "結論": "The FI-lab-based Gradient Boosting model allows for highly accurate prediction of in-hospital mortality risk in patients after cardiac surgery. This externally validated model provides robust evidence for individualized perioperative risk assessment."
+      },
+      "相關趨勢": [
+        "診斷技術: machine learning",
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Cardiac Surgery",
+        "Frailty Index",
+        "Machine Learning",
+        "Mortality",
+        "Risk Prediction"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Retrospective Studies",
+        "Cardiac Surgical Procedures",
+        "Hospital Mortality",
+        "Female",
+        "Frailty",
+        "Machine Learning",
+        "Predictive Learning Models",
+        "Male",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42008965/",
+      "DOI": "10.1016/j.ijmedinf.2026.106437"
+    },
+    {
+      "pmid": "42457219",
+      "標題": "Risk of cancer induced by human papillomavirus in patients with immune-mediated inflammatory diseases: a nationwide matched cohort study.",
+      "期刊": "RMD open",
+      "發表日期": "2026 Jul 15",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "immune-mediated inflammatory diseases: a nationwide matched cohort study",
+        "I_介入": "",
+        "C_對照": "matched controls",
+        "O_結果": "the occurrence of HPV-induced cancer or severe dysplasia"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to assess the risk of HPV-induced cervical, vaginal, vulvar, anal and penile cancer in patients with IMIDs.\n\n【研究方法】We conducted a nationwide matched cohort study comparing patients with IMIDs with a control group using the French nationwide hospital medical information database between 2016 and 2023.\n\n【主要結果】A total of 122 316 patients with IMIDs and 316 047 matched controls were analysed over an 8-year study period, with a mean follow-up of 4.11 (2.47) years. IMIDs were associated with an increased risk of HPV-induced cancer or severe dysplasia (age-adjusted HR 1.99 (95% CI 1.80 to 2.\n\n【結論】Patients with IMIDs are almost two times as likely to develop HPV-associated cancer or severe dysplasia, particularly at cervical, vulvar, vaginal and anal sites, compared with matched controls.",
+      "結構化摘要": {
+        "方法": "We conducted a nationwide matched cohort study comparing patients with IMIDs with a control group using the French nationwide hospital medical information database between 2016 and 2023. The following IMIDs were considered: systemic lupus erythematosus (SLE), Sjögren's syndrome, systemic sclerosis, mixed connective tissue disease and rheumatoid arthritis. The primary outcome was the occurrence of HPV-induced cancer or severe dysplasia.",
+        "結果": "A total of 122 316 patients with IMIDs and 316 047 matched controls were analysed over an 8-year study period, with a mean follow-up of 4.11 (2.47) years. IMIDs were associated with an increased risk of HPV-induced cancer or severe dysplasia (age-adjusted HR 1.99 (95% CI 1.80 to 2.20)) in all patients with IMIDs compared with matched controls. An increased risk was observed in patients with IMIDs for all types of HPV-induced cancer except penile cancer. In the multivariable competing risk analys",
+        "結論": "Patients with IMIDs are almost two times as likely to develop HPV-associated cancer or severe dysplasia, particularly at cervical, vulvar, vaginal and anal sites, compared with matched controls."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Autoimmune Diseases",
+        "Epidemiology",
+        "Prevalence"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Papillomavirus Infections",
+        "Middle Aged",
+        "Human Papillomavirus Viruses",
+        "Adult",
+        "Risk Factors",
+        "Aged",
+        "Male",
+        "Cohort Studies"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42457219/",
+      "DOI": "10.1136/rmdopen-2026-006927"
+    },
+    {
+      "pmid": "40953302",
+      "標題": "Frailty as a Predictor of Outcomes in Surgically Treated Ankle Fractures: A Propensity-Matched Cohort Analysis Using the mFI-5.",
+      "期刊": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "發表日期": "2026 Jul 15",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "90-day medical/surgical complications, healthcare utilization, and two- and five-year mechanical/surgical complications",
+        "I_介入": "of ankle fractures",
+        "C_對照": "nonfrail individuals (all P < 0",
+        "O_結果": "using the 5-factor modified frailty index (mFI-5)"
+      },
+      "中文摘要": "【摘要】Frailty is a critical determinant of surgical outcomes in adults; however, its influence on outcomes following surgically treated ankle fractures remains underinvestigated.",
+      "結構化摘要": {
+        "完整摘要": "Frailty is a critical determinant of surgical outcomes in adults; however, its influence on outcomes following surgically treated ankle fractures remains underinvestigated. This study evaluates whether preoperative frailty severity, measured using the 5-factor modified frailty index (mFI-5), serves as a reliable predictor of adverse outcomes in patients undergoing surgical management of ankle fractures. This retrospective cohort study used the TriNetX database to identify patients ≥50 years who underwent ankle fracture surgery within one month of injury. Patients were stratified by frailty into three cohorts using the mFI-5: nonfrail (0 to 1 comorbidities), moderately frail (2 comorbidities), and severely frail (≥3 comorbidities). Cohorts were propensity matched in 1:1 ratio for age, sex, race, and body mass index. Outcomes included 90-day medical/surgical complications, healthcare utilization, and two- and five-year mechanical/surgical complications. Relative risks with 95% confidence"
       },
       "相關趨勢": [
         "臨床結局: mortality"
       ],
       "關鍵詞": [],
       "MeSH詞彙": [
-        "Aged",
+        "Humans",
         "Female",
-        "Humans",
+        "Ankle Fractures",
         "Male",
-        "Middle Aged",
-        "Anti-Bacterial Agents",
-        "Bacteremia",
-        "Cloxacillin",
-        "Floxacillin",
-        "Penicillin G"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42309115/",
-      "DOI": "10.1016/S0140-6736(26)00761-0"
-    },
-    {
-      "pmid": "42406539",
-      "標題": "Severe Pregnancy-Associated Acute Kidney Injury and Maternal Vulnerability.",
-      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-      "發表日期": "2026 Jul 06",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "were older and had a higher burden of cardiometabolic comorbidities",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": ""
-      },
-      "中文摘要": "【研究背景】Severe pregnancy-associated acute kidney injury (PrAKI) is an uncommon but life-threatening complication of pregnancy. Contemporary population-level data on severe PrAKI in high-income countries, and the impact of the COVID-19 pandemic, remain limited.\n\n【研究方法】A retrospective cohort study was conducted using electronic health care records (EHR), including 4,094,111 pregnancies. Severe PrAKI was identified using a stringent kidney function-based definition (dialysis initiation or a first recorded eGFR < 15 mL/min/1.73 m²).\n\n【主要結果】The incidence of severe PrAKI increased nearly three-fold from 9.0 per 10,000 pregnancies in 2012-2013 to 27.6 per 10,000 pregnancies in the COVID-19 era (2020-2022).\n\n【結論】In this US cohort, severe PrAKI appears to be associated with acute systemic illness occurring in the setting of underlying chronic cardiometabolic vulnerability.",
-      "結構化摘要": {
-        "背景": "Severe pregnancy-associated acute kidney injury (PrAKI) is an uncommon but life-threatening complication of pregnancy. Contemporary population-level data on severe PrAKI in high-income countries, and the impact of the COVID-19 pandemic, remain limited. We examined temporal changes in the clinical context and outcomes of severe PrAKI in the United States from 2012 to 2022, with particular attention to the relationship between illness severity, dialysis utilization, and maternal mortality.",
-        "方法": "A retrospective cohort study was conducted using electronic health care records (EHR), including 4,094,111 pregnancies. Severe PrAKI was identified using a stringent kidney function-based definition (dialysis initiation or a first recorded eGFR < 15 mL/min/1.73 m²). Temporal trends in the incidence of severe PrAKI, maternal all-cause mortality, and pregnancy-associated dialysis were evaluated, and logistic regression was used to identify factors independently associated with severe PrAKI, includ",
-        "結果": "The incidence of severe PrAKI increased nearly three-fold from 9.0 per 10,000 pregnancies in 2012-2013 to 27.6 per 10,000 pregnancies in the COVID-19 era (2020-2022). During the COVID-19 period, maternal all-cause mortality among pregnancies complicated by severe PrAKI increased, whereas the proportion requiring pregnancy-associated dialysis remained stable over time. Pregnancies complicated by severe PrAKI occurred more in individuals who were older and had a higher burden of cardiometabolic co",
-        "結論": "In this US cohort, severe PrAKI appears to be associated with acute systemic illness occurring in the setting of underlying chronic cardiometabolic vulnerability. The dissociation between rising mortality and stable dialysis utilization underscores the need for earlier risk stratification and multidisciplinary care to reduce maternal mortality."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "COVID-19",
-        "chronic comorbidities",
-        "maternal mortality",
-        "pregnancy-associated acute kidney injury"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42406539/",
-      "DOI": "10.1093/ndt/gfag152"
-    },
-    {
-      "pmid": "42429968",
-      "標題": "Touch contamination and associated peritonitis in children undergoing maintenance peritoneal dialysis.",
-      "期刊": "Pediatric nephrology (Berlin, Germany)",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "",
-        "I_介入": "",
-        "C_對照": "38%)",
-        "O_結果": "the microbiology of touch contamination-associated peritonitis and compared it to peritonitis not associated with touch contamination"
-      },
-      "中文摘要": "【研究背景】Infections are a leading cause of hospitalization and death in children receiving maintenance peritoneal dialysis (PD). Touch contamination is an established risk factor for development of peritonitis, but data regarding optimal management of touch contamination are limited.\n\n【研究方法】We conducted a retrospective cohort study using data submitted to the Standardizing Care to Improve Outcomes in Pediatric End Stage Kidney Disease (SCOPE) collaborative between 10/1/2011 and 7/31/2025 to evaluate touch contamination in children.\n\n【主要結果】Of 2685 children included, 846 (32%) reported at least one touch contamination. In a multivariable model, younger age and non-Hispanic Black race were associated with increased rates of touch contamination.\n\n【結論】Touch contaminations are common in children undergoing maintenance PD. Administration of prophylactic antibiotics following touch contamination is associated with decreased risk of peritonitis.",
-      "結構化摘要": {
-        "背景": "Infections are a leading cause of hospitalization and death in children receiving maintenance peritoneal dialysis (PD). Touch contamination is an established risk factor for development of peritonitis, but data regarding optimal management of touch contamination are limited.",
-        "方法": "We conducted a retrospective cohort study using data submitted to the Standardizing Care to Improve Outcomes in Pediatric End Stage Kidney Disease (SCOPE) collaborative between 10/1/2011 and 7/31/2025 to evaluate touch contamination in children. Reported touch contamination events and their management, including administration of prophylactic antibiotics and transfer set changes, were evaluated. Univariate and multivariable generalized linear mixed modeling were used to assess relationships betw",
-        "結果": "Of 2685 children included, 846 (32%) reported at least one touch contamination. In a multivariable model, younger age and non-Hispanic Black race were associated with increased rates of touch contamination. Administration of prophylactic antibiotics following touch contamination was associated with a lower prevalence of peritonitis (23% vs. 38%). Most episodes of touch contamination-associated peritonitis were Gram-positive (46%) or culture negative (24%).",
-        "結論": "Touch contaminations are common in children undergoing maintenance PD. Administration of prophylactic antibiotics following touch contamination is associated with decreased risk of peritonitis."
-      },
-      "相關趨勢": [
-        "臨床結局: hospitalization"
-      ],
-      "關鍵詞": [
-        "Antibiotic prophylaxis",
-        "Children",
-        "Maintenance peritoneal dialysis",
-        "Peritonitis",
-        "Touch contamination"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42429968/",
-      "DOI": "10.1007/s00467-026-07455-8"
-    },
-    {
-      "pmid": "42426484",
-      "標題": "The pharmacokinetics and its covariates of rituximab in different clinical populations: a systematic review and narrative synthesis.",
-      "期刊": "European journal of clinical pharmacology",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "系統性回顧",
-      "PICO": {
-        "P_族群": "non-Hodgkin's lymphoma",
-        "I_介入": "courses",
-        "C_對照": "intravenous administration",
-        "O_結果": ""
-      },
-      "中文摘要": "【研究目的】本系統性回顧旨在探討ed to analyze the traditional and population pharmacokinetics of rituximab and to investigate covariates influencing its pharmacokinetics.\n\n【研究方法】A systematic search was conducted in three English databases (Medline, Embase, Cochrane Central Register of Controlled Trials) and two Chinese database (China National Knowledge Infrastructure and Wanfang Data).\n\n【主要結果】The systematic research yield 25 traditional pharmacokinetics studies and 26 population pharmacokinetics studies. The included studies mainly investigated the pharmacokinetics of rituximab in patients with non-Hodgkin's lymphoma, rheumatoid arthritis, kidney disease and anti-neutrophil cytoplasmic a...\n\n【結論】This systematic review presented a comprehensive overview of rituximab's pharmacokinetics across various clinical populations. It highlighted the complexity and variability of rituximab's pharmacokinetics.",
-      "結構化摘要": {
-        "方法": "A systematic search was conducted in three English databases (Medline, Embase, Cochrane Central Register of Controlled Trials) and two Chinese database (China National Knowledge Infrastructure and Wanfang Data). Traditional and population pharmacokinetics of rituximab conducted in humans were included. Study designs, population characteristics, pharmacokinetic parameters, and covariates were extracted. The ClinPK's checklist was used to assess the reporting quality of the included studies. The P",
-        "結果": "The systematic research yield 25 traditional pharmacokinetics studies and 26 population pharmacokinetics studies. The included studies mainly investigated the pharmacokinetics of rituximab in patients with non-Hodgkin's lymphoma, rheumatoid arthritis, kidney disease and anti-neutrophil cytoplasmic antibody-associated vasculitis. Significant variability in pharmacokinetic parameters existed among different clinical populations as well as among different subjects encountering similar clinical cond",
-        "結論": "This systematic review presented a comprehensive overview of rituximab's pharmacokinetics across various clinical populations. It highlighted the complexity and variability of rituximab's pharmacokinetics. Future research should place emphasis on the model informed precision dosing of rituximab based on pharmacokinetics and various influencing factors in clinical practice."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "PPK model",
-        "Pharmacokinetics",
-        "Population pharmacokinetics",
-        "Rituximab",
-        "Systematic review"
-      ],
-      "MeSH詞彙": [
-        "Rituximab",
-        "Humans",
-        "Antineoplastic Agents, Immunological"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42426484/",
-      "DOI": "10.1007/s00228-026-04127-2"
-    },
-    {
-      "pmid": "42432930",
-      "標題": "Extreme atherogenic index of plasma (log[TG_max/HDL_min]) and prognosis in sepsis-associated acute kidney injury: A MIMIC-IV retrospective study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "SA-AKI",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "acceptable discrimination (area under the curve 0"
-      },
-      "中文摘要": "【主要結果】suggest that early elevation of log(TG_max/HDL_min) serves as a simple and accessible indicator of metabolic dysfunction and a potential risk marker associated with adverse outcomes in patients with SA-AKI.",
-      "結構化摘要": {
-        "完整摘要": "Sepsis-associated acute kidney injury (SA-AKI) substantially worsens clinical outcomes, yet reliable prognostic biomarkers remain limited. Dysregulation of lipid metabolism, particularly elevated triglycerides (TG) and decreased high-density lipoprotein cholesterol (HDL-C), may mirror the severity of critical illness. In this retrospective cohort study based on the Medical Information Mart for Intensive Care IV database, we investigated whether a logarithmic lipid ratio, log(TG_max/HDL_min), obtained during the first week of intensive care, predicts adverse outcomes among 1633 adults with SA-AKI. Higher log(TG_max/HDL_min) was independently associated with increased 1-year mortality and prolonged lengths of stay in both the intensive care unit and hospital after multivariable adjustment for age, sex, blood urea nitrogen, serum creatinine, and Sequential Organ Failure Assessment (SOFA) score. These associations were particularly pronounced in non-diabetic and insulin-naïve individuals. "
-      },
-      "相關趨勢": [
-        "診斷技術: biomarker",
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "Log(TG_max/HDL_min)",
-        "high-density lipoprotein cholesterol (HDL)",
-        "length of stay (LOS)",
-        "mortality",
-        "sepsis-associated acute kidney injury (SA-AKI)",
-        "triglycerides (TG)"
-      ],
-      "MeSH詞彙": [
-        "Humans",
         "Retrospective Studies",
-        "Acute Kidney Injury",
-        "Prognosis",
-        "Female",
-        "Sepsis",
-        "Triglycerides",
-        "Male",
-        "Biomarkers",
-        "Middle Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42432930/",
-      "DOI": "10.1097/MD.0000000000049718"
-    },
-    {
-      "pmid": "42431710",
-      "標題": "Adjuvant penpulimab in very-high risk clear cell renal cell carcinoma: a prospective, non-randomized, controlled phase II trial with integrated plasma multi-omics analyses.",
-      "期刊": "Journal for immunotherapy of cancer",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "very-high risk clear cell renal cell carcinoma (ccRCC) remain at substantial risk of recurrence after nephrectomy",
-        "I_介入": "either adjuvant penpulimab or routine surveillance",
-        "C_對照": "surveillance (HR",
-        "O_結果": "disease-free survival (DFS), with secondary endpoints including overall survival (OS) and safety"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Patients with very-high risk clear cell renal cell carcinoma (ccRCC) remain at substantial risk of recurrence after nephrectomy. However, heterogeneity in benefit from adjuvant immunotherapy observed in the KEYNOTE-564 trial, together with limited prospective data in this population, warrants furthe...\n\n【研究方法】This multicenter, prospective, non-randomized, controlled phase II trial enrolled patients with very-high risk ccRCC following nephrectomy. Patients received either adjuvant penpulimab or routine surveillance, with 1:1 propensity score matching (PSM) applied to balance baseline characteristics.\n\n【主要結果】Given the non-randomized design, baseline imbalances were addressed by PSM, yielding well-balanced cohorts of 87 patients per group. Adjuvant penpulimab was associated with improved DFS compared with surveillance (HR, 0.37; 95% CI 0.16 to 0.89; p=0.026), whereas OS data remained immature.\n\n【結論】Adjuvant penpulimab was associated with improved DFS and a manageable safety profile in patients with very-high risk ccRCC. Plasma-based biomarkers associated with disease progression may inform postoperative risk stratification and warrant further validation.",
-      "結構化摘要": {
-        "方法": "This multicenter, prospective, non-randomized, controlled phase II trial enrolled patients with very-high risk ccRCC following nephrectomy. Patients received either adjuvant penpulimab or routine surveillance, with 1:1 propensity score matching (PSM) applied to balance baseline characteristics. The primary endpoint was disease-free survival (DFS), with secondary endpoints including overall survival (OS) and safety. Plasma proteomic and metabolomic profiling was conducted for exploratory analyses",
-        "結果": "Given the non-randomized design, baseline imbalances were addressed by PSM, yielding well-balanced cohorts of 87 patients per group. Adjuvant penpulimab was associated with improved DFS compared with surveillance (HR, 0.37; 95% CI 0.16 to 0.89; p=0.026), whereas OS data remained immature. Consistent with Kaplan-Meier estimates, 1-year (94.25% vs 80.46%) and 2-year (88.68% vs 75.38%) DFS rates favored the penpulimab group (log-rank p=0.026). Penpulimab was generally well tolerated, with most trea",
-        "結論": "Adjuvant penpulimab was associated with improved DFS and a manageable safety profile in patients with very-high risk ccRCC. Plasma-based biomarkers associated with disease progression may inform postoperative risk stratification and warrant further validation. TRIAL REGISTRATION NUMBER: ChiCTR2200062189."
-      },
-      "相關趨勢": [
-        "治療方法: immunotherapy",
-        "診斷技術: biomarker"
-      ],
-      "關鍵詞": [
-        "Biomarker",
-        "Immune Checkpoint Inhibitor",
-        "Kidney Cancer"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Carcinoma, Renal Cell",
-        "Kidney Neoplasms",
-        "Prospective Studies",
-        "Female",
-        "Multiomics",
-        "Male",
         "Aged",
         "Middle Aged",
-        "Proteomics"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42431710/",
-      "DOI": "10.1136/jitc-2026-015686"
-    },
-    {
-      "pmid": "42432978",
-      "標題": "Combining biomarkers with clinical risk factors to predict acute kidney injury after cardiopulmonary bypass surgery: An observational cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Acute Kidney Injury 的病人",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "enhanced predictive performance (AUC = 0"
-      },
-      "中文摘要": "【摘要】Cardiac surgery-associated acute kidney injury (CSA-AKI) is a prevalent complication subsequent to cardiopulmonary bypass (CPB) surgery. Timely diagnosis is essential for enhancing patient outcomes.",
-      "結構化摘要": {
-        "完整摘要": "Cardiac surgery-associated acute kidney injury (CSA-AKI) is a prevalent complication subsequent to cardiopulmonary bypass (CPB) surgery. Timely diagnosis is essential for enhancing patient outcomes. Traditional diagnostic approaches that depend on serum creatinine and urine output frequently result in delays; therefore, there is a pressing necessity to discover sensitive and specific biomarkers. This study is the 1st investigation to concurrently assess the collective predictive capacity of soluble urokinase-type plasminogen activator receptor (suPAR [a systemic inflammation biomarker]), neutrophil gelatinase-associated lipocalin (NGAL [an early indicator of renal tubular damage]), and matrix metalloproteinase-7 (MMP-7 [a marker of Wnt pathway activation]) for CSA-AKI. In this single-center observational study, 116 patients undergoing CPB cardiac surgery were enrolled and categorized into AKI and non-AKI groups according to kidney disease improving global outcomes criteria. Levels of p"
-      },
-      "相關趨勢": [
-        "診斷技術: biomarker",
-        "研究主題: inflammation"
-      ],
-      "關鍵詞": [
-        "cardiac surgery-associated acute kidney injury",
-        "cardiopulmonary bypass",
-        "neutrophil gelatinase-associated lipocalin",
-        "soluble urokinase-type plasminogen activator receptor",
-        "urinary matrix metalloproteinase-7"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Biomarkers",
-        "Acute Kidney Injury",
-        "Female",
-        "Cardiopulmonary Bypass",
-        "Male",
-        "Lipocalin-2",
-        "Matrix Metalloproteinase 7",
-        "Risk Factors",
-        "Receptors, Urokinase Plasminogen Activator"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42432978/",
-      "DOI": "10.1097/MD.0000000000049765"
-    },
-    {
-      "pmid": "42432976",
-      "標題": "Rapid progression of cardiovascular-kidney-metabolic syndrome drives accelerated frailty trajectories: A longitudinal cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Jul 10",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Metabolic Syndrome, Disease Progression 的病人",
-        "I_介入": "dynamic cardiovascular-kidney-metabolic (CKM) syndrome progression",
-        "C_對照": "the stable/improved group",
-        "O_結果": "increased the risk of the \"Accelerated Adverse\" trajectory (OR = 2"
-      },
-      "中文摘要": "【摘要】The impact of dynamic cardiovascular-kidney-metabolic (CKM) syndrome progression on longitudinal frailty trajectories remains unclear. This study investigated how rapid CKM worsening influences adverse frailty index development.",
-      "結構化摘要": {
-        "完整摘要": "The impact of dynamic cardiovascular-kidney-metabolic (CKM) syndrome progression on longitudinal frailty trajectories remains unclear. This study investigated how rapid CKM worsening influences adverse frailty index development. We analyzed 3090 community-dwelling adults (baseline CKM stages 1-3, non-frail). CKM progression over 4 years was categorized as stable/improved, mild (+1 stage), or rapid (≥2 stages). Growth mixture modeling identified latent frailty index trajectories over a 7-year follow-up. Growth mixture modeling identified 2 trajectories: \"Stable Progressive\" (93.5%) and \"Accelerated Adverse\" (6.5%). Multivariable analysis revealed that rapid CKM progression significantly increased the risk of the \"Accelerated Adverse\" trajectory (OR = 2.44; 95% CI: 1.56-3.83) compared to the stable/improved group. Notably, mild progression showed no significant association. Rapid CKM stage deterioration independently predicts accelerated frailty worsening. Incorporating dynamic CKM chang"
-      },
-      "相關趨勢": [
-        "研究主題: cardiovascular"
-      ],
-      "關鍵詞": [
-        "cardiovascular-kidney-metabolic syndrome",
-        "disease progression",
-        "frailty",
-        "growth mixture modeling",
-        "trajectory"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Metabolic Syndrome",
-        "Longitudinal Studies",
-        "Disease Progression",
         "Frailty",
-        "Female",
-        "Male",
-        "Aged",
-        "Cardio-Renal Syndrome",
-        "Middle Aged"
+        "Postoperative Complications",
+        "Propensity Score"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42432976/",
-      "DOI": "10.1097/MD.0000000000049742"
-    },
-    {
-      "pmid": "42426663",
-      "標題": "Features and management of kidney manifestations of tuberous sclerosis complex: a real-world study in a Brazilian patient cohort.",
-      "期刊": "BMC nephrology",
-      "發表日期": "2026 Jul 09",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "",
-        "I_介入": "",
-        "C_對照": "126 [97-149] mL/min/1",
-        "O_結果": "that female patients have slightly lower eGFR (117 [94-127] vs"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討to characterize the kidney phenotype in a Brazilian cohort of TSC patients and identify potential risk factors associated with kidney complications.\n\n【研究方法】This real-world retrospective observational study analyzed data from TSC patients recorded on their first nephrology consultation at two Brazilian university hospitals between September 2019 and August 2024. Clinical, laboratory and imaging data were collected from medical records.\n\n【主要結果】172 patients were included (28 ± 14.2 years, 62.2% female, 22.7% pediatric). Angiomyolipoma was the most frequent renal lesion (91.7%) with increasing prevalence with age, followed by cysts (45.2%). 41.9% of the patients meeting renal indications were receiving mTOR inhibitor.\n\n【結論】This Brazilian cohort study demonstrated that TSC-related kidney involvement may occur early in life, displays a progressive profile and leads to severe kidney outcomes.",
-      "結構化摘要": {
-        "背景": "Tuberous sclerosis complex (TSC) is a rare autosomal dominant disorder resulting from pathogenic variants in the TSC1 or TSC2 genes, leading to hyperactivation of the mechanistic target of rapamycin (mTOR) pathway and subsequent development of benign neoplasms in multiple organs. Kidney involvement is frequent, being angiomyolipoma the most common lesion. Angiomyolipoma can occur since childhood and progress throughout life, potentially leading to complications such as hemorrhage and chronic kid",
-        "方法": "This real-world retrospective observational study analyzed data from TSC patients recorded on their first nephrology consultation at two Brazilian university hospitals between September 2019 and August 2024. Clinical, laboratory and imaging data were collected from medical records. Comparative analyses were conducted based on sex, history of kidney hemorrhage, kidney invasive interventions and CKD G3-G5D.",
-        "結果": "172 patients were included (28 ± 14.2 years, 62.2% female, 22.7% pediatric). Angiomyolipoma was the most frequent renal lesion (91.7%) with increasing prevalence with age, followed by cysts (45.2%). 41.9% of the patients meeting renal indications were receiving mTOR inhibitor. The prevalence of CKD G3-G5, kidney hemorrhage and interventions was 9.9%, 16.6%, and 27.9%, respectively. Comparative analysis matched by age showed that female patients have slightly lower eGFR (117 [94-127] vs. 126 [97-",
-        "結論": "This Brazilian cohort study demonstrated that TSC-related kidney involvement may occur early in life, displays a progressive profile and leads to severe kidney outcomes. The high rates of kidney complications and the suboptimal utilization of mTOR inhibitors underscore the need to increase awareness, early referral to nephrologist and timely therapeutic intervention."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Angiomyolipoma",
-        "Chronic kidney disease",
-        "Tuberous sclerosis complex",
-        "mTOR Inhibitors"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42426663/",
-      "DOI": "10.1186/s12882-026-05115-5"
-    },
-    {
-      "pmid": "42425722",
-      "標題": "Effects of early continuous renal replacement therapy in critically ill patients requiring ECMO treatment: results of a randomised controlled trial.",
-      "期刊": "Open heart",
-      "發表日期": "2026 Jul 09",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "severe cardiac and pulmonary failure but the complications of acute kidney injury and fluid overload are common",
-        "I_介入": "early initiation of CRRT (within 24 hours after ECMO) or conventionally indicated initiation of CRRT",
-        "C_對照": "15 patients (33",
-        "O_結果": "the 30-day mortality"
-      },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to determine whether the early initiation of continuous renal replacement therapy (CRRT) can reduce 30-day mortality in patients with ECMO.\n\n【研究方法】The Evaluation of early CRRT intervention in patients with ECMO study was an investigator-initiated, multicentre, randomised, open clinical trial of patients undergoing ECMO who were randomly assigned to early initiation of CRRT (within 24 hours after ECMO) or conventionally indicated initiation of ...\n\n【主要結果】The study stopped early due to feasibility. Of the 131 patients assessed for eligibility, 40 were excluded based on the inclusion and exclusion criteria. Of the 91 randomised patients, 46 were assigned to the early CRRT group and 45 were assigned to the usual care group.\n\n【結論】Early implementation of CRRT in patients with ECMO showed no evidence of a difference in 30-day mortality compared with conventional initiation. However, the trial was substantially underpowered and clinically important benefits or harms cannot be excluded. TRIAL REGISTRATION NUMBER: NCT03549923.",
-      "結構化摘要": {
-        "背景": "Extracorporeal membrane oxygenation (ECMO) is increasingly used to treat patients with severe cardiac and pulmonary failure but the complications of acute kidney injury and fluid overload are common. We aimed to determine whether the early initiation of continuous renal replacement therapy (CRRT) can reduce 30-day mortality in patients with ECMO.",
-        "方法": "The Evaluation of early CRRT intervention in patients with ECMO study was an investigator-initiated, multicentre, randomised, open clinical trial of patients undergoing ECMO who were randomly assigned to early initiation of CRRT (within 24 hours after ECMO) or conventionally indicated initiation of CRRT. All participants received standard diagnostic and therapeutic procedures. The primary endpoint was the 30-day mortality. A sample size of 500 patients was estimated to provide 80% power and a tw",
-        "結果": "The study stopped early due to feasibility. Of the 131 patients assessed for eligibility, 40 were excluded based on the inclusion and exclusion criteria. Of the 91 randomised patients, 46 were assigned to the early CRRT group and 45 were assigned to the usual care group. In the intervention group, 35 patients (76.1%) received CRRT within 24 hours post-ECMO implementation vs 15 patients (33.3%) in the usual care group. In the intention-to-treat analysis, the primary outcome occurred in 20 patient",
-        "結論": "Early implementation of CRRT in patients with ECMO showed no evidence of a difference in 30-day mortality compared with conventional initiation. However, the trial was substantially underpowered and clinically important benefits or harms cannot be excluded. TRIAL REGISTRATION NUMBER: NCT03549923."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "Death, Sudden, Cardiac",
-        "Heart Arrest",
-        "Outcome Assessment, Health Care"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Extracorporeal Membrane Oxygenation",
-        "Female",
-        "Male",
-        "Critical Illness",
-        "Time Factors",
-        "Middle Aged",
-        "Treatment Outcome",
-        "Continuous Renal Replacement Therapy",
-        "Acute Kidney Injury"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42425722/",
-      "DOI": "10.1136/openhrt-2026-003963"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/40953302/",
+      "DOI": "10.5435/JAAOS-D-25-00807"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 9,
-      "想法": "目前 'mortality' 是研究熱點 (9 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 10,
+      "想法": "目前 'mortality' 是研究熱點 (10 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
+      "頻率": 5,
+      "想法": "目前 'cardiovascular' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
       "頻率": 4,
-      "想法": "目前 'cardiovascular' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'heart failure' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "machine learning",
+      "頻率": 4,
+      "想法": "目前 'machine learning' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "目前 'hospitalization' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 2,
+      "想法": "目前 'inflammation' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "personalized",
+      "頻率": 1,
+      "想法": "目前 'personalized' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "biomarker",
-      "頻率": 4,
-      "想法": "目前 'biomarker' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 1,
+      "想法": "目前 'biomarker' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "hospitalization",
+      "關鍵詞": "SGLT2 inhibitor",
       "頻率": 1,
-      "想法": "目前 'hospitalization' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "cost-effectiveness",
-      "頻率": 1,
-      "想法": "目前 'cost-effectiveness' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "inflammation",
-      "頻率": 1,
-      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
-      "頻率": 1,
-      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "immunotherapy",
-      "頻率": 1,
-      "想法": "目前 'immunotherapy' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "hospitalization",
-      "頻率": 1,
-      "想法": "'hospitalization' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cost-effectiveness",
-      "頻率": 1,
-      "想法": "'cost-effectiveness' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "'heart failure' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
       "關鍵詞": "inflammation",
-      "頻率": 1,
-      "想法": "'inflammation' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "頻率": 2,
+      "想法": "'inflammation' (研究主題) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "machine learning",
+      "關鍵詞": "personalized",
       "頻率": 1,
-      "想法": "'machine learning' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'personalized' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
-      "類型": "跨領域研究",
-      "關鍵詞": "兒童腎臟學 + 成人腎臟學",
-      "想法": "考慮進行兒童至成人的長期追蹤研究：\n1. 兒童期腎臟疾病對成年後的影響\n2. 早期介入對長期預後的效果\n3. 生命歷程觀點的腎臟病研究",
-      "建議研究類型": "長期追蹤世代研究"
+      "類型": "研究缺口",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "biomarker",
+      "頻率": 1,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "SGLT2 inhibitor",
+      "頻率": 1,
+      "想法": "'SGLT2 inhibitor' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "方法學創新",
@@ -630,44 +654,43 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 2 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 1 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Severe Pregnancy-Associated Acute Kidney Injury an",
-        "Benzylpenicillin versus flucloxacillin or cloxacil"
+        "Real-world impact of SGLT2 inhibitors on the risk "
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 20,
+    "Humans": 19,
     "Female": 19,
     "Male": 19,
-    "Middle Aged": 18,
-    "Aged": 14,
-    "Retrospective Studies": 10,
-    "Risk Factors": 10,
-    "Acute Kidney Injury": 7,
+    "Aged": 15,
+    "Middle Aged": 14,
+    "Retrospective Studies": 11,
+    "Risk Factors": 7,
     "Adult": 7,
-    "Postoperative Complications": 4,
-    "Anti-Bacterial Agents": 3,
-    "Treatment Outcome": 3,
-    "Critical Illness": 3,
-    "Biomarkers": 3,
-    "Cardiovascular Diseases": 3,
-    "Cohort Studies": 3,
-    "Bacteremia": 2,
-    "Staphylococcal Infections": 2,
-    "Intensive Care Units": 2,
-    "Severity of Illness Index": 2,
-    "Extracorporeal Membrane Oxygenation": 2,
-    "Proportional Hazards Models": 2,
-    "Prognosis": 2,
-    "Risk Assessment": 2,
-    "Prospective Studies": 2,
-    "Aged, 80 and over": 2,
-    "Lipocalin-2": 2,
-    "Predictive Value of Tests": 2,
-    "Rituximab": 1,
-    "Antineoplastic Agents, Immunological": 1
+    "Treatment Outcome": 6,
+    "Renal Insufficiency, Chronic": 5,
+    "Cohort Studies": 5,
+    "Time Factors": 4,
+    "Aged, 80 and over": 4,
+    "Prognosis": 4,
+    "Glomerular Filtration Rate": 3,
+    "Risk Assessment": 3,
+    "Machine Learning": 3,
+    "Prospective Studies": 3,
+    "Sodium-Glucose Transporter 2 Inhibitors": 2,
+    "Hospitalization": 2,
+    "Hospital Mortality": 2,
+    "Frailty": 2,
+    "Boosting Machine Learning Algorithms": 2,
+    "ROC Curve": 2,
+    "Platelet Aggregation Inhibitors": 2,
+    "Hemorrhage": 2,
+    "Percutaneous Coronary Intervention": 2,
+    "Coronary Artery Disease": 2,
+    "Dual Anti-Platelet Therapy": 2,
+    "Aspirin": 2
   }
 }
