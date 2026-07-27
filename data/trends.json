@@ -1,130 +1,168 @@
 {
-  "總文章數": 19,
-  "高影響力期刊文章數": 1,
-  "分析日期": "2026-07-20T10:53:37.950571",
+  "總文章數": 26,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-07-27T11:24:40.222419",
   "趨勢關鍵詞統計": {
-    "研究主題": {
-      "cardiovascular": 5,
-      "heart failure": 4,
-      "inflammation": 2,
-      "personalized": 1
+    "治療方法": {
+      "SGLT2 inhibitor": 3,
+      "finerenone": 2,
+      "dapagliflozin": 2,
+      "GLP-1": 2
     },
     "臨床結局": {
-      "mortality": 10,
-      "hospitalization": 3
+      "mortality": 7,
+      "proteinuria": 3,
+      "eGFR decline": 2,
+      "ESKD": 1
+    },
+    "研究主題": {
+      "cardiovascular": 4,
+      "inflammation": 2,
+      "oxidative stress": 2,
+      "heart failure": 2
     },
     "診斷技術": {
-      "machine learning": 4,
-      "biomarker": 1
-    },
-    "治療方法": {
-      "SGLT2 inhibitor": 1
+      "proteomics": 2,
+      "biomarker": 2
     }
   },
   "熱門主題": [
     [
       "mortality",
-      10
+      7
     ],
     [
       "cardiovascular",
-      5
-    ],
-    [
-      "heart failure",
       4
     ],
     [
-      "machine learning",
-      4
-    ],
-    [
-      "hospitalization",
+      "SGLT2 inhibitor",
       3
+    ],
+    [
+      "proteinuria",
+      3
+    ],
+    [
+      "finerenone",
+      2
+    ],
+    [
+      "dapagliflozin",
+      2
+    ],
+    [
+      "GLP-1",
+      2
+    ],
+    [
+      "eGFR decline",
+      2
     ],
     [
       "inflammation",
       2
     ],
     [
-      "personalized",
-      1
+      "oxidative stress",
+      2
+    ],
+    [
+      "heart failure",
+      2
+    ],
+    [
+      "proteomics",
+      2
     ],
     [
       "biomarker",
-      1
+      2
     ],
     [
-      "SGLT2 inhibitor",
+      "ESKD",
       1
     ]
   ],
   "期刊分布": {
-    "Medicine": 3,
-    "European heart journal. Cardiovascular pharmacotherapy": 2,
-    "Renal failure": 2,
-    "Journal of the American College of Cardiology": 1,
-    "International journal of medical informatics": 1,
-    "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group": 1,
-    "Blood advances": 1,
-    "Journal of medical Internet research": 1,
+    "PloS one": 4,
+    "Pediatric nephrology (Berlin, Germany)": 3,
+    "JAMA": 2,
+    "Science translational medicine": 2,
+    "European journal of cancer (Oxford, England : 1990)": 2,
+    "Clinical journal of the American Society of Nephrology : CJASN": 1,
+    "Journal of the American Society of Nephrology : JASN": 1,
+    "International urology and nephrology": 1,
+    "Cardiology in review": 1,
+    "Journal of robotic surgery": 1,
+    "JMIR nursing": 1,
+    "Journal of global health": 1,
+    "Archives of endocrinology and metabolism": 1,
     "Neurosurgical review": 1,
-    "BMJ open": 1,
-    "JACC. Cardiovascular interventions": 1,
-    "PloS one": 1,
-    "RMD open": 1,
-    "The Journal of the American Academy of Orthopaedic Surgeons": 1,
-    "BMC urology": 1
+    "Lupus science & medicine": 1
   },
   "文章類型分布": {
-    "Journal Article": 19,
+    "Journal Article": 26,
+    "Randomized Controlled Trial": 7,
     "Multicenter Study": 6,
-    "Observational Study": 4,
-    "Randomized Controlled Trial": 3,
-    "Comparative Study": 1
+    "Clinical Trial, Phase III": 2,
+    "Comparative Study": 2,
+    "Clinical Trial, Phase II": 1,
+    "English Abstract": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 19,
     "Female": 19,
+    "Humans": 19,
     "Male": 19,
-    "Aged": 15,
-    "Middle Aged": 14,
-    "Retrospective Studies": 11,
-    "Risk Factors": 7,
-    "Adult": 7,
-    "Treatment Outcome": 6,
-    "Renal Insufficiency, Chronic": 5,
+    "Middle Aged": 17,
+    "Adult": 14,
+    "Aged": 11,
+    "Renal Insufficiency, Chronic": 7,
+    "Retrospective Studies": 7,
+    "Treatment Outcome": 5,
+    "Biomarkers": 5,
     "Cohort Studies": 5,
-    "Time Factors": 4,
+    "Kidney": 4,
     "Aged, 80 and over": 4,
-    "Prognosis": 4,
-    "Glomerular Filtration Rate": 3,
-    "Risk Assessment": 3,
-    "Machine Learning": 3,
+    "Kidney Transplantation": 4,
+    "Risk Factors": 4,
+    "Glomerulonephritis, IGA": 3,
+    "Inflammation": 3,
     "Prospective Studies": 3,
-    "Sodium-Glucose Transporter 2 Inhibitors": 2,
-    "Hospitalization": 2,
-    "Hospital Mortality": 2,
-    "Frailty": 2,
-    "Boosting Machine Learning Algorithms": 2,
-    "ROC Curve": 2,
-    "Platelet Aggregation Inhibitors": 2,
-    "Hemorrhage": 2,
-    "Percutaneous Coronary Intervention": 2,
-    "Coronary Artery Disease": 2,
-    "Dual Anti-Platelet Therapy": 2,
-    "Aspirin": 2
+    "Kaplan-Meier Estimate": 3,
+    "Postoperative Complications": 3,
+    "Albuminuria": 2,
+    "Creatinine": 2,
+    "Double-Blind Method": 2,
+    "Glomerular Filtration Rate": 2,
+    "Glomerulonephritis": 2,
+    "Mineralocorticoid Receptor Antagonists": 2,
+    "Naphthyridines": 2,
+    "Glomerulosclerosis, Focal Segmental": 2,
+    "Glomerulonephritis, Membranous": 2,
+    "Diabetes Mellitus, Type 1": 2
   },
   "按類別統計": {
-    "成人腎臟學": {
-      "文章數": 19,
+    "兒童腎臟學": {
+      "文章數": 9,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Medicine": 3,
-        "European heart journal. Cardiovascular pharmacotherapy": 2,
-        "Renal failure": 2,
-        "Journal of the American College of Cardiology": 1,
-        "International journal of medical informatics": 1
+        "Pediatric nephrology (Berlin, Germany)": 3,
+        "JAMA": 1,
+        "Clinical journal of the American Society of Nephrology : CJASN": 1,
+        "Journal of the American Society of Nephrology : JASN": 1,
+        "Science translational medicine": 1
+      }
+    },
+    "成人腎臟學": {
+      "文章數": 17,
+      "高影響力期刊文章數": 1,
+      "主要期刊": {
+        "PloS one": 4,
+        "European journal of cancer (Oxford, England : 1990)": 2,
+        "JAMA": 1,
+        "Journal of robotic surgery": 1,
+        "JMIR nursing": 1
       }
     }
   }
