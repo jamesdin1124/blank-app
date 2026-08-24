@@ -1,50 +1,68 @@
 {
-  "總文章數": 21,
-  "高影響力期刊文章數": 4,
-  "分析日期": "2026-08-17T08:44:56.478124",
+  "總文章數": 23,
+  "高影響力期刊文章數": 2,
+  "分析日期": "2026-08-24T08:49:29.301949",
   "趨勢關鍵詞統計": {
-    "臨床結局": {
-      "mortality": 5,
-      "hospitalization": 3,
-      "proteinuria": 1
+    "治療方法": {
+      "SGLT2 inhibitor": 1,
+      "GLP-1": 1
     },
-    "研究主題": {
-      "cardiovascular": 5,
-      "heart failure": 4,
-      "fibrosis": 1,
-      "precision medicine": 1
+    "臨床結局": {
+      "mortality": 8,
+      "hospitalization": 4,
+      "proteinuria": 1,
+      "ESKD": 1
     },
     "診斷技術": {
-      "biomarker": 5
+      "biomarker": 2,
+      "machine learning": 1
     },
-    "治療方法": {
-      "finerenone": 1,
-      "dapagliflozin": 1
+    "研究主題": {
+      "cardiovascular": 3,
+      "inflammation": 1,
+      "fibrosis": 1,
+      "oxidative stress": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      5
-    ],
-    [
-      "cardiovascular",
-      5
-    ],
-    [
-      "biomarker",
-      5
-    ],
-    [
-      "heart failure",
-      4
+      8
     ],
     [
       "hospitalization",
+      4
+    ],
+    [
+      "cardiovascular",
       3
     ],
     [
+      "biomarker",
+      2
+    ],
+    [
+      "SGLT2 inhibitor",
+      1
+    ],
+    [
+      "GLP-1",
+      1
+    ],
+    [
       "proteinuria",
+      1
+    ],
+    [
+      "ESKD",
+      1
+    ],
+    [
+      "machine learning",
+      1
+    ],
+    [
+      "inflammation",
       1
     ],
     [
@@ -52,96 +70,90 @@
       1
     ],
     [
-      "precision medicine",
-      1
-    ],
-    [
-      "finerenone",
-      1
-    ],
-    [
-      "dapagliflozin",
+      "oxidative stress",
       1
     ]
   ],
   "期刊分布": {
-    "European journal of pediatrics": 2,
-    "BMJ open": 2,
-    "Spine": 1,
-    "JCI insight": 1,
-    "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-    "Open heart": 1,
-    "European heart journal. Quality of care & clinical outcomes": 1,
-    "Scientific reports": 1,
-    "The Journal of the American Academy of Orthopaedic Surgeons": 1,
-    "BMC nephrology": 1,
-    "Journal of robotic surgery": 1,
-    "Annals of medicine": 1,
-    "Vaccine": 1,
-    "Calcified tissue international": 1,
-    "BMC medicine": 1
+    "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 2,
+    "Journal of nephrology": 2,
+    "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
+    "Postgraduate medical journal": 2,
+    "Medicine": 2,
+    "World journal of urology": 2,
+    "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2,
+    "Journal of affective disorders": 1,
+    "PloS one": 1,
+    "JAMA": 1,
+    "JMIR formative research": 1,
+    "Urolithiasis": 1,
+    "Archives of osteoporosis": 1,
+    "BMJ (Clinical research ed.)": 1,
+    "Zhonghua xin xue guan bing za zhi": 1
   },
   "文章類型分布": {
-    "Journal Article": 21,
+    "Journal Article": 23,
+    "English Abstract": 4,
     "Multicenter Study": 4,
+    "Randomized Controlled Trial": 4,
     "Comparative Study": 3,
-    "Randomized Controlled Trial": 3,
-    "Observational Study": 2,
+    "Observational Study": 1,
     "Clinical Trial, Phase II": 1,
-    "Network Meta-Analysis": 1,
-    "Systematic Review": 1,
-    "Pragmatic Clinical Trial": 1
+    "Clinical Trial, Phase I": 1,
+    "Controlled Clinical Trial": 1
   },
   "MeSH詞彙頻率": {
     "Humans": 21,
-    "Male": 20,
-    "Female": 19,
-    "Aged": 15,
-    "Middle Aged": 13,
-    "Retrospective Studies": 10,
-    "Risk Factors": 8,
-    "Acute Kidney Injury": 7,
-    "Adult": 7,
+    "Female": 21,
+    "Male": 21,
+    "Middle Aged": 18,
+    "Adult": 15,
+    "Aged": 11,
+    "Retrospective Studies": 7,
+    "Risk Factors": 6,
+    "Prospective Studies": 6,
+    "Postoperative Complications": 4,
+    "Creatinine": 4,
     "Treatment Outcome": 4,
-    "Renal Insufficiency, Chronic": 4,
-    "Incidence": 3,
-    "Postoperative Complications": 3,
+    "Kidney Transplantation": 3,
+    "Glomerular Filtration Rate": 3,
+    "Cardiovascular Diseases": 3,
     "Cohort Studies": 3,
-    "Prognosis": 3,
-    "Propensity Score": 3,
-    "Aged, 80 and over": 3,
-    "Biomarkers": 3,
+    "Preoperative Care": 3,
+    "Kidney Calculi": 3,
+    "Anemia": 2,
+    "Incidence": 2,
     "Child": 2,
-    "Prospective Studies": 2,
-    "Chronic Disease": 2,
+    "Adolescent": 2,
+    "Child, Preschool": 2,
+    "Renal Insufficiency, Chronic": 2,
+    "Renal Replacement Therapy": 2,
     "Risk Assessment": 2,
-    "China": 2,
-    "Kidney": 2,
+    "Administration, Intravenous": 2,
+    "Carcinoma, Renal Cell": 2,
     "Kidney Neoplasms": 2,
-    "Acute Coronary Syndrome": 2,
-    "East Asian People": 2,
-    "United States": 2,
-    "Sodium-Glucose Transporter 2 Inhibitors": 2,
-    "Renal Dialysis": 2
+    "Acute Kidney Injury": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 3,
-      "高影響力期刊文章數": 3,
+      "文章數": 4,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "European journal of pediatrics": 2,
-        "BMJ open": 1
+        "Journal of affective disorders": 1,
+        "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
+        "Journal of nephrology": 1,
+        "PloS one": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 18,
-      "高影響力期刊文章數": 1,
+      "文章數": 19,
+      "高影響力期刊文章數": 2,
       "主要期刊": {
-        "Spine": 1,
-        "JCI insight": 1,
-        "Clinical cancer research : an official journal of the American Association for Cancer Research": 1,
-        "Open heart": 1,
-        "European heart journal. Quality of care & clinical outcomes": 1
+        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
+        "Postgraduate medical journal": 2,
+        "Medicine": 2,
+        "World journal of urology": 2,
+        "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2
       }
     }
   }
