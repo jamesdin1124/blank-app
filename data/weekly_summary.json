@@ -1,35 +1,32 @@
 {
-  "報告日期": "2026-08-24T08:49:29.307618",
+  "報告日期": "2026-08-31T15:55:44.826419",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 23,
-    "高影響力期刊文章數": 2,
+    "總文章數": 26,
+    "高影響力期刊文章數": 4,
     "主要發現": [
-      "本週熱門研究主題: mortality (8篇), hospitalization (4篇), cardiovascular (3篇)",
-      "高影響力期刊發表 2 篇，包括: JAMA, BMJ (Clinical research ed.)",
-      "高品質證據: 4 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (7篇), cardiovascular (6篇), inflammation (4篇)",
+      "高影響力期刊發表 4 篇，包括: Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association, Lancet (London, England)",
+      "高品質證據: 7 篇 RCT, 2 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 4,
-      "高影響力期刊文章數": 0,
+      "文章數": 1,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Journal of affective disorders": 1,
-        "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
-        "Journal of nephrology": 1,
-        "PloS one": 1
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 19,
-      "高影響力期刊文章數": 2,
+      "文章數": 25,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
-        "Postgraduate medical journal": 2,
-        "Medicine": 2,
-        "World journal of urology": 2,
-        "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2
+        "Journal of nephrology": 4,
+        "Annals of medicine": 3,
+        "Renal failure": 3,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
+        "Urolithiasis": 2
       }
     }
   },
@@ -37,14 +34,22 @@
     "熱門主題": [
       [
         "mortality",
-        8
-      ],
-      [
-        "hospitalization",
-        4
+        7
       ],
       [
         "cardiovascular",
+        6
+      ],
+      [
+        "inflammation",
+        4
+      ],
+      [
+        "heart failure",
+        3
+      ],
+      [
+        "hospitalization",
         3
       ],
       [
@@ -52,498 +57,546 @@
         2
       ],
       [
-        "SGLT2 inhibitor",
+        "quality of life",
+        2
+      ],
+      [
+        "dapagliflozin",
+        1
+      ],
+      [
+        "immunotherapy",
         1
       ],
       [
         "GLP-1",
         1
-      ],
-      [
-        "proteinuria",
-        1
-      ],
-      [
-        "ESKD",
-        1
-      ],
-      [
-        "machine learning",
-        1
-      ],
-      [
-        "inflammation",
-        1
       ]
     ],
     "趨勢關鍵詞": {
       "治療方法": {
-        "SGLT2 inhibitor": 1,
+        "dapagliflozin": 1,
+        "immunotherapy": 1,
         "GLP-1": 1
-      },
-      "臨床結局": {
-        "mortality": 8,
-        "hospitalization": 4,
-        "proteinuria": 1,
-        "ESKD": 1
       },
       "診斷技術": {
         "biomarker": 2,
-        "machine learning": 1
+        "artificial intelligence": 1
       },
       "研究主題": {
-        "cardiovascular": 3,
-        "inflammation": 1,
-        "fibrosis": 1,
-        "oxidative stress": 1
+        "cardiovascular": 6,
+        "inflammation": 4,
+        "heart failure": 3,
+        "personalized": 1
+      },
+      "臨床結局": {
+        "mortality": 7,
+        "hospitalization": 3,
+        "quality of life": 2
       }
     },
     "期刊分布": {
-      "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 2,
-      "Journal of nephrology": 2,
-      "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
-      "Postgraduate medical journal": 2,
-      "Medicine": 2,
-      "World journal of urology": 2,
-      "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2,
-      "Journal of affective disorders": 1,
+      "Journal of nephrology": 4,
+      "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
+      "Annals of medicine": 3,
+      "Renal failure": 3,
+      "Urolithiasis": 2,
+      "Lancet (London, England)": 1,
+      "Heart (British Cardiac Society)": 1,
+      "European heart journal. Acute cardiovascular care": 1,
+      "Journal of visualized experiments : JoVE": 1,
+      "PLoS medicine": 1,
       "PloS one": 1,
-      "JAMA": 1,
-      "JMIR formative research": 1,
-      "Urolithiasis": 1,
-      "Archives of osteoporosis": 1,
-      "BMJ (Clinical research ed.)": 1,
+      "Open heart": 1,
+      "World journal of urology": 1,
+      "Advances in rheumatology (London, England)": 1,
       "Zhonghua xin xue guan bing za zhi": 1
     },
     "文章類型": {
-      "Journal Article": 23,
-      "English Abstract": 4,
-      "Multicenter Study": 4,
-      "Randomized Controlled Trial": 4,
-      "Comparative Study": 3,
-      "Observational Study": 1,
-      "Clinical Trial, Phase II": 1,
-      "Clinical Trial, Phase I": 1,
-      "Controlled Clinical Trial": 1
+      "Journal Article": 26,
+      "Randomized Controlled Trial": 7,
+      "Multicenter Study": 5,
+      "Systematic Review": 2,
+      "Meta-Analysis": 2,
+      "Clinical Trial, Phase III": 1,
+      "Comparative Study": 1,
+      "Validation Study": 1,
+      "Video-Audio Media": 1,
+      "Observational Study": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42618081",
-      "標題": "Intravenous iron to treat anaemia before cardiac surgery (ITACS): international, double blind, placebo controlled randomised trial.",
-      "期刊": "BMJ (Clinical research ed.)",
-      "發表日期": "2026 Aug 19",
+      "pmid": "42586114",
+      "標題": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial.",
+      "期刊": "Lancet (London, England)",
+      "發表日期": "2026 Aug 29",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "anaemia undergoing elective cardiac surgery",
-        "I_介入": "in the previous four weeks",
-        "C_對照": "during their hospital stay (relative risk 0",
-        "O_結果": "MEASURES: The number of days alive and at home up to 90 days after surgery (primary outcome), red cell transfusion requirements and complications (secondary outcomes)"
+        "P_族群": "previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label",
+        "I_介入": "immune checkpoint inhibitors",
+        "C_對照": "cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label",
+        "O_結果": "s were progression-free survival by masked independent central review and overall survival, assessed in all randomly assigned participants"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To evaluate the effects of intravenous iron on red cell transfusion and recovery after cardiac surgery.\n\n【主要結果】Of 2993 screened participants, 955 were enrolled and 921 of the eligible 939 modified intention-to-treat participants were assessed for the primary outcome. The median number of days alive and at home up to 90 days after surgery was 81.1 (interquartile range 74.8-83.\n\n【結論】Among patients with anaemia undergoing elective cardiac surgery, preoperative intravenous iron was associated with a reduction in red cell transfusion and a small improvement in the number of days alive and at home in the first 90 days after surgery.",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to investigate belzutifan plus lenvatinib versus cabozantinib in participants with clear-cell renal cell carcinoma previously treated with immune checkpoint inhibitors.\n\n【研究方法】LITESPARK-011 is a phase 3, open-label, randomised, active-controlled study conducted at 184 medical centres in 25 countries in Asia, Australia, Europe, North America, and South America.\n\n【主要結果】Between March 5, 2021, and Sept 1, 2023, 955 individuals were screened for eligibility, 747 of whom were randomly assigned to belzutifan-lenvatinib (n=371) or cabozantinib (n=376). 565 (76%) participants were male and 182 (24%) were female; 651 (87%) were White (table 1).\n\n【結論】Belzutifan-lenvatinib represents a novel and efficacious treatment option. Although overall survival was not significantly different between the groups, belzutifan-lenvatinib might be a new standard of care for patients with advanced clear-cell renal cell carcinoma with disease progression after pre...",
       "結構化摘要": {
-        "目的": "To evaluate the effects of intravenous iron on red cell transfusion and recovery after cardiac surgery. DESIGN: International, multicentre, double blind, placebo controlled randomised trial (ITACS). SETTING: 33 hospitals across 10 countries. Participants were enrolled between July 2016 and December 2023. PARTICIPANTS: 955 adults with anaemia undergoing elective cardiac surgery. Exclusion criteria included haemoglobinopathy or iron storage disorder, renal dialysis, and erythropoietin or intraveno",
-        "結果": "Of 2993 screened participants, 955 were enrolled and 921 of the eligible 939 modified intention-to-treat participants were assessed for the primary outcome. The median number of days alive and at home up to 90 days after surgery was 81.1 (interquartile range 74.8-83.7) in patients assigned to intravenous iron and 80.0 (69.5-83.6) in those receiving placebo (adjusted median difference 1.0 day, 95.4% confidence interval 0.0 to 2.1 days, P=0.041). Red cell transfusions were given to 262 patients (6",
-        "結論": "Among patients with anaemia undergoing elective cardiac surgery, preoperative intravenous iron was associated with a reduction in red cell transfusion and a small improvement in the number of days alive and at home in the first 90 days after surgery. Intravenous iron is an effective component of patient blood management in this setting. TRIAL REGISTRATION: ClinicalTrials.gov NCT02632760."
+        "背景": "The identification of a clear standard of care for patients with advanced clear-cell renal cell carcinoma following anti-PD-1 or anti-PD-L1 therapy warrants study as an unmet need. We aimed to investigate belzutifan plus lenvatinib versus cabozantinib in participants with clear-cell renal cell carcinoma previously treated with immune checkpoint inhibitors.",
+        "方法": "LITESPARK-011 is a phase 3, open-label, randomised, active-controlled study conducted at 184 medical centres in 25 countries in Asia, Australia, Europe, North America, and South America. Participants were aged 18 years or older with advanced unresectable, locally advanced or metastatic stage IV clear-cell renal cell carcinoma, with disease progression following anti-PD-1 or anti-PD-L1 therapy with or without previous VEGFR-tyrosine-kinase inhibitors. Participants were randomly assigned (1:1) to "
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "治療方法: immunotherapy"
+      ],
       "關鍵詞": [],
       "MeSH詞彙": [
-        "Humans",
-        "Double-Blind Method",
-        "Cardiac Surgical Procedures",
-        "Female",
-        "Erythrocyte Transfusion",
-        "Male",
         "Aged",
-        "Iron",
+        "Female",
+        "Humans",
+        "Male",
         "Middle Aged",
-        "Anemia"
+        "Anilides",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Renal Cell",
+        "Kidney Neoplasms",
+        "Phenylurea Compounds"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42618081/",
-      "DOI": "10.1136/bmj-2026-100407"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42586114/",
+      "DOI": "10.1016/S0140-6736(26)01089-5"
     },
     {
-      "pmid": "42240159",
-      "標題": "Measured and Estimated Glomerular Filtration Rates and Risk of Adverse Health Outcomes.",
-      "期刊": "JAMA",
-      "發表日期": "2026 Aug 18",
+      "pmid": "41697144",
+      "標題": "GLP-1 receptor agonists reduce dementia and Alzheimer disease risk in diabetic patients with CKD.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Aug 27",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "患有 Cardiovascular Diseases, Renal Insufficiency 的病人",
-        "I_介入": "iohexol (primary independent variable of interest)",
-        "C_對照": "a baseline mGFR of 90 mL/min/1",
-        "O_結果": "S AND MEASURES: Primary outcomes were all-cause mortality and kidney failure with replacement therapy"
+        "P_族群": "CKD",
+        "I_介入": "strategies for this vulnerable population",
+        "C_對照": "dipeptidyl peptidase-4 inhibitors (DPP4is)",
+        "O_結果": "the incidence of dementia, Alzheimer's disease, vascular dementia, frontotemporal dementia, Parkinson's disease, extrapyramidal and movement disorders, and dementia with Lewy bodies, assessed over a f"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討To quantify associations between mGFR and adverse clinical outcomes and to compare these with eGFR-based associations.\n\n【主要結果】Of 6174 participants (median age, 59 years [IQR, 43-69]; 3686 [60%] were male and 2488 [40%] were female), 1977 (32%) died and 426 (6.9%) developed kidney failure with replacement therapy during a median follow-up of 5.9 years (IQR, 3.0-8.8 years). Compared with a baseline mGFR of 90 mL/min/1.\n\n【結論】AND RELEVANCE: Among adults in Sweden, mGFR values of 60 mL/min/1.73 m2 were associated with higher rates of all-cause mortality and kidney failure compared with mGFR values of 90 mL/min/1.73 m2, supporting the current GFR threshold of 60 mL/min/1.73 m2 to define chronic kidney disease.",
+      "中文摘要": "【研究背景】Patients with chronic kidney disease (CKD) and type 2 diabetes mellitus (T2DM) are at increased risk of developing dementia and Alzheimer's disease due to vascular dysfunction, insulin resistance and chronic inflammation.\n\n【研究方法】This retrospective cohort study analyzed data from the TriNetX global research network, comprising electronic medical records from 67 healthcare organizations in the US Collaborative Network.\n\n【主要結果】GLP-1RA use was associated with a significantly lower risk of dementia [hazard ratio (HR) 0.80, 95% confidence interval (CI) 0.71-0.91, P = .001] and Alzheimer's disease (HR 0.76, 95% CI 0.59-0.98, P = .033) compared with DPP4i use.\n\n【結論】GLP-1RA therapy may reduce the risk of dementia and Alzheimer's disease in patients with CKD stage 3 or later, offering potential neuroprotective benefits beyond glycemic control. Research is needed to confirm these findings and optimize treatment strategies for this vulnerable population.",
       "結構化摘要": {
-        "目的": "To quantify associations between mGFR and adverse clinical outcomes and to compare these with eGFR-based associations. DESIGN, SETTING, AND PARTICIPANTS: Retrospective observational cohort study of 6174 adults from Stockholm, Sweden, between January 1, 2011, and December 31, 2021. EXPOSURE: Measured GFR was obtained based on plasma clearance of intravenously administered iohexol (primary independent variable of interest). Estimated GFR was calculated with plasma creatinine (eGFRcr), cystatin C (",
-        "結果": "Of 6174 participants (median age, 59 years [IQR, 43-69]; 3686 [60%] were male and 2488 [40%] were female), 1977 (32%) died and 426 (6.9%) developed kidney failure with replacement therapy during a median follow-up of 5.9 years (IQR, 3.0-8.8 years). Compared with a baseline mGFR of 90 mL/min/1.73 m2, an mGFR of 60 mL/min/1.73 m2 was associated with higher rates of all-cause mortality (27.6 vs 22.4 per 1000 person-years; hazard ratio [HR], 1.21; 95% CI, 1.14-1.28) and kidney failure with replaceme",
-        "結論": "AND RELEVANCE: Among adults in Sweden, mGFR values of 60 mL/min/1.73 m2 were associated with higher rates of all-cause mortality and kidney failure compared with mGFR values of 90 mL/min/1.73 m2, supporting the current GFR threshold of 60 mL/min/1.73 m2 to define chronic kidney disease. Associations of mGFR with mortality were most closely represented by the association of eGFRcr-cys with mortality, whereas eGFRcr underestimated and eGFRcys overestimated mortality risk."
+        "背景": "Patients with chronic kidney disease (CKD) and type 2 diabetes mellitus (T2DM) are at increased risk of developing dementia and Alzheimer's disease due to vascular dysfunction, insulin resistance and chronic inflammation. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have shown neuroprotective properties; however, their impact on dementia risk in diabetic patients with CKD remains uncertain. This study evaluated the association between GLP-1RA use and dementia risk in patients with CKD st",
+        "方法": "This retrospective cohort study analyzed data from the TriNetX global research network, comprising electronic medical records from 67 healthcare organizations in the US Collaborative Network. We identified patients with CKD stage 3 or later and T2DM who were newly prescribed GLP-1RAs or DPP4is between 1 January 2015 and 31 December 2020. Patients with prior GLP-1RAs or DPP4i use, a dementia diagnosis within 12 months before the index date or recent hospitalization were excluded. The primary outc",
+        "結果": "GLP-1RA use was associated with a significantly lower risk of dementia [hazard ratio (HR) 0.80, 95% confidence interval (CI) 0.71-0.91, P = .001] and Alzheimer's disease (HR 0.76, 95% CI 0.59-0.98, P = .033) compared with DPP4i use. However, no significant differences were observed in vascular dementia, frontotemporal dementia, Parkinson's disease, extrapyramidal and movement disorders, or dementia with Lewy bodies.",
+        "結論": "GLP-1RA therapy may reduce the risk of dementia and Alzheimer's disease in patients with CKD stage 3 or later, offering potential neuroprotective benefits beyond glycemic control. Research is needed to confirm these findings and optimize treatment strategies for this vulnerable population."
+      },
+      "相關趨勢": [
+        "治療方法: GLP-1",
+        "研究主題: inflammation",
+        "臨床結局: hospitalization"
+      ],
+      "關鍵詞": [
+        "Alzheimer’s disease",
+        "GLP-1 receptor agonists",
+        "chronic kidney disease",
+        "dementia",
+        "type 2 diabetes"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Male",
+        "Alzheimer Disease",
+        "Retrospective Studies",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Diabetes Mellitus, Type 2",
+        "Aged",
+        "Renal Insufficiency, Chronic",
+        "Dementia"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41697144/",
+      "DOI": "10.1093/ndt/gfag032"
+    },
+    {
+      "pmid": "41728915",
+      "標題": "Effect of semaglutide on COVID-19 and other infections: an analysis from the FLOW randomized clinical trial.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Aug 27",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "type 2 diabetes (T2D) and chronic kidney disease (CKD)",
+        "I_介入": "semaglutide",
+        "C_對照": "placebo reduced the risk of major kidney",
+        "O_結果": "a three-component composite [time from randomization to first infection serious adverse event (SAE), first hospitalization due to infection, or all-cause death]"
+      },
+      "中文摘要": "【研究背景】In the FLOW trial (Evaluate Renal Function with Semaglutide Once-Weekly; ClinicalTrials.gov, NCT03819153), once-weekly subcutaneous semaglutide 1.0 mg versus placebo reduced the risk of major kidney, cardiovascular (CV) and mortality outcomes in participants with type 2 diabetes (T2D) and chronic ki...\n\n【研究方法】The main outcome was a three-component composite [time from randomization to first infection serious adverse event (SAE), first hospitalization due to infection, or all-cause death].\n\n【主要結果】Semaglutide reduced the risk of the main outcome versus placebo [hazard ratio (HR) (95% confidence interval) 0.79 (0.69-0.89); P = .0002]. This risk reduction was greater in subgroups with baseline hemoglobin A1c >8% [HR 0.63 (0.52-0.76)] versus ≤8% [HR 0.93 (0.79-1.11); Pinteraction = .\n\n【結論】Semaglutide reduced risks of infection SAEs, hospitalization due to infection, and all-cause death with greater benefit among those with poorer glycemic control and greater baseline albuminuria.",
+      "結構化摘要": {
+        "背景": "In the FLOW trial (Evaluate Renal Function with Semaglutide Once-Weekly; ClinicalTrials.gov, NCT03819153), once-weekly subcutaneous semaglutide 1.0 mg versus placebo reduced the risk of major kidney, cardiovascular (CV) and mortality outcomes in participants with type 2 diabetes (T2D) and chronic kidney disease (CKD). This pre-specified analysis assesses the impact of semaglutide on risks of serious infections and coronavirus disease 2019 (COVID-19) in the FLOW trial.",
+        "方法": "The main outcome was a three-component composite [time from randomization to first infection serious adverse event (SAE), first hospitalization due to infection, or all-cause death]. Other outcomes included all infection SAEs, COVID-19 adverse events, COVID-19 SAEs, death due to infection and death concurrent with a COVID-19 SAE.",
+        "結果": "Semaglutide reduced the risk of the main outcome versus placebo [hazard ratio (HR) (95% confidence interval) 0.79 (0.69-0.89); P = .0002]. This risk reduction was greater in subgroups with baseline hemoglobin A1c >8% [HR 0.63 (0.52-0.76)] versus ≤8% [HR 0.93 (0.79-1.11); Pinteraction = .0027], and urine albumin-to-creatinine ratio (UACR) ≥2000 mg/g [HR 0.53 (0.39-0.72)] versus UACR <100 mg/g [HR 0.90 (0.58-1.39); Pinteraction = .0367]. The semaglutide group had a lower rate of infection SAEs (17",
+        "結論": "Semaglutide reduced risks of infection SAEs, hospitalization due to infection, and all-cause death with greater benefit among those with poorer glycemic control and greater baseline albuminuria. These findings support potential clinical benefits of semaglutide beyond kidney, CV and metabolic outcomes in high-risk patients with T2D and CKD."
       },
       "相關趨勢": [
         "研究主題: cardiovascular",
-        "臨床結局: mortality"
+        "臨床結局: mortality",
+        "臨床結局: hospitalization"
       ],
-      "關鍵詞": [],
+      "關鍵詞": [
+        "CKD",
+        "clinical trial",
+        "diabetic kidney disease",
+        "pneumonia",
+        "type 2 diabetes"
+      ],
       "MeSH詞彙": [
-        "Adult",
-        "Aged",
-        "Female",
         "Humans",
+        "Semaglutide",
+        "Glucagon-Like Peptides",
+        "COVID-19",
+        "Diabetes Mellitus, Type 2",
+        "Female",
         "Male",
+        "SARS-CoV-2",
         "Middle Aged",
-        "Cardiovascular Diseases",
-        "Creatinine",
-        "Cystatin C",
-        "Glomerular Filtration Rate"
+        "Hypoglycemic Agents"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42240159/",
-      "DOI": "10.1001/jama.2026.9639"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41728915/",
+      "DOI": "10.1093/ndt/gfag036"
     },
     {
-      "pmid": "42595516",
-      "標題": "[The creatinine-to-albumin ratio predicts short-term mortality and in-hospital adverse events after thoracic endovascular aortic repair for type B aortic dissection].",
-      "期刊": "Zhonghua xin xue guan bing za zhi",
-      "發表日期": "2026 Aug 24",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "type B aortic dissection (TBAD) undergoing thoracic endovascular aortic repair (TEVAR)",
-        "I_介入": "CAR was significantly stronger",
-        "C_對照": "uncomplicated)",
-        "O_結果": "30-day all-cause mortality"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討To evaluate the predictive value of the admission creatinine-to-albumin ratio (CAR) for 30-day all-cause mortality and in-hospital adverse events in patients with type B aortic dissection (TBAD) undergoing thoracic endovascular aortic repair (TEVAR).\n\n【研究方法】This retrospective cohort study analyzed clinical data from 968 consecutive TBAD patients undergoing TEVAR at Guangdong Provincial People's Hospital from January 2010 to January 2024. Admission serum creatinine and albumin levels within 24 hours were used to calculate CAR.\n\n【主要結果】A total of 968 patients were included, with an age of (55.2±11.4) years, and 835 (86.3%) were male. CAR predicted 30-day mortality with an area under the curve of 0.714. The optimal cut-off value was 3.00, yielding a low-CAR group (n=621) and a high-CAR group (n=347). The 30-day mortality was 4.\n\n【結論】Admission CAR≥3.00 independently predicts 30-day mortality and in-hospital adverse events in TBAD patients following TEVAR, with a non-linear dose-response relationship.",
-      "結構化摘要": {
-        "目的": "To evaluate the predictive value of the admission creatinine-to-albumin ratio (CAR) for 30-day all-cause mortality and in-hospital adverse events in patients with type B aortic dissection (TBAD) undergoing thoracic endovascular aortic repair (TEVAR).",
-        "方法": "This retrospective cohort study analyzed clinical data from 968 consecutive TBAD patients undergoing TEVAR at Guangdong Provincial People's Hospital from January 2010 to January 2024. Admission serum creatinine and albumin levels within 24 hours were used to calculate CAR. The optimal cut-off value of CAR was identified via maximally selected rank statistics for predicting 30-day all-cause mortality. Patients were stratified into high-CAR (≥the cut-off value of CAR) and low-CAR (<the cut-off val",
-        "結果": "A total of 968 patients were included, with an age of (55.2±11.4) years, and 835 (86.3%) were male. CAR predicted 30-day mortality with an area under the curve of 0.714. The optimal cut-off value was 3.00, yielding a low-CAR group (n=621) and a high-CAR group (n=347). The 30-day mortality was 4.6% (16/347) in the high-CAR group versus 1.1% (7/621) in the low-CAR group (P<0.01). Kaplan-Meier survival analysis yielded consistent results (Plog-rank<0.01). RCS analysis indicated a non-linear associa",
-        "結論": "Admission CAR≥3.00 independently predicts 30-day mortality and in-hospital adverse events in TBAD patients following TEVAR, with a non-linear dose-response relationship. Among all endpoints, CAR demonstrates the strongest predictive value for postoperative severe renal deterioration (new-onset dialysis), an effect that appears amplified in complicated TBAD."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Retrospective Studies",
-        "Dissection, Thoracic Aorta",
-        "Male",
-        "Female",
-        "Aortic Aneurysm, Thoracic",
-        "Creatinine",
-        "Serum Albumin",
-        "Endovascular Aneurysm Repair",
-        "Middle Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42595516/",
-      "DOI": "10.3760/cma.j.cn112148-20260225-00116"
-    },
-    {
-      "pmid": "42632571",
-      "標題": "SGLT2 inhibitors versus GLP-1 receptor agonists and risk of kidney replacement therapy and healthcare utilization in bipolar disorder with chronic kidney disease: An active-comparator, new-user cohort study.",
-      "期刊": "Journal of affective disorders",
-      "發表日期": "2026 Aug 22",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "bipolar disorder (BD) face elevated rates of chronic kidney disease (CKD) and premature mortality yet remain underrepresented in cardiorenal trials",
-        "I_介入": "prescriptions; 3971 SGLT2i and 5608 GLP-1 RA users were identified",
-        "C_對照": "GLP-1 receptor agonists and risk of kidney replacement therapy and healthcare utilization in bipolar disorder with chronic kidney disease: An active-comparator",
-        "O_結果": "lower KRT risk (aHR 0"
-      },
-      "中文摘要": "【摘要】Individuals with bipolar disorder (BD) face elevated rates of chronic kidney disease (CKD) and premature mortality yet remain underrepresented in cardiorenal trials.",
-      "結構化摘要": {
-        "完整摘要": "Individuals with bipolar disorder (BD) face elevated rates of chronic kidney disease (CKD) and premature mortality yet remain underrepresented in cardiorenal trials. Although sodium-glucose cotransporter-2 inhibitors (SGLT2is) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have established renoprotective benefits in the general population, their comparative effectiveness in BD with comorbid CKD is unknown. This observational cohort study examined risks of kidney replacement therapy (KRT) and healthcare utilization (HCU) (inpatient hospitalization and emergency department visits) among adults with BD and CKD Stage ≤3 initiating SGLT2i versus GLP-1 RA. Electronic health record data from the TriNetX network (2014-July 2026) identified eligible adults with documented treatment prescriptions; 3971 SGLT2i and 5608 GLP-1 RA users were identified, with 1:1 propensity score matching (PSM) yielding 2557 patients per arm. Cox proportional hazards regression generated adjusted hazard ra"
-      },
-      "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
-        "治療方法: GLP-1",
-        "臨床結局: mortality",
-        "臨床結局: hospitalization"
-      ],
-      "關鍵詞": [
-        "Bipolar disorder",
-        "Chronic kidney disease",
-        "GLP-1 receptor agonists",
-        "Kidney replacement therapy",
-        "SGLT-2 inhibitors"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42632571/",
-      "DOI": "10.1016/j.jad.2026.122407"
-    },
-    {
-      "pmid": "42287721",
-      "標題": "Acute kidney injury in rhabdomyolysis defined by serum creatine kinase ≥1000 IU/L: association with creatine kinase levels.",
-      "期刊": "Postgraduate medical journal",
-      "發表日期": "2026 Aug 21",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "serum CK over 1000 IU/L within 72 h of hospital admission",
-        "I_介入": "of infection if present",
-        "C_對照": "",
-        "O_結果": "an AKI incidence of 43% in patients with serum CK over 1000 IU/L"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討of our study was to analyse the relation between serum creatine kinase (CK), acute kidney injury (AKI), renal outcomes, and mortality among adults with serum CK over 1000 IU/L within 72 h of hospital admission.\n\n【研究方法】Our single-centre cohort study enrolled 855 patients with serum CK over 1000 IU/L. Univariate and multivariate analyses were performed for short- and long-term mortality, based on a logistic regression model and a cox proportional hazards model, respectively.\n\n【主要結果】AKI developed in 368 of 855 patients (43%). Those with CK 5001-10 000 IU/L and over 10 000 IU/L were more likely to develop stages 2 and 3 AKI than those with lower levels of serum CK (P = .001 and P < .001, respectively). Renal replacement therapy (RRT) was required by 43 (5.\n\n【結論】AKI is a common but not inevitable consequence of rhabdomyolysis. Most patients with AKI have complete recovery of renal function. Serum CK predicts likelihood of more severe forms of AKI but has no discernible effect on either short- or long-term mortality.",
-      "結構化摘要": {
-        "背景": "Rhabdomyolysis is a potentially life-threatening consequence of muscle injury. The aim of our study was to analyse the relation between serum creatine kinase (CK), acute kidney injury (AKI), renal outcomes, and mortality among adults with serum CK over 1000 IU/L within 72 h of hospital admission.",
-        "方法": "Our single-centre cohort study enrolled 855 patients with serum CK over 1000 IU/L. Univariate and multivariate analyses were performed for short- and long-term mortality, based on a logistic regression model and a cox proportional hazards model, respectively.",
-        "結果": "AKI developed in 368 of 855 patients (43%). Those with CK 5001-10 000 IU/L and over 10 000 IU/L were more likely to develop stages 2 and 3 AKI than those with lower levels of serum CK (P = .001 and P < .001, respectively). Renal replacement therapy (RRT) was required by 43 (5.0%) patients during their hospitalization, 15 of whom had pre-existing non-dialysis dependent chronic kidney disease (CKD). The requirement for RRT was greatest among those with serum CK over 5000 IU/L (P < .001). Among the",
-        "結論": "AKI is a common but not inevitable consequence of rhabdomyolysis. Most patients with AKI have complete recovery of renal function. Serum CK predicts likelihood of more severe forms of AKI but has no discernible effect on either short- or long-term mortality. Key messages What is already known on this topic: Acute kidney injury (AKI) is a common and potentially life-threatening complication of rhabdomyolysis. Studies have shown varying results when describing relationship between serum creatine k"
-      },
-      "相關趨勢": [
-        "臨床結局: mortality",
-        "臨床結局: hospitalization"
-      ],
-      "關鍵詞": [
-        "acute kidney injury",
-        "creatine kinase",
-        "mortality",
-        "renal outcomes",
-        "rhabdomyolysis"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Rhabdomyolysis",
-        "Acute Kidney Injury",
-        "Creatine Kinase",
-        "Female",
-        "Male",
-        "Middle Aged",
-        "Aged",
-        "Renal Replacement Therapy",
-        "Biomarkers"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42287721/",
-      "DOI": "10.1093/postmj/qgag074"
-    },
-    {
-      "pmid": "42629762",
-      "標題": "Unique and late onset infections after Dynamic Dynesys Stabilization in the lumbosacral spine: A retrospective cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Aug 21",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "chronic comorbidities",
-        "I_介入": "the Dynamic Dynesys Stabilization (DDS) system for degenerative lumbosacral disease",
-        "C_對照": "",
-        "O_結果": "no growth (7/9)"
-      },
-      "中文摘要": "【主要結果】, and microbiological results. Nine patients (2.1%) developed late-onset infections at a mean interval of 32.5 months after the index surgery. Most affected patients (77.8%) had chronic comorbidities such as diabetes or chronic kidney disease. Common symptoms included low back pain (7/9, 77.",
-      "結構化摘要": {
-        "結果": ". Nine patients (2.1%) developed late-onset infections at a mean interval of 32.5 months after the index surgery. Most affected patients (77.8%) had chronic comorbidities such as diabetes or chronic kidney disease. Common symptoms included low back pain (7/9, 77.8%), fever (3/9, 33.3%), and radiculopathy (2/9, 22.2%). Diagnosis was often delayed (mean: 7.3 weeks) due to indolent symptoms. Notably, screw loosening was observed in 100% of infected cases (9/9). Cultures frequently showed no growth "
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "dynamic stabilization",
-        "infection"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Female",
-        "Retrospective Studies",
-        "Male",
-        "Middle Aged",
-        "Spinal Fusion",
-        "Aged",
-        "Lumbar Vertebrae",
-        "Lumbosacral Region",
-        "Bone Screws"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42629762/",
-      "DOI": "10.1097/MD.0000000000050352"
-    },
-    {
-      "pmid": "42095727",
-      "標題": "Effect of remote ischemic conditioning on albuminuria in adults with diabetes mellitus (ricadime): a parallel group, double blind, sham controlled, randomized clinical trial.",
-      "期刊": "Postgraduate medical journal",
-      "發表日期": "2026 Aug 21",
+      "pmid": "41874429",
+      "標題": "Novel protein biomarkers for risk stratification and personalized medicine.",
+      "期刊": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+      "發表日期": "2026 Aug 25",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "diabetes mellitus (ricadime): a parallel group",
-        "I_介入": "with RIC significantly reduced albuminuria and serum creatinine while improving the eGFR (CTRI/2024/09/074453)",
-        "C_對照": "increase in Sham group from 0",
-        "O_結果": "reduction in albuminuria at the end of 8 weeks"
+        "P_族群": "患有 Renal Insufficiency, Chronic 的病人",
+        "I_介入": "response but is subject to variability and primarily reflects glomerular injury",
+        "C_對照": "",
+        "O_結果": "changes in urinary clusterin-to-creatinine ratio (uCLU/Cr) and uEGF-to-creatinine ratio (uEGF/Cr) in two randomized CKD trial populations"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討to explore the effects of RIC on albuminuria reduction in adults with type-2 Diabetes Mellitus. MATERIALS AND\n\n【研究方法】In this double blind, sham controlled, Randomized Clinical Trial, we assigned 40 normotensive Diabetic adults with moderate and severely increased albuminuria to RIC group (n = 20) or Sham group (n = 20) weekly for 8 weeks. Primary outcome was reduction in albuminuria at the end of 8 weeks.\n\n【主要結果】The reduction in albuminuria at the end of 8 weeks was 37.9% [Median (IQR): -7.5, 43.9] in the RIC group while it increased by 1.10% (-5.6, 15.2) in the Sham group (P = 0.015). Significant reduction was noted in serum creatinine in RIC group from 1 to 0.\n\n【結論】Among adults with DKD, treatment with RIC significantly reduced albuminuria and serum creatinine while improving the eGFR (CTRI/2024/09/074453).",
+      "中文摘要": "【研究背景】AND HYPOTHESIS: Albuminuria is widely used to monitor chronic kidney disease (CKD) and treatment response but is subject to variability and primarily reflects glomerular injury.\n\n【研究方法】We evaluated changes in urinary clusterin-to-creatinine ratio (uCLU/Cr) and uEGF-to-creatinine ratio (uEGF/Cr) in two randomized CKD trial populations. Effects of ERA on uCLU/Cr and endothelin-1 (ET-1) were assessed during the atrasentan enrichment phase of SONAR (Study of Diabetic Nephropathy with ...\n\n【主要結果】After 6 weeks of treatment with atrasentan, uCLU/Cr decreased by 46.3% (95% confidence interval [CI]: -57.8 to -37.1), while serum ET-1 increased by 23.4% (95% CI 19.2-27.4). There were no effects on serum clusterin and only a numerical decrease in urinary ET-1.\n\n【結論】Urinary clusterin and uEGF are mechanism-informed pharmacodynamic biomarkers reflecting distinct intrarenal pathways engaged by ERA and SGLT2i therapy, respectively.",
       "結構化摘要": {
-        "方法": "In this double blind, sham controlled, Randomized Clinical Trial, we assigned 40 normotensive Diabetic adults with moderate and severely increased albuminuria to RIC group (n = 20) or Sham group (n = 20) weekly for 8 weeks. Primary outcome was reduction in albuminuria at the end of 8 weeks. Secondary outcomes were changes in serum creatinine, e-Glomerular Filtration Rate (eGFR), and HbA1c levels.",
-        "結果": "The reduction in albuminuria at the end of 8 weeks was 37.9% [Median (IQR): -7.5, 43.9] in the RIC group while it increased by 1.10% (-5.6, 15.2) in the Sham group (P = 0.015). Significant reduction was noted in serum creatinine in RIC group from 1 to 0.83 mg/dl as compared to increase in Sham group from 0.97 to 1.1 mg/dl (P = 0.0004). The mean eGFR in the RIC group improved from 85 to 99 (ml/min/1.73m2) P = 0.0001). No significant change was detected in HbA1C levels. Mild pain was the only adve",
-        "結論": "Among adults with DKD, treatment with RIC significantly reduced albuminuria and serum creatinine while improving the eGFR (CTRI/2024/09/074453)."
+        "背景": "AND HYPOTHESIS: Albuminuria is widely used to monitor chronic kidney disease (CKD) and treatment response but is subject to variability and primarily reflects glomerular injury. Urinary clusterin and epidermal growth factor (uEGF) are associated with tubular injury and repair, respectively, and may serve as mechanism-informed pharmacodynamic biomarkers. We investigated responses of urinary clusterin and uEGF to endothelin receptor antagonists (ERAs) and sodium-glucose cotransporter 2 inhibitors ",
+        "方法": "We evaluated changes in urinary clusterin-to-creatinine ratio (uCLU/Cr) and uEGF-to-creatinine ratio (uEGF/Cr) in two randomized CKD trial populations. Effects of ERA on uCLU/Cr and endothelin-1 (ET-1) were assessed during the atrasentan enrichment phase of SONAR (Study of Diabetic Nephropathy with Atrasentan), and effects of SGLT2i on uEGF/Cr were examined in DAPA-CKD (Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease) across different CKD etiologies, diabetes status, a",
+        "結果": "After 6 weeks of treatment with atrasentan, uCLU/Cr decreased by 46.3% (95% confidence interval [CI]: -57.8 to -37.1), while serum ET-1 increased by 23.4% (95% CI 19.2-27.4). There were no effects on serum clusterin and only a numerical decrease in urinary ET-1. Baseline uCLU/Cr correlated significantly with urinary ET-1 (Pearson r = 0.65, P < .0001). In DAPA-CKD, dapagliflozin attenuated the decline in uEGF/Cr over 1 year, with heterogeneity across CKD etiologies. Relative increases were greate",
+        "結論": "Urinary clusterin and uEGF are mechanism-informed pharmacodynamic biomarkers reflecting distinct intrarenal pathways engaged by ERA and SGLT2i therapy, respectively. These biomarkers complement albuminuria by capturing tubular injury and repair, providing a more comprehensive biological assessment of treatment effects and heterogeneity in CKD."
       },
       "相關趨勢": [
-        "臨床結局: ESKD"
+        "治療方法: dapagliflozin",
+        "診斷技術: biomarker",
+        "研究主題: personalized"
       ],
       "關鍵詞": [
         "albuminuria",
-        "diabetes mellitus",
-        "diabetic kidney disease",
-        "remote ischemic conditioning"
+        "chronic kidney disease",
+        "clusterin",
+        "endothelin",
+        "epidermal growth factor"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Albuminuria",
-        "Double-Blind Method",
-        "Diabetes Mellitus, Type 2",
-        "Middle Aged",
-        "Male",
+        "Biomarkers",
+        "Clusterin",
+        "Epidermal Growth Factor",
         "Female",
-        "Diabetic Nephropathies",
+        "Renal Insufficiency, Chronic",
+        "Precision Medicine",
+        "Male",
         "Glomerular Filtration Rate",
-        "Ischemic Preconditioning"
+        "Risk Assessment"
       ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42095727/",
-      "DOI": "10.1093/postmj/qgag040"
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41874429/",
+      "DOI": "10.1093/ndt/gfag068"
     },
     {
-      "pmid": "42627427",
-      "標題": "Effect of coupling fluid tonicity on pain and fragmentation outcomes in ESWL: a prospective comparative study.",
-      "期刊": "Urolithiasis",
-      "發表日期": "2026 Aug 21",
+      "pmid": "42644296",
+      "標題": "Shrunken pore syndrome increased the risk of acute kidney injury after cardiac surgery: a cohort study.",
+      "期刊": "Annals of medicine",
+      "發表日期": "2026 Dec",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "renal pelvis stones (5-20 mm) allocated to three groups: hypotonic degassed water (n = 97)",
-        "I_介入": "coupling fluid tonicity",
-        "C_對照": "5",
-        "O_結果": "s were post-ESWL Visual Analogue Scale (VAS) pain scores and stone fragmentation success (< 4 mm residual fragments) on follow-up non-contrast computed tomography at 2-4 weeks"
+        "P_族群": "SPS have a high risk of postoperative acute kidney injury (AKI)",
+        "I_介入": "increasing attention",
+        "C_對照": "21",
+        "O_結果": "higher than that in the non-SPS group (33"
       },
-      "中文摘要": "【摘要】To investigate the effects of coupling fluid tonicity on pain, stone fragmentation success and complications in extracorporeal shock wave lithotripsy (ESWL).",
+      "中文摘要": "【研究背景】Shrunken pore syndrome (SPS), as a selective glomerular hypofiltration syndrome, has received increasing attention. Therefore, we hypothesised that patients with SPS have a high risk of postoperative acute kidney injury (AKI).\n\n【研究方法】This trial was a retrospective cohort study. Patients who received isolated coronary artery bypass grafting (CABG) in the Affiliated Hospital of Qingdao University were continuously reviewed.\n\n【主要結果】A total of 1277 patients were included, and the incidence of postoperative AKI was 23.2% (296/1277), and 12.8% (164/1277) patients were diagnosed with SPS before surgery. The incidence of AKI in the SPS group was significantly higher than that in the non-SPS group (33.5% vs. 21.7%, adjOR = 1.\n\n【結論】SPS is an independent risk factor for AKI after CABG. It will bring a new insight for an accurate clinical assessment of the risk of postoperative AKI.",
       "結構化摘要": {
-        "完整摘要": "To investigate the effects of coupling fluid tonicity on pain, stone fragmentation success and complications in extracorporeal shock wave lithotripsy (ESWL). This prospective, controlled clinical trial included 294 patients with renal pelvis stones (5-20 mm) allocated to three groups: hypotonic degassed water (n = 97), isotonic 0.9% NaCl (n = 99) and hypertonic 3% NaCl (n = 98). Primary endpoints were post-ESWL Visual Analogue Scale (VAS) pain scores and stone fragmentation success (< 4 mm residual fragments) on follow-up non-contrast computed tomography at 2-4 weeks. Baseline demographic and stone characteristics were comparable across groups. VAS pain scores differed significantly among the three groups (p = 0.005), with the hypertonic group showing the lowest median score (4.0 vs. 5.0 in both other groups). Post-hoc analysis confirmed that this reduction was statistically significant only between the isotonic and hypertonic groups (Bonferroni-corrected p = 0.004), whereas the differ"
+        "背景": "Shrunken pore syndrome (SPS), as a selective glomerular hypofiltration syndrome, has received increasing attention. Therefore, we hypothesised that patients with SPS have a high risk of postoperative acute kidney injury (AKI).",
+        "方法": "This trial was a retrospective cohort study. Patients who received isolated coronary artery bypass grafting (CABG) in the Affiliated Hospital of Qingdao University were continuously reviewed. Estimated glomerular filtration rates (eGFRs) were calculated by Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equations. The SPS was defined as an eGFR based on cystatin C < 70% of the eGFR based on creatinine. Postoperative AKI was diagnosed according to the Kidney Disease: Improving Global ",
+        "結果": "A total of 1277 patients were included, and the incidence of postoperative AKI was 23.2% (296/1277), and 12.8% (164/1277) patients were diagnosed with SPS before surgery. The incidence of AKI in the SPS group was significantly higher than that in the non-SPS group (33.5% vs. 21.7%, adjOR = 1.613, 95%CI 1.121-2.322, p = 0.010). Sensitivity analysis: E-value = 2.175 and Fragility Index = 8. The results remained robust across all subgroups. After propensity score matching, the incidence of AKI in S",
+        "結論": "SPS is an independent risk factor for AKI after CABG. It will bring a new insight for an accurate clinical assessment of the risk of postoperative AKI."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "Hypertonic solutions",
-        "Lithotripsy",
-        "Pain management",
-        "Sodium chloride",
-        "Urolithiasis",
-        "Visual analogue scale"
+        "Selective glomerular hypofiltration syndrome",
+        "acute kidney injury",
+        "coronary artery bypass grafting",
+        "estimated glomerular filtration rate",
+        "shrunken pore syndrome"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Prospective Studies",
-        "Lithotripsy",
+        "Acute Kidney Injury",
         "Female",
-        "Pain Measurement",
-        "Saline Solution, Hypertonic",
-        "Treatment Outcome",
         "Male",
-        "Kidney Calculi",
-        "Middle Aged"
+        "Retrospective Studies",
+        "Glomerular Filtration Rate",
+        "Postoperative Complications",
+        "Risk Factors",
+        "Coronary Artery Bypass",
+        "Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42627427/",
-      "DOI": "10.1007/s00240-026-02037-7"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42644296/",
+      "DOI": "10.1080/07853890.2026.2722717"
     },
     {
-      "pmid": "42629670",
-      "標題": "Composite dietary antioxidant index with hepatic indices for predicting mortality in cardiovascular-kidney-metabolic syndrome: Integrated analysis of a nationwide cohort study using machine learning approaches.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Aug 21",
+      "pmid": "42669053",
+      "標題": "Prognostic significance of systemic immunoinflammatory biomarkers and pathological features in clear cell renal cell carcinoma: a multicenter study.",
+      "期刊": "Annals of medicine",
+      "發表日期": "2026 Dec",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "患有 Cardiovascular Diseases, Metabolic Syndrome 的病人",
-        "I_介入": "CDAI was",
-        "C_對照": "the lowest quartile",
-        "O_結果": "lower risk of all-cause mortality (hazard ratio = 0"
+        "P_族群": "ccRCC",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "by multivariable Cox regression"
       },
-      "中文摘要": "【研究目的】本研究旨在探討ed to evaluate the predictive value of CDAI combined with hepatic indices for disease progression and mortality risk in CKM patients. Data were derived from the US National Health and Nutrition Examination Survey 2001-2018. Using\n\n【研究方法】such as multivariate Cox regression analysis, survival analysis, mediation effect analysis, and machine learning, we examined the associations of CDAI and hepatic indices - including the Fatty Liver Index, NAFLD Fibrosis Score (NFS), AST to Platelet Ratio Index, and Fibrosis-4 Index (FIB-4) - with C...",
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate systemic immunoinflammatory biomarkers and pathological features and develop an integrated prognostic model for overall survival (OS) in patients with ccRCC.\n\n【研究方法】This multicenter retrospective study initially screened 1,662 patients who underwent surgery between January 2010 and December 2024. After excluding 27 patients with substantial missing data, 1,635 were included in baseline analyses, of whom 1,429 with complete data were included in prognostic model...\n\n【主要結果】Sixteen variables with p < 0.20 in univariable analyses were considered candidate predictors, and 12 were retained by elastic net regression. ISUP grade, tumor necrosis, platelet count, recurrence/metastasis status, and systemic inflammation response index (SIRI) were independently associated with O...\n\n【結論】An internally evaluated nomogram integrating systemic inflammatory indices and pathological features demonstrated good prognostic performance for OS in patients with ccRCC.",
       "結構化摘要": {
-        "方法": "such as multivariate Cox regression analysis, survival analysis, mediation effect analysis, and machine learning, we examined the associations of CDAI and hepatic indices - including the Fatty Liver Index, NAFLD Fibrosis Score (NFS), AST to Platelet Ratio Index, and Fibrosis-4 Index (FIB-4) - with CKM staging and the risks of all-cause and cardiovascular disease (CVD) mortality among CKM participants. The fully adjusted model revealed that participants in the highest CDAI quartile had a signific"
+        "背景": "Clear cell renal cell carcinoma (ccRCC) exhibits heterogeneous postoperative outcomes. This study aimed to evaluate systemic immunoinflammatory biomarkers and pathological features and develop an integrated prognostic model for overall survival (OS) in patients with ccRCC.",
+        "方法": "This multicenter retrospective study initially screened 1,662 patients who underwent surgery between January 2010 and December 2024. After excluding 27 patients with substantial missing data, 1,635 were included in baseline analyses, of whom 1,429 with complete data were included in prognostic modeling. Candidate predictors identified by univariable Cox regression were selected using elastic net regression and subsequently evaluated by multivariable Cox regression. Model performance was assessed",
+        "結果": "Sixteen variables with p < 0.20 in univariable analyses were considered candidate predictors, and 12 were retained by elastic net regression. ISUP grade, tumor necrosis, platelet count, recurrence/metastasis status, and systemic inflammation response index (SIRI) were independently associated with OS. The nomogram showed good discrimination, with C-indices of 0.849 and 0.869 in the training and internal testing cohorts, respectively. The 1-, 3-, and 5-year AUCs ranged from 0.829 to 0.897. Calibr",
+        "結論": "An internally evaluated nomogram integrating systemic inflammatory indices and pathological features demonstrated good prognostic performance for OS in patients with ccRCC."
       },
       "相關趨勢": [
-        "診斷技術: machine learning",
-        "研究主題: cardiovascular",
-        "研究主題: inflammation",
-        "研究主題: fibrosis",
-        "研究主題: oxidative stress"
+        "診斷技術: biomarker",
+        "研究主題: inflammation"
       ],
       "關鍵詞": [
-        "Composite Dietary Antioxidant Index",
+        "Multicenter retrospective study",
+        "pathology",
+        "postoperative prognosis",
+        "systemic immunoinflammatory biomarkers",
+        "systemic inflammatory indices"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Carcinoma, Renal Cell",
+        "Retrospective Studies",
+        "Prognosis",
+        "Male",
+        "Kidney Neoplasms",
+        "Middle Aged",
+        "Aged",
+        "Nomograms"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42669053/",
+      "DOI": "10.1080/07853890.2026.2722708"
+    },
+    {
+      "pmid": "42655969",
+      "標題": "Weight-adjusted waist index and risk of cardiovascular and all-cause mortality in chronic kidney disease: NHANES 2005-2018 analysis of 5,381 adults.",
+      "期刊": "Renal failure",
+      "發表日期": "2026 Dec",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "CKD",
+        "I_介入": "",
+        "C_對照": "lowest quartile OR: 1",
+        "O_結果": "mediated the associations between WWI and all-cause mortality"
+      },
+      "中文摘要": "【主要結果】. Mediation analysis revealed that both the neutrophil-to-lymphocyte ratio and the systemic inflammation response index significantly mediated the associations between WWI and all-cause mortality, as well as between WWI and CVD-specific mortality.",
+      "結構化摘要": {
+        "完整摘要": "Central adiposity is a key driver of cardiovascular risk in chronic kidney disease (CKD), yet conventional obesity indices incompletely capture this risk. The weight-adjusted waist index (WWI) is an emerging anthropometric measure that integrates abdominal adiposity independent of body weight, but its prognostic relevance in CKD remains unclear. This prospective cohort study utilized data from the National Health and Nutrition Examination Survey (NHANES 2005-2018) and the National Death Index. Over a median follow-up of 79 months, higher WWI quartiles were associated with progressively increased risks of CVD (highest vs. lowest quartile OR: 1.81, 95% CI: 1.39-2.34) and mortality (CVD HR: 1.73, 95% CI: 1.15-2.60; all-cause HR: 1.45, 95% CI: 1.22-1.72) among 5,381 participants. Subgroup and sensitivity analyses further confirmed the robustness of these findings. Mediation analysis revealed that both the neutrophil-to-lymphocyte ratio and the systemic inflammation response index significa"
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: inflammation",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Cardio-kidney-metabolic syndrome (CKM)",
         "NHANES",
-        "cardiovascular-kidney-metabolic syndrome",
-        "hepatic fibrosis",
-        "hepatic steatosis",
-        "machine learning"
+        "body composition",
+        "chronic kidney disease outcomes",
+        "mortality risk prediction",
+        "obesity indices"
       ],
       "MeSH詞彙": [
         "Humans",
         "Cardiovascular Diseases",
-        "Male",
-        "Metabolic Syndrome",
+        "Renal Insufficiency, Chronic",
         "Female",
-        "Machine Learning",
-        "Antioxidants",
-        "Middle Aged",
         "Nutrition Surveys",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "United States",
+        "Adult"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42655969/",
+      "DOI": "10.1080/0886022X.2026.2718572"
+    },
+    {
+      "pmid": "42635375",
+      "標題": "Development and validation of a nomogram to predict 28-day all-cause mortality in sepsis patients complicated by acute kidney injury.",
+      "期刊": "Annals of medicine",
+      "發表日期": "2026 Dec",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "857 consecutive SAKI patients from the Affiliated Hospital of Southwest Medical University (December 2018-June 2025), randomly divided into training (n=6",
+        "I_介入": "",
+        "C_對照": "0",
+        "O_結果": "using receiver operating characteristic (ROC)"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to develop and validate a nomogram for predicting 28-day all-cause mortality in SAKI patients.\n\n【研究方法】This single-center retrospective cohort study enrolled 857 consecutive SAKI patients from the Affiliated Hospital of Southwest Medical University (December 2018-June 2025), randomly divided into training (n=601, 70%) and internal validation (n=256, 30%) sets.\n\n【主要結果】LASSO regression identified 11 predictors of 28-day mortality in the training set. Subsequent multivariate logistic regression demonstrated that age, hospital stay (the actual length at the time of SAKI diagnosis), respiratory failure, heart failure, hepatic failure, APTT and mechanical ventilation ...",
+      "結構化摘要": {
+        "背景": "Sepsis-induced acute kidney injury (SAKI) carries substantial morbidity and mortality, yet prognostic factors for 28-day all-cause mortality remain inadequately characterized. This study aimed to develop and validate a nomogram for predicting 28-day all-cause mortality in SAKI patients.",
+        "方法": "This single-center retrospective cohort study enrolled 857 consecutive SAKI patients from the Affiliated Hospital of Southwest Medical University (December 2018-June 2025), randomly divided into training (n=601, 70%) and internal validation (n=256, 30%) sets. Candidate predictors were initially identified using LASSO regression coupled with ten-fold cross-validation to tune the optimal lambda parameter. Variables possessing non-zero coefficients in the LASSO model were subsequently incorporated ",
+        "結果": "LASSO regression identified 11 predictors of 28-day mortality in the training set. Subsequent multivariate logistic regression demonstrated that age, hospital stay (the actual length at the time of SAKI diagnosis), respiratory failure, heart failure, hepatic failure, APTT and mechanical ventilation were independent predictors of 28-day all-cause mortality. The 7-variable nomogram yielded area under the curves (AUCs) of 0.854 and 0.795 in the training and validation cohorts, respectively. Calibra"
+      },
+      "相關趨勢": [
+        "研究主題: heart failure",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Sepsis",
+        "acute kidney injury",
+        "mortality",
+        "nomogram",
+        "prediction model"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Nomograms",
+        "Acute Kidney Injury",
+        "Retrospective Studies",
+        "Female",
+        "Sepsis",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Prognosis"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42635375/",
+      "DOI": "10.1080/07853890.2026.2717823"
+    },
+    {
+      "pmid": "42635091",
+      "標題": "Early balloon-assisted-maturation does not reduce patency of mature arteriovenous fistulae.",
+      "期刊": "Renal failure",
+      "發表日期": "2026 Dec",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "AVF created between January 1st",
+        "I_介入": "BAM and 55 (42",
+        "C_對照": "",
+        "O_結果": "increase the risk of primary intervention at 1 year and may be considered for slow-to-mature AVF"
+      },
+      "中文摘要": "【摘要】While balloon-assisted maturation (BAM) is increasingly used to promote arteriovenous fistulae (AVF) maturation, its effects on post-maturation patency remain unclear. This study investigates the patency of BAM-matured AVF at 1 year in hemodialysis patients.",
+      "結構化摘要": {
+        "完整摘要": "While balloon-assisted maturation (BAM) is increasingly used to promote arteriovenous fistulae (AVF) maturation, its effects on post-maturation patency remain unclear. This study investigates the patency of BAM-matured AVF at 1 year in hemodialysis patients. This retrospective cohort study collected data from patients with AVF created between January 1st, 2017, and December 31st, 2021, with subsequent maturation and follow-up at a medical center in Taiwan. Patients were classified as BAM or non-BAM. The group receiving BAM was further stratified into early and late BAM by the median time of balloon catheter cannulation (55 days from AVF creation). Outcomes included primary intervention for mature AVF, including percutaneous transluminal angioplasty and thrombectomy, and patency at 1 year after maturation. Of the 129 eligible patients, 74 (57.36%) received BAM and 55 (42.64%) did not, with comparable baseline characteristics observed between the early- and late-BAM groups. Kaplan-Meier "
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Arteriovenous fistula",
+        "balloon-assisted maturation",
+        "fistula maturation",
+        "hemodialysis",
+        "vascular patency"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Arteriovenous Shunt, Surgical",
+        "Vascular Patency",
+        "Retrospective Studies",
+        "Renal Dialysis",
+        "Female",
+        "Male",
+        "Taiwan",
+        "Middle Aged",
+        "Angioplasty, Balloon"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42635091/",
+      "DOI": "10.1080/0886022X.2026.2679293"
+    },
+    {
+      "pmid": "42635106",
+      "標題": "Post-procedural access blood flow and repeat endovascular intervention in hemodialysis vascular access: a recurrent-event cohort study.",
+      "期刊": "Renal failure",
+      "發表日期": "2026 Dec",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "患有 Renal Dialysis, Kidney Failure, Chronic 的病人",
+        "I_介入": "in hemodialysis vascular access: a recurrent-event cohort study",
+        "C_對照": "",
+        "O_結果": "after endovascular intervention is uncertain"
+      },
+      "中文摘要": "【主要結果】were generally consistent across sensitivity analyses, including IPW for missing post-procedural Qa, exclusion of occlusion episodes, shared-frailty modeling, adjustment for available pre-procedural Qa, and cause-specific terminal-event analysis.",
+      "結構化摘要": {
+        "完整摘要": "The prognostic value of access blood flow (Qa) measured after endovascular intervention is uncertain. We performed an episode-based recurrent-event cohort study of maintenance hemodialysis patients undergoing endovascular intervention for arteriovenous access dysfunction. The primary exposure was post-procedural Qa modeled continuously per 100 mL/min higher Qa; post-procedural Qa <1000 mL/min was examined as a secondary clinically interpretable threshold. The outcome was time to the next access intervention, analyzed using an Andersen-Gill counting-process Cox model with patient-level cluster-robust variance. A total of 131 patients contributed 382 intervention episodes, and post-procedural Qa was available for 315 episodes. Median time to repeat intervention was shorter for Qa <1000 mL/min than for Qa ≥1000 mL/min. In the primary adjusted model, each 100 mL/min higher post-procedural Qa was associated with a lower hazard of repeat intervention (aHR 0.941, 95% CI 0.896-0.990, p = 0.018"
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Access blood flow",
+        "endovascular intervention",
+        "hemodialysis",
+        "stenosis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Renal Dialysis",
+        "Arteriovenous Shunt, Surgical",
+        "Endovascular Procedures",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Kidney Failure, Chronic",
         "Cohort Studies"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42629670/",
-      "DOI": "10.1097/MD.0000000000050319"
-    },
-    {
-      "pmid": "42619538",
-      "標題": "Factors associated with disease severity in adults with acute glomerulonephritis: a descriptive retrospective cohort study.",
-      "期刊": "Journal of nephrology",
-      "發表日期": "2026 Aug 20",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "acute glomerulonephritis: a descriptive retrospective cohort study",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": ""
-      },
-      "中文摘要": "【研究目的】本研究旨在探討ed to describe the clinical characteristics associated with AGN severity in adults using a large-scale database.\n\n【研究方法】We extracted data regarding patients diagnosed with AGN between January 2001 and December 2023 from a Real World Data database. We performed univariable and multivariable logistic regression analyses to evaluate clinical characteristics associated with disease severity in the acute and chronic phase...\n\n【主要結果】Among 6795 patients diagnosed with AGN, we included 1002 eligible patients. Age, maximum occult blood in dipstick, and maximum proteinuria in dipstick were associated with the occurrence of stage 1 or higher acute kidney injury within 30 days of AGN onset (adjusted odds ratios [95% confidence interv...\n\n【結論】Our findings describe clinical characteristics associated with disease severity in adults with AGN. These findings should be interpreted as descriptive associations and may contribute to a better understanding of disease severity during hospitalization and follow-up after discharge.",
-      "結構化摘要": {
-        "背景": "Acute glomerulonephritis (AGN) is relatively common and rare in children and adults, respectively. We aimed to describe the clinical characteristics associated with AGN severity in adults using a large-scale database.",
-        "方法": "We extracted data regarding patients diagnosed with AGN between January 2001 and December 2023 from a Real World Data database. We performed univariable and multivariable logistic regression analyses to evaluate clinical characteristics associated with disease severity in the acute and chronic phases. Additionally, we performed univariable and multivariable modified Poisson regression analysis as a sensitivity analysis.",
-        "結果": "Among 6795 patients diagnosed with AGN, we included 1002 eligible patients. Age, maximum occult blood in dipstick, and maximum proteinuria in dipstick were associated with the occurrence of stage 1 or higher acute kidney injury within 30 days of AGN onset (adjusted odds ratios [95% confidence interval (CI)]: 1.04 [1.03-1.05], 1.24 [1.06-1.45], and 1.61 [1.39-1.87], respectively). Age, maximum proteinuria in dipstick, hypertension, and maximum serum creatinine ≥2 mg/dL were associated with progre",
-        "結論": "Our findings describe clinical characteristics associated with disease severity in adults with AGN. These findings should be interpreted as descriptive associations and may contribute to a better understanding of disease severity during hospitalization and follow-up after discharge."
-      },
-      "相關趨勢": [
-        "臨床結局: hospitalization",
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [
-        "Acute glomerulonephritis",
-        "Acute kidney injury",
-        "Chronic kidney disease"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42619538/",
-      "DOI": "10.1093/joneph/aajag229"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42635106/",
+      "DOI": "10.1080/0886022X.2026.2697399"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 8,
-      "想法": "目前 'mortality' 是研究熱點 (8 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "hospitalization",
-      "頻率": 4,
-      "想法": "目前 'hospitalization' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 7,
+      "想法": "目前 'mortality' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
+      "頻率": 6,
+      "想法": "目前 'cardiovascular' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 4,
+      "想法": "目前 'inflammation' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
       "頻率": 3,
-      "想法": "目前 'cardiovascular' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'heart failure' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "目前 'hospitalization' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -555,9 +608,23 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "SGLT2 inhibitor",
+      "關鍵詞": "quality of life",
+      "頻率": 2,
+      "想法": "目前 'quality of life' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "dapagliflozin",
       "頻率": 1,
-      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'dapagliflozin' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "immunotherapy",
+      "頻率": 1,
+      "想法": "目前 'immunotherapy' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -568,38 +635,17 @@
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "proteinuria",
+      "類型": "研究缺口",
+      "關鍵詞": "dapagliflozin",
       "頻率": 1,
-      "想法": "目前 'proteinuria' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
-      "頻率": 1,
-      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "inflammation",
-      "頻率": 1,
-      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
+      "想法": "'dapagliflozin' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "SGLT2 inhibitor",
+      "關鍵詞": "immunotherapy",
       "頻率": 1,
-      "想法": "'SGLT2 inhibitor' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'immunotherapy' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -611,23 +657,16 @@
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "proteinuria",
-      "頻率": 1,
-      "想法": "'proteinuria' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
       "關鍵詞": "biomarker",
       "頻率": 2,
       "想法": "'biomarker' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "artificial intelligence",
+      "頻率": 1,
+      "想法": "'artificial intelligence' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -651,44 +690,45 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 2 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 4 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Measured and Estimated Glomerular Filtration Rates",
-        "Intravenous iron to treat anaemia before cardiac s"
+        "Novel protein biomarkers for risk stratification a",
+        "Belzutifan plus lenvatinib versus cabozantinib in ",
+        "GLP-1 receptor agonists reduce dementia and Alzhei"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 21,
-    "Female": 21,
-    "Male": 21,
-    "Middle Aged": 18,
-    "Adult": 15,
-    "Aged": 11,
-    "Retrospective Studies": 7,
-    "Risk Factors": 6,
-    "Prospective Studies": 6,
+    "Humans": 26,
+    "Female": 24,
+    "Male": 24,
+    "Middle Aged": 23,
+    "Aged": 18,
+    "Adult": 12,
+    "Retrospective Studies": 10,
+    "Risk Factors": 9,
+    "Renal Insufficiency, Chronic": 8,
+    "Prognosis": 7,
+    "Renal Dialysis": 5,
+    "Risk Assessment": 4,
     "Postoperative Complications": 4,
-    "Creatinine": 4,
-    "Treatment Outcome": 4,
-    "Kidney Transplantation": 3,
-    "Glomerular Filtration Rate": 3,
-    "Cardiovascular Diseases": 3,
-    "Cohort Studies": 3,
-    "Preoperative Care": 3,
-    "Kidney Calculi": 3,
-    "Anemia": 2,
-    "Incidence": 2,
-    "Child": 2,
-    "Adolescent": 2,
-    "Child, Preschool": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Renal Replacement Therapy": 2,
-    "Risk Assessment": 2,
-    "Administration, Intravenous": 2,
+    "Prospective Studies": 4,
+    "Kidney Failure, Chronic": 4,
+    "Biomarkers": 3,
+    "Creatinine": 3,
+    "Follow-Up Studies": 3,
+    "Diabetes Mellitus, Type 2": 3,
+    "Time Factors": 3,
+    "Nomograms": 3,
+    "Treatment Outcome": 3,
+    "Arteriovenous Shunt, Surgical": 3,
+    "Prevalence": 3,
+    "Glomerular Filtration Rate": 2,
     "Carcinoma, Renal Cell": 2,
     "Kidney Neoplasms": 2,
-    "Acute Kidney Injury": 2
+    "Hypoglycemic Agents": 2,
+    "Aged, 80 and over": 2,
+    "Heart Failure": 2
   }
 }

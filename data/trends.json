@@ -1,40 +1,48 @@
 {
-  "總文章數": 23,
-  "高影響力期刊文章數": 2,
-  "分析日期": "2026-08-24T08:49:29.301949",
+  "總文章數": 26,
+  "高影響力期刊文章數": 4,
+  "分析日期": "2026-08-31T15:55:44.820166",
   "趨勢關鍵詞統計": {
     "治療方法": {
-      "SGLT2 inhibitor": 1,
+      "dapagliflozin": 1,
+      "immunotherapy": 1,
       "GLP-1": 1
-    },
-    "臨床結局": {
-      "mortality": 8,
-      "hospitalization": 4,
-      "proteinuria": 1,
-      "ESKD": 1
     },
     "診斷技術": {
       "biomarker": 2,
-      "machine learning": 1
+      "artificial intelligence": 1
     },
     "研究主題": {
-      "cardiovascular": 3,
-      "inflammation": 1,
-      "fibrosis": 1,
-      "oxidative stress": 1
+      "cardiovascular": 6,
+      "inflammation": 4,
+      "heart failure": 3,
+      "personalized": 1
+    },
+    "臨床結局": {
+      "mortality": 7,
+      "hospitalization": 3,
+      "quality of life": 2
     }
   },
   "熱門主題": [
     [
       "mortality",
-      8
-    ],
-    [
-      "hospitalization",
-      4
+      7
     ],
     [
       "cardiovascular",
+      6
+    ],
+    [
+      "inflammation",
+      4
+    ],
+    [
+      "heart failure",
+      3
+    ],
+    [
+      "hospitalization",
       3
     ],
     [
@@ -42,7 +50,15 @@
       2
     ],
     [
-      "SGLT2 inhibitor",
+      "quality of life",
+      2
+    ],
+    [
+      "dapagliflozin",
+      1
+    ],
+    [
+      "immunotherapy",
       1
     ],
     [
@@ -50,110 +66,92 @@
       1
     ],
     [
-      "proteinuria",
+      "artificial intelligence",
       1
     ],
     [
-      "ESKD",
-      1
-    ],
-    [
-      "machine learning",
-      1
-    ],
-    [
-      "inflammation",
-      1
-    ],
-    [
-      "fibrosis",
-      1
-    ],
-    [
-      "oxidative stress",
+      "personalized",
       1
     ]
   ],
   "期刊分布": {
-    "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 2,
-    "Journal of nephrology": 2,
-    "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
-    "Postgraduate medical journal": 2,
-    "Medicine": 2,
-    "World journal of urology": 2,
-    "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2,
-    "Journal of affective disorders": 1,
+    "Journal of nephrology": 4,
+    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
+    "Annals of medicine": 3,
+    "Renal failure": 3,
+    "Urolithiasis": 2,
+    "Lancet (London, England)": 1,
+    "Heart (British Cardiac Society)": 1,
+    "European heart journal. Acute cardiovascular care": 1,
+    "Journal of visualized experiments : JoVE": 1,
+    "PLoS medicine": 1,
     "PloS one": 1,
-    "JAMA": 1,
-    "JMIR formative research": 1,
-    "Urolithiasis": 1,
-    "Archives of osteoporosis": 1,
-    "BMJ (Clinical research ed.)": 1,
+    "Open heart": 1,
+    "World journal of urology": 1,
+    "Advances in rheumatology (London, England)": 1,
     "Zhonghua xin xue guan bing za zhi": 1
   },
   "文章類型分布": {
-    "Journal Article": 23,
-    "English Abstract": 4,
-    "Multicenter Study": 4,
-    "Randomized Controlled Trial": 4,
-    "Comparative Study": 3,
-    "Observational Study": 1,
-    "Clinical Trial, Phase II": 1,
-    "Clinical Trial, Phase I": 1,
-    "Controlled Clinical Trial": 1
+    "Journal Article": 26,
+    "Randomized Controlled Trial": 7,
+    "Multicenter Study": 5,
+    "Systematic Review": 2,
+    "Meta-Analysis": 2,
+    "Clinical Trial, Phase III": 1,
+    "Comparative Study": 1,
+    "Validation Study": 1,
+    "Video-Audio Media": 1,
+    "Observational Study": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 21,
-    "Female": 21,
-    "Male": 21,
-    "Middle Aged": 18,
-    "Adult": 15,
-    "Aged": 11,
-    "Retrospective Studies": 7,
-    "Risk Factors": 6,
-    "Prospective Studies": 6,
+    "Humans": 26,
+    "Female": 24,
+    "Male": 24,
+    "Middle Aged": 23,
+    "Aged": 18,
+    "Adult": 12,
+    "Retrospective Studies": 10,
+    "Risk Factors": 9,
+    "Renal Insufficiency, Chronic": 8,
+    "Prognosis": 7,
+    "Renal Dialysis": 5,
+    "Risk Assessment": 4,
     "Postoperative Complications": 4,
-    "Creatinine": 4,
-    "Treatment Outcome": 4,
-    "Kidney Transplantation": 3,
-    "Glomerular Filtration Rate": 3,
-    "Cardiovascular Diseases": 3,
-    "Cohort Studies": 3,
-    "Preoperative Care": 3,
-    "Kidney Calculi": 3,
-    "Anemia": 2,
-    "Incidence": 2,
-    "Child": 2,
-    "Adolescent": 2,
-    "Child, Preschool": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Renal Replacement Therapy": 2,
-    "Risk Assessment": 2,
-    "Administration, Intravenous": 2,
+    "Prospective Studies": 4,
+    "Kidney Failure, Chronic": 4,
+    "Biomarkers": 3,
+    "Creatinine": 3,
+    "Follow-Up Studies": 3,
+    "Diabetes Mellitus, Type 2": 3,
+    "Time Factors": 3,
+    "Nomograms": 3,
+    "Treatment Outcome": 3,
+    "Arteriovenous Shunt, Surgical": 3,
+    "Prevalence": 3,
+    "Glomerular Filtration Rate": 2,
     "Carcinoma, Renal Cell": 2,
     "Kidney Neoplasms": 2,
-    "Acute Kidney Injury": 2
+    "Hypoglycemic Agents": 2,
+    "Aged, 80 and over": 2,
+    "Heart Failure": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 4,
-      "高影響力期刊文章數": 0,
+      "文章數": 1,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Journal of affective disorders": 1,
-        "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
-        "Journal of nephrology": 1,
-        "PloS one": 1
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 19,
-      "高影響力期刊文章數": 2,
+      "文章數": 25,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": 2,
-        "Postgraduate medical journal": 2,
-        "Medicine": 2,
-        "World journal of urology": 2,
-        "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs": 2
+        "Journal of nephrology": 4,
+        "Annals of medicine": 3,
+        "Renal failure": 3,
+        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
+        "Urolithiasis": 2
       }
     }
   }
