@@ -1,32 +1,47 @@
 {
-  "總文章數": 26,
-  "高影響力期刊文章數": 4,
-  "分析日期": "2026-08-31T15:55:44.820166",
+  "總文章數": 69,
+  "高影響力期刊文章數": 8,
+  "分析日期": "2026-09-07T14:02:52.300706",
   "趨勢關鍵詞統計": {
-    "治療方法": {
-      "dapagliflozin": 1,
-      "immunotherapy": 1,
-      "GLP-1": 1
-    },
     "診斷技術": {
-      "biomarker": 2,
+      "biomarker": 4,
+      "machine learning": 2,
+      "genetic testing": 1,
       "artificial intelligence": 1
+    },
+    "臨床結局": {
+      "mortality": 16,
+      "hospitalization": 8,
+      "proteinuria": 7,
+      "eGFR decline": 1,
+      "ESKD": 1
     },
     "研究主題": {
       "cardiovascular": 6,
-      "inflammation": 4,
       "heart failure": 3,
-      "personalized": 1
+      "personalized": 2,
+      "inflammation": 1
     },
-    "臨床結局": {
-      "mortality": 7,
-      "hospitalization": 3,
-      "quality of life": 2
+    "治療方法": {
+      "empagliflozin": 4,
+      "finerenone": 3,
+      "SGLT2 inhibitor": 2,
+      "stem cell": 1,
+      "dapagliflozin": 1,
+      "GLP-1": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
+      16
+    ],
+    [
+      "hospitalization",
+      8
+    ],
+    [
+      "proteinuria",
       7
     ],
     [
@@ -34,7 +49,11 @@
       6
     ],
     [
-      "inflammation",
+      "biomarker",
+      4
+    ],
+    [
+      "empagliflozin",
       4
     ],
     [
@@ -42,27 +61,23 @@
       3
     ],
     [
-      "hospitalization",
+      "finerenone",
       3
     ],
     [
-      "biomarker",
+      "machine learning",
       2
     ],
     [
-      "quality of life",
+      "personalized",
       2
     ],
     [
-      "dapagliflozin",
-      1
+      "SGLT2 inhibitor",
+      2
     ],
     [
-      "immunotherapy",
-      1
-    ],
-    [
-      "GLP-1",
+      "genetic testing",
       1
     ],
     [
@@ -70,88 +85,112 @@
       1
     ],
     [
-      "personalized",
+      "eGFR decline",
+      1
+    ],
+    [
+      "ESKD",
+      1
+    ],
+    [
+      "inflammation",
+      1
+    ],
+    [
+      "stem cell",
+      1
+    ],
+    [
+      "dapagliflozin",
+      1
+    ],
+    [
+      "GLP-1",
       1
     ]
   ],
   "期刊分布": {
-    "Journal of nephrology": 4,
-    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-    "Annals of medicine": 3,
-    "Renal failure": 3,
-    "Urolithiasis": 2,
-    "Lancet (London, England)": 1,
-    "Heart (British Cardiac Society)": 1,
-    "European heart journal. Acute cardiovascular care": 1,
-    "Journal of visualized experiments : JoVE": 1,
-    "PLoS medicine": 1,
-    "PloS one": 1,
-    "Open heart": 1,
-    "World journal of urology": 1,
-    "Advances in rheumatology (London, England)": 1,
-    "Zhonghua xin xue guan bing za zhi": 1
+    "Pediatric nephrology (Berlin, Germany)": 4,
+    "Journal of the American Society of Nephrology : JASN": 4,
+    "Diabetes, obesity & metabolism": 4,
+    "Modern rheumatology": 2,
+    "Transplantation and cellular therapy": 2,
+    "World journal of urology": 2,
+    "Kidney international reports": 1,
+    "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
+    "International urology and nephrology": 1,
+    "Kidney medicine": 1,
+    "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
+    "American journal of perinatology": 1,
+    "Pediatric transplantation": 1,
+    "Nephrology (Carlton, Vic.)": 1,
+    "Cancer medicine": 1
   },
   "文章類型分布": {
-    "Journal Article": 26,
-    "Randomized Controlled Trial": 7,
-    "Multicenter Study": 5,
-    "Systematic Review": 2,
-    "Meta-Analysis": 2,
-    "Clinical Trial, Phase III": 1,
-    "Comparative Study": 1,
-    "Validation Study": 1,
-    "Video-Audio Media": 1,
-    "Observational Study": 1
+    "Journal Article": 69,
+    "Randomized Controlled Trial": 15,
+    "Multicenter Study": 12,
+    "Comparative Study": 9,
+    "Systematic Review": 5,
+    "Observational Study": 5,
+    "Meta-Analysis": 4,
+    "Review": 1,
+    "Comment": 1,
+    "Equivalence Trial": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 26,
-    "Female": 24,
-    "Male": 24,
-    "Middle Aged": 23,
-    "Aged": 18,
-    "Adult": 12,
-    "Retrospective Studies": 10,
-    "Risk Factors": 9,
-    "Renal Insufficiency, Chronic": 8,
+    "Humans": 65,
+    "Male": 59,
+    "Female": 58,
+    "Middle Aged": 46,
+    "Aged": 34,
+    "Retrospective Studies": 29,
+    "Adult": 26,
+    "Treatment Outcome": 20,
+    "Glomerular Filtration Rate": 18,
+    "Risk Factors": 15,
+    "Cohort Studies": 12,
+    "Kidney Failure, Chronic": 11,
+    "Acute Kidney Injury": 11,
+    "Prospective Studies": 11,
+    "Kidney Transplantation": 10,
+    "Postoperative Complications": 10,
+    "Child": 9,
+    "Diabetes Mellitus, Type 2": 9,
+    "Adolescent": 8,
+    "Creatinine": 8,
+    "Sodium-Glucose Transporter 2 Inhibitors": 8,
+    "Child, Preschool": 7,
     "Prognosis": 7,
-    "Renal Dialysis": 5,
-    "Risk Assessment": 4,
-    "Postoperative Complications": 4,
-    "Prospective Studies": 4,
-    "Kidney Failure, Chronic": 4,
-    "Biomarkers": 3,
-    "Creatinine": 3,
-    "Follow-Up Studies": 3,
-    "Diabetes Mellitus, Type 2": 3,
-    "Time Factors": 3,
-    "Nomograms": 3,
-    "Treatment Outcome": 3,
-    "Arteriovenous Shunt, Surgical": 3,
-    "Prevalence": 3,
-    "Glomerular Filtration Rate": 2,
-    "Carcinoma, Renal Cell": 2,
-    "Kidney Neoplasms": 2,
-    "Hypoglycemic Agents": 2,
-    "Aged, 80 and over": 2,
-    "Heart Failure": 2
+    "Graft Rejection": 6,
+    "Graft Survival": 6,
+    "Renal Insufficiency, Chronic": 6,
+    "Kidney": 6,
+    "Glucosides": 6,
+    "Time Factors": 5,
+    "Blood Pressure": 5
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 1,
-      "高影響力期刊文章數": 1,
+      "文章數": 19,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 1
+        "Pediatric nephrology (Berlin, Germany)": 4,
+        "Kidney international reports": 1,
+        "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
+        "Modern rheumatology": 1,
+        "International urology and nephrology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 25,
-      "高影響力期刊文章數": 3,
+      "文章數": 50,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Journal of nephrology": 4,
-        "Annals of medicine": 3,
-        "Renal failure": 3,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 2,
-        "Urolithiasis": 2
+        "Journal of the American Society of Nephrology : JASN": 4,
+        "Diabetes, obesity & metabolism": 4,
+        "World journal of urology": 2,
+        "JAMA": 1,
+        "Academic radiology": 1
       }
     }
   }
