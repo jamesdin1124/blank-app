@@ -1,99 +1,22 @@
 {
-  "總文章數": 69,
-  "高影響力期刊文章數": 8,
-  "分析日期": "2026-09-07T14:02:52.300706",
+  "總文章數": 7,
+  "高影響力期刊文章數": 0,
+  "分析日期": "2026-09-14T14:48:19.497361",
   "趨勢關鍵詞統計": {
-    "診斷技術": {
-      "biomarker": 4,
-      "machine learning": 2,
-      "genetic testing": 1,
-      "artificial intelligence": 1
-    },
-    "臨床結局": {
-      "mortality": 16,
-      "hospitalization": 8,
-      "proteinuria": 7,
-      "eGFR decline": 1,
-      "ESKD": 1
-    },
     "研究主題": {
-      "cardiovascular": 6,
-      "heart failure": 3,
-      "personalized": 2,
-      "inflammation": 1
+      "cardiovascular": 1
     },
     "治療方法": {
-      "empagliflozin": 4,
-      "finerenone": 3,
-      "SGLT2 inhibitor": 2,
-      "stem cell": 1,
-      "dapagliflozin": 1,
-      "GLP-1": 1
+      "stem cell": 1
+    },
+    "臨床結局": {
+      "patient-reported outcomes": 1,
+      "quality of life": 1
     }
   },
   "熱門主題": [
     [
-      "mortality",
-      16
-    ],
-    [
-      "hospitalization",
-      8
-    ],
-    [
-      "proteinuria",
-      7
-    ],
-    [
       "cardiovascular",
-      6
-    ],
-    [
-      "biomarker",
-      4
-    ],
-    [
-      "empagliflozin",
-      4
-    ],
-    [
-      "heart failure",
-      3
-    ],
-    [
-      "finerenone",
-      3
-    ],
-    [
-      "machine learning",
-      2
-    ],
-    [
-      "personalized",
-      2
-    ],
-    [
-      "SGLT2 inhibitor",
-      2
-    ],
-    [
-      "genetic testing",
-      1
-    ],
-    [
-      "artificial intelligence",
-      1
-    ],
-    [
-      "eGFR decline",
-      1
-    ],
-    [
-      "ESKD",
-      1
-    ],
-    [
-      "inflammation",
       1
     ],
     [
@@ -101,96 +24,80 @@
       1
     ],
     [
-      "dapagliflozin",
+      "patient-reported outcomes",
       1
     ],
     [
-      "GLP-1",
+      "quality of life",
       1
     ]
   ],
   "期刊分布": {
-    "Pediatric nephrology (Berlin, Germany)": 4,
-    "Journal of the American Society of Nephrology : JASN": 4,
-    "Diabetes, obesity & metabolism": 4,
-    "Modern rheumatology": 2,
-    "Transplantation and cellular therapy": 2,
-    "World journal of urology": 2,
-    "Kidney international reports": 1,
-    "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
-    "International urology and nephrology": 1,
-    "Kidney medicine": 1,
-    "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-    "American journal of perinatology": 1,
-    "Pediatric transplantation": 1,
-    "Nephrology (Carlton, Vic.)": 1,
-    "Cancer medicine": 1
+    "The New England journal of medicine": 2,
+    "Rheumatology (Oxford, England)": 1,
+    "Pediatric hematology and oncology": 1,
+    "Urolithiasis": 1,
+    "Revista da Escola de Enfermagem da U S P": 1,
+    "Acta oncologica (Stockholm, Sweden)": 1
   },
   "文章類型分布": {
-    "Journal Article": 69,
-    "Randomized Controlled Trial": 15,
-    "Multicenter Study": 12,
-    "Comparative Study": 9,
-    "Systematic Review": 5,
-    "Observational Study": 5,
-    "Meta-Analysis": 4,
-    "Review": 1,
-    "Comment": 1,
-    "Equivalence Trial": 1
+    "Journal Article": 7,
+    "Randomized Controlled Trial": 4,
+    "Multicenter Study": 3,
+    "Comparative Study": 2,
+    "Clinical Trial, Phase III": 1,
+    "Systematic Review": 1,
+    "Case Reports": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 65,
-    "Male": 59,
-    "Female": 58,
-    "Middle Aged": 46,
-    "Aged": 34,
-    "Retrospective Studies": 29,
-    "Adult": 26,
-    "Treatment Outcome": 20,
-    "Glomerular Filtration Rate": 18,
-    "Risk Factors": 15,
-    "Cohort Studies": 12,
-    "Kidney Failure, Chronic": 11,
-    "Acute Kidney Injury": 11,
-    "Prospective Studies": 11,
-    "Kidney Transplantation": 10,
-    "Postoperative Complications": 10,
-    "Child": 9,
-    "Diabetes Mellitus, Type 2": 9,
-    "Adolescent": 8,
-    "Creatinine": 8,
-    "Sodium-Glucose Transporter 2 Inhibitors": 8,
-    "Child, Preschool": 7,
-    "Prognosis": 7,
-    "Graft Rejection": 6,
-    "Graft Survival": 6,
-    "Renal Insufficiency, Chronic": 6,
-    "Kidney": 6,
-    "Glucosides": 6,
-    "Time Factors": 5,
-    "Blood Pressure": 5
+    "Female": 5,
+    "Humans": 5,
+    "Male": 5,
+    "Aged": 4,
+    "Middle Aged": 4,
+    "Adult": 2,
+    "Treatment Outcome": 2,
+    "Administration, Oral": 1,
+    "Antibodies, Monoclonal, Humanized": 1,
+    "Glomerular Filtration Rate": 1,
+    "Glomerulonephritis, Membranous": 1,
+    "Immunosuppressive Agents": 1,
+    "Remission Induction": 1,
+    "Tacrolimus": 1,
+    "Patient Reported Outcome Measures": 1,
+    "Infections": 1,
+    "Infusions, Intravenous": 1,
+    "Neutropenia": 1,
+    "Young Adult": 1,
+    "Acute Kidney Injury": 1,
+    "Coronary Angiography": 1,
+    "Coronary Artery Disease": 1,
+    "Follow-Up Studies": 1,
+    "Hemorrhage": 1,
+    "Myocardial Revascularization": 1,
+    "Percutaneous Coronary Intervention": 1,
+    "ST Elevation Myocardial Infarction": 1,
+    "Stroke": 1,
+    "Contrast Media": 1,
+    "Ischemic Attack, Transient": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 19,
-      "高影響力期刊文章數": 4,
+      "文章數": 2,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 4,
-        "Kidney international reports": 1,
-        "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
-        "Modern rheumatology": 1,
-        "International urology and nephrology": 1
+        "Rheumatology (Oxford, England)": 1,
+        "Pediatric hematology and oncology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 4,
+      "文章數": 5,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of the American Society of Nephrology : JASN": 4,
-        "Diabetes, obesity & metabolism": 4,
-        "World journal of urology": 2,
-        "JAMA": 1,
-        "Academic radiology": 1
+        "The New England journal of medicine": 2,
+        "Urolithiasis": 1,
+        "Revista da Escola de Enfermagem da U S P": 1,
+        "Acta oncologica (Stockholm, Sweden)": 1
       }
     }
   }

@@ -1,207 +1,174 @@
 {
-  "報告日期": "2026-09-07T14:02:52.367679",
+  "報告日期": "2026-09-14T14:48:19.499393",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 69,
-    "高影響力期刊文章數": 8,
+    "總文章數": 7,
+    "高影響力期刊文章數": 0,
     "主要發現": [
-      "本週熱門研究主題: mortality (16篇), hospitalization (8篇), proteinuria (7篇)",
-      "高影響力期刊發表 8 篇，包括: Transplantation and cellular therapy, JAMA, Kidney international reports",
-      "高品質證據: 15 篇 RCT, 4 篇統合分析"
+      "本週熱門研究主題: cardiovascular (1篇), stem cell (1篇), patient-reported outcomes (1篇)",
+      "高品質證據: 4 篇 RCT, 0 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 19,
-      "高影響力期刊文章數": 4,
+      "文章數": 2,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 4,
-        "Kidney international reports": 1,
-        "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
-        "Modern rheumatology": 1,
-        "International urology and nephrology": 1
+        "Rheumatology (Oxford, England)": 1,
+        "Pediatric hematology and oncology": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 4,
+      "文章數": 5,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Journal of the American Society of Nephrology : JASN": 4,
-        "Diabetes, obesity & metabolism": 4,
-        "World journal of urology": 2,
-        "JAMA": 1,
-        "Academic radiology": 1
+        "The New England journal of medicine": 2,
+        "Urolithiasis": 1,
+        "Revista da Escola de Enfermagem da U S P": 1,
+        "Acta oncologica (Stockholm, Sweden)": 1
       }
     }
   },
   "研究趨勢": {
     "熱門主題": [
       [
-        "mortality",
-        16
-      ],
-      [
-        "hospitalization",
-        8
-      ],
-      [
-        "proteinuria",
-        7
-      ],
-      [
         "cardiovascular",
-        6
+        1
       ],
       [
-        "biomarker",
-        4
+        "stem cell",
+        1
       ],
       [
-        "empagliflozin",
-        4
+        "patient-reported outcomes",
+        1
       ],
       [
-        "heart failure",
-        3
-      ],
-      [
-        "finerenone",
-        3
-      ],
-      [
-        "machine learning",
-        2
-      ],
-      [
-        "personalized",
-        2
+        "quality of life",
+        1
       ]
     ],
     "趨勢關鍵詞": {
-      "診斷技術": {
-        "biomarker": 4,
-        "machine learning": 2,
-        "genetic testing": 1,
-        "artificial intelligence": 1
-      },
-      "臨床結局": {
-        "mortality": 16,
-        "hospitalization": 8,
-        "proteinuria": 7,
-        "eGFR decline": 1,
-        "ESKD": 1
-      },
       "研究主題": {
-        "cardiovascular": 6,
-        "heart failure": 3,
-        "personalized": 2,
-        "inflammation": 1
+        "cardiovascular": 1
       },
       "治療方法": {
-        "empagliflozin": 4,
-        "finerenone": 3,
-        "SGLT2 inhibitor": 2,
-        "stem cell": 1,
-        "dapagliflozin": 1,
-        "GLP-1": 1
+        "stem cell": 1
+      },
+      "臨床結局": {
+        "patient-reported outcomes": 1,
+        "quality of life": 1
       }
     },
     "期刊分布": {
-      "Pediatric nephrology (Berlin, Germany)": 4,
-      "Journal of the American Society of Nephrology : JASN": 4,
-      "Diabetes, obesity & metabolism": 4,
-      "Modern rheumatology": 2,
-      "Transplantation and cellular therapy": 2,
-      "World journal of urology": 2,
-      "Kidney international reports": 1,
-      "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society": 1,
-      "International urology and nephrology": 1,
-      "Kidney medicine": 1,
-      "Hepatology research : the official journal of the Japan Society of Hepatology": 1,
-      "American journal of perinatology": 1,
-      "Pediatric transplantation": 1,
-      "Nephrology (Carlton, Vic.)": 1,
-      "Cancer medicine": 1
+      "The New England journal of medicine": 2,
+      "Rheumatology (Oxford, England)": 1,
+      "Pediatric hematology and oncology": 1,
+      "Urolithiasis": 1,
+      "Revista da Escola de Enfermagem da U S P": 1,
+      "Acta oncologica (Stockholm, Sweden)": 1
     },
     "文章類型": {
-      "Journal Article": 69,
-      "Randomized Controlled Trial": 15,
-      "Multicenter Study": 12,
-      "Comparative Study": 9,
-      "Systematic Review": 5,
-      "Observational Study": 5,
-      "Meta-Analysis": 4,
-      "Review": 1,
-      "Comment": 1,
-      "Equivalence Trial": 1
+      "Journal Article": 7,
+      "Randomized Controlled Trial": 4,
+      "Multicenter Study": 3,
+      "Comparative Study": 2,
+      "Clinical Trial, Phase III": 1,
+      "Systematic Review": 1,
+      "Case Reports": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "41974042",
-      "標題": "Donor type, social deprivation, and long‑term outcomes in pediatric liver transplantation: A 30‑year population‑based cohort.",
-      "期刊": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-      "發表日期": "2026 Sep 01",
+      "pmid": "42730615",
+      "標題": "Acute kidney injury during ruxolitinib therapy in pediatric patients with graft-versus-host disease: incidence, associated factors, and histopathological findings in a retrospective cohort study.",
+      "期刊": "Pediatric hematology and oncology",
+      "發表日期": "2026 Sep 12",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "患有 End Stage Liver Disease 的病人",
-        "I_介入": "",
-        "C_對照": "DDLT and evaluated modification by socioeconomic status (SES)",
-        "O_結果": "modification"
+        "P_族群": "graft-versus-host disease: incidence",
+        "I_介入": "for steroid-refractory graft-",
+        "C_對照": "",
+        "O_結果": "associated with AKI"
       },
-      "中文摘要": "【摘要】Living donor liver transplantation (LDLT) reduces wait‑list mortality in children, but its long‑term advantages over deceased donor liver transplantation (DDLT) and how socioeconomic context shapes outcomes in a universal healthcare system remain uncertain.",
+      "中文摘要": "【摘要】Ruxolitinib is a cornerstone treatment for steroid-refractory graft-versus-host disease (GVHD) following allogeneic hematopoietic stem cell transplantation (HSCT) in children, yet longitudinal data on kidney function during such therapy remain limited.",
       "結構化摘要": {
-        "完整摘要": "Living donor liver transplantation (LDLT) reduces wait‑list mortality in children, but its long‑term advantages over deceased donor liver transplantation (DDLT) and how socioeconomic context shapes outcomes in a universal healthcare system remain uncertain. We compared long‑term outcomes after pediatric LDLT versus DDLT and evaluated modification by socioeconomic status (SES). We linked clinical data for pediatric liver transplants in Ontario, Canada, from 1991 to 2021 to provincial health administrative data, yielding 449 recipients (189 LDLT, 260 DDLT) who underwent their first transplant. Over the 30-year period, LDLT recipients had superior patient and graft survival. After adjustment, DDLT was associated with a higher risk of mortality [adjusted hazard ratio (aHR) 2.1, 95% CI 1.0-4.3], graft failure (aHR 2.1, 95% CI 1.0-4.3), and chronic kidney disease (adjusted subdistribution HR 5.3, 95% CI 1.4-15.3), compared with LDLT. SES profoundly modified long-term outcomes: among DDLT rec"
+        "完整摘要": "Ruxolitinib is a cornerstone treatment for steroid-refractory graft-versus-host disease (GVHD) following allogeneic hematopoietic stem cell transplantation (HSCT) in children, yet longitudinal data on kidney function during such therapy remain limited. We retrospectively analyzed 38 pediatric patients (0-18 years) receiving ruxolitinib for acute or chronic GVHD between January 2018 and December 2025, assessing kidney function at six timepoints from baseline to month 6. Mean serum creatinine rose from 0.34 ± 0.16 mg/dL at baseline to 0.50 ± 0.34 mg/dL at month 3 (p < 0.001) and remained mildly elevated at month 6 (0.48 ± 0.23 mg/dL; p < 0.001). Acute kidney injury (AKI) occurred in 7 patients (18.4%) at a median of 2.36 months after ruxolitinib initiation, with 4 (57.1%) progressing to acute kidney disease; biopsies excluded BK virus nephropathy. BK virus reactivation, BKV-related hemorrhagic cystitis, CMV reactivation, older age at transplantation, and higher baseline creatinine were s"
       },
       "相關趨勢": [
-        "臨床結局: mortality"
+        "治療方法: stem cell"
       ],
       "關鍵詞": [
-        "chronic",
-        "end-stage liver disease",
-        "graft survival",
-        "healthcare disparities",
-        "immunosuppression",
-        "renal insufficiency",
-        "social determinants of health"
+        "Acute kidney injury",
+        "BK virus",
+        "graft-versus-host disease",
+        "pediatric hematopoietic stem cell transplantation",
+        "ruxolitinib"
       ],
-      "MeSH詞彙": [
-        "Humans",
-        "Liver Transplantation",
-        "Female",
-        "Male",
-        "Ontario",
-        "Child",
-        "Graft Survival",
-        "Child, Preschool",
-        "End Stage Liver Disease",
-        "Infant"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41974042/",
-      "DOI": "10.1097/LVT.0000000000000877"
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42730615/",
+      "DOI": "10.1080/08880018.2026.2731106"
     },
     {
-      "pmid": "42530910",
-      "標題": "Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial.",
-      "期刊": "JAMA",
-      "發表日期": "2026 Sep 01",
+      "pmid": "42246654",
+      "標題": "Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.",
+      "期刊": "The New England journal of medicine",
+      "發表日期": "2026 Sep 10",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "患有 Acute Kidney Injury 的病人",
-        "I_介入": "",
-        "C_對照": "placebo",
-        "O_結果": "AND MEASURE: The primary outcome was the between-group difference in AKI (defined as an increase in serum creatinine level by at least 0"
+        "P_族群": "primary membranous nephropathy is needed",
+        "I_介入": "of hematologic cancers and autoimmune diseases",
+        "C_對照": "6% with multiple imputation for missing data; adjusted difference",
+        "O_結果": "a significant treatment effect"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討In patients undergoing elective cardiac surgery, to evaluate whether initiating dapagliflozin 1 day prior to surgery reduces the incidence of AKI at 7 days after cardiac surgery, compared with placebo.\n\n【主要結果】Of 784 participants enrolled, 778 (99%) completed follow-up testing (median age, 68 [61-74] years; 76% male; 97% White; median body mass index, 27 [IQR, 25-30]; and median estimated glomerular filtration rate, 80 [IQR, 67-89] mL/min/1.73 m2).\n\n【結論】AND RELEVANCE: In patients undergoing elective cardiac surgery, 4 doses of dapagliflozin, beginning the day before surgery, reduced the incidence of AKI during the 7-day postoperative period. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05590143.",
+      "中文摘要": "【研究背景】Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.\n\n【研究方法】In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine ratio of 0.\n\n【主要結果】A total of 142 patients underwent randomization. At week 104, complete remission was observed in 26 of 71 patients in the obinutuzumab group and in 4 of 70 patients in the tacrolimus group (37% vs.\n\n【結論】Obinutuzumab was superior to tacrolimus in inducing complete remission in patients with primary membranous nephropathy. (Funded by F. Hoffmann-La Roche; MAJESTY ClinicalTrials.gov number, NCT04629248.).",
       "結構化摘要": {
-        "目的": "In patients undergoing elective cardiac surgery, to evaluate whether initiating dapagliflozin 1 day prior to surgery reduces the incidence of AKI at 7 days after cardiac surgery, compared with placebo. DESIGN, SETTING, AND PARTICIPANTS: Multicenter, double-blind, placebo-controlled randomized clinical trial conducted at 2 academic medical centers and 5 nonacademic hospitals in the Netherlands. Eligible participants were adults undergoing elective cardiac surgery. Enrollment occurred between June",
-        "結果": "Of 784 participants enrolled, 778 (99%) completed follow-up testing (median age, 68 [61-74] years; 76% male; 97% White; median body mass index, 27 [IQR, 25-30]; and median estimated glomerular filtration rate, 80 [IQR, 67-89] mL/min/1.73 m2). Compared with placebo, dapagliflozin reduced the incidence of AKI (28% vs 52%; relative risk, 0.54 [95% CI, 0.45-0.65]; P < .001) over 7-day follow-up after surgery. Atrial fibrillation and reoperation were the most frequent adverse events. The incidence of",
-        "結論": "AND RELEVANCE: In patients undergoing elective cardiac surgery, 4 doses of dapagliflozin, beginning the day before surgery, reduced the incidence of AKI during the 7-day postoperative period. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05590143."
+        "背景": "Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.",
+        "方法": "In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine ratio of 0.3 or lower and a stable estimated glomerular filtration rate [eGFR]) at week 104. Key secondary end points were complete or partial remission at week 104, complete remission at week 76, a sustained reduction in the eGFR of at least 30%, duration",
+        "結果": "A total of 142 patients underwent randomization. At week 104, complete remission was observed in 26 of 71 patients in the obinutuzumab group and in 4 of 70 patients in the tacrolimus group (37% vs. 6% with multiple imputation for missing data; adjusted difference, 31 percentage points; 95% CI, 18 to 44; P<0.001). The analyses of complete or partial remission at week 104 and complete remission at week 76 also showed a significant treatment effect. The analysis of a sustained eGFR reduction did no",
+        "結論": "Obinutuzumab was superior to tacrolimus in inducing complete remission in patients with primary membranous nephropathy. (Funded by F. Hoffmann-La Roche; MAJESTY ClinicalTrials.gov number, NCT04629248.)."
       },
       "相關趨勢": [
-        "治療方法: dapagliflozin"
+        "臨床結局: patient-reported outcomes"
       ],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Antibodies, Monoclonal, Humanized",
+        "Glomerular Filtration Rate",
+        "Glomerulonephritis, Membranous"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42246654/",
+      "DOI": "10.1056/NEJMoa2602678"
+    },
+    {
+      "pmid": "42670979",
+      "標題": "Complete Revascularization Guided by Functional Coronary Angiography in STEMI.",
+      "期刊": "The New England journal of medicine",
+      "發表日期": "2026 Sep 10",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "ST-segment elevation myocardial infarction (STEMI) and multivessel disease",
+        "I_介入": "the physiology-guided group and 910 assigned to the angiography-guided group",
+        "C_對照": "",
+        "O_結果": "a composite of death from any cause, myocardial infarction, cerebrovascular accident (stroke or transient ischemic attack), or ischemia-driven revascularization, assessed in a time-to-event analysis"
+      },
+      "中文摘要": "【研究背景】Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.\n\n【研究方法】In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiography (physiology-guided group) or by conventional angio...\n\n【主要結果】A total of 1823 patients underwent randomization; 913 were assigned to the physiology-guided group and 910 assigned to the angiography-guided group. The median age of the patients was 66 years (interquartile range, 58 to 76), and 24% were women. At a median follow-up of 17.\n\n【結論】In patients with STEMI and multivessel coronary artery disease, a strategy of complete coronary-artery revascularization guided by functional coronary angiography resulted in a lower risk of a primary-outcome event (death, myocardial infarction, cerebrovascular accident, or ischemia-driven revascula...",
+      "結構化摘要": {
+        "背景": "Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.",
+        "方法": "In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiography (physiology-guided group) or by conventional angiography (angiography-guided group). The primary outcome was a composite of death from any cause, myocardial infarction, cerebrovascular accident (stroke or transient ischemic attack), or ischemia-drive",
+        "結果": "A total of 1823 patients underwent randomization; 913 were assigned to the physiology-guided group and 910 assigned to the angiography-guided group. The median age of the patients was 66 years (interquartile range, 58 to 76), and 24% were women. At a median follow-up of 17.9 months, a primary-outcome event had occurred in 81 patients (8.9%) in the physiology-guided group and in 125 patients (13.7%) in the angiography-guided group (hazard ratio, 0.62; 95% confidence interval [CI], 0.47 to 0.83; P",
+        "結論": "In patients with STEMI and multivessel coronary artery disease, a strategy of complete coronary-artery revascularization guided by functional coronary angiography resulted in a lower risk of a primary-outcome event (death, myocardial infarction, cerebrovascular accident, or ischemia-driven revascularization) than a strategy guided by conventional angiography. (Funded by the Italian Health Ministry and others; AIR-STEMI ClinicalTrials.gov number, NCT05818475.)."
+      },
+      "相關趨勢": [],
       "關鍵詞": [],
       "MeSH詞彙": [
         "Aged",
@@ -210,448 +177,218 @@
         "Male",
         "Middle Aged",
         "Acute Kidney Injury",
-        "Benzhydryl Compounds",
-        "Cardiac Surgical Procedures",
-        "Creatinine",
-        "Double-Blind Method"
+        "Coronary Angiography",
+        "Coronary Artery Disease",
+        "Follow-Up Studies",
+        "Hemorrhage"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42530910/",
-      "DOI": "10.1001/jama.2026.9268"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42670979/",
+      "DOI": "10.1056/NEJMoa2605373"
     },
     {
-      "pmid": "42437162",
-      "標題": "Kidney Survival in Children With Steroid-Resistant Nephrotic Syndrome Treated by Rituximab.",
-      "期刊": "Kidney international reports",
-      "發表日期": "2026 Sep",
+      "pmid": "42714965",
+      "標題": "Therapeutic plasma exchange in pediatric ANCA-associated vasculitis: a multicenter real-world experience.",
+      "期刊": "Rheumatology (Oxford, England)",
+      "發表日期": "2026 Sep 09",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "Steroid-Resistant Nephrotic Syndrome Treated by Rituximab",
-        "I_介入": "rituximab",
-        "C_對照": "secondary SRNS: 54% vs",
-        "O_結果": "kidney survival"
+        "P_族群": "severe baseline kidney involvement",
+        "I_介入": "TPE in real-world practice and to compare them with patients managed without TPE",
+        "C_對照": "7",
+        "O_結果": "higher disease activity (median PVAS 12 vs"
       },
-      "中文摘要": "【研究方法】We conducted an international retrospective cohort study across 23 centers in 17 countries, including children with SRNS who did not respond to calcineurin inhibitors (CNIs) and subsequently, received rituximab. Patients with genetic variants were excluded. The primary outcome was kidney survival.\n\n【主要結果】We analyzed data on 151 children (53% males; median age at onset: 6.8 years; primary vs. secondary SRNS: 54% vs. 46%; focal segmental glomerulosclerosis [FSGS]: 62%). All subjects received CNIs before rituximab (0-3 months: 21%; 3-6 months: 26%; 6-12 months: 26%; > 12 months: 26%).\n\n【結論】Kidney survival of SRNS following add-on rituximab is 70% to 80% over 3 to 7 years. Nonresponse, preexisting CKD, lower albumin, and FSGS predict inferior kidney survivals.",
+      "中文摘要": "【研究目的】本研究旨在探討Antineutrophil cytoplasmic antibody-associated vasculitis (AAV) is a rare but potentially life-threatening condition in children, often presenting with severe multi-organ involvement.\n\n【研究方法】This retrospective multicenter study included children (<18 years) diagnosed with AAV according to EULAR/PRINTO/PRES criteria. Patients were classified into TPE-treated (TPE+) and non-TPE-treated (TPE-) groups.\n\n【主要結果】Twenty-six pediatric AAV patients were included, of whom 11 (42.3%) underwent TPE. At diagnosis, the TPE+ group had significantly higher disease activity (median PVAS 12 vs. 7, p = 0.004) and more severe kidney involvement, with higher serum creatinine and lower estimated glomerular filtration rate.\n\n【結論】TPE is selectively used as an adjunctive therapy in children with severe or refractory AAV, particularly in those with advanced kidney involvement. Although disease activity and acute organ-threatening manifestations improved following TPE, persistent renal abnormalities remained frequent, reflectin...",
       "結構化摘要": {
-        "方法": "We conducted an international retrospective cohort study across 23 centers in 17 countries, including children with SRNS who did not respond to calcineurin inhibitors (CNIs) and subsequently, received rituximab. Patients with genetic variants were excluded. The primary outcome was kidney survival.",
-        "結果": "We analyzed data on 151 children (53% males; median age at onset: 6.8 years; primary vs. secondary SRNS: 54% vs. 46%; focal segmental glomerulosclerosis [FSGS]: 62%). All subjects received CNIs before rituximab (0-3 months: 21%; 3-6 months: 26%; 6-12 months: 26%; > 12 months: 26%). Upon rituximab, 73 subjects (48%) had normal kidney function, 47 (31%) had chronic kidney disease (CKD)2, and 31 (21%) had CKD3. Twenty-eight (19%) developed kidney failure. Overall kidney survival was 82.7%, 75.8%, a",
-        "結論": "Kidney survival of SRNS following add-on rituximab is 70% to 80% over 3 to 7 years. Nonresponse, preexisting CKD, lower albumin, and FSGS predict inferior kidney survivals."
+        "目的": "Antineutrophil cytoplasmic antibody-associated vasculitis (AAV) is a rare but potentially life-threatening condition in children, often presenting with severe multi-organ involvement. Although standard induction therapy includes cyclophosphamide or rituximab with glucocorticoids, the role of therapeutic plasma exchange (TPE) in pediatric AAV remains uncertain. This study sought to describe the clinical characteristics, indications, and outcomes of pediatric AAV patients treated with TPE in real-",
+        "方法": "This retrospective multicenter study included children (<18 years) diagnosed with AAV according to EULAR/PRINTO/PRES criteria. Patients were classified into TPE-treated (TPE+) and non-TPE-treated (TPE-) groups. Demographic features, organ involvement, laboratory parameters, Pediatric Vasculitis Activity Score (PVAS), treatments, adverse events, and outcomes were analyzed.",
+        "結果": "Twenty-six pediatric AAV patients were included, of whom 11 (42.3%) underwent TPE. At diagnosis, the TPE+ group had significantly higher disease activity (median PVAS 12 vs. 7, p = 0.004) and more severe kidney involvement, with higher serum creatinine and lower estimated glomerular filtration rate. Severe pulmonary, gastrointestinal, cardiovascular, and cutaneous manifestations occurred predominantly in the TPE+ group. The primary indication for TPE was severe kidney involvement. TPE was associ",
+        "結論": "TPE is selectively used as an adjunctive therapy in children with severe or refractory AAV, particularly in those with advanced kidney involvement. Although disease activity and acute organ-threatening manifestations improved following TPE, persistent renal abnormalities remained frequent, reflecting the severity of baseline kidney disease."
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "研究主題: cardiovascular"
+      ],
       "關鍵詞": [
-        "ESKD",
-        "SRNS",
-        "children",
-        "nephrotic syndrome",
-        "pediatric nephrology",
-        "rituximab"
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Plasma Exchange",
+        "Systemic Vasculitis",
+        "Vasculitis",
+        "small vessel"
       ],
       "MeSH詞彙": [],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42437162/",
-      "DOI": "10.1016/j.ekir.2026.106638"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42714965/",
+      "DOI": "10.1093/rheumatology/keag497"
     },
     {
-      "pmid": "42695234",
-      "標題": "Effects of Perioperative Management on Short-Term Renal Transplant Outcome: A Retrospective Cohort Study.",
-      "期刊": "Pediatric transplantation",
-      "發表日期": "2026 Sep",
-      "研究類型": "研究",
+      "pmid": "42714143",
+      "標題": "Immune-checkpoint inhibitor-induced bullous pemphigoid in patients with metastatic renal cell carcinoma: two case reports and systematic review of the literature.",
+      "期刊": "Acta oncologica (Stockholm, Sweden)",
+      "發表日期": "2026 Sep 09",
+      "研究類型": "系統性回顧",
       "PICO": {
-        "P_族群": "患有 Kidney Transplantation 的病人",
-        "I_介入": "in the pre-unclamp period was independently associated with a longer time to creatinine nadir (β = 0",
+        "P_族群": "metastatic renal cell carcinoma: two case reports and systematic review of the literature",
+        "I_介入": "ICIs at Karolinska University Hospital",
         "C_對照": "",
         "O_結果": ""
       },
-      "中文摘要": "【研究背景】There are limited data on how intraoperative hemodynamic factors influence pediatric kidney transplant outcomes, particularly across the different phases of graft reperfusion.\n\n【研究方法】We conducted a retrospective cohort study at a single center, including transplant recipients under 19 years of age who underwent kidney transplantation between 2010 and 2022 (n = 121). Data were extracted from chart reviews, anesthesia records, and an intraoperative monitoring databank.\n\n【主要結果】Longer duration of pre-unclamp mean arterial pressure (MAP) below the 95th percentile (β = -0.086, p = 0.009), a greater number of inotropes used during the pre-unclamp period (β = -4.00, p = 0.017), and higher MAP variability in the first 30 min post-unclamp (β = -1.38, p = 0.\n\n【結論】Intraoperative features related to pre-unclamp volume resuscitation, MAP control, and post-unclamp hemodynamic instability are associated with slower graft function in pediatric kidney transplantation.",
+      "中文摘要": "【研究目的】本系統性回顧旨在探討Immune-checkpoint inhibitors (ICIs) improve outcomes in renal cell carcinoma (RCC) but may cause immune-related adverse events (irAEs), including cutaneous toxicity. Bullous pemphigoid (BP) is a rare but clinically significant irAE that can require ICI discontinuation. Patient/material and\n\n【研究方法】We report two cases of BP in patients with metastatic RCC treated with ICIs at Karolinska University Hospital, Stockholm, Sweden. In addition, a systematic review was conducted in Medline, Embase, Cochrane Library, and Web of Science to identify published cases of ICI-associated BP in metastatic RCC...\n\n【主要結果】Twenty-eight publications describing 30 cases were identified. Median age at BP onset was 69 years (interquartile range [IQR] 65-73), and 86.7% were male. Nivolumab was the most commonly reported ICI monotherapy. Median time from ICI initiation to BP onset was 35 weeks (IQR 16-76).\n\n【結論】ICI-associated BP is a rare but important irAE in metastatic RCC, often occurring after prolonged ICI exposure and potentially requiring treatment modification. Early recognition may improve multidisciplinary management.",
       "結構化摘要": {
-        "背景": "There are limited data on how intraoperative hemodynamic factors influence pediatric kidney transplant outcomes, particularly across the different phases of graft reperfusion. With the widespread introduction of anesthesia information management systems, new opportunities have emerged to explore how intraoperative management affects transplant outcomes.",
-        "方法": "We conducted a retrospective cohort study at a single center, including transplant recipients under 19 years of age who underwent kidney transplantation between 2010 and 2022 (n = 121). Data were extracted from chart reviews, anesthesia records, and an intraoperative monitoring databank. Modeling for clinical variables alone, intraoperative variables alone, and combined clinical-intraoperative features was analyzed with respect to three outcomes: Unadjusted glomerular filtration rate at one-mont",
-        "結果": "Longer duration of pre-unclamp mean arterial pressure (MAP) below the 95th percentile (β = -0.086, p = 0.009), a greater number of inotropes used during the pre-unclamp period (β = -4.00, p = 0.017), and higher MAP variability in the first 30 min post-unclamp (β = -1.38, p = 0.006) were each independently associated with lower uGFR1M. A greater volume of fluid administered in the pre-unclamp period was independently associated with a longer time to creatinine nadir (β = 0.002, p = 0.01).",
-        "結論": "Intraoperative features related to pre-unclamp volume resuscitation, MAP control, and post-unclamp hemodynamic instability are associated with slower graft function in pediatric kidney transplantation."
+        "背景": "AND PURPOSE: Immune-checkpoint inhibitors (ICIs) improve outcomes in renal cell carcinoma (RCC) but may cause immune-related adverse events (irAEs), including cutaneous toxicity. Bullous pemphigoid (BP) is a rare but clinically significant irAE that can require ICI discontinuation. Patient/material and",
+        "方法": "We report two cases of BP in patients with metastatic RCC treated with ICIs at Karolinska University Hospital, Stockholm, Sweden. In addition, a systematic review was conducted in Medline, Embase, Cochrane Library, and Web of Science to identify published cases of ICI-associated BP in metastatic RCC. Data on patient characteristics, treatment, clinical presentation, diagnostics, management, and outcomes were extracted and descriptively analysed.",
+        "結果": "Twenty-eight publications describing 30 cases were identified. Median age at BP onset was 69 years (interquartile range [IQR] 65-73), and 86.7% were male. Nivolumab was the most commonly reported ICI monotherapy. Median time from ICI initiation to BP onset was 35 weeks (IQR 16-76). Typical manifestations included tense bullae and vesiculobullous eruptions on the trunk and extremities. Diagnosis was confirmed by skin biopsy and immunological testing in 80% of cases. Management mainly involved cor"
       },
       "相關趨勢": [],
-      "關鍵詞": [
-        "intraoperative management",
-        "kidney transplant",
-        "pediatric",
-        "transplant outcome"
-      ],
+      "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
-        "Kidney Transplantation",
-        "Retrospective Studies",
-        "Female",
-        "Perioperative Care",
-        "Adolescent",
-        "Child",
+        "Carcinoma, Renal Cell",
+        "Pemphigoid, Bullous",
         "Male",
-        "Treatment Outcome",
-        "Glomerular Filtration Rate"
+        "Kidney Neoplasms",
+        "Immune Checkpoint Inhibitors",
+        "Aged",
+        "Female",
+        "Nivolumab"
       ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42695234/",
-      "DOI": "10.1111/petr.70434"
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42714143/",
+      "DOI": "10.2340/1651-226X.2026.46088"
     },
     {
-      "pmid": "41771369",
-      "標題": "Kidney and Blood Pressure Outcomes in Children Surviving at Least 6 Months after Hematopoietic Stem Cell Transplantation: A Systematic Review and Meta-Analysis.",
-      "期刊": "Transplantation and cellular therapy",
-      "發表日期": "2026 Sep",
-      "研究類型": "統合分析",
-      "PICO": {
-        "P_族群": "late kidney and high BP outcomes after pediatric HSCT",
-        "I_介入": "of kidney and BP issues",
-        "C_對照": "",
-        "O_結果": "late kidney outcomes and 24 (44"
-      },
-      "中文摘要": "【研究目的】本統合分析旨在探討ed to evaluate (1) the proportion of patients with late kidney and high BP outcomes after pediatric HSCT, (2) the relationship between acute kidney injury ≤100 days post-HSCT as a risk factor for these outcomes, and (3) types of outcome definitions outcomes used in the literature.",
-      "結構化摘要": {
-        "完整摘要": "Pediatric hematopoietic stem cell transplantation (HSCT) recipients are at risk of developing kidney and high blood pressure (BP) conditions, but the prevalence of these conditions is unclear. We aimed to evaluate (1) the proportion of patients with late kidney and high BP outcomes after pediatric HSCT, (2) the relationship between acute kidney injury ≤100 days post-HSCT as a risk factor for these outcomes, and (3) types of outcome definitions outcomes used in the literature. We searched for studies reporting kidney and high BP outcomes at ≥6 months post-pediatric HSCT between January 2000 and November 2022. Categorical and continuous outcome measures were collected. Meta-analyses of pooled proportions stratified by HSCT indication were performed using random-effects models. A total of 54 studies were examined, including 41 (75.9%) that evaluated late kidney outcomes and 24 (44.4%) that evaluated high BP outcomes. The pooled proportions of patients with late kidney and high BP outcomes"
-      },
-      "相關趨勢": [
-        "治療方法: stem cell"
-      ],
-      "關鍵詞": [
-        "Acute kidney injury",
-        "Chronic kidney disease",
-        "Hematopoietic stem cell transplantation",
-        "Hypertension",
-        "Meta-analysis",
-        "Systematic review"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Hematopoietic Stem Cell Transplantation",
-        "Child",
-        "Blood Pressure",
-        "Acute Kidney Injury",
-        "Hypertension",
-        "Kidney"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41771369/",
-      "DOI": "10.1016/j.jtct.2026.01.028"
-    },
-    {
-      "pmid": "42066960",
-      "標題": "A randomized, multicenter phase II trial to compare prophylaxis of graft versus host disease with tacrolimus and mycophenolate mofetil versus ruxolitinib after post-transplant cyclophosphamide.",
-      "期刊": "Transplantation and cellular therapy",
-      "發表日期": "2026 Sep",
+      "pmid": "42709214",
+      "標題": "Flexible ureteroscopy with a flexible and negative suction ureteral access sheath versus traditional sheath for treatment of infectious upper urinary tract stones: A prospective, randomized controlled study.",
+      "期刊": "Urolithiasis",
+      "發表日期": "2026 Sep 08",
       "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "acute myeloid leukemia and acute lymphoblastic leukemia in complete remission",
-        "I_介入": "intravenously at 50 mg/kg on days +3 and +4",
-        "C_對照": "host disease with tacrolimus and mycophenolate mofetil versus ruxolitinib after post-transplant cyclophosphamide",
-        "O_結果": "of noninferior efficacy of PTCy-Ruxo GVHD prophylaxis"
+        "P_族群": "infectious upper urinary tract stones (IUUTS)",
+        "I_介入": "the FANS group and 92 to the traditional UAS group",
+        "C_對照": "traditional sheath for treatment of infectious upper urinary tract stones: A prospective",
+        "O_結果": "the stone-free rate (SFR) at the first postoperative day"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討was to demonstrate noninferiority of PTCy-Ruxo for prevention of acute grade II-IV compared with PTCy-Tac-MMF with a noninferiority-margin of 10% and one-sided type 1 error of 2.5%.The trial was completed and registered at ClinicalTrials.gov, NCT04669210.",
+      "中文摘要": "【摘要】To evaluate the efficacy and safety of the flexible ureteroscopy (fURS) with a flexible and negative suction ureteral access sheath (FANS) versus traditional sheath for patients with infectious upper urinary tract stones (IUUTS).",
       "結構化摘要": {
-        "完整摘要": "Post-transplantation cyclophosphamide (PTCy)-based graft-versus-host disease (GVHD) prophylaxis is an emerging standard of care in allogeneic hematopoietic cell transplantation (HCT), however, it should be combined with other immunosuppressive agents in unrelated and haploidentical allografts. These combinations have not been previously compared in randomized clinical trials. We compared most common combination of PTCy, tacrolimus (Tac) and mycophenolate mofetil (MMF) to a new calcineurin-free combination of PTCy and ruxolitinib (PTCy-Ruxo). The multicenter prospective open-label phase II noninferiority randomized trial compared GVHD PTCy-Ruxo prophylaxis to PTCy-Tac-MMF in unrelated and haploidentical donor HCT. The study recruited 128 adult patients with acute myeloid leukemia and acute lymphoblastic leukemia in complete remission. Patients were randomized 1:1 and stratified by donor type and disease risk index. PTCy in both groups was administered intravenously at 50 mg/kg on days +"
+        "完整摘要": "To evaluate the efficacy and safety of the flexible ureteroscopy (fURS) with a flexible and negative suction ureteral access sheath (FANS) versus traditional sheath for patients with infectious upper urinary tract stones (IUUTS). A total of 185 patients were enrolled, with 93 assigned to the FANS group and 92 to the traditional UAS group. The primary outcome was the stone-free rate (SFR) at the first postoperative day. Secondary outcomes included the SFR at 30 days postoperatively, operative time, hemoglobin reduction, length of hospital stay, quality of life (QoL) improvement, incidence of ureteral stricture at 3 months, and surgery-related complications. No significant differences were observed between the two groups in baseline demographics or preoperative clinical characteristics (P > 0.05). The FANS group had significantly lower white blood cell count, C-reactive protein, and procalcitonin levels at 6 and 24 h postoperatively (all P < 0.05). Mean operative time was significantly s"
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "臨床結局: quality of life"
+      ],
       "關鍵詞": [
-        "Graft-versus-host disease",
-        "Post-transplantation cyclophosphamide",
-        "Prophylaxis",
-        "Ruxolitinib",
-        "Tacrolimus"
+        "Flexible and negative suction ureteral access sheath",
+        "Flexible ureteroscopy",
+        "Infectious upper urinary tract stones",
+        "Stone-free rate",
+        "Traditional sheath"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Graft vs Host Disease",
-        "Tacrolimus",
-        "Mycophenolic Acid",
-        "Pyrimidines",
         "Female",
+        "Ureteroscopy",
+        "Middle Aged",
         "Male",
+        "Prospective Studies",
+        "Ureteral Calculi",
+        "Ureteroscopes",
         "Adult",
-        "Middle Aged",
-        "Cyclophosphamide"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42066960/",
-      "DOI": "10.1016/j.jtct.2026.04.042"
-    },
-    {
-      "pmid": "41967640",
-      "標題": "Impact of donor and recipient sex on graft function among deceased donor kidney recipients: A paired-kidney analysis.",
-      "期刊": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-      "發表日期": "2026 Sep",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "1-year graft and patient survival and estimated glomerular filtration rate at 6 months and 1 year",
-        "I_介入": "donor and recipient sex",
-        "C_對照": "",
-        "O_結果": "delayed graft function"
-      },
-      "中文摘要": "【主要結果】for the following covariates: years receiving dialysis, human leukocyte antigen mismatch, calculated panel reactive antibodies, and cold ischemic time. Consistent with preclinical data, female donor and recipient sex was associated with reduced delayed graft function, especially in the context of do...",
-      "結構化摘要": {
-        "結果": "for the following covariates: years receiving dialysis, human leukocyte antigen mismatch, calculated panel reactive antibodies, and cold ischemic time. Consistent with preclinical data, female donor and recipient sex was associated with reduced delayed graft function, especially in the context of donation after cardiocirculatory death (F-to-M: odds ratio [OR] = 0.73, M-to-F: OR = 0.59, F-to-F: OR = 0.39, reference: M-to-M; P < .0001 for all comparisons). Female recipients had improved 1-year gra"
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "United Network for Organ Sharing",
-        "delayed graft function",
-        "kidney transplant",
-        "multivariate statistical analysis",
-        "paired transplants",
-        "retrospective cohort study",
-        "sex differences"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Female",
-        "Male",
-        "Kidney Transplantation",
-        "Retrospective Studies",
-        "Tissue Donors",
-        "Graft Survival",
-        "Glomerular Filtration Rate",
-        "Middle Aged",
-        "Follow-Up Studies"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41967640/",
-      "DOI": "10.1016/j.ajt.2026.04.009"
-    },
-    {
-      "pmid": "42656140",
-      "標題": "Antithymocyte Globulin Induction Dosed on Ideal Body Weight: Absolute Lymphocyte Count (ALC) Depletion in Kidney Transplant Recipients with and without Obesity.",
-      "期刊": "Clinical transplantation",
-      "發表日期": "2026 Sep",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "and without obesity",
-        "I_介入": "ATG for induction from 8/2022 to 8/2023",
-        "C_對照": "theoretical ABW dosing",
-        "O_結果": "weight-based dosing of antithymocyte globulin"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討This study evaluated weight-based dosing of antithymocyte globulin, or ATG, using ideal body weight (IBW) in kidney transplant patients with and without obesity.\n\n【研究方法】This was a single-center, retrospective cohort study of adult kidney transplant recipients who received ATG for induction from 8/2022 to 8/2023. Patients were divided into groups based on obesity status (i.e., body mass index [BMI] ≥ 30).\n\n【主要結果】Baseline characteristics were similar between groups; however, the group with obesity had more Black patients and fewer Hispanic and Asian/Pacific Islander patients. Patients with obesity more frequently had HTN and DM as their ESRD etiologies and experienced more delayed graft function.\n\n【結論】Dosing ATG based on IBW results in similar ALC depletion in patients with and without obesity. There were similar allograft and safety findings observed between groups.",
-      "結構化摘要": {
-        "目的": "This study evaluated weight-based dosing of antithymocyte globulin, or ATG, using ideal body weight (IBW) in kidney transplant patients with and without obesity.",
-        "方法": "This was a single-center, retrospective cohort study of adult kidney transplant recipients who received ATG for induction from 8/2022 to 8/2023. Patients were divided into groups based on obesity status (i.e., body mass index [BMI] ≥ 30). The primary comparative endpoint was the average absolute lymphocyte count (ALC) across post-operative days (POD) 1 through 4. Secondary comparative endpoints included total ATG dose, hematologic outcomes, graft function, infection, rejection, malignancy, graft",
-        "結果": "Baseline characteristics were similar between groups; however, the group with obesity had more Black patients and fewer Hispanic and Asian/Pacific Islander patients. Patients with obesity more frequently had HTN and DM as their ESRD etiologies and experienced more delayed graft function. En bloc transplants were more common in the group without obesity. The average ALC POD1-4 was similar across groups. The total ATG dose, expressed as mg/kg IBW, was the same between groups. The total ATG dose, e",
-        "結論": "Dosing ATG based on IBW results in similar ALC depletion in patients with and without obesity. There were similar allograft and safety findings observed between groups. Compared with theoretical ABW dosing, this IBW dosing strategy resulted in significantly less ATG use, potentially leading to substantial cost savings."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Antithymocyte globulin",
-        "absolute lymphocyte count",
-        "ideal body weight",
-        "induction",
-        "kidney",
-        "obesity",
-        "thymoglobulin"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Antilymphocyte Serum",
-        "Kidney Transplantation",
-        "Female",
-        "Male",
-        "Retrospective Studies",
-        "Obesity",
-        "Middle Aged",
-        "Graft Survival",
-        "Lymphocyte Count"
-      ],
-      "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42656140/",
-      "DOI": "10.1111/ctr.70663"
-    },
-    {
-      "pmid": "42700010",
-      "標題": "Association between vitamin D deficiency and chronic kidney disease progression: A GRADE-based dose-response systematic review and meta-analysis.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Sep 04",
-      "研究類型": "統合分析",
-      "PICO": {
-        "P_族群": "患有 Renal Insufficiency, Chronic, Disease Progression 的病人",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "evidence certainty"
-      },
-      "中文摘要": "【研究目的】本統合分析旨在探討ed to evaluate the association between serum vitamin D status and chronic kidney disease (CKD) progression.\n\n【研究方法】We searched PubMed, Scopus, Web of Science, and Embase for relevant observational and cohort studies published between 1990 and 2024. Eligible studies reported baseline vitamin D levels and CKD progression outcomes.\n\n【主要結果】Eleven studies met the inclusion criteria. The pooled analysis suggested that vitamin D deficiency was associated with 33% higher odds of CKD progression (OR = 1.33, 95% confidence interval [CI]: 1.06-1.67; P = .\n\n【結論】was limited by reconstructed category-level exposure values. Subgroup analyses showed stronger associations in studies with long-term follow-up (≥5 years; OR = 2.07, 95% CI: 1.29-3.14; P = .001) and high-quality studies (OR = 1.35, 95% CI: 1.06-1.69; P = .03).",
-      "結構化摘要": {
-        "背景": "This systematic review and dose-response meta-analysis aimed to evaluate the association between serum vitamin D status and chronic kidney disease (CKD) progression.",
-        "方法": "We searched PubMed, Scopus, Web of Science, and Embase for relevant observational and cohort studies published between 1990 and 2024. Eligible studies reported baseline vitamin D levels and CKD progression outcomes. We performed a random-effects meta-analysis to calculate the pooled odds ratio (OR) for CKD progression. A dose-response meta-analysis examined the relationship between serum 25-hydroxyvitamin D (25(OH)D) levels and risk, while subgroup analyses explored follow-up duration, study qua",
-        "結果": "Eleven studies met the inclusion criteria. The pooled analysis suggested that vitamin D deficiency was associated with 33% higher odds of CKD progression (OR = 1.33, 95% confidence interval [CI]: 1.06-1.67; P = .019); however, between-study heterogeneity was considerable (I-squared heterogeneity statistic [I2] = 98.2%). The pooled estimate should therefore be interpreted cautiously as an average association across heterogeneous studies. A dose-response analysis of 10 studies suggested higher odd",
-        "結論": "Lower serum 25(OH)D levels were associated with higher odds of CKD progression. However, the observational nature of the evidence does not establish that routine screening or vitamin D supplementation can prevent renal function decline. Prospective studies and randomized trials are needed to clarify the clinical utility of vitamin D assessment and supplementation for renal outcomes."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "CKD progression",
-        "GRADE",
-        "chronic kidney disease",
-        "dialysis",
-        "dose-response",
-        "end-stage renal disease",
-        "estimated glomerular filtration rate",
-        "inflammation",
-        "meta-analysis",
-        "vitamin D deficiency"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Renal Insufficiency, Chronic",
-        "Vitamin D Deficiency",
-        "Disease Progression",
-        "Vitamin D",
-        "Odds Ratio"
+        "Suction"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42700010/",
-      "DOI": "10.1097/MD.0000000000050522"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42709214/",
+      "DOI": "10.1007/s00240-026-02041-x"
     },
     {
-      "pmid": "42696009",
-      "標題": "Robot-assisted versus open kidney transplantation in patients who previously underwent an open kidney transplant.",
-      "期刊": "World journal of urology",
-      "發表日期": "2026 Sep 04",
-      "研究類型": "研究",
+      "pmid": "42726135",
+      "標題": "Effects of intradialytic nutrition on dialysis adequacy and fatigue in hemodialysis patients: a randomized crossover study.",
+      "期刊": "Revista da Escola de Enfermagem da U S P",
+      "發表日期": "2026",
+      "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "previously underwent an open kidney transplant",
-        "I_介入": "RAKT or OKT from living donor between 2015 and 2023 in 7 European academic centers",
-        "C_對照": "open kidney transplantation in patients who previously underwent an open kidney transplant",
-        "O_結果": "to assess perioperative safety in terms of intra- and postoperative complications, described using the Clavien-Dindo classification"
+        "P_族群": "患有 Renal Dialysis 的病人",
+        "I_介入": "standardized intradialytic nutrition in one period and no food intake during the control period",
+        "C_對照": "",
+        "O_結果": "using the urea reduction ratio and single-pool Kt/V"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討The safety of robot-assisted kidney transplantation (RAKT) in patients with end-stage renal disease (ESRD) who underwent an open kidney transplantation (OKT) in the past is unknown.\n\n【研究方法】This was a multicenter retrospective cohort study including 78 patients with ESRD who received RAKT or OKT from living donor between 2015 and 2023 in 7 European academic centers. All patients had received an OKT in the past.\n\n【主要結果】Among 78 patients who previously underwent OKT, 29 (37%) patients subsequently underwent RAKT and 49 (63%) OKT. Patients' baseline characteristics were comparable between groups.\n\n【結論】In selected patients undergoing kidney re-transplantation after a previous OKT, RAKT appears to be technically feasible and provides perioperative outcomes comparable to the open approach. In this challenging surgical setting, RAKT may represent a valuable option in experienced centres.",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To assess intradialytic nutrition's effects on dialysis adequacy and fatigue in maintenance hemodialysis patients.\n\n【研究方法】A randomized, two-period, two-sequence, self-controlled crossover trial was conducted in two outpatient hemodialysis centers in Türkiye. Thirty-six patients were randomized; 32 completed both periods.\n\n【主要結果】No significant differences were observed in dialysis adequacy or fatigue scores between the two periods. Intradialytic nutrition was associated with greater reductions in systolic and diastolic blood pressure, particularly during the second hour of dialysis.\n\n【結論】Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions.",
       "結構化摘要": {
-        "目的": "The safety of robot-assisted kidney transplantation (RAKT) in patients with end-stage renal disease (ESRD) who underwent an open kidney transplantation (OKT) in the past is unknown. We tested the hypothesis that intraoperative and postoperative complication rates are similar between RAKT and OKT in this patient population. MATERIALS AND",
-        "方法": "This was a multicenter retrospective cohort study including 78 patients with ESRD who received RAKT or OKT from living donor between 2015 and 2023 in 7 European academic centers. All patients had received an OKT in the past. The primary outcome was to assess perioperative safety in terms of intra- and postoperative complications, described using the Clavien-Dindo classification. Secondary outcomes included dialysis-free survival (DFS), surgical reintervention-free survival (RFS) and renal functi",
-        "結果": "Among 78 patients who previously underwent OKT, 29 (37%) patients subsequently underwent RAKT and 49 (63%) OKT. Patients' baseline characteristics were comparable between groups. The site of transplantation was the left iliac fossa in 24 (83%) and 30 (61%) patients undergoing RAKT and OKT, respectively (p = 0.07). Cold ischemia time was shorter in the RAKT group (60 vs. 114 min, p = 0.005), as was total vascular anastomosis time (33 vs. 38 min, p = 0.01). Estimated blood loss, rewarming time and",
-        "結論": "In selected patients undergoing kidney re-transplantation after a previous OKT, RAKT appears to be technically feasible and provides perioperative outcomes comparable to the open approach. In this challenging surgical setting, RAKT may represent a valuable option in experienced centres."
+        "目的": "To assess intradialytic nutrition's effects on dialysis adequacy and fatigue in maintenance hemodialysis patients.",
+        "方法": "A randomized, two-period, two-sequence, self-controlled crossover trial was conducted in two outpatient hemodialysis centers in Türkiye. Thirty-six patients were randomized; 32 completed both periods. The participants received standardized intradialytic nutrition in one period and no food intake during the control period. Dialysis adequacy was evaluated using the urea reduction ratio and single-pool Kt/V. Intradialytic blood pressure was recorded during dialysis sessions, and fatigue severity wa",
+        "結果": "No significant differences were observed in dialysis adequacy or fatigue scores between the two periods. Intradialytic nutrition was associated with greater reductions in systolic and diastolic blood pressure, particularly during the second hour of dialysis. No clinically relevant adverse events occurred.",
+        "結論": "Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions. Individualized clinical decisions and careful hemodynamic monitoring are warranted when implementing intradialytic nutritional interventions. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT07687498."
       },
       "相關趨勢": [],
-      "關鍵詞": [
-        "Living donors",
-        "OKT",
-        "Open kidney transplantation",
-        "RAKT",
-        "Robot-assisted kidney transplantation"
-      ],
+      "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
-        "Kidney Transplantation",
-        "Retrospective Studies",
+        "Renal Dialysis",
+        "Cross-Over Studies",
+        "Fatigue",
         "Female",
-        "Robotic Surgical Procedures",
-        "Postoperative Complications",
-        "Kidney Failure, Chronic",
         "Male",
         "Middle Aged",
-        "Intraoperative Complications"
+        "Blood Pressure",
+        "Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42696009/",
-      "DOI": "10.1007/s00345-026-06754-x"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42726135/",
+      "DOI": "10.1590/1980-220X-REEUSP-2026-0010en"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "mortality",
-      "頻率": 16,
-      "想法": "目前 'mortality' 是研究熱點 (16 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "hospitalization",
-      "頻率": 8,
-      "想法": "目前 'hospitalization' 是研究熱點 (8 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "proteinuria",
-      "頻率": 7,
-      "想法": "目前 'proteinuria' 是研究熱點 (7 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 6,
-      "想法": "目前 'cardiovascular' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 1,
+      "想法": "目前 'cardiovascular' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "biomarker",
-      "頻率": 4,
-      "想法": "目前 'biomarker' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "stem cell",
+      "頻率": 1,
+      "想法": "目前 'stem cell' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "empagliflozin",
-      "頻率": 4,
-      "想法": "目前 'empagliflozin' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "patient-reported outcomes",
+      "頻率": 1,
+      "想法": "目前 'patient-reported outcomes' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 3,
-      "想法": "目前 'heart failure' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "finerenone",
-      "頻率": 3,
-      "想法": "目前 'finerenone' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
-      "頻率": 2,
-      "想法": "目前 'machine learning' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "personalized",
-      "頻率": 2,
-      "想法": "目前 'personalized' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "quality of life",
+      "頻率": 1,
+      "想法": "目前 'quality of life' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "machine learning",
-      "頻率": 2,
-      "想法": "'machine learning' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "關鍵詞": "cardiovascular",
+      "頻率": 1,
+      "想法": "'cardiovascular' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "genetic testing",
+      "關鍵詞": "stem cell",
       "頻率": 1,
-      "想法": "'genetic testing' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'stem cell' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "artificial intelligence",
+      "關鍵詞": "patient-reported outcomes",
       "頻率": 1,
-      "想法": "'artificial intelligence' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'patient-reported outcomes' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "eGFR decline",
+      "關鍵詞": "quality of life",
       "頻率": 1,
-      "想法": "'eGFR decline' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "ESKD",
-      "頻率": 1,
-      "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -671,49 +408,38 @@
       "關鍵詞": "真實世界數據",
       "想法": "利用真實世界數據進行研究：\n1. 健保資料庫分析\n2. 電子病歷數據挖掘\n3. 多中心登錄資料分析",
       "建議研究類型": "真實世界研究 (RWE)"
-    },
-    {
-      "類型": "高影響力研究延伸",
-      "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 8 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
-      "相關文章": [
-        "Kidney Survival in Children With Steroid-Resistant",
-        "Donor type, social deprivation, and long‑term outc",
-        "Effects of Perioperative Management on Short-Term "
-      ],
-      "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 65,
-    "Male": 59,
-    "Female": 58,
-    "Middle Aged": 46,
-    "Aged": 34,
-    "Retrospective Studies": 29,
-    "Adult": 26,
-    "Treatment Outcome": 20,
-    "Glomerular Filtration Rate": 18,
-    "Risk Factors": 15,
-    "Cohort Studies": 12,
-    "Kidney Failure, Chronic": 11,
-    "Acute Kidney Injury": 11,
-    "Prospective Studies": 11,
-    "Kidney Transplantation": 10,
-    "Postoperative Complications": 10,
-    "Child": 9,
-    "Diabetes Mellitus, Type 2": 9,
-    "Adolescent": 8,
-    "Creatinine": 8,
-    "Sodium-Glucose Transporter 2 Inhibitors": 8,
-    "Child, Preschool": 7,
-    "Prognosis": 7,
-    "Graft Rejection": 6,
-    "Graft Survival": 6,
-    "Renal Insufficiency, Chronic": 6,
-    "Kidney": 6,
-    "Glucosides": 6,
-    "Time Factors": 5,
-    "Blood Pressure": 5
+    "Female": 5,
+    "Humans": 5,
+    "Male": 5,
+    "Aged": 4,
+    "Middle Aged": 4,
+    "Adult": 2,
+    "Treatment Outcome": 2,
+    "Administration, Oral": 1,
+    "Antibodies, Monoclonal, Humanized": 1,
+    "Glomerular Filtration Rate": 1,
+    "Glomerulonephritis, Membranous": 1,
+    "Immunosuppressive Agents": 1,
+    "Remission Induction": 1,
+    "Tacrolimus": 1,
+    "Patient Reported Outcome Measures": 1,
+    "Infections": 1,
+    "Infusions, Intravenous": 1,
+    "Neutropenia": 1,
+    "Young Adult": 1,
+    "Acute Kidney Injury": 1,
+    "Coronary Angiography": 1,
+    "Coronary Artery Disease": 1,
+    "Follow-Up Studies": 1,
+    "Hemorrhage": 1,
+    "Myocardial Revascularization": 1,
+    "Percutaneous Coronary Intervention": 1,
+    "ST Elevation Myocardial Infarction": 1,
+    "Stroke": 1,
+    "Contrast Media": 1,
+    "Ischemic Attack, Transient": 1
   }
 }
