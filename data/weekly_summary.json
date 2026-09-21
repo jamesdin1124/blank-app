@@ -1,359 +1,550 @@
 {
-  "報告日期": "2026-09-14T14:48:19.499393",
+  "報告日期": "2026-09-21T14:54:46.465494",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 7,
+    "總文章數": 18,
     "高影響力期刊文章數": 0,
     "主要發現": [
-      "本週熱門研究主題: cardiovascular (1篇), stem cell (1篇), patient-reported outcomes (1篇)",
-      "高品質證據: 4 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (9篇), hospitalization (3篇), biomarker (2篇)",
+      "高品質證據: 2 篇 RCT, 1 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 2,
+      "文章數": 3,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Rheumatology (Oxford, England)": 1,
-        "Pediatric hematology and oncology": 1
+        "Pediatric nephrology (Berlin, Germany)": 2,
+        "International journal of telemedicine and applications": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 5,
+      "文章數": 15,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "The New England journal of medicine": 2,
-        "Urolithiasis": 1,
-        "Revista da Escola de Enfermagem da U S P": 1,
-        "Acta oncologica (Stockholm, Sweden)": 1
+        "Medicine": 2,
+        "World journal of urology": 2,
+        "The New England journal of medicine": 1,
+        "European heart journal. Quality of care & clinical outcomes": 1,
+        "Hepatology communications": 1
       }
     }
   },
   "研究趨勢": {
     "熱門主題": [
       [
+        "mortality",
+        9
+      ],
+      [
+        "hospitalization",
+        3
+      ],
+      [
+        "biomarker",
+        2
+      ],
+      [
         "cardiovascular",
-        1
-      ],
-      [
-        "stem cell",
-        1
-      ],
-      [
-        "patient-reported outcomes",
-        1
+        2
       ],
       [
         "quality of life",
         1
+      ],
+      [
+        "SGLT2 inhibitor",
+        1
+      ],
+      [
+        "finerenone",
+        1
+      ],
+      [
+        "heart failure",
+        1
+      ],
+      [
+        "inflammation",
+        1
       ]
     ],
     "趨勢關鍵詞": {
-      "研究主題": {
-        "cardiovascular": 1
+      "臨床結局": {
+        "mortality": 9,
+        "hospitalization": 3,
+        "quality of life": 1
       },
       "治療方法": {
-        "stem cell": 1
+        "SGLT2 inhibitor": 1,
+        "finerenone": 1
       },
-      "臨床結局": {
-        "patient-reported outcomes": 1,
-        "quality of life": 1
+      "診斷技術": {
+        "biomarker": 2
+      },
+      "研究主題": {
+        "cardiovascular": 2,
+        "heart failure": 1,
+        "inflammation": 1
       }
     },
     "期刊分布": {
-      "The New England journal of medicine": 2,
-      "Rheumatology (Oxford, England)": 1,
-      "Pediatric hematology and oncology": 1,
-      "Urolithiasis": 1,
-      "Revista da Escola de Enfermagem da U S P": 1,
-      "Acta oncologica (Stockholm, Sweden)": 1
+      "Pediatric nephrology (Berlin, Germany)": 2,
+      "Medicine": 2,
+      "World journal of urology": 2,
+      "International journal of telemedicine and applications": 1,
+      "The New England journal of medicine": 1,
+      "European heart journal. Quality of care & clinical outcomes": 1,
+      "Hepatology communications": 1,
+      "The Permanente journal": 1,
+      "The British journal of dermatology": 1,
+      "Acta oncologica (Stockholm, Sweden)": 1,
+      "BMC nephrology": 1,
+      "PloS one": 1,
+      "Renal failure": 1,
+      "The Journal of the American Academy of Orthopaedic Surgeons": 1,
+      "The Cochrane database of systematic reviews": 1
     },
     "文章類型": {
-      "Journal Article": 7,
-      "Randomized Controlled Trial": 4,
-      "Multicenter Study": 3,
+      "Journal Article": 18,
+      "Multicenter Study": 4,
+      "Randomized Controlled Trial": 2,
       "Comparative Study": 2,
-      "Clinical Trial, Phase III": 1,
+      "Pragmatic Clinical Trial": 1,
+      "Adaptive Clinical Trial": 1,
       "Systematic Review": 1,
-      "Case Reports": 1
+      "Meta-Analysis": 1,
+      "Review": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42730615",
-      "標題": "Acute kidney injury during ruxolitinib therapy in pediatric patients with graft-versus-host disease: incidence, associated factors, and histopathological findings in a retrospective cohort study.",
-      "期刊": "Pediatric hematology and oncology",
-      "發表日期": "2026 Sep 12",
+      "pmid": "42760646",
+      "標題": "Clinical spectrum and burden of extrahepatic manifestations in chronic hepatitis B: A multinational study from 2000 to 2025.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Sep 18",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "graft-versus-host disease: incidence",
-        "I_介入": "for steroid-refractory graft-",
+        "P_族群": "chronic HBV infection",
+        "I_介入": "EHMs",
         "C_對照": "",
-        "O_結果": "associated with AKI"
+        "O_結果": "comprised renal (glomerulonephritis)"
       },
-      "中文摘要": "【摘要】Ruxolitinib is a cornerstone treatment for steroid-refractory graft-versus-host disease (GVHD) following allogeneic hematopoietic stem cell transplantation (HSCT) in children, yet longitudinal data on kidney function during such therapy remain limited.",
+      "中文摘要": "【研究目的】本世代研究旨在探討ed to evaluate the spectrum, incidence, and survival impact of EHMs in a large, geographically diverse cohort of patients with chronic HBV infection. We conducted a retrospective cohort study using the TriNetX Global Research Network, including 2,32,820 patients aged 0 to 90 years with chronic HBV i...\n\n【主要結果】underscore the need for comprehensive multisystem surveillance and targeted risk stratification in patients with chronic HBV infection.",
       "結構化摘要": {
-        "完整摘要": "Ruxolitinib is a cornerstone treatment for steroid-refractory graft-versus-host disease (GVHD) following allogeneic hematopoietic stem cell transplantation (HSCT) in children, yet longitudinal data on kidney function during such therapy remain limited. We retrospectively analyzed 38 pediatric patients (0-18 years) receiving ruxolitinib for acute or chronic GVHD between January 2018 and December 2025, assessing kidney function at six timepoints from baseline to month 6. Mean serum creatinine rose from 0.34 ± 0.16 mg/dL at baseline to 0.50 ± 0.34 mg/dL at month 3 (p < 0.001) and remained mildly elevated at month 6 (0.48 ± 0.23 mg/dL; p < 0.001). Acute kidney injury (AKI) occurred in 7 patients (18.4%) at a median of 2.36 months after ruxolitinib initiation, with 4 (57.1%) progressing to acute kidney disease; biopsies excluded BK virus nephropathy. BK virus reactivation, BKV-related hemorrhagic cystitis, CMV reactivation, older age at transplantation, and higher baseline creatinine were s"
+        "完整摘要": "Chronic hepatitis B virus (HBV) infection is associated with both hepatic and extrahepatic complications. While liver-related outcomes are well characterized, the burden, demographic patterns, and survival associated with extrahepatic manifestations (EHMs) remain incompletely defined. This study aimed to evaluate the spectrum, incidence, and survival impact of EHMs in a large, geographically diverse cohort of patients with chronic HBV infection. We conducted a retrospective cohort study using the TriNetX Global Research Network, including 2,32,820 patients aged 0 to 90 years with chronic HBV infection. Demographic variables included age, sex, race, ethnicity, and geographic region. EHMs assessed comprised renal (glomerulonephritis), vasculitic (polyarteritis nodosa), musculoskeletal (arthralgia), hematologic (aplastic anemia), immunologic (cryoglobulinemia), and neurologic (polyneuropathy) conditions. Incidence proportions and incidence rates per person-day were calculated and stratifi"
       },
-      "相關趨勢": [
-        "治療方法: stem cell"
-      ],
+      "相關趨勢": [],
       "關鍵詞": [
-        "Acute kidney injury",
-        "BK virus",
-        "graft-versus-host disease",
-        "pediatric hematopoietic stem cell transplantation",
-        "ruxolitinib"
+        "epidemiology",
+        "extrahepatic manifestations",
+        "glomerulonephritis",
+        "hepatitis B virus",
+        "polyneuropathy"
       ],
-      "MeSH詞彙": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Hepatitis B, Chronic",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Adolescent",
+        "Incidence",
+        "Adult",
+        "Child"
+      ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42730615/",
-      "DOI": "10.1080/08880018.2026.2731106"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42760646/",
+      "DOI": "10.1097/MD.0000000000050775"
     },
     {
-      "pmid": "42246654",
-      "標題": "Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.",
-      "期刊": "The New England journal of medicine",
-      "發表日期": "2026 Sep 10",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42243641",
+      "標題": "Skin cancer mortality in Australian and New Zealand kidney transplant recipients: a population-based cohort study using linked health data, 1990-2019.",
+      "期刊": "The British journal of dermatology",
+      "發表日期": "2026 Sep 18",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "primary membranous nephropathy is needed",
-        "I_介入": "of hematologic cancers and autoimmune diseases",
-        "C_對照": "6% with multiple imputation for missing data; adjusted difference",
-        "O_結果": "a significant treatment effect"
+        "P_族群": "received their first kidney transplant between 1990 and 2019",
+        "I_介入": "their first kidney transplant between 1990 and 2019",
+        "C_對照": "the general population",
+        "O_結果": ""
       },
-      "中文摘要": "【研究背景】Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.\n\n【研究方法】In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine ratio of 0.\n\n【主要結果】A total of 142 patients underwent randomization. At week 104, complete remission was observed in 26 of 71 patients in the obinutuzumab group and in 4 of 70 patients in the tacrolimus group (37% vs.\n\n【結論】Obinutuzumab was superior to tacrolimus in inducing complete remission in patients with primary membranous nephropathy. (Funded by F. Hoffmann-La Roche; MAJESTY ClinicalTrials.gov number, NCT04629248.).",
+      "中文摘要": "【研究目的】本研究旨在探討To estimate skin cancer mortality rates among kidney transplant recipients in Australia and New Zealand and describe excess mortality by demographics and geography, relative to the general population, and change over time.\n\n【研究方法】We linked kidney transplant recipients from the Australia and New Zealand Dialysis and Transplant Registry with National Death Registers in Australia and New Zealand from 1990 to 2019.\n\n【主要結果】We included 21 503 individuals who received their first kidney transplant between 1990 and 2019. There were 251 deaths from skin cancer, 82 from melanoma and 169 from KC, over 212 317 PY of follow-up. The absolute skin cancer mortality rate was 118.2 per 100 000 PY (95% CI 104.1-134.2), 38.\n\n【結論】Kidney transplant recipients are at increased risk of skin cancer death, especially from KC, in all demographics and regions in Australia and New Zealand, especially those with high UVR indices. Enhanced surveillance and rapid treatment entry are warranted.",
       "結構化摘要": {
-        "背景": "Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.",
-        "方法": "In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine ratio of 0.3 or lower and a stable estimated glomerular filtration rate [eGFR]) at week 104. Key secondary end points were complete or partial remission at week 104, complete remission at week 76, a sustained reduction in the eGFR of at least 30%, duration",
-        "結果": "A total of 142 patients underwent randomization. At week 104, complete remission was observed in 26 of 71 patients in the obinutuzumab group and in 4 of 70 patients in the tacrolimus group (37% vs. 6% with multiple imputation for missing data; adjusted difference, 31 percentage points; 95% CI, 18 to 44; P<0.001). The analyses of complete or partial remission at week 104 and complete remission at week 76 also showed a significant treatment effect. The analysis of a sustained eGFR reduction did no",
-        "結論": "Obinutuzumab was superior to tacrolimus in inducing complete remission in patients with primary membranous nephropathy. (Funded by F. Hoffmann-La Roche; MAJESTY ClinicalTrials.gov number, NCT04629248.)."
+        "背景": "Transplant recipients have an increased risk of skin cancer and related death compared with the general population. How demographics or geography impact on mortality is unclear. Understanding these will help identify groups at highest risk of skin cancer death.",
+        "目的": "To estimate skin cancer mortality rates among kidney transplant recipients in Australia and New Zealand and describe excess mortality by demographics and geography, relative to the general population, and change over time.",
+        "方法": "We linked kidney transplant recipients from the Australia and New Zealand Dialysis and Transplant Registry with National Death Registers in Australia and New Zealand from 1990 to 2019. We identified deaths from melanoma (International Classification of Diseases 10th Revision code C43), keratinocyte cancer (KC; C44) and carcinoma in situ (D04), and estimated absolute mortality per 100 000 person-years of follow-up (PY). We used indirect standardization to estimate standardized mortality ratios (S",
+        "結果": "We included 21 503 individuals who received their first kidney transplant between 1990 and 2019. There were 251 deaths from skin cancer, 82 from melanoma and 169 from KC, over 212 317 PY of follow-up. The absolute skin cancer mortality rate was 118.2 per 100 000 PY (95% CI 104.1-134.2), 38.6 per 100 000 PY for melanoma (95% CI 31.1-48.0) and 79.6 per 100 000 PY for KC (95% CI 68.5-92.6). Skin cancer mortality was 11.1 times higher in kidney transplant recipients compared with the general populat",
+        "結論": "Kidney transplant recipients are at increased risk of skin cancer death, especially from KC, in all demographics and regions in Australia and New Zealand, especially those with high UVR indices. Enhanced surveillance and rapid treatment entry are warranted."
       },
       "相關趨勢": [
-        "臨床結局: patient-reported outcomes"
+        "臨床結局: mortality"
       ],
       "關鍵詞": [],
       "MeSH詞彙": [
-        "Adult",
-        "Aged",
-        "Female",
         "Humans",
+        "Kidney Transplantation",
+        "New Zealand",
+        "Skin Neoplasms",
+        "Female",
         "Male",
+        "Australia",
         "Middle Aged",
-        "Administration, Oral",
-        "Antibodies, Monoclonal, Humanized",
-        "Glomerular Filtration Rate",
-        "Glomerulonephritis, Membranous"
+        "Adult",
+        "Aged"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42246654/",
-      "DOI": "10.1056/NEJMoa2602678"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42243641/",
+      "DOI": "10.1093/bjd/ljag232"
     },
     {
-      "pmid": "42670979",
-      "標題": "Complete Revascularization Guided by Functional Coronary Angiography in STEMI.",
-      "期刊": "The New England journal of medicine",
-      "發表日期": "2026 Sep 10",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42755707",
+      "標題": "Disparities in initiating standard first-line cancer treatment and survival for patients with an immigrant background: a Danish register-based cohort study.",
+      "期刊": "Acta oncologica (Stockholm, Sweden)",
+      "發表日期": "2026 Sep 18",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "ST-segment elevation myocardial infarction (STEMI) and multivessel disease",
-        "I_介入": "the physiology-guided group and 910 assigned to the angiography-guided group",
+        "P_族群": "an immigrant background: a Danish register-based cohort study",
+        "I_介入": "and survival for patients with an immigrant background: a Danish register-based cohort study",
         "C_對照": "",
-        "O_結果": "a composite of death from any cause, myocardial infarction, cerebrovascular accident (stroke or transient ischemic attack), or ischemia-driven revascularization, assessed in a time-to-event analysis"
+        "O_結果": "using risk ratios (RRs) comparing patients with an immigrant background to those of Danish origin"
       },
-      "中文摘要": "【研究背景】Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.\n\n【研究方法】In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiography (physiology-guided group) or by conventional angio...\n\n【主要結果】A total of 1823 patients underwent randomization; 913 were assigned to the physiology-guided group and 910 assigned to the angiography-guided group. The median age of the patients was 66 years (interquartile range, 58 to 76), and 24% were women. At a median follow-up of 17.\n\n【結論】In patients with STEMI and multivessel coronary artery disease, a strategy of complete coronary-artery revascularization guided by functional coronary angiography resulted in a lower risk of a primary-outcome event (death, myocardial infarction, cerebrovascular accident, or ischemia-driven revascula...",
+      "中文摘要": "【研究目的】本研究旨在探討Individuals with an immigrant background may face barriers to healthcare. However, evidence on differences in cancer treatment and survival between patients with an immigrant background and patients of Danish origin is limited. PATIENTS AND\n\n【研究方法】We included patients aged ≥50 years diagnosed with a first primary colon, lung, prostate, or kidney cancer between 2011 and 2022 from national clinical cancer databases.\n\n【主要結果】Overall, there were no systematic differences in the initiation of first-line treatment or survival between patients with an immigrant background and patients of Danish origin. Exceptions included lower probability of initiating treatment (30-day RR: 0.76 [95% confidence interval (CI): 0.62; 0.\n\n【結論】Overall, patients with an immigrant background had similar initiation of first-line cancer treatment and survival to those of Danish origin, with some statistically significant differences but no consistent pattern across cancer types or regions of origin.",
       "結構化摘要": {
-        "背景": "Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.",
-        "方法": "In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiography (physiology-guided group) or by conventional angiography (angiography-guided group). The primary outcome was a composite of death from any cause, myocardial infarction, cerebrovascular accident (stroke or transient ischemic attack), or ischemia-drive",
-        "結果": "A total of 1823 patients underwent randomization; 913 were assigned to the physiology-guided group and 910 assigned to the angiography-guided group. The median age of the patients was 66 years (interquartile range, 58 to 76), and 24% were women. At a median follow-up of 17.9 months, a primary-outcome event had occurred in 81 patients (8.9%) in the physiology-guided group and in 125 patients (13.7%) in the angiography-guided group (hazard ratio, 0.62; 95% confidence interval [CI], 0.47 to 0.83; P",
-        "結論": "In patients with STEMI and multivessel coronary artery disease, a strategy of complete coronary-artery revascularization guided by functional coronary angiography resulted in a lower risk of a primary-outcome event (death, myocardial infarction, cerebrovascular accident, or ischemia-driven revascularization) than a strategy guided by conventional angiography. (Funded by the Italian Health Ministry and others; AIR-STEMI ClinicalTrials.gov number, NCT05818475.)."
+        "背景": "AND PURPOSE: Individuals with an immigrant background may face barriers to healthcare. However, evidence on differences in cancer treatment and survival between patients with an immigrant background and patients of Danish origin is limited. PATIENTS AND",
+        "方法": "We included patients aged ≥50 years diagnosed with a first primary colon, lung, prostate, or kidney cancer between 2011 and 2022 from national clinical cancer databases. First-line treatment initiation (30/90 days) and survival (1/5 years) were assessed using risk ratios (RRs) comparing patients with an immigrant background to those of Danish origin. Immigrant backgrounds were categorized according to their origin in (1) other Western countries, (2) Central and Eastern Europe, and (3) the Middle",
+        "結果": "Overall, there were no systematic differences in the initiation of first-line treatment or survival between patients with an immigrant background and patients of Danish origin. Exceptions included lower probability of initiating treatment (30-day RR: 0.76 [95% confidence interval (CI): 0.62; 0.93] and 90-day RR: 0.92 [95% CI: 0.87; 0.98]) and 1-year risk of death (RR: 0.85 [95% CI: 0.77; 0.93]) among lung cancer patients from Central and Eastern Europe, lower 30-day treatment initiation among pa"
       },
       "相關趨勢": [],
       "關鍵詞": [],
       "MeSH詞彙": [
+        "Humans",
+        "Denmark",
+        "Male",
+        "Emigrants and Immigrants",
+        "Registries",
+        "Middle Aged",
         "Aged",
         "Female",
-        "Humans",
-        "Male",
-        "Middle Aged",
-        "Acute Kidney Injury",
-        "Coronary Angiography",
-        "Coronary Artery Disease",
-        "Follow-Up Studies",
-        "Hemorrhage"
+        "Neoplasms",
+        "Healthcare Disparities"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42670979/",
-      "DOI": "10.1056/NEJMoa2605373"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42755707/",
+      "DOI": "10.2340/1651-226X.2026.46256"
     },
     {
-      "pmid": "42714965",
-      "標題": "Therapeutic plasma exchange in pediatric ANCA-associated vasculitis: a multicenter real-world experience.",
-      "期刊": "Rheumatology (Oxford, England)",
-      "發表日期": "2026 Sep 09",
+      "pmid": "42760653",
+      "標題": "Secondhand smoke exposure in never-smokers: A cross-sectional and prospective cohort study of chronic kidney disease prevalence and all-cause mortality in affected patients.",
+      "期刊": "Medicine",
+      "發表日期": "2026 Sep 18",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "severe baseline kidney involvement",
-        "I_介入": "TPE in real-world practice and to compare them with patients managed without TPE",
-        "C_對照": "7",
-        "O_結果": "higher disease activity (median PVAS 12 vs"
-      },
-      "中文摘要": "【研究目的】本研究旨在探討Antineutrophil cytoplasmic antibody-associated vasculitis (AAV) is a rare but potentially life-threatening condition in children, often presenting with severe multi-organ involvement.\n\n【研究方法】This retrospective multicenter study included children (<18 years) diagnosed with AAV according to EULAR/PRINTO/PRES criteria. Patients were classified into TPE-treated (TPE+) and non-TPE-treated (TPE-) groups.\n\n【主要結果】Twenty-six pediatric AAV patients were included, of whom 11 (42.3%) underwent TPE. At diagnosis, the TPE+ group had significantly higher disease activity (median PVAS 12 vs. 7, p = 0.004) and more severe kidney involvement, with higher serum creatinine and lower estimated glomerular filtration rate.\n\n【結論】TPE is selectively used as an adjunctive therapy in children with severe or refractory AAV, particularly in those with advanced kidney involvement. Although disease activity and acute organ-threatening manifestations improved following TPE, persistent renal abnormalities remained frequent, reflectin...",
-      "結構化摘要": {
-        "目的": "Antineutrophil cytoplasmic antibody-associated vasculitis (AAV) is a rare but potentially life-threatening condition in children, often presenting with severe multi-organ involvement. Although standard induction therapy includes cyclophosphamide or rituximab with glucocorticoids, the role of therapeutic plasma exchange (TPE) in pediatric AAV remains uncertain. This study sought to describe the clinical characteristics, indications, and outcomes of pediatric AAV patients treated with TPE in real-",
-        "方法": "This retrospective multicenter study included children (<18 years) diagnosed with AAV according to EULAR/PRINTO/PRES criteria. Patients were classified into TPE-treated (TPE+) and non-TPE-treated (TPE-) groups. Demographic features, organ involvement, laboratory parameters, Pediatric Vasculitis Activity Score (PVAS), treatments, adverse events, and outcomes were analyzed.",
-        "結果": "Twenty-six pediatric AAV patients were included, of whom 11 (42.3%) underwent TPE. At diagnosis, the TPE+ group had significantly higher disease activity (median PVAS 12 vs. 7, p = 0.004) and more severe kidney involvement, with higher serum creatinine and lower estimated glomerular filtration rate. Severe pulmonary, gastrointestinal, cardiovascular, and cutaneous manifestations occurred predominantly in the TPE+ group. The primary indication for TPE was severe kidney involvement. TPE was associ",
-        "結論": "TPE is selectively used as an adjunctive therapy in children with severe or refractory AAV, particularly in those with advanced kidney involvement. Although disease activity and acute organ-threatening manifestations improved following TPE, persistent renal abnormalities remained frequent, reflecting the severity of baseline kidney disease."
-      },
-      "相關趨勢": [
-        "研究主題: cardiovascular"
-      ],
-      "關鍵詞": [
-        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
-        "Plasma Exchange",
-        "Systemic Vasculitis",
-        "Vasculitis",
-        "small vessel"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42714965/",
-      "DOI": "10.1093/rheumatology/keag497"
-    },
-    {
-      "pmid": "42714143",
-      "標題": "Immune-checkpoint inhibitor-induced bullous pemphigoid in patients with metastatic renal cell carcinoma: two case reports and systematic review of the literature.",
-      "期刊": "Acta oncologica (Stockholm, Sweden)",
-      "發表日期": "2026 Sep 09",
-      "研究類型": "系統性回顧",
-      "PICO": {
-        "P_族群": "metastatic renal cell carcinoma: two case reports and systematic review of the literature",
-        "I_介入": "ICIs at Karolinska University Hospital",
+        "P_族群": "CKD",
+        "I_介入": "",
         "C_對照": "",
         "O_結果": ""
       },
-      "中文摘要": "【研究目的】本系統性回顧旨在探討Immune-checkpoint inhibitors (ICIs) improve outcomes in renal cell carcinoma (RCC) but may cause immune-related adverse events (irAEs), including cutaneous toxicity. Bullous pemphigoid (BP) is a rare but clinically significant irAE that can require ICI discontinuation. Patient/material and\n\n【研究方法】We report two cases of BP in patients with metastatic RCC treated with ICIs at Karolinska University Hospital, Stockholm, Sweden. In addition, a systematic review was conducted in Medline, Embase, Cochrane Library, and Web of Science to identify published cases of ICI-associated BP in metastatic RCC...\n\n【主要結果】Twenty-eight publications describing 30 cases were identified. Median age at BP onset was 69 years (interquartile range [IQR] 65-73), and 86.7% were male. Nivolumab was the most commonly reported ICI monotherapy. Median time from ICI initiation to BP onset was 35 weeks (IQR 16-76).\n\n【結論】ICI-associated BP is a rare but important irAE in metastatic RCC, often occurring after prolonged ICI exposure and potentially requiring treatment modification. Early recognition may improve multidisciplinary management.",
+      "中文摘要": "【主要結果】. Moderate SHS exposure was associated with higher CKD prevalence (odds ratio = 1.37, 95% confidence interval [CI]: 1.07-1.76; P = .01). Among 1630 participants with CKD, moderate and heavy SHS exposure were associated with higher all-cause mortality (hazard ratio [HR] = 2.03 [95% CI: 1.23-3.",
       "結構化摘要": {
-        "背景": "AND PURPOSE: Immune-checkpoint inhibitors (ICIs) improve outcomes in renal cell carcinoma (RCC) but may cause immune-related adverse events (irAEs), including cutaneous toxicity. Bullous pemphigoid (BP) is a rare but clinically significant irAE that can require ICI discontinuation. Patient/material and",
-        "方法": "We report two cases of BP in patients with metastatic RCC treated with ICIs at Karolinska University Hospital, Stockholm, Sweden. In addition, a systematic review was conducted in Medline, Embase, Cochrane Library, and Web of Science to identify published cases of ICI-associated BP in metastatic RCC. Data on patient characteristics, treatment, clinical presentation, diagnostics, management, and outcomes were extracted and descriptively analysed.",
-        "結果": "Twenty-eight publications describing 30 cases were identified. Median age at BP onset was 69 years (interquartile range [IQR] 65-73), and 86.7% were male. Nivolumab was the most commonly reported ICI monotherapy. Median time from ICI initiation to BP onset was 35 weeks (IQR 16-76). Typical manifestations included tense bullae and vesiculobullous eruptions on the trunk and extremities. Diagnosis was confirmed by skin biopsy and immunological testing in 80% of cases. Management mainly involved cor"
-      },
-      "相關趨勢": [],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Carcinoma, Renal Cell",
-        "Pemphigoid, Bullous",
-        "Male",
-        "Kidney Neoplasms",
-        "Immune Checkpoint Inhibitors",
-        "Aged",
-        "Female",
-        "Nivolumab"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42714143/",
-      "DOI": "10.2340/1651-226X.2026.46088"
-    },
-    {
-      "pmid": "42709214",
-      "標題": "Flexible ureteroscopy with a flexible and negative suction ureteral access sheath versus traditional sheath for treatment of infectious upper urinary tract stones: A prospective, randomized controlled study.",
-      "期刊": "Urolithiasis",
-      "發表日期": "2026 Sep 08",
-      "研究類型": "隨機對照試驗",
-      "PICO": {
-        "P_族群": "infectious upper urinary tract stones (IUUTS)",
-        "I_介入": "the FANS group and 92 to the traditional UAS group",
-        "C_對照": "traditional sheath for treatment of infectious upper urinary tract stones: A prospective",
-        "O_結果": "the stone-free rate (SFR) at the first postoperative day"
-      },
-      "中文摘要": "【摘要】To evaluate the efficacy and safety of the flexible ureteroscopy (fURS) with a flexible and negative suction ureteral access sheath (FANS) versus traditional sheath for patients with infectious upper urinary tract stones (IUUTS).",
-      "結構化摘要": {
-        "完整摘要": "To evaluate the efficacy and safety of the flexible ureteroscopy (fURS) with a flexible and negative suction ureteral access sheath (FANS) versus traditional sheath for patients with infectious upper urinary tract stones (IUUTS). A total of 185 patients were enrolled, with 93 assigned to the FANS group and 92 to the traditional UAS group. The primary outcome was the stone-free rate (SFR) at the first postoperative day. Secondary outcomes included the SFR at 30 days postoperatively, operative time, hemoglobin reduction, length of hospital stay, quality of life (QoL) improvement, incidence of ureteral stricture at 3 months, and surgery-related complications. No significant differences were observed between the two groups in baseline demographics or preoperative clinical characteristics (P > 0.05). The FANS group had significantly lower white blood cell count, C-reactive protein, and procalcitonin levels at 6 and 24 h postoperatively (all P < 0.05). Mean operative time was significantly s"
+        "完整摘要": "Chronic kidney disease (CKD) is a major global health burden, yet the association of secondhand smoke (SHS) exposure with CKD among never-smokers remains incompletely characterized. This cross-sectional and prospective cohort study analyzed 13,276 never-smoking adults from the National Health and Nutrition Examination Survey from 1999 to 2020. Multivariable logistic regression was used to evaluate CKD prevalence, and Cox proportional hazards models were used to evaluate all-cause mortality among participants with CKD. Sensitivity and subgroup analyses were conducted to assess the robustness of the findings. Moderate SHS exposure was associated with higher CKD prevalence (odds ratio = 1.37, 95% confidence interval [CI]: 1.07-1.76; P = .01). Among 1630 participants with CKD, moderate and heavy SHS exposure were associated with higher all-cause mortality (hazard ratio [HR] = 2.03 [95% CI: 1.23-3.36] and HR = 1.80 [95% CI: 1.11-2.93], respectively). Each doubling of serum cotinine concentr"
       },
       "相關趨勢": [
-        "臨床結局: quality of life"
+        "臨床結局: mortality"
       ],
       "關鍵詞": [
-        "Flexible and negative suction ureteral access sheath",
-        "Flexible ureteroscopy",
-        "Infectious upper urinary tract stones",
-        "Stone-free rate",
-        "Traditional sheath"
+        "NHANES",
+        "all-cause mortality",
+        "chronic kidney disease",
+        "secondhand smoke exposure"
       ],
       "MeSH詞彙": [
         "Humans",
+        "Tobacco Smoke Pollution",
         "Female",
-        "Ureteroscopy",
-        "Middle Aged",
+        "Cross-Sectional Studies",
         "Male",
+        "Renal Insufficiency, Chronic",
         "Prospective Studies",
-        "Ureteral Calculi",
-        "Ureteroscopes",
-        "Adult",
-        "Suction"
+        "Prevalence",
+        "Middle Aged",
+        "Adult"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42709214/",
-      "DOI": "10.1007/s00240-026-02041-x"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42760653/",
+      "DOI": "10.1097/MD.0000000000050614"
     },
     {
-      "pmid": "42726135",
-      "標題": "Effects of intradialytic nutrition on dialysis adequacy and fatigue in hemodialysis patients: a randomized crossover study.",
-      "期刊": "Revista da Escola de Enfermagem da U S P",
-      "發表日期": "2026",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42757634",
+      "標題": "Lower-limb neuromuscular electrical stimulation (NMES) for adults with kidney failure undergoing dialysis.",
+      "期刊": "The Cochrane database of systematic reviews",
+      "發表日期": "2026 Sep 18",
+      "研究類型": "統合分析",
       "PICO": {
-        "P_族群": "患有 Renal Dialysis 的病人",
-        "I_介入": "standardized intradialytic nutrition in one period and no food intake during the control period",
-        "C_對照": "",
-        "O_結果": "using the urea reduction ratio and single-pool Kt/V"
+        "P_族群": "kidney failure undergoing dialysis",
+        "I_介入": "experience",
+        "C_對照": "no NMES",
+        "O_結果": "using the Cochrane RoB 2 tool"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To assess intradialytic nutrition's effects on dialysis adequacy and fatigue in maintenance hemodialysis patients.\n\n【研究方法】A randomized, two-period, two-sequence, self-controlled crossover trial was conducted in two outpatient hemodialysis centers in Türkiye. Thirty-six patients were randomized; 32 completed both periods.\n\n【主要結果】No significant differences were observed in dialysis adequacy or fatigue scores between the two periods. Intradialytic nutrition was associated with greater reductions in systolic and diastolic blood pressure, particularly during the second hour of dialysis.\n\n【結論】Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions.",
+      "中文摘要": "【研究目的】本統合分析旨在探討The aim of this review was to assess the effects of NMES, compared with no NMES, on critical and important outcomes in adults with kidney failure receiving dialysis.\n\n【研究方法】The Cochrane Kidney and Transplant Information Specialist conducted comprehensive searches in CENTRAL, MEDLINE, Embase, and trial registries, including ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform.\n\n【主要結果】presented in this abstract focuses on the critical outcomes. RISK OF BIAS: Risk of bias was assessed using the Cochrane RoB 2 tool. SYNTHESIS METHODS: We analysed the data using a random-effects model.\n\n【結論】The evidence is very uncertain about the effects of NMES on life participation and death in adults with kidney failure receiving haemodialysis. Low-certainty evidence suggests NMES may result in little to no difference in blood pressure or resting heart rate.",
       "結構化摘要": {
-        "目的": "To assess intradialytic nutrition's effects on dialysis adequacy and fatigue in maintenance hemodialysis patients.",
-        "方法": "A randomized, two-period, two-sequence, self-controlled crossover trial was conducted in two outpatient hemodialysis centers in Türkiye. Thirty-six patients were randomized; 32 completed both periods. The participants received standardized intradialytic nutrition in one period and no food intake during the control period. Dialysis adequacy was evaluated using the urea reduction ratio and single-pool Kt/V. Intradialytic blood pressure was recorded during dialysis sessions, and fatigue severity wa",
-        "結果": "No significant differences were observed in dialysis adequacy or fatigue scores between the two periods. Intradialytic nutrition was associated with greater reductions in systolic and diastolic blood pressure, particularly during the second hour of dialysis. No clinically relevant adverse events occurred.",
-        "結論": "Intradialytic nutrition did not compromise dialysis adequacy or worsen fatigue severity but was associated with increased intradialytic blood pressure reductions. Individualized clinical decisions and careful hemodynamic monitoring are warranted when implementing intradialytic nutritional interventions. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT07687498."
+        "目的": "The aim of this review was to assess the effects of NMES, compared with no NMES, on critical and important outcomes in adults with kidney failure receiving dialysis. The objectives were to evaluate the effect of NMES on critical outcomes, including life participation, fatigue, cardiovascular outcomes, pain, infection, death, and vascular access problems, and on important outcomes, including muscle function, functional performance, muscle structure, QoL, mechanisms, and treatment experience. SEAR",
+        "方法": "The Cochrane Kidney and Transplant Information Specialist conducted comprehensive searches in CENTRAL, MEDLINE, Embase, and trial registries, including ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform. Searches had no restrictions on language, publication date, or status (search date 16 June 2025). We hand-searched the reference lists of included studies and relevant reviews to identify additional studies. ELIGIBILITY CRITERIA: We included randomised controlled tria",
+        "結果": "presented in this abstract focuses on the critical outcomes. RISK OF BIAS: Risk of bias was assessed using the Cochrane RoB 2 tool. SYNTHESIS METHODS: We analysed the data using a random-effects model. Continuous outcomes were expressed as mean difference (MD) or standardised mean difference (SMD), and dichotomous outcomes as risk ratios (RRs), with 95% confidence intervals (CIs). We assessed heterogeneity using the I² statistic and explored it narratively where pooling was inappropriate. When m",
+        "結論": "The evidence is very uncertain about the effects of NMES on life participation and death in adults with kidney failure receiving haemodialysis. Low-certainty evidence suggests NMES may result in little to no difference in blood pressure or resting heart rate. No studies reported fatigue, pain, infection, or vascular access problems. The available evidence is limited by small sample sizes, methodological limitations, and imprecision, highlighting the need for larger, high-quality RCTs evaluating "
       },
-      "相關趨勢": [],
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "研究主題: inflammation",
+        "臨床結局: quality of life"
+      ],
       "關鍵詞": [],
       "MeSH詞彙": [
         "Humans",
         "Renal Dialysis",
-        "Cross-Over Studies",
-        "Fatigue",
-        "Female",
-        "Male",
-        "Middle Aged",
-        "Blood Pressure",
-        "Aged"
+        "Electric Stimulation Therapy",
+        "Randomized Controlled Trials as Topic",
+        "Adult",
+        "Quality of Life",
+        "Lower Extremity",
+        "Kidney Failure, Chronic",
+        "Renal Insufficiency",
+        "Muscle, Skeletal"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42726135/",
-      "DOI": "10.1590/1980-220X-REEUSP-2026-0010en"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42757634/",
+      "DOI": "10.1002/14651858.CD016155.pub2"
+    },
+    {
+      "pmid": "42283370",
+      "標題": "Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.",
+      "期刊": "The New England journal of medicine",
+      "發表日期": "2026 Sep 17",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "Metabolic Acidosis and Shock",
+        "I_介入": "receive sodium bicarbonate and 255 to receive placebo",
+        "C_對照": "none in the placebo group (P = 0",
+        "O_結果": "a major adverse kidney event, defined as death, use of renal-replacement therapy, or persistent renal dysfunction, within 30 days"
+      },
+      "中文摘要": "【研究背景】Metabolic acidosis is common in critically ill patients and is associated with organ dysfunction and death. Sodium bicarbonate is used to correct acidemia, but its benefit in patients with metabolic acidosis who are receiving vasopressors remains uncertain.\n\n【研究方法】In this pragmatic, adaptive, double-blind, randomized trial, we assigned adults with metabolic acidosis (pH, <7.30; base excess, no more than -4 mmol per liter; and partial pressure of arterial carbon dioxide, ≤45 mm Hg without intubation or ≤50 mm Hg with intubation) who were receiving vasopressors...\n\n【主要結果】A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo. A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.\n\n【結論】The use of sodium bicarbonate in critically ill patients with metabolic acidosis receiving vasopressors did not lead to a lower risk of major adverse kidney events within 30 days than placebo. (Funded by the National Health and Medical Research Council of Australia; SODa-BIC ClinicalTrials.",
+      "結構化摘要": {
+        "背景": "Metabolic acidosis is common in critically ill patients and is associated with organ dysfunction and death. Sodium bicarbonate is used to correct acidemia, but its benefit in patients with metabolic acidosis who are receiving vasopressors remains uncertain.",
+        "方法": "In this pragmatic, adaptive, double-blind, randomized trial, we assigned adults with metabolic acidosis (pH, <7.30; base excess, no more than -4 mmol per liter; and partial pressure of arterial carbon dioxide, ≤45 mm Hg without intubation or ≤50 mm Hg with intubation) who were receiving vasopressors in the intensive care unit (ICU) to receive either sodium bicarbonate or placebo (5% dextrose). Sodium bicarbonate or placebo was infused for up to 5 hours, with the infusion rate adjusted for a targ",
+        "結果": "A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo. A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.2%) in the sodium bicarbonate group and in 100 of 254 patients (39.4%) in the placebo group (adjusted difference, 1.2 percentage points; 95% confidence interval [CI], -7.1 to 9.4; P = 0.78). Renal-replacement therapy was used within 30 days in 16.8% of the patien",
+        "結論": "The use of sodium bicarbonate in critically ill patients with metabolic acidosis receiving vasopressors did not lead to a lower risk of major adverse kidney events within 30 days than placebo. (Funded by the National Health and Medical Research Council of Australia; SODa-BIC ClinicalTrials.gov number, NCT05697770.)."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acidosis",
+        "Critical Illness",
+        "Double-Blind Method",
+        "Infusions, Intravenous",
+        "Intensive Care Units"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42283370/",
+      "DOI": "10.1056/NEJMoa2600526"
+    },
+    {
+      "pmid": "42752701",
+      "標題": "Comparison of ultrasonic lithotripsy with Ho:YAG laser lithotripsy during percutaneous nephrolithotomy for 20-40 mm low-hardness renal calculi: a propensity score-matched study.",
+      "期刊": "World journal of urology",
+      "發表日期": "2026 Sep 17",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "436 patients undergoing PCNL for 20-40 mm low-hardness stones",
+        "I_介入": "an ultrasonic lithotripsy system equipped with an integrated suction system (UL group",
+        "C_對照": "holmium: yttrium-aluminum-garnet (Ho:YAG) laser lithotripsy during percutaneous nephrolithotomy (PCNL) for treating 20-40 mm low-hardness renal stones using propensity score matching (PSM) analysis",
+        "O_結果": "higher 1-day SFR (96"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討This study aims to compare the efficacy and safety of ultrasonic lithotripsy (UL) with an integrated suction system versus holmium: yttrium-aluminum-garnet (Ho:YAG) laser lithotripsy during percutaneous nephrolithotomy (PCNL) for treating 20-40 mm low-hardness renal stones using propensity score mat...\n\n【研究方法】This single-center retrospective cohort study included 436 patients undergoing PCNL for 20-40 mm low-hardness stones. PSM balanced baseline characteristics, comparing patients treated with an ultrasonic lithotripsy system equipped with an integrated suction system (UL group, n = 110) and Ho:YAG lase...\n\n【主要結果】The UL group exhibited a significantly higher 1-day SFR (96.36% vs. 85.45%, P = 0.005). The 1-month SFR was numerically higher in the UL group than in the Ho:YAG group (96.36% vs. 90.00%), although the difference did not reach statistical significance (P = 0.061).\n\n【結論】UL demonstrates superior early SFR and safety for 20-40 mm low-hardness stones, suggesting that it has the potential to facilitate stentless PCNL. Prospective studies are warranted to validate these findings and optimize clinical protocols.",
+      "結構化摘要": {
+        "方法": "This single-center retrospective cohort study included 436 patients undergoing PCNL for 20-40 mm low-hardness stones. PSM balanced baseline characteristics, comparing patients treated with an ultrasonic lithotripsy system equipped with an integrated suction system (UL group, n = 110) and Ho:YAG laser lithotripsy (Ho:YAG group, n = 110) regarding 1-day/1-month stone-free rates (SFR), operative time, and complications.",
+        "結果": "The UL group exhibited a significantly higher 1-day SFR (96.36% vs. 85.45%, P = 0.005). The 1-month SFR was numerically higher in the UL group than in the Ho:YAG group (96.36% vs. 90.00%), although the difference did not reach statistical significance (P = 0.061). Complication rates were lower in the UL group (7.27% vs. 22.73%, p = 0.001), particularly for low-grade Clavien I-II events. Postoperative pain (VAS) at 6 h was higher in the UL group (7.24 ± 1.53 vs. 6.67 ± 1.97, p = 0.018), yet compa",
+        "結論": "UL demonstrates superior early SFR and safety for 20-40 mm low-hardness stones, suggesting that it has the potential to facilitate stentless PCNL. Prospective studies are warranted to validate these findings and optimize clinical protocols."
+      },
+      "相關趨勢": [
+        "臨床結局: hospitalization"
+      ],
+      "關鍵詞": [
+        "Holmium:YAG laser lithotripsy",
+        "Kidney stone",
+        "Percutaneous nephrolithotomy",
+        "Stone-free rate",
+        "Ultrasound lithotripsy"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Nephrolithotomy, Percutaneous",
+        "Retrospective Studies",
+        "Propensity Score",
+        "Kidney Calculi",
+        "Lithotripsy, Laser",
+        "Lasers, Solid-State",
+        "Female",
+        "Male",
+        "Middle Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42752701/",
+      "DOI": "10.1007/s00345-026-06771-w"
+    },
+    {
+      "pmid": "42747476",
+      "標題": "The incidence and risk factors associated with severe acute kidney injury and operative mortality in neonates following cardiac surgery: a single-center experience.",
+      "期刊": "Pediatric nephrology (Berlin, Germany)",
+      "發表日期": "2026 Sep 16",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "501 neonates, 223 (45%) of which had SV physiology",
+        "I_介入": "",
+        "C_對照": "biventricular physiology",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究背景】The incidence and risk factors of cardiac surgery-associated acute kidney injury (CS-AKI) are variable. We describe the incidence of severe postoperative CS-AKI (i.e.\n\n【研究方法】A single-center, retrospective cohort study of neonates who underwent STAT (The Society of Thoracic Surgeons-European Association for Cardio-Thoracic Surgery) category 3, 4, and 5 surgeries between June 2015 and June 2022 was conducted.\n\n【主要結果】Our study included 501 neonates, 223 (45%) of which had SV physiology. About 50% developed stage 2 or 3 AKI in both neonatal and SV cohorts. The operative mortality rate was 8% for total neonates and 14% for SV neonates.\n\n【結論】There is a high prevalence of CS-AKI and operative mortality in both of our neonatal cohorts, with multiple risk factors associated with both outcomes. Future prospective, multi-center, randomized studies and development of an AKI prediction tool are necessary to further investigate these findings.",
+      "結構化摘要": {
+        "背景": "The incidence and risk factors of cardiac surgery-associated acute kidney injury (CS-AKI) are variable. We describe the incidence of severe postoperative CS-AKI (i.e., stage 2 or 3 AKI) and operative mortality in total neonates and in neonates with single ventricle (SV) physiology at a high-volume heart center. Additionally, we determine risk factors associated with severe CS-AKI and operative mortality.",
+        "方法": "A single-center, retrospective cohort study of neonates who underwent STAT (The Society of Thoracic Surgeons-European Association for Cardio-Thoracic Surgery) category 3, 4, and 5 surgeries between June 2015 and June 2022 was conducted. AKI was defined using the neonatal Kidney Disease Improved Global Outcome criteria. The cohort was compared based on SV physiology vs. biventricular physiology, development of stage 2 or 3 AKI vs. no AKI or stage 1 AKI, and operative mortality. Associations of ri",
+        "結果": "Our study included 501 neonates, 223 (45%) of which had SV physiology. About 50% developed stage 2 or 3 AKI in both neonatal and SV cohorts. The operative mortality rate was 8% for total neonates and 14% for SV neonates. Following multivariate analyses, longer cardiopulmonary bypass time and delayed sternal closure were associated with severe AKI stages and operative morality. A lower preoperative creatinine was independently associated with severe postoperative AKI.",
+        "結論": "There is a high prevalence of CS-AKI and operative mortality in both of our neonatal cohorts, with multiple risk factors associated with both outcomes. Future prospective, multi-center, randomized studies and development of an AKI prediction tool are necessary to further investigate these findings."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Cardiac surgery–associated acute kidney injury (CS-AKI)",
+        "Neonatal Kidney Disease Improved Global Outcomes (n-KDIGO) criteria",
+        "Neonates",
+        "Operative mortality",
+        "Single ventricle (SV)"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42747476/",
+      "DOI": "10.1007/s00467-026-07547-5"
+    },
+    {
+      "pmid": "42747477",
+      "標題": "Acute kidney injury in neonates with hypoxic-ischemic encephalopathy treated with therapeutic hypothermia: impact of diagnostic criteria and clinical predictors.",
+      "期刊": "Pediatric nephrology (Berlin, Germany)",
+      "發表日期": "2026 Sep 16",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "",
+        "I_介入": "therapeutic hypothermia: impact of diagnostic criteria and clinical predictors",
+        "C_對照": "",
+        "O_結果": "the incidence"
+      },
+      "中文摘要": "【研究背景】Acute kidney injury (AKI) is a major contributor to morbidity and mortality in neonates with hypoxic-ischemic encephalopathy (HIE). This study evaluated the incidence, clinical predictors, and diagnostic agreement of AKI in neonates with HIE undergoing therapeutic hypothermia (TH).\n\n【研究方法】This retrospective cohort study included neonates with HIE treated with TH in a tertiary neonatal intensive care unit between January 2015 and September 2025. AKI was defined and staged according to the neonatal Kidney Disease: Improving Global Outcomes (nKDIGO) and Gupta criteria.\n\n【主要結果】Seventy-nine neonates were included. AKI occurred in 47% and 33% of patients according to the nKDIGO and Gupta criteria, respectively. Agreement between classifications was weak (κ = 0.30), with diagnostic discordance in 34% of cases.\n\n【結論】AKI is common in neonates with HIE undergoing TH, although its incidence and associated predictors varied according to the diagnostic criteria applied. The weak agreement between nKDIGO and Gupta suggests that these classifications may capture different patterns of renal dysfunction.",
+      "結構化摘要": {
+        "背景": "Acute kidney injury (AKI) is a major contributor to morbidity and mortality in neonates with hypoxic-ischemic encephalopathy (HIE). This study evaluated the incidence, clinical predictors, and diagnostic agreement of AKI in neonates with HIE undergoing therapeutic hypothermia (TH).",
+        "方法": "This retrospective cohort study included neonates with HIE treated with TH in a tertiary neonatal intensive care unit between January 2015 and September 2025. AKI was defined and staged according to the neonatal Kidney Disease: Improving Global Outcomes (nKDIGO) and Gupta criteria. Demographic, perinatal, clinical, and laboratory data were compared between AKI and non-AKI groups.",
+        "結果": "Seventy-nine neonates were included. AKI occurred in 47% and 33% of patients according to the nKDIGO and Gupta criteria, respectively. Agreement between classifications was weak (κ = 0.30), with diagnostic discordance in 34% of cases. Initial lactate was independently associated with nKDIGO-defined AKI (OR = 1.2; P = 0.047). When the Gupta criteria were applied, the initial Thompson score (OR = 1.3; P = 0.02), hyponatremia (OR = 5.3; P = 0.04) and thrombocytopenia (OR = 16.2; P = 0.02) were inde",
+        "結論": "AKI is common in neonates with HIE undergoing TH, although its incidence and associated predictors varied according to the diagnostic criteria applied. The weak agreement between nKDIGO and Gupta suggests that these classifications may capture different patterns of renal dysfunction. These findings support the need for greater standardization of neonatal AKI definitions and reinforce the importance of early renal monitoring in this high-risk population."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Acute kidney injury",
+        "Creatinine",
+        "Hypothermia, induced",
+        "Hypoxia–ischemia, brain",
+        "Infant, newborn",
+        "Intensive care, neonatal"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42747477/",
+      "DOI": "10.1007/s00467-026-07543-9"
+    },
+    {
+      "pmid": "41950426",
+      "標題": "Large-scale AI analysis reveals missed opportunities in albuminuria testing and disease-modifying therapy implementation.",
+      "期刊": "European heart journal. Quality of care & clinical outcomes",
+      "發表日期": "2026 Sep 16",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "cardio-kidney-metabolic (CKM) disease",
+        "I_介入": "renin-angiotensin system inhibitors",
+        "C_對照": "predicted albuminuria",
+        "O_結果": "the uptake of UACR testing"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討Albuminuria is a key diagnostic and prognostic biomarker of chronic kidney disease (CKD), associated with adverse cardiovascular and renal outcomes. Despite guideline recommendations, urine albumin-to-creatinine ratio (UACR) testing is infrequently performed in cardiology.\n\n【研究方法】AND\n\n【主要結果】We conducted a retrospective cohort study of all adults seen at the cardiology department of a tertiary referral centre between 2019 and 2024. Data were extracted using CTcue, an AI-driven platform. Albuminuria was defined as UACR ≥30 mg/g.\n\n【結論】Albuminuria is substantially underdetected in cardiology practice, possibly contributing to underuse of effective CKM therapies. Systematic UACR screening with structured treatment protocols may help close this gap and improve outcomes for patients with CKM disease.",
+      "結構化摘要": {
+        "方法": "AND",
+        "結果": "We conducted a retrospective cohort study of all adults seen at the cardiology department of a tertiary referral centre between 2019 and 2024. Data were extracted using CTcue, an AI-driven platform. Albuminuria was defined as UACR ≥30 mg/g. A weighted logistic regression model estimated albuminuria prevalence in untested patients. Among 77 351 patients (44.8% female, mean age 64.4 years), only 8.9% had a recorded UACR, of whom 46.4% had albuminuria. Testing rates were low across high-risk groups",
+        "結論": "Albuminuria is substantially underdetected in cardiology practice, possibly contributing to underuse of effective CKM therapies. Systematic UACR screening with structured treatment protocols may help close this gap and improve outcomes for patients with CKM disease."
+      },
+      "相關趨勢": [
+        "治療方法: SGLT2 inhibitor",
+        "治療方法: finerenone",
+        "診斷技術: biomarker",
+        "研究主題: cardiovascular",
+        "研究主題: heart failure"
+      ],
+      "關鍵詞": [
+        "Albuminuria",
+        "Artificial intelligence",
+        "Cardio-kidney-metabolic disease",
+        "Chronic kidney disease",
+        "Heart failure prevention",
+        "Implementation science"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Albuminuria",
+        "Female",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Male",
+        "Artificial Intelligence",
+        "Aged",
+        "Prevalence",
+        "Glomerular Filtration Rate"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41950426/",
+      "DOI": "10.1093/ehjqcco/qcag054"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
+      "關鍵詞": "mortality",
+      "頻率": 9,
+      "想法": "目前 'mortality' 是研究熱點 (9 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "目前 'hospitalization' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "biomarker",
+      "頻率": 2,
+      "想法": "目前 'biomarker' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 1,
-      "想法": "目前 'cardiovascular' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "stem cell",
-      "頻率": 1,
-      "想法": "目前 'stem cell' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "patient-reported outcomes",
-      "頻率": 1,
-      "想法": "目前 'patient-reported outcomes' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 2,
+      "想法": "目前 'cardiovascular' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -364,24 +555,38 @@
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
+      "類型": "熱門主題延伸",
+      "關鍵詞": "SGLT2 inhibitor",
       "頻率": 1,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
+      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "finerenone",
+      "頻率": 1,
+      "想法": "目前 'finerenone' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "heart failure",
+      "頻率": 1,
+      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "stem cell",
-      "頻率": 1,
-      "想法": "'stem cell' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "patient-reported outcomes",
-      "頻率": 1,
-      "想法": "'patient-reported outcomes' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "關鍵詞": "hospitalization",
+      "頻率": 3,
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -389,6 +594,27 @@
       "關鍵詞": "quality of life",
       "頻率": 1,
       "想法": "'quality of life' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "SGLT2 inhibitor",
+      "頻率": 1,
+      "想法": "'SGLT2 inhibitor' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "finerenone",
+      "頻率": 1,
+      "想法": "'finerenone' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "biomarker",
+      "頻率": 2,
+      "想法": "'biomarker' (診斷技術) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -411,35 +637,35 @@
     }
   ],
   "MeSH詞彙分析": {
-    "Female": 5,
-    "Humans": 5,
-    "Male": 5,
-    "Aged": 4,
-    "Middle Aged": 4,
-    "Adult": 2,
-    "Treatment Outcome": 2,
-    "Administration, Oral": 1,
-    "Antibodies, Monoclonal, Humanized": 1,
-    "Glomerular Filtration Rate": 1,
-    "Glomerulonephritis, Membranous": 1,
-    "Immunosuppressive Agents": 1,
-    "Remission Induction": 1,
-    "Tacrolimus": 1,
-    "Patient Reported Outcome Measures": 1,
-    "Infections": 1,
-    "Infusions, Intravenous": 1,
-    "Neutropenia": 1,
-    "Young Adult": 1,
-    "Acute Kidney Injury": 1,
-    "Coronary Angiography": 1,
-    "Coronary Artery Disease": 1,
-    "Follow-Up Studies": 1,
-    "Hemorrhage": 1,
-    "Myocardial Revascularization": 1,
-    "Percutaneous Coronary Intervention": 1,
-    "ST Elevation Myocardial Infarction": 1,
-    "Stroke": 1,
-    "Contrast Media": 1,
-    "Ischemic Attack, Transient": 1
+    "Humans": 15,
+    "Female": 14,
+    "Male": 14,
+    "Aged": 13,
+    "Middle Aged": 13,
+    "Retrospective Studies": 6,
+    "Adult": 6,
+    "Prospective Studies": 4,
+    "Renal Dialysis": 4,
+    "Acute Kidney Injury": 3,
+    "Treatment Outcome": 3,
+    "Prevalence": 3,
+    "Incidence": 3,
+    "Aged, 80 and over": 3,
+    "Postoperative Complications": 3,
+    "Kidney Failure, Chronic": 3,
+    "Hospital Mortality": 2,
+    "Renal Insufficiency, Chronic": 2,
+    "Adolescent": 2,
+    "Child": 2,
+    "Young Adult": 2,
+    "Registries": 2,
+    "Cohort Studies": 2,
+    "Kidney Neoplasms": 2,
+    "Propensity Score": 2,
+    "Inpatients": 2,
+    "Risk Factors": 2,
+    "Acidosis": 1,
+    "Critical Illness": 1,
+    "Double-Blind Method": 1
   }
 }

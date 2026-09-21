@@ -1,103 +1,142 @@
 {
-  "總文章數": 7,
+  "總文章數": 18,
   "高影響力期刊文章數": 0,
-  "分析日期": "2026-09-14T14:48:19.497361",
+  "分析日期": "2026-09-21T14:54:46.460538",
   "趨勢關鍵詞統計": {
-    "研究主題": {
-      "cardiovascular": 1
+    "臨床結局": {
+      "mortality": 9,
+      "hospitalization": 3,
+      "quality of life": 1
     },
     "治療方法": {
-      "stem cell": 1
+      "SGLT2 inhibitor": 1,
+      "finerenone": 1
     },
-    "臨床結局": {
-      "patient-reported outcomes": 1,
-      "quality of life": 1
+    "診斷技術": {
+      "biomarker": 2
+    },
+    "研究主題": {
+      "cardiovascular": 2,
+      "heart failure": 1,
+      "inflammation": 1
     }
   },
   "熱門主題": [
     [
+      "mortality",
+      9
+    ],
+    [
+      "hospitalization",
+      3
+    ],
+    [
+      "biomarker",
+      2
+    ],
+    [
       "cardiovascular",
-      1
-    ],
-    [
-      "stem cell",
-      1
-    ],
-    [
-      "patient-reported outcomes",
-      1
+      2
     ],
     [
       "quality of life",
       1
+    ],
+    [
+      "SGLT2 inhibitor",
+      1
+    ],
+    [
+      "finerenone",
+      1
+    ],
+    [
+      "heart failure",
+      1
+    ],
+    [
+      "inflammation",
+      1
     ]
   ],
   "期刊分布": {
-    "The New England journal of medicine": 2,
-    "Rheumatology (Oxford, England)": 1,
-    "Pediatric hematology and oncology": 1,
-    "Urolithiasis": 1,
-    "Revista da Escola de Enfermagem da U S P": 1,
-    "Acta oncologica (Stockholm, Sweden)": 1
+    "Pediatric nephrology (Berlin, Germany)": 2,
+    "Medicine": 2,
+    "World journal of urology": 2,
+    "International journal of telemedicine and applications": 1,
+    "The New England journal of medicine": 1,
+    "European heart journal. Quality of care & clinical outcomes": 1,
+    "Hepatology communications": 1,
+    "The Permanente journal": 1,
+    "The British journal of dermatology": 1,
+    "Acta oncologica (Stockholm, Sweden)": 1,
+    "BMC nephrology": 1,
+    "PloS one": 1,
+    "Renal failure": 1,
+    "The Journal of the American Academy of Orthopaedic Surgeons": 1,
+    "The Cochrane database of systematic reviews": 1
   },
   "文章類型分布": {
-    "Journal Article": 7,
-    "Randomized Controlled Trial": 4,
-    "Multicenter Study": 3,
+    "Journal Article": 18,
+    "Multicenter Study": 4,
+    "Randomized Controlled Trial": 2,
     "Comparative Study": 2,
-    "Clinical Trial, Phase III": 1,
+    "Pragmatic Clinical Trial": 1,
+    "Adaptive Clinical Trial": 1,
     "Systematic Review": 1,
-    "Case Reports": 1
+    "Meta-Analysis": 1,
+    "Review": 1
   },
   "MeSH詞彙頻率": {
-    "Female": 5,
-    "Humans": 5,
-    "Male": 5,
-    "Aged": 4,
-    "Middle Aged": 4,
-    "Adult": 2,
-    "Treatment Outcome": 2,
-    "Administration, Oral": 1,
-    "Antibodies, Monoclonal, Humanized": 1,
-    "Glomerular Filtration Rate": 1,
-    "Glomerulonephritis, Membranous": 1,
-    "Immunosuppressive Agents": 1,
-    "Remission Induction": 1,
-    "Tacrolimus": 1,
-    "Patient Reported Outcome Measures": 1,
-    "Infections": 1,
-    "Infusions, Intravenous": 1,
-    "Neutropenia": 1,
-    "Young Adult": 1,
-    "Acute Kidney Injury": 1,
-    "Coronary Angiography": 1,
-    "Coronary Artery Disease": 1,
-    "Follow-Up Studies": 1,
-    "Hemorrhage": 1,
-    "Myocardial Revascularization": 1,
-    "Percutaneous Coronary Intervention": 1,
-    "ST Elevation Myocardial Infarction": 1,
-    "Stroke": 1,
-    "Contrast Media": 1,
-    "Ischemic Attack, Transient": 1
+    "Humans": 15,
+    "Female": 14,
+    "Male": 14,
+    "Aged": 13,
+    "Middle Aged": 13,
+    "Retrospective Studies": 6,
+    "Adult": 6,
+    "Prospective Studies": 4,
+    "Renal Dialysis": 4,
+    "Acute Kidney Injury": 3,
+    "Treatment Outcome": 3,
+    "Prevalence": 3,
+    "Incidence": 3,
+    "Aged, 80 and over": 3,
+    "Postoperative Complications": 3,
+    "Kidney Failure, Chronic": 3,
+    "Hospital Mortality": 2,
+    "Renal Insufficiency, Chronic": 2,
+    "Adolescent": 2,
+    "Child": 2,
+    "Young Adult": 2,
+    "Registries": 2,
+    "Cohort Studies": 2,
+    "Kidney Neoplasms": 2,
+    "Propensity Score": 2,
+    "Inpatients": 2,
+    "Risk Factors": 2,
+    "Acidosis": 1,
+    "Critical Illness": 1,
+    "Double-Blind Method": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 2,
+      "文章數": 3,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Rheumatology (Oxford, England)": 1,
-        "Pediatric hematology and oncology": 1
+        "Pediatric nephrology (Berlin, Germany)": 2,
+        "International journal of telemedicine and applications": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 5,
+      "文章數": 15,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "The New England journal of medicine": 2,
-        "Urolithiasis": 1,
-        "Revista da Escola de Enfermagem da U S P": 1,
-        "Acta oncologica (Stockholm, Sweden)": 1
+        "Medicine": 2,
+        "World journal of urology": 2,
+        "The New England journal of medicine": 1,
+        "European heart journal. Quality of care & clinical outcomes": 1,
+        "Hepatology communications": 1
       }
     }
   }
