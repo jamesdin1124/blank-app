@@ -1,123 +1,176 @@
 {
-  "總文章數": 16,
-  "高影響力期刊文章數": 1,
-  "分析日期": "2026-09-28T16:32:14.203334",
+  "總文章數": 64,
+  "高影響力期刊文章數": 7,
+  "分析日期": "2026-10-05T16:53:23.945977",
   "趨勢關鍵詞統計": {
-    "臨床結局": {
-      "mortality": 5,
-      "proteinuria": 3,
-      "quality of life": 2,
-      "eGFR decline": 1
-    },
     "研究主題": {
-      "cardiovascular": 3
+      "cardiovascular": 13,
+      "heart failure": 1,
+      "inflammation": 1
+    },
+    "臨床結局": {
+      "mortality": 17,
+      "hospitalization": 6,
+      "proteinuria": 3,
+      "quality of life": 3,
+      "eGFR decline": 1,
+      "patient-reported outcomes": 1,
+      "ESKD": 1
+    },
+    "治療方法": {
+      "empagliflozin": 2,
+      "finerenone": 2,
+      "GLP-1": 1
     },
     "診斷技術": {
-      "machine learning": 1
+      "biomarker": 4,
+      "metabolomics": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      5
+      17
+    ],
+    [
+      "cardiovascular",
+      13
+    ],
+    [
+      "hospitalization",
+      6
+    ],
+    [
+      "biomarker",
+      4
     ],
     [
       "proteinuria",
       3
     ],
     [
-      "cardiovascular",
+      "quality of life",
       3
     ],
     [
-      "quality of life",
+      "empagliflozin",
       2
+    ],
+    [
+      "finerenone",
+      2
+    ],
+    [
+      "heart failure",
+      1
+    ],
+    [
+      "inflammation",
+      1
     ],
     [
       "eGFR decline",
       1
     ],
     [
-      "machine learning",
+      "patient-reported outcomes",
+      1
+    ],
+    [
+      "ESKD",
+      1
+    ],
+    [
+      "GLP-1",
+      1
+    ],
+    [
+      "metabolomics",
       1
     ]
   ],
   "期刊分布": {
-    "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica": 2,
-    "Journal of pediatric gastroenterology and nutrition": 1,
+    "Diabetes, obesity & metabolism": 5,
+    "Clinical and experimental nephrology": 4,
+    "International urology and nephrology": 3,
+    "BJOG : an international journal of obstetrics and gynaecology": 2,
+    "Nature reviews. Rheumatology": 2,
+    "Pediatric nephrology (Berlin, Germany)": 2,
+    "Kidney international": 2,
+    "Jornal brasileiro de nefrologia": 2,
+    "Journal of pediatric urology": 2,
+    "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
+    "Clinical kidney journal": 1,
     "Paediatric anaesthesia": 1,
-    "PloS one": 1,
-    "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation": 1,
-    "Renal failure": 1,
-    "Cardiovascular diabetology": 1,
-    "JMIR medical informatics": 1,
-    "European journal of preventive cardiology": 1,
-    "World journal of urology": 1,
-    "Annals of medicine": 1,
-    "Brazilian journal of cardiovascular surgery": 1,
-    "BMJ open": 1,
-    "PeerJ": 1,
-    "Medicine": 1
+    "Journal of pediatrics. Clinical practice": 1,
+    "Ophthalmic epidemiology": 1
   },
   "文章類型分布": {
-    "Journal Article": 16,
-    "Clinical Trial, Phase III": 1,
-    "Randomized Controlled Trial": 1,
-    "Pragmatic Clinical Trial": 1,
-    "Validation Study": 1,
-    "Comparative Study": 1,
-    "Multicenter Study": 1
+    "Journal Article": 64,
+    "Randomized Controlled Trial": 12,
+    "Multicenter Study": 9,
+    "Observational Study": 8,
+    "Comparative Study": 7,
+    "Systematic Review": 6,
+    "Meta-Analysis": 3,
+    "Practice Guideline": 2,
+    "Review": 2,
+    "Validation Study": 2
   },
   "MeSH詞彙頻率": {
-    "Humans": 14,
-    "Male": 14,
-    "Female": 14,
-    "Middle Aged": 14,
-    "Aged": 11,
-    "Adult": 8,
-    "Retrospective Studies": 8,
-    "Risk Factors": 5,
-    "Disease Progression": 4,
-    "China": 4,
-    "Prognosis": 4,
-    "Treatment Outcome": 4,
-    "Glomerular Filtration Rate": 3,
-    "Risk Assessment": 3,
-    "Time Factors": 3,
-    "Cohort Studies": 3,
-    "Kidney Calculi": 3,
-    "Acute Kidney Injury": 3,
-    "Quality of Life": 2,
-    "Longitudinal Studies": 2,
-    "Glomerulonephritis, IGA": 2,
-    "Proportional Hazards Models": 2,
-    "Metabolic Syndrome": 2,
-    "Cardio-Renal Syndrome": 2,
-    "Renal Dialysis": 2,
-    "Intensive Care Units": 2,
-    "Postoperative Complications": 2,
-    "Carcinoma, Renal Cell": 1,
-    "United Kingdom": 1,
-    "Kidney Neoplasms": 1
+    "Humans": 60,
+    "Female": 55,
+    "Male": 53,
+    "Middle Aged": 48,
+    "Aged": 40,
+    "Adult": 23,
+    "Retrospective Studies": 22,
+    "Risk Factors": 20,
+    "Treatment Outcome": 16,
+    "Cohort Studies": 13,
+    "Prospective Studies": 13,
+    "Renal Insufficiency, Chronic": 12,
+    "Time Factors": 11,
+    "Diabetes Mellitus, Type 2": 10,
+    "Glomerular Filtration Rate": 10,
+    "Prognosis": 9,
+    "Biomarkers": 9,
+    "Cardiovascular Diseases": 8,
+    "Incidence": 8,
+    "Kidney Failure, Chronic": 8,
+    "Child": 6,
+    "Aged, 80 and over": 6,
+    "Kidney Transplantation": 6,
+    "Risk Assessment": 6,
+    "Diabetic Nephropathies": 6,
+    "Follow-Up Studies": 5,
+    "Renal Dialysis": 5,
+    "Predictive Value of Tests": 5,
+    "Hypertension": 4,
+    "Young Adult": 4
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 2,
-      "高影響力期刊文章數": 0,
+      "文章數": 14,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Journal of pediatric gastroenterology and nutrition": 1,
-        "Paediatric anaesthesia": 1
+        "Pediatric nephrology (Berlin, Germany)": 2,
+        "Journal of pediatric urology": 2,
+        "BJOG : an international journal of obstetrics and gynaecology": 1,
+        "Nature reviews. Rheumatology": 1,
+        "Clinical kidney journal": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 14,
-      "高影響力期刊文章數": 1,
+      "文章數": 50,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica": 2,
-        "PloS one": 1,
-        "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation": 1,
-        "Renal failure": 1,
-        "Cardiovascular diabetology": 1
+        "Diabetes, obesity & metabolism": 5,
+        "Clinical and experimental nephrology": 4,
+        "International urology and nephrology": 3,
+        "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2
       }
     }
   }

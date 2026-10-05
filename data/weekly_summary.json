@@ -1,33 +1,36 @@
 {
-  "報告日期": "2026-09-28T16:32:14.207968",
+  "報告日期": "2026-10-05T16:53:23.959614",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 16,
-    "高影響力期刊文章數": 1,
+    "總文章數": 64,
+    "高影響力期刊文章數": 7,
     "主要發現": [
-      "本週熱門研究主題: mortality (5篇), proteinuria (3篇), cardiovascular (3篇)",
-      "高影響力期刊發表 1 篇，包括: BMJ open",
-      "高品質證據: 1 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (17篇), cardiovascular (13篇), hospitalization (6篇)",
+      "高影響力期刊發表 7 篇，包括: Transplantation proceedings, Kidney international, The Journal of pediatrics",
+      "高品質證據: 12 篇 RCT, 3 篇統合分析"
     ]
   },
   "分類統計": {
     "兒童腎臟學": {
-      "文章數": 2,
-      "高影響力期刊文章數": 0,
+      "文章數": 14,
+      "高影響力期刊文章數": 3,
       "主要期刊": {
-        "Journal of pediatric gastroenterology and nutrition": 1,
-        "Paediatric anaesthesia": 1
+        "Pediatric nephrology (Berlin, Germany)": 2,
+        "Journal of pediatric urology": 2,
+        "BJOG : an international journal of obstetrics and gynaecology": 1,
+        "Nature reviews. Rheumatology": 1,
+        "Clinical kidney journal": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 14,
-      "高影響力期刊文章數": 1,
+      "文章數": 50,
+      "高影響力期刊文章數": 4,
       "主要期刊": {
-        "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica": 2,
-        "PloS one": 1,
-        "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation": 1,
-        "Renal failure": 1,
-        "Cardiovascular diabetology": 1
+        "Diabetes, obesity & metabolism": 5,
+        "Clinical and experimental nephrology": 4,
+        "International urology and nephrology": 3,
+        "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2
       }
     }
   },
@@ -35,114 +38,408 @@
     "熱門主題": [
       [
         "mortality",
-        5
+        17
+      ],
+      [
+        "cardiovascular",
+        13
+      ],
+      [
+        "hospitalization",
+        6
+      ],
+      [
+        "biomarker",
+        4
       ],
       [
         "proteinuria",
         3
       ],
       [
-        "cardiovascular",
+        "quality of life",
         3
       ],
       [
-        "quality of life",
+        "empagliflozin",
         2
       ],
       [
-        "eGFR decline",
+        "finerenone",
+        2
+      ],
+      [
+        "heart failure",
         1
       ],
       [
-        "machine learning",
+        "inflammation",
         1
       ]
     ],
     "趨勢關鍵詞": {
-      "臨床結局": {
-        "mortality": 5,
-        "proteinuria": 3,
-        "quality of life": 2,
-        "eGFR decline": 1
-      },
       "研究主題": {
-        "cardiovascular": 3
+        "cardiovascular": 13,
+        "heart failure": 1,
+        "inflammation": 1
+      },
+      "臨床結局": {
+        "mortality": 17,
+        "hospitalization": 6,
+        "proteinuria": 3,
+        "quality of life": 3,
+        "eGFR decline": 1,
+        "patient-reported outcomes": 1,
+        "ESKD": 1
+      },
+      "治療方法": {
+        "empagliflozin": 2,
+        "finerenone": 2,
+        "GLP-1": 1
       },
       "診斷技術": {
-        "machine learning": 1
+        "biomarker": 4,
+        "metabolomics": 1
       }
     },
     "期刊分布": {
-      "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica": 2,
-      "Journal of pediatric gastroenterology and nutrition": 1,
+      "Diabetes, obesity & metabolism": 5,
+      "Clinical and experimental nephrology": 4,
+      "International urology and nephrology": 3,
+      "BJOG : an international journal of obstetrics and gynaecology": 2,
+      "Nature reviews. Rheumatology": 2,
+      "Pediatric nephrology (Berlin, Germany)": 2,
+      "Kidney international": 2,
+      "Jornal brasileiro de nefrologia": 2,
+      "Journal of pediatric urology": 2,
+      "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
+      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
+      "Clinical kidney journal": 1,
       "Paediatric anaesthesia": 1,
-      "PloS one": 1,
-      "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation": 1,
-      "Renal failure": 1,
-      "Cardiovascular diabetology": 1,
-      "JMIR medical informatics": 1,
-      "European journal of preventive cardiology": 1,
-      "World journal of urology": 1,
-      "Annals of medicine": 1,
-      "Brazilian journal of cardiovascular surgery": 1,
-      "BMJ open": 1,
-      "PeerJ": 1,
-      "Medicine": 1
+      "Journal of pediatrics. Clinical practice": 1,
+      "Ophthalmic epidemiology": 1
     },
     "文章類型": {
-      "Journal Article": 16,
-      "Clinical Trial, Phase III": 1,
-      "Randomized Controlled Trial": 1,
-      "Pragmatic Clinical Trial": 1,
-      "Validation Study": 1,
-      "Comparative Study": 1,
-      "Multicenter Study": 1
+      "Journal Article": 64,
+      "Randomized Controlled Trial": 12,
+      "Multicenter Study": 9,
+      "Observational Study": 8,
+      "Comparative Study": 7,
+      "Systematic Review": 6,
+      "Meta-Analysis": 3,
+      "Practice Guideline": 2,
+      "Review": 2,
+      "Validation Study": 2
     }
   },
   "重點文章": [
     {
-      "pmid": "42767758",
-      "標題": "Patient characteristics, treatment patterns and clinical outcomes of immunoglobulin a nephropathy (IgAN) in China: a retrospective cohort study.",
-      "期刊": "BMJ open",
-      "發表日期": "2026 Sep 21",
+      "pmid": "42826018",
+      "標題": "Smoking Cessation Duration and Diabetic Microvascular Complications.",
+      "期刊": "JAMA network open",
+      "發表日期": "2026 Oct 01",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "biopsy-proven primary IgAN diagnosed between 2015 and 2023",
-        "I_介入": "patterns and clinical outcomes of immunoglobulin a nephropathy (IgAN) in China: a retrospective cohort study",
-        "C_對照": "",
-        "O_結果": ""
+        "P_族群": "diabetes",
+        "I_介入": "",
+        "C_對照": "continuous smokers",
+        "O_結果": "S AND MEASURES: Outcomes of interest were incident diabetic microvascular complications, including diabetic nephropathy, retinopathy, and neuropathy, identified using International Statistical Classif"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討To assess patient characteristics, treatment patterns and clinical outcomes of immunoglobulin A nephropathy (IgAN) in China.\n\n【主要結果】Most patients were diagnosed at early chronic kidney disease stages (70.1% stage I-II) but frequently exhibited hypertension (55.0%) and advanced pathological features, with 85.9% classified as Lee grade III-V and 77.8%-98.9% showing M1, E1 or S1 lesions. At biopsy, 65.6% had proteinuria >0.5 g/day.\n\n【結論】Despite early diagnosis and strong guideline adherence, persistent proteinuria and adverse outcomes remain common, underscoring the need for more effective therapies in IgAN.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To investigate the association between smoking cessation duration and the risk of incident diabetic microvascular complications in patients with diabetes.\n\n【主要結果】A total of 209 698 adults (mean [SD] age, 57.2 [10.3] years; 127 823 [61.0%] female) were included in the analyses. Compared with continuous smokers, cessation for 8 or more years was associated with a lower risk of all microvascular complications (aHR, 0.81; 95% CI, 0.70-0.\n\n【結論】AND RELEVANCE: In this retrospective cohort study of patients with diabetes, smoking cessation for 8 or more years was associated with a lower risk of all diabetic microvascular complications, diabetic nephropathy, retinopathy, and neuropathy compared with continuous smoking.",
       "結構化摘要": {
-        "目的": "To assess patient characteristics, treatment patterns and clinical outcomes of immunoglobulin A nephropathy (IgAN) in China. DESIGN: Retrospective cohort study. SETTING: Regional electronic health records database from Yinzhou District of Ningbo City, China. PARTICIPANTS: A total of 978 adult patients with biopsy-proven primary IgAN diagnosed between 2015 and 2023. PRIMARY AND SECONDARY OUTCOME MEASURES: Baseline characteristics, treatment patterns before and after renal biopsy, and temporal tre",
-        "結果": "Most patients were diagnosed at early chronic kidney disease stages (70.1% stage I-II) but frequently exhibited hypertension (55.0%) and advanced pathological features, with 85.9% classified as Lee grade III-V and 77.8%-98.9% showing M1, E1 or S1 lesions. At biopsy, 65.6% had proteinuria >0.5 g/day. Over a median follow-up of 3 years, 6.7% experienced composite renal events, while 58.2% maintained proteinuria >0.5 g/day. Renin-angiotensin-aldosterone system inhibitors were widely prescribed (91.",
-        "結論": "Despite early diagnosis and strong guideline adherence, persistent proteinuria and adverse outcomes remain common, underscoring the need for more effective therapies in IgAN."
+        "目的": "To investigate the association between smoking cessation duration and the risk of incident diabetic microvascular complications in patients with diabetes. DESIGN, SETTING, AND PARTICIPANTS: This nationwide, population-based cohort study included participants first diagnosed with type 2 diabetes in Korea between 2003 and 2013 and whose smoking status was assessed at least 4 times across repeated health checkups, with a final checkup during 2009 to 2013. Data were analyzed from November 10, 2025, ",
+        "結果": "A total of 209 698 adults (mean [SD] age, 57.2 [10.3] years; 127 823 [61.0%] female) were included in the analyses. Compared with continuous smokers, cessation for 8 or more years was associated with a lower risk of all microvascular complications (aHR, 0.81; 95% CI, 0.70-0.95), diabetic nephropathy (aHR, 0.79; 95% CI, 0.64-0.94), diabetic retinopathy (aHR, 0.59; 95% CI, 0.36-0.97), and diabetic neuropathy (aHR, 0.80; 95% CI, 0.66-0.98). Smoking cessation for 6 to 7 years was associated with low",
+        "結論": "AND RELEVANCE: In this retrospective cohort study of patients with diabetes, smoking cessation for 8 or more years was associated with a lower risk of all diabetic microvascular complications, diabetic nephropathy, retinopathy, and neuropathy compared with continuous smoking. These associations were observed mainly among male participants, underscoring the potential importance of sustained long-term smoking cessation for microvascular risk reduction."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Male",
+        "Female",
+        "Smoking Cessation",
+        "Middle Aged",
+        "Diabetes Mellitus, Type 2",
+        "Republic of Korea",
+        "Diabetic Angiopathies",
+        "Time Factors",
+        "Cohort Studies"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42826018/",
+      "DOI": "10.1001/jamanetworkopen.2026.37278"
+    },
+    {
+      "pmid": "42315016",
+      "標題": "A cluster randomized controlled trial (GOAL trial) evaluated a comprehensive geriatric assessment for frail older people with chronic kidney disease.",
+      "期刊": "Kidney international",
+      "發表日期": "2026 Oct",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "chronic kidney disease (CKD) often experience complex care needs that may benefit from a comprehensive geriatric assessment (CGA)",
+        "I_介入": "centers",
+        "C_對照": "43",
+        "O_結果": "goal attainment at three months, assessed using Goal Attainment Scaling (GAS), where a mean score of 50 or more indicates goal achievement"
+      },
+      "中文摘要": "【研究方法】GOAL was an open-label, cluster-randomized controlled trial conducted across 15 Australian kidney outpatient centers from March 2021 to June 2023, with a 12-month follow-up. Centers randomized 1:1, delivered a single outpatient CGA plus usual care or usual care alone.\n\n【主要結果】At three months, mean GAS scores were not significantly different between the intervention and control groups (45.2 vs 43.7; mean difference 1.54, 95% confidence interval: 3.13 to 6.20). No significant differences were found across secondary outcomes. A non-statistically significant reduction of 2.\n\n【結論】Outpatient CGA did not improve goal attainment or clinical outcomes in frail older adults with CKD. These findings do not support routine implementation of single-episode outpatient CGA in this setting and suggest a need for alternative, integrated models of person-centered care.",
+      "結構化摘要": {
+        "方法": "GOAL was an open-label, cluster-randomized controlled trial conducted across 15 Australian kidney outpatient centers from March 2021 to June 2023, with a 12-month follow-up. Centers randomized 1:1, delivered a single outpatient CGA plus usual care or usual care alone. Participants were aged 65 years and older (55 years and older for First Nations peoples) with moderate to severe CKD (eGFR 59 mL/min per 1.73 m2 and under) and frail (Frailty Index over 0.25). Of 771 screened, 240 were enrolled (me",
+        "結果": "At three months, mean GAS scores were not significantly different between the intervention and control groups (45.2 vs 43.7; mean difference 1.54, 95% confidence interval: 3.13 to 6.20). No significant differences were found across secondary outcomes. A non-statistically significant reduction of 2.5 days in total hospital stay was observed in the intervention group.",
+        "結論": "Outpatient CGA did not improve goal attainment or clinical outcomes in frail older adults with CKD. These findings do not support routine implementation of single-episode outpatient CGA in this setting and suggest a need for alternative, integrated models of person-centered care. TRIAL REGISTRATION: Registered at ClinicalTrials.gov with study number NCT04538157."
       },
       "相關趨勢": [
-        "臨床結局: eGFR decline",
-        "臨床結局: proteinuria"
+        "臨床結局: mortality",
+        "臨床結局: hospitalization",
+        "臨床結局: quality of life"
       ],
       "關鍵詞": [
-        "Electronic Health Records",
-        "End stage renal failure",
-        "Nephrology",
-        "Treatment Outcome"
+        "Goal Attainment Scaling",
+        "chronic kidney disease",
+        "comprehensive geriatric assessment",
+        "frailty",
+        "older people",
+        "quality of life"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Glomerulonephritis, IGA",
-        "Retrospective Studies",
+        "Aged",
+        "Male",
+        "Female",
+        "Renal Insufficiency, Chronic",
+        "Geriatric Assessment",
+        "Frail Elderly",
+        "Aged, 80 and over",
+        "Quality of Life",
+        "Australia"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42315016/",
+      "DOI": "10.1016/j.kint.2026.05.015"
+    },
+    {
+      "pmid": "42326477",
+      "標題": "Factors Affecting Medical Appointment Adherence among Adolescents and Young Adults with Kidney Disease: A Longitudinal Cohort Study.",
+      "期刊": "Journal of pediatrics. Clinical practice",
+      "發表日期": "2026 Oct",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "Kidney Disease: A Longitudinal Cohort Study",
+        "I_介入": "",
+        "C_對照": "multiple appointments per day",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討To identify patient-, health-, and visit-level factors associated with medical appointment adherence among adolescents and young adults (AYA) with pediatric-onset chronic kidney conditions and to assess whether multiple prescheduled appointments on the same day (\"bundling\") and preceding disease sev...\n\n【主要結果】No-show rates were greater among African American patients and those with Medicaid or self-pay insurance. Older age was also associated with lower adherence.\n\n【結論】Having ≥2 scheduled appointments on the same day is associated with improved attendance and reduced disparities in AYA with chronic kidney conditions. Health-system strategies that facilitate appointment bundling (eg, co-locating services and coordinated scheduling) could be a pragmatic quality-impr...",
+      "結構化摘要": {
+        "目的": "To identify patient-, health-, and visit-level factors associated with medical appointment adherence among adolescents and young adults (AYA) with pediatric-onset chronic kidney conditions and to assess whether multiple prescheduled appointments on the same day (\"bundling\") and preceding disease severity influence attendance and disparities. STUDY DESIGN: This retrospective longitudinal cohort study used electronic medical record data from a single academic children's hospital (2005-2015). AYA (",
+        "結果": "No-show rates were greater among African American patients and those with Medicaid or self-pay insurance. Older age was also associated with lower adherence. On days with multiple scheduled appointments, overall attendance improved and insurance-related disparities were attenuated; among patients receiving Medicaid, no-show differences observed on single-appointment days were reduced on bundled days. Findings were directionally consistent across disease-severity strata.",
+        "結論": "Having ≥2 scheduled appointments on the same day is associated with improved attendance and reduced disparities in AYA with chronic kidney conditions. Health-system strategies that facilitate appointment bundling (eg, co-locating services and coordinated scheduling) could be a pragmatic quality-improvement target to improve equity and continuity of care."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "adolescents",
+        "appointment adherence",
+        "appointment bundling",
+        "longitudinal analysis",
+        "pediatric-onset chronic conditions",
+        "young adults"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42326477/",
+      "DOI": "10.1016/j.jpedcp.2026.200218"
+    },
+    {
+      "pmid": "42297336",
+      "標題": "Ambulatory Blood Pressure Thresholds and Left Ventricular Hypertrophy in Children Aged 6-12 Years: A Pediatric Nephrology Research Consortium Study.",
+      "期刊": "The Journal of pediatrics",
+      "發表日期": "2026 Oct",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "279 children, hypertension was present in 51% and LVH in approximately 20%",
+        "I_介入": "",
+        "C_對照": "",
+        "O_結果": "using area under the receiver operating characteristic"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討To evaluate the diagnostic performance of ambulatory blood pressure monitoring (ABPM) thresholds for predicting left ventricular hypertrophy (LVH) in children aged 6-12 years. STUDY\n\n【主要結果】Among 279 children, hypertension was present in 51% and LVH in approximately 20%. Across all systolic and diastolic ABPM thresholds tested, area under the receiver operating characteristic values ranged from 0.5 to 0.\n\n【結論】In this multicenter cohort of US children aged 6-12 years, percentile-based and fixed ABPM thresholds demonstrated limited ability to discriminate LVH. Night-time systolic and diastolic BPs showed the strongest associations with LVH, underscoring the importance of nocturnal BP assessment.",
+      "結構化摘要": {
+        "目的": "To evaluate the diagnostic performance of ambulatory blood pressure monitoring (ABPM) thresholds for predicting left ventricular hypertrophy (LVH) in children aged 6-12 years. STUDY DESIGN: A retrospective, multicenter study was conducted across 11 Pediatric Nephrology Research Consortium sites and included children aged 6-12 years who underwent ABPM and 2-dimensional echocardiography for diagnostic assessment of elevated BP. The diagnostic accuracy of fixed ABPM thresholds and the current 95th ",
+        "結果": "Among 279 children, hypertension was present in 51% and LVH in approximately 20%. Across all systolic and diastolic ABPM thresholds tested, area under the receiver operating characteristic values ranged from 0.5 to 0.6, indicating poor discriminatory performance, including analyses restricted to children without chronic kidney disease or obesity. Although daytime and 24-hour BP thresholds were not significantly associated with LVH, a night-time systolic BP of ≥110 mm Hg and a night-time diastoli",
+        "結論": "In this multicenter cohort of US children aged 6-12 years, percentile-based and fixed ABPM thresholds demonstrated limited ability to discriminate LVH. Night-time systolic and diastolic BPs showed the strongest associations with LVH, underscoring the importance of nocturnal BP assessment."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "ambulatory blood pressure monitoring",
+        "blood pressure thresholds",
+        "childhood hypertension",
+        "left ventricular hypertrophy"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Child",
+        "Hypertrophy, Left Ventricular",
         "Female",
         "Male",
-        "China",
-        "Adult",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Retrospective Studies",
+        "Hypertension",
+        "Blood Pressure",
+        "ROC Curve"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42297336/",
+      "DOI": "10.1016/j.jpeds.2026.115194"
+    },
+    {
+      "pmid": "42567173",
+      "標題": "Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.",
+      "期刊": "The lancet. Diabetes & endocrinology",
+      "發表日期": "2026 Oct",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "CKD (FLOW) or atherosclerotic cardiovascular disease (SELECT and SOUL)",
+        "I_介入": "semaglutide",
+        "C_對照": "1134 first events for placebo (hazard ratio [HR] 0·84 [95% CI 0·77-0·91])",
+        "O_結果": "in this pooled analysis was time to first occurrence of a kidney composite, defined as onset of persistent 50% or greater reduction in estimated glomerular filtration rate (eGFR), kidney failure (pers"
+      },
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to assess the pooled effects of semaglutide on kidney outcomes in prespecified analyses of participant-level data from the diverse populations of the SELECT, FLOW, and SOUL randomised placebo-controlled trials.\n\n【研究方法】Participants with CKD (FLOW) or atherosclerotic cardiovascular disease (SELECT and SOUL) were randomly assigned semaglutide (once-weekly subcutaneous 1·0 mg [FLOW], once-weekly subcutaneous 2·4 mg [SELECT], or once-daily oral 14 mg [SOUL]) or matching placebo, added to standard of care.\n\n【主要結果】The pooled participants from the trials (N=30 787) had a mean follow-up of 39·5-47·5 months. Among participants assigned to semaglutide, 973 first events of the primary kidney composite occurred compared with 1134 first events for placebo (hazard ratio [HR] 0·84 [95% CI 0·77-0·91]).\n\n【結論】Data pooled from three large phase 3 trials suggest that semaglutide reduces the risk of major kidney outcomes in a broad population with cardio-kidney-metabolic disease while having a favourable risk-benefit profile.",
+      "結構化摘要": {
+        "背景": "The GLP-1 receptor agonist semaglutide reduces clinically important kidney outcomes in people with type 2 diabetes and chronic kidney disease (CKD). We aimed to assess the pooled effects of semaglutide on kidney outcomes in prespecified analyses of participant-level data from the diverse populations of the SELECT, FLOW, and SOUL randomised placebo-controlled trials.",
+        "方法": "Participants with CKD (FLOW) or atherosclerotic cardiovascular disease (SELECT and SOUL) were randomly assigned semaglutide (once-weekly subcutaneous 1·0 mg [FLOW], once-weekly subcutaneous 2·4 mg [SELECT], or once-daily oral 14 mg [SOUL]) or matching placebo, added to standard of care. The primary outcome in this pooled analysis was time to first occurrence of a kidney composite, defined as onset of persistent 50% or greater reduction in estimated glomerular filtration rate (eGFR), kidney failu"
+      },
+      "相關趨勢": [
+        "治療方法: GLP-1",
+        "研究主題: cardiovascular"
+      ],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Semaglutide",
+        "Glucagon-Like Peptides",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Hypoglycemic Agents",
+        "Male",
+        "Renal Insufficiency, Chronic",
         "Glomerular Filtration Rate",
-        "Proteinuria",
         "Middle Aged"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42767758/",
-      "DOI": "10.1136/bmjopen-2026-120567"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42567173/",
+      "DOI": "10.1016/S2213-8587(26)00134-8"
+    },
+    {
+      "pmid": "42624714",
+      "標題": "Five-Year Patient and Graft Outcomes After Living Donor Kidney Transplantation From Donors Aged 60 Years and Older: A Single-Center Cohort Study.",
+      "期刊": "Transplantation proceedings",
+      "發表日期": "2026 Oct",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "患有 Kidney Transplantation 的病人",
+        "I_介入": "weighting was applied",
+        "C_對照": "younger donors",
+        "O_結果": "5-year patient and graft outcomes after living donor kidney transplantation from donors aged 60 years and older versus younger donors"
+      },
+      "中文摘要": "【研究背景】Using older living donors is a strategy to expand the kidney donor pool, but concerns remain regarding mid-term graft performance. We evaluated 5-year patient and graft outcomes after living donor kidney transplantation from donors aged 60 years and older versus younger donors.\n\n【研究方法】We conducted a single-center retrospective cohort study of 279 living donor kidney transplants. Recipients were grouped by donor age (<60 years, n = 237; ≥60 years, n = 42). To reduce selection bias, inverse probability of treatment weighting was applied.\n\n【主要結果】Unadjusted 5-year death-censored graft survival was lower in the older-donor group (90.2% vs 98.2%, log-rank p = .0056). After weighting, the difference was attenuated (94.6% vs 98.3%), with a restricted mean survival time difference over 60 months of -0.24 months (95% CI, -1.02 to 0.24).\n\n【結論】Kidney transplantation from carefully selected living donors aged 60 years and older was associated with acceptable 5-year patient and graft outcomes. Although graft function was modestly lower, adjusted analyses did not identify donor age ≥60 years as an independent predictor of graft loss.",
+      "結構化摘要": {
+        "背景": "Using older living donors is a strategy to expand the kidney donor pool, but concerns remain regarding mid-term graft performance. We evaluated 5-year patient and graft outcomes after living donor kidney transplantation from donors aged 60 years and older versus younger donors.",
+        "方法": "We conducted a single-center retrospective cohort study of 279 living donor kidney transplants. Recipients were grouped by donor age (<60 years, n = 237; ≥60 years, n = 42). To reduce selection bias, inverse probability of treatment weighting was applied. Outcomes included longitudinal recipient estimated glomerular filtration rate (eGFR), patient survival, and death-censored graft survival.",
+        "結果": "Unadjusted 5-year death-censored graft survival was lower in the older-donor group (90.2% vs 98.2%, log-rank p = .0056). After weighting, the difference was attenuated (94.6% vs 98.3%), with a restricted mean survival time difference over 60 months of -0.24 months (95% CI, -1.02 to 0.24). Recipients of kidneys from older donors had modestly lower mid-term eGFR, generally by 4-7 mL/min/1.73 m². Five-year patient survival did not differ significantly between groups.",
+        "結論": "Kidney transplantation from carefully selected living donors aged 60 years and older was associated with acceptable 5-year patient and graft outcomes. Although graft function was modestly lower, adjusted analyses did not identify donor age ≥60 years as an independent predictor of graft loss. These findings support expanding living donor criteria in regions with organ shortage, particularly in low- and middle-income country settings."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [],
+      "MeSH詞彙": [
+        "Humans",
+        "Living Donors",
+        "Kidney Transplantation",
+        "Middle Aged",
+        "Graft Survival",
+        "Male",
+        "Glomerular Filtration Rate",
+        "Retrospective Studies",
+        "Female",
+        "Age Factors"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42624714/",
+      "DOI": "10.1016/j.transproceed.2026.06.044"
+    },
+    {
+      "pmid": "42315016",
+      "標題": "A cluster randomized controlled trial (GOAL trial) evaluated a comprehensive geriatric assessment for frail older people with chronic kidney disease.",
+      "期刊": "Kidney international",
+      "發表日期": "2026 Oct",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "chronic kidney disease (CKD) often experience complex care needs that may benefit from a comprehensive geriatric assessment (CGA)",
+        "I_介入": "centers",
+        "C_對照": "43",
+        "O_結果": "goal attainment at three months, assessed using Goal Attainment Scaling (GAS), where a mean score of 50 or more indicates goal achievement"
+      },
+      "中文摘要": "【研究方法】GOAL was an open-label, cluster-randomized controlled trial conducted across 15 Australian kidney outpatient centers from March 2021 to June 2023, with a 12-month follow-up. Centers randomized 1:1, delivered a single outpatient CGA plus usual care or usual care alone.\n\n【主要結果】At three months, mean GAS scores were not significantly different between the intervention and control groups (45.2 vs 43.7; mean difference 1.54, 95% confidence interval: 3.13 to 6.20). No significant differences were found across secondary outcomes. A non-statistically significant reduction of 2.\n\n【結論】Outpatient CGA did not improve goal attainment or clinical outcomes in frail older adults with CKD. These findings do not support routine implementation of single-episode outpatient CGA in this setting and suggest a need for alternative, integrated models of person-centered care.",
+      "結構化摘要": {
+        "方法": "GOAL was an open-label, cluster-randomized controlled trial conducted across 15 Australian kidney outpatient centers from March 2021 to June 2023, with a 12-month follow-up. Centers randomized 1:1, delivered a single outpatient CGA plus usual care or usual care alone. Participants were aged 65 years and older (55 years and older for First Nations peoples) with moderate to severe CKD (eGFR 59 mL/min per 1.73 m2 and under) and frail (Frailty Index over 0.25). Of 771 screened, 240 were enrolled (me",
+        "結果": "At three months, mean GAS scores were not significantly different between the intervention and control groups (45.2 vs 43.7; mean difference 1.54, 95% confidence interval: 3.13 to 6.20). No significant differences were found across secondary outcomes. A non-statistically significant reduction of 2.5 days in total hospital stay was observed in the intervention group.",
+        "結論": "Outpatient CGA did not improve goal attainment or clinical outcomes in frail older adults with CKD. These findings do not support routine implementation of single-episode outpatient CGA in this setting and suggest a need for alternative, integrated models of person-centered care. TRIAL REGISTRATION: Registered at ClinicalTrials.gov with study number NCT04538157."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality",
+        "臨床結局: hospitalization",
+        "臨床結局: quality of life"
+      ],
+      "關鍵詞": [
+        "Goal Attainment Scaling",
+        "chronic kidney disease",
+        "comprehensive geriatric assessment",
+        "frailty",
+        "older people",
+        "quality of life"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Aged",
+        "Male",
+        "Female",
+        "Renal Insufficiency, Chronic",
+        "Geriatric Assessment",
+        "Frail Elderly",
+        "Aged, 80 and over",
+        "Quality of Life",
+        "Australia"
+      ],
+      "是否高影響力期刊": true,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42315016/",
+      "DOI": "10.1016/j.kint.2026.05.015"
+    },
+    {
+      "pmid": "42806940",
+      "標題": "Prophylactic postoperative peritoneal dialysis in neonatal cardiac critical care: a matched retrospective cohort study.",
+      "期刊": "Cardiology in the young",
+      "發表日期": "2026 Sep 29",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "did and did not receive prophylactic peritoneal dialysis following cardiac surgery in our institution",
+        "I_介入": "prophylactic peritoneal dialysis were matched 1:1 with those who did not by age",
+        "C_對照": "30",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討Postoperative prophylactic peritoneal dialysis after paediatric cardiac surgery has been reported with mixed results. We aimed to describe a large cohort of patients who did and did not receive prophylactic peritoneal dialysis following cardiac surgery in our institution.\n\n【研究方法】Single-centre, retrospective matched-cohort study of patients 0-30 days old who underwent cardiac surgery between 01/2015 and 05/2022. Patients who received prophylactic peritoneal dialysis were matched 1:1 with those who did not by age, sex, and surgical complexity.\n\n【主要結果】. We aimed to describe a large cohort of patients who did and did not receive prophylactic peritoneal dialysis following cardiac surgery in our institution. METHODS: Single-centre, retrospective matched-cohort study of patients 0-30 days old who underwent cardiac surgery between 01/2015 and 05/2022.\n\n【結論】In this large cohort of patients, we report that patients who underwent prophylactic postoperative peritoneal dialysis, although they had an improved fluid balance during the first 48 postoperative hours, had no association with the development of severe acute kidney injury.",
+      "結構化摘要": {
+        "目的": "Postoperative prophylactic peritoneal dialysis after paediatric cardiac surgery has been reported with mixed",
+        "方法": "Single-centre, retrospective matched-cohort study of patients 0-30 days old who underwent cardiac surgery between 01/2015 and 05/2022. Patients who received prophylactic peritoneal dialysis were matched 1:1 with those who did not by age, sex, and surgical complexity. The objective of the study was to compare the prevalence of postoperative severe acute kidney injury by Kidney Disease Improving Global Outcomes criteria between patients who received prophylactic peritoneal dialysis and those that ",
+        "結果": ". We aimed to describe a large cohort of patients who did and did not receive prophylactic peritoneal dialysis following cardiac surgery in our institution. METHODS: Single-centre, retrospective matched-cohort study of patients 0-30 days old who underwent cardiac surgery between 01/2015 and 05/2022. Patients who received prophylactic peritoneal dialysis were matched 1:1 with those who did not by age, sex, and surgical complexity. The objective of the study was to compare the prevalence of postop",
+        "結論": "In this large cohort of patients, we report that patients who underwent prophylactic postoperative peritoneal dialysis, although they had an improved fluid balance during the first 48 postoperative hours, had no association with the development of severe acute kidney injury."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "acute kidney injury",
+        "cardiac surgery",
+        "prophylactic peritoneal dialysis"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42806940/",
+      "DOI": "10.1017/S1047951126123518"
     },
     {
       "pmid": "42803754",
@@ -179,357 +476,76 @@
       "DOI": "10.1002/pan.70317"
     },
     {
-      "pmid": "42801387",
-      "標題": "Longitudinal impact of sodium bicarbonate therapy on health-related quality of life in pre-dialysis chronic kidney disease with metabolic acidosis: a pragmatic trial in Malaysia.",
-      "期刊": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
-      "發表日期": "2026 Sep 27",
-      "研究類型": "研究",
+      "pmid": "42275170",
+      "標題": "Association of white blood cell count with treatment response to cefepime versus piperacillin-tazobactam.",
+      "期刊": "American journal of respiratory and critical care medicine",
+      "發表日期": "2026 Oct 01",
+      "研究類型": "隨機對照試驗",
       "PICO": {
-        "P_族群": "MA following initiation of sodium bicarbonate therapy",
-        "I_介入": "and disease progression were evaluated using multivariable linear mixed-effects models",
-        "C_對照": "control",
-        "O_結果": "longitudinal changes in health-related quality of life (HRQoL) among pre-dialysis CKD patients with MA following initiation of sodium bicarbonate therapy"
+        "P_族群": "a baseline WBC count of 16 or higher had significantly lower odds of mortality when treated with piperacillin-tazobactam compared to cefepime (OR",
+        "I_介入": "piperacillin-tazobactam",
+        "C_對照": "piperacillin-tazobactam",
+        "O_結果": "28-day mortality in both cohorts"
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討Metabolic acidosis (MA) is a complication of chronic kidney disease (CKD) and is associated with adverse clinical outcomes. This study evaluated longitudinal changes in health-related quality of life (HRQoL) among pre-dialysis CKD patients with MA following initiation of sodium bicarbonate therapy.\n\n【研究方法】In this 18-month, single-centre, open-label, pragmatic trial, 74 adults with stage 3-4 CKD and MA (serum bicarbonate < 22 mmol/L) were allocated in a 1:1:1 ratio to receive oral sodium bicarbonate (tablets or solution) or standard care (control).\n\n【主要結果】Baseline physical health was impaired across the cohort, with the Burden subscale scoring the lowest. Sodium bicarbonate increased serum bicarbonate levels during early titration, although only one-third of treated patients achieved the target range of 22-26 mmol/L.\n\n【結論】Sodium bicarbonate therapy did not improve HRQoL in pre-dialysis CKD patients with MA. Patient-reported well-being appeared to be driven by CKD progression, highlighting the practical challenges and limitations of treat-to-target alkali therapy in routine clinical practice.",
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討To determine if white blood cell (WBC) count modifies the effect of antibiotic choice on mortality.\n\n【研究方法】We conducted post hoc subgroup analyses of the ACORN trial and the IV study comparing cefepime to piperacillin-tazobactam. We performed regression modeling of interaction between treatment group and WBC on 28-day mortality with adjustment for relevant covariates, with evaluation for heterogeneity of...\n\n【主要結果】The main outcome was 28-day mortality in both cohorts. Secondary outcomes in the secondary analysis of the ACORN trial included highest stage of acute kidney injury on an ordinal scale, a composite outcome of major adverse kidney events, and incidence of coma or delirium within 14 days.\n\n【結論】WBC modified the effect of antibiotic choice on mortality in 2 large clinical studies. Further research is needed to confirm this effect in prospective studies and to determine if WBC count could be used for predictive enrichment in future trials of anti-pseudomonal antibiotics.",
       "結構化摘要": {
-        "方法": "In this 18-month, single-centre, open-label, pragmatic trial, 74 adults with stage 3-4 CKD and MA (serum bicarbonate < 22 mmol/L) were allocated in a 1:1:1 ratio to receive oral sodium bicarbonate (tablets or solution) or standard care (control). HRQoL was assessed using the KDQOL-36 and EQ-VAS instruments. Longitudinal HRQoL trajectories and the effects of treatment and disease progression were evaluated using multivariable linear mixed-effects models.",
-        "結果": "Baseline physical health was impaired across the cohort, with the Burden subscale scoring the lowest. Sodium bicarbonate increased serum bicarbonate levels during early titration, although only one-third of treated patients achieved the target range of 22-26 mmol/L. Neither sodium bicarbonate formulation significantly improved KDQOL-36 subscale or EQ-VAS scores compared with control. However, worsening CKD stage was significantly associated with lower HRQoL, with clinically meaningful declines o",
-        "結論": "Sodium bicarbonate therapy did not improve HRQoL in pre-dialysis CKD patients with MA. Patient-reported well-being appeared to be driven by CKD progression, highlighting the practical challenges and limitations of treat-to-target alkali therapy in routine clinical practice."
-      },
-      "相關趨勢": [
-        "臨床結局: quality of life"
-      ],
-      "關鍵詞": [
-        "Chronic kidney disease",
-        "Health-related quality of life",
-        "Metabolic acidosis",
-        "Patient-reported outcomes",
-        "Sodium bicarbonate"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Sodium Bicarbonate",
-        "Quality of Life",
-        "Female",
-        "Male",
-        "Acidosis",
-        "Middle Aged",
-        "Renal Insufficiency, Chronic",
-        "Malaysia",
-        "Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42801387/",
-      "DOI": "10.1007/s11136-026-04404-8"
-    },
-    {
-      "pmid": "42801371",
-      "標題": "Slice thickness matters: CT-based evaluation of stone-free status with grade classification after RIRS.",
-      "期刊": "World journal of urology",
-      "發表日期": "2026 Sep 27",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "underwent RIRS with MOSES technology between October 2022 and March 2023",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "using low-dose CT images reconstructed at 1-mm and 5-mm axial slice thicknesses"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討This study aimed to evaluate the influence of computed tomography (CT) slice thickness on stone-free status (SFS) assessment following retrograde intrarenal surgery (RIRS).\n\n【研究方法】This retrospective single-center cohort study included 145 patients who underwent RIRS with MOSES technology between October 2022 and March 2023. Postoperative SFS was assessed using low-dose CT images reconstructed at 1-mm and 5-mm axial slice thicknesses.\n\n【主要結果】SFS grade distributions differed significantly between the two slice thicknesses (p < 0.001), with 5-mm images shifting patients toward more favorable SFS categories. Grade A increased from 42.8% (62/145) to 57.2% (83/145). Favorable SFS (Grades A-B) increased from 83.4% (121/145) to 93.\n\n【結論】CT reconstruction slice thickness significantly affected SFS assessment after RIRS. Thicker reconstructions may artifactually increase the apparent stone-free rate by underdetecting or undermeasuring small residual stones.",
-      "結構化摘要": {
-        "方法": "This retrospective single-center cohort study included 145 patients who underwent RIRS with MOSES technology between October 2022 and March 2023. Postoperative SFS was assessed using low-dose CT images reconstructed at 1-mm and 5-mm axial slice thicknesses. SFS was defined as follows: Grade A, no stones visible; Grade B, residual stone ≤ 2 mm; Grade C, residual stone 2.1-4 mm; and Grade D, residual stone > 4 mm. SFS grade distributions were compared using the McNemar-Bowker test. Residual stones",
-        "結果": "SFS grade distributions differed significantly between the two slice thicknesses (p < 0.001), with 5-mm images shifting patients toward more favorable SFS categories. Grade A increased from 42.8% (62/145) to 57.2% (83/145). Favorable SFS (Grades A-B) increased from 83.4% (121/145) to 93.8% (136/145), an absolute increase of 10.3% points (95% CI 5.4-15.3). Overall, 35 patients (24.1%; 95% CI 17.9-31.7%) were reclassified, with no reclassification to a worse grade. MSD and attenuation values were ",
-        "結論": "CT reconstruction slice thickness significantly affected SFS assessment after RIRS. Thicker reconstructions may artifactually increase the apparent stone-free rate by underdetecting or undermeasuring small residual stones. When evaluating SFS with CT, the imaging protocol, including slice thickness, should be clearly reported."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Computed tomography",
-        "MOSES technology",
-        "Residual stone detection",
-        "Retrograde intrarenal surgery",
-        "Slice thickness",
-        "Stone-free status"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Retrospective Studies",
-        "Kidney Calculi",
-        "Tomography, X-Ray Computed",
-        "Female",
-        "Male",
-        "Middle Aged",
-        "Adult",
-        "Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42801371/",
-      "DOI": "10.1007/s00345-026-06835-x"
-    },
-    {
-      "pmid": "42788340",
-      "標題": "Urine diagnostics in paediatric intestinal failure: A prospective cohort study of alternative sampling methods.",
-      "期刊": "Journal of pediatric gastroenterology and nutrition",
-      "發表日期": "2026 Sep 25",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "intestinal failure (IF) receiving long-term parenteral nutrition (PN)",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "alternative urine sampling methods against 24-h urine collection (UC) and assessed the prevalence of chronic kidney disease (CKD) and renal abnormalities"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Regular monitoring of urinary electrolyte excretion and kidney function is essential in children with intestinal failure (IF) receiving long-term parenteral nutrition (PN). This study evaluated alternative urine sampling\n\n【研究方法】against 24-h urine collection (UC) and assessed the prevalence of chronic kidney disease (CKD) and renal abnormalities. METHODS: In this prospective single-centre cohort study, 31 paediatric IF patients underwent 24-h UC, spot urine (SU) sampling, and shorter timed collections at predefined interval...\n\n【主要結果】Shorter timed UCs, particularly those corresponding to the PN infusion interval, showed the closest agreement with 24-h UC for sodium, magnesium, calcium, and phosphate excretion.\n\n【結論】Shorter timed UC and targeted SU samples may provide practical alternatives to 24-h UC for monitoring urinary electrolyte status and hydration. CKD and renal abnormalities are prevalent in children with IF receiving PN.",
-      "結構化摘要": {
-        "目的": "Regular monitoring of urinary electrolyte excretion and kidney function is essential in children with intestinal failure (IF) receiving long-term parenteral nutrition (PN). This study evaluated alternative urine sampling",
-        "方法": "against 24-h urine collection (UC) and assessed the prevalence of chronic kidney disease (CKD) and renal abnormalities. METHODS: In this prospective single-centre cohort study, 31 paediatric IF patients underwent 24-h UC, spot urine (SU) sampling, and shorter timed collections at predefined intervals. Urinary electrolytes and derived ratios were analysed. Kidney function was evaluated using cystatin C (CysC)- and creatinine (Cr)-based estimated glomerular filtration rate (eGFR) and 24-h urinary ",
-        "結果": "Shorter timed UCs, particularly those corresponding to the PN infusion interval, showed the closest agreement with 24-h UC for sodium, magnesium, calcium, and phosphate excretion. Certain SU samples detected electrolyte deficiencies, particularly sodium and magnesium depletion, and low sodium-to-potassium ratios, highlighting cyclic dehydration at the end of the PN-free interval. CKD was detected in 15/30 patients (50%) by creatinine-cysC-based eGFR. Proteinuria was present in 17/29 patients (58",
-        "結論": "Shorter timed UC and targeted SU samples may provide practical alternatives to 24-h UC for monitoring urinary electrolyte status and hydration. CKD and renal abnormalities are prevalent in children with IF receiving PN."
-      },
-      "相關趨勢": [
-        "臨床結局: proteinuria"
-      ],
-      "關鍵詞": [
-        "albuminuria",
-        "nephrocalcinosis",
-        "parenteral nutrition",
-        "proteinuria"
-      ],
-      "MeSH詞彙": [],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42788340/",
-      "DOI": "10.1002/jpn3.70597"
-    },
-    {
-      "pmid": "42714390",
-      "標題": "Clinical impact of stone multiplicity on outcomes of retrograde intra-renal surgery.",
-      "期刊": "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica",
-      "發表日期": "2026 Sep 25",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "underwent RIRS with holmium laser lithotripsy at a tertiary center from January 2020 to December 2024",
-        "I_介入": "option in patients with stone multiplicity",
-        "C_對照": "91",
-        "O_結果": "stone-free status on postoperative imaging"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討To evaluate the impact of stone multiplicity on stone-free rates (SFR), complication rates, and perioperative outcomes following retrograde intra-renal surgery (RIRS) for renal calculi. MATERIALS AND\n\n【研究方法】A retrospective cohort study on 198 patients who underwent RIRS with holmium laser lithotripsy at a tertiary center from January 2020 to December 2024. Patients were stratified into single-stone (n = 100) and multiple-stone (n = 98) groups.\n\n【主要結果】The overall SFR was 93.0% (184/198), with comparable rates between the single-stone and multiple-stone groups (94.0% vs. 91.8%, p = 0.591). Residual fragments (> 4 mm) were more frequent in the multiple-stone group (8.2% vs. 3.0%, p = 0.132), although this did not reach statistical significance.\n\n【結論】RIRS demonstrates comparable efficacy and safety for single and multiple renal stones, supporting its use on a viable treatment option in patients with stone multiplicity.",
-      "結構化摘要": {
-        "目的": "To evaluate the impact of stone multiplicity on stone-free rates (SFR), complication rates, and perioperative outcomes following retrograde intra-renal surgery (RIRS) for renal calculi. MATERIALS AND",
-        "方法": "A retrospective cohort study on 198 patients who underwent RIRS with holmium laser lithotripsy at a tertiary center from January 2020 to December 2024. Patients were stratified into single-stone (n = 100) and multiple-stone (n = 98) groups. The primary outcome was stone-free status on postoperative imaging. Independent predictors were assessed using Firth's penalized logistic regression to account for low event rates.",
-        "結果": "The overall SFR was 93.0% (184/198), with comparable rates between the single-stone and multiple-stone groups (94.0% vs. 91.8%, p = 0.591). Residual fragments (> 4 mm) were more frequent in the multiple-stone group (8.2% vs. 3.0%, p = 0.132), although this did not reach statistical significance. The overall complication rate was low (4.5%) and comparable between groups (6.0% vs. 3.1%, p = 0.498). On multivariate analysis, stone multiplicity was not an independent predictor of stone-free status (",
-        "結論": "RIRS demonstrates comparable efficacy and safety for single and multiple renal stones, supporting its use on a viable treatment option in patients with stone multiplicity. While statistical significance was not observed, the study was adequately powered (> 80%) only to detect absolute differences of approximately 15% or greater. Therefore, the absence of statistical significance should not be interpreted as evidence of clinical equivalence, and larger adequately powered studies are warranted to "
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Flexible ureteroscopy",
-        "Renal calculi",
-        "Retrograde intra-renal surgery",
-        "Stone multiplicity",
-        "Stone-free rate"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Calculi",
-        "Retrospective Studies",
-        "Lithotripsy, Laser",
-        "Female",
-        "Treatment Outcome",
-        "Postoperative Complications",
-        "Male",
-        "Middle Aged",
-        "Cohort Studies"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42714390/",
-      "DOI": "10.4081/aiua.2026.15733"
-    },
-    {
-      "pmid": "42663300",
-      "標題": "Outcomes and predictors of success after extracorporeal shock wave lithotripsy for renal stones: a retrospective study.",
-      "期刊": "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica",
-      "發表日期": "2026 Sep 25",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "14 patients (1",
-        "I_介入": "for renal stones",
-        "C_對照": "",
-        "O_結果": "stone clearance (< 4 mm residuals at three months)"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Extracorporeal shock wave lithotripsy (ESWL) is a first-line treatment for renal stones, yet outcomes are variable. This study aimed to identify predictors of stone clearance, complications, and number of treatment sessions in patients undergoing ESWL for kidney stones. PATIENTS AND\n\n【研究方法】We conducted a retrospective cohort study at Aden Affiliated University Hospital (January 2017-May 2024) including 798 adults undergoing ESWL for renal stones. Primary outcome was stone clearance (< 4 mm residuals at three months). Secondary outcomes were complications and number of sessions.\n\n【主要結果】The cohort was predominantly male (99.6%) with median age 38 years (IQR 13). Median stone size was 9 mm (IQR 4) and density 1000 HU (IQR 450). Overall stone clearance was 86.8% (672 of 774 evaluable patients).. In univariate analysis, factors associated with clearance were lower BMI (OR 0.\n\n【結論】Stone density is the strongest independent predictor of ESWL success, with higher density associated with significantly lower clearance. Middle calyx stones have better outcomes than lower calyx. Complications are rare but more frequent with low pain tolerance and anticoagulation.",
-      "結構化摘要": {
-        "目的": "Extracorporeal shock wave lithotripsy (ESWL) is a first-line treatment for renal stones, yet outcomes are variable. This study aimed to identify predictors of stone clearance, complications, and number of treatment sessions in patients undergoing ESWL for kidney stones. PATIENTS AND",
-        "方法": "We conducted a retrospective cohort study at Aden Affiliated University Hospital (January 2017-May 2024) including 798 adults undergoing ESWL for renal stones. Primary outcome was stone clearance (< 4 mm residuals at three months). Secondary outcomes were complications and number of sessions. Univariate and multivariable logistic and Poisson regression were performed with Bonferroni correction.",
-        "結果": "The cohort was predominantly male (99.6%) with median age 38 years (IQR 13). Median stone size was 9 mm (IQR 4) and density 1000 HU (IQR 450). Overall stone clearance was 86.8% (672 of 774 evaluable patients).. In univariate analysis, factors associated with clearance were lower BMI (OR 0.95 per kg/m², 95% CI 0.91-1.00, p = 0.05), smaller stone size (OR 0.94 per mm, 95% CI 0.88-1.00, p = 0.06), lower stone density (OR 0.98 per 100 HU, 95% CI 0.97-0.99, p < 0.001), and shorter skin-to-stone dista",
-        "結論": "Stone density is the strongest independent predictor of ESWL success, with higher density associated with significantly lower clearance. Middle calyx stones have better outcomes than lower calyx. Complications are rare but more frequent with low pain tolerance and anticoagulation. These findings guide patient selection and counseling."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "ESWL",
-        "Extracorporeal shock wave lithotripsy",
-        "Kidney stones",
-        "Nephrolithiasis",
-        "Stone clearance"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Calculi",
-        "Lithotripsy",
-        "Retrospective Studies",
-        "Male",
-        "Female",
-        "Treatment Outcome",
-        "Adult",
-        "Middle Aged",
-        "Cohort Studies"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42663300/",
-      "DOI": "10.4081/aiua.2026.14975"
-    },
-    {
-      "pmid": "42798107",
-      "標題": "Association of Charlson comorbidity index with 28- and 90-day mortality in patients with severe acute kidney injury requiring CRRT: A retrospective cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Sep 25",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "severe acute kidney injury requiring CRRT: A retrospective cohort study",
-        "I_介入": "CRRT",
-        "C_對照": "0 to 1 had higher adjusted hazards (28 day HR 1",
-        "O_結果": "s were 28‑ and 90‑day mortality"
-      },
-      "中文摘要": "【主要結果】were consistent across the sensitivity and subgroup analyses. Adding CCI to a base model improved C‑statistics (28‑day 0.759 to 0.775, P = .002; 90‑day 0.763 to 0.777, P = .017) and yielded significant net reclassification index/integrated discrimination improvement gains.",
-      "結構化摘要": {
-        "完整摘要": "Severe acute kidney injury (AKI) requiring continuous renal replacement therapy (CRRT) carries high short‑term mortality. This study evaluated whether the Charlson Comorbidity Index (CCI) independently predicts 28‑ and 90‑day mortality and adds incremental prognostic value beyond established clinical variables. This retrospective study of 1115 adult patients with severe AKI treated with CRRT, CCI was computed at intensive care unit (ICU) admission and categorized (0-1, 2-3, 4-5, ≥6). Primary outcomes were 28‑ and 90‑day mortality. Multivariable Cox proportional hazards models were adjusted for demographics and treatment. Nonlinearity was explored using restricted cubic splines. Robustness was tested using propensity score matching and weighting. The 28‑ and 90‑day mortality rates were 61.3% and 71.1%. A higher CCI was associated with progressively worse survival (log-rank P < .001). As a continuous variable, CCI correlated with increased mortality after full adjustment (28‑day hazard r"
+        "目的": "To determine if white blood cell (WBC) count modifies the effect of antibiotic choice on mortality.",
+        "方法": "We conducted post hoc subgroup analyses of the ACORN trial and the IV study comparing cefepime to piperacillin-tazobactam. We performed regression modeling of interaction between treatment group and WBC on 28-day mortality with adjustment for relevant covariates, with evaluation for heterogeneity of treatment effect through likelihood ratio testing. MEASUREMENTS AND MAIN",
+        "結果": "The main outcome was 28-day mortality in both cohorts. Secondary outcomes in the secondary analysis of the ACORN trial included highest stage of acute kidney injury on an ordinal scale, a composite outcome of major adverse kidney events, and incidence of coma or delirium within 14 days. There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds ratio [OR], 0.95 [95% CI, 0.92-0.98], P <.01 and OR, 0.95 [95% CI,",
+        "結論": "WBC modified the effect of antibiotic choice on mortality in 2 large clinical studies. Further research is needed to confirm this effect in prospective studies and to determine if WBC count could be used for predictive enrichment in future trials of anti-pseudomonal antibiotics."
       },
       "相關趨勢": [
         "臨床結局: mortality"
       ],
       "關鍵詞": [
-        "Charlson comorbidity index",
-        "acute kidney injury",
-        "continuous renal replacement therapy",
-        "mortality",
-        "prognosis"
+        "antibacterial agents",
+        "intensive care",
+        "sepsis"
       ],
       "MeSH詞彙": [
         "Humans",
-        "Acute Kidney Injury",
-        "Retrospective Studies",
+        "Cefepime",
+        "Anti-Bacterial Agents",
+        "Piperacillin, Tazobactam Drug Combination",
+        "Piperacillin",
         "Female",
+        "Penicillanic Acid",
+        "Leukocyte Count",
         "Male",
-        "Aged",
-        "Prognosis",
-        "Comorbidity",
-        "Continuous Renal Replacement Therapy",
-        "Middle Aged"
+        "Sepsis"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42798107/",
-      "DOI": "10.1097/MD.0000000000050884"
-    },
-    {
-      "pmid": "42778923",
-      "標題": "Antecedent, landmark, and two-visit cumulative triglyceride-glucose index and non-traditional lipid measures in relation to incident cardiovascular disease in adults with cardiovascular-kidney-metabolic syndrome (CKM) stages 0-3: a nationwide prospective cohort study.",
-      "期刊": "Cardiovascular diabetology",
-      "發表日期": "2026 Sep 23",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "cardiovascular-kidney-metabolic syndrome (CKM) stages 0-3: a nationwide prospective cohort study",
-        "I_介入": "",
-        "C_對照": "dual-low comparisons for incident CVD",
-        "O_結果": "jointly with the atherogenic index of plasma (AIP)"
-      },
-      "中文摘要": "【研究目的】本研究旨在探討of biological independence or synergy. These indices may provide additional information for epidemiologic risk characterization, while their incremental clinical predictive value appears limited and warrants further validation.\n\n【研究方法】We conducted a 2015 landmark analysis in the China Health and Retirement Longitudinal Study. TyG was evaluated jointly with the atherogenic index of plasma (AIP), non-HDL cholesterol (non-HDL-C), Castelli risk indices I and II (CRI-I and CRI-II), and the lipoprotein combine index (LCI).\n\n【主要結果】Among 4,420 participants with CKM stages 0-3 and valid post-landmark CVD follow-up, 827 developed CVD; endpoint-specific analyses included 4,411 participants with 571 heart-disease events and 4414 with 328 stroke events. For cumulative dual-high exposure, adjusted Cox HRs for CVD ranged from 1.\n\n【結論】Higher two-visit cumulative TyG-nTLP burden was associated with incident CVD after accounting for competing death. However, incremental discrimination was small, and shared laboratory components limit claims of biological independence or synergy.",
-      "結構化摘要": {
-        "背景": "The triglyceride-glucose (TyG) index and non-traditional lipid parameters (nTLPs) are inexpensive markers of overlapping metabolic and lipoprotein burden. Their CVD-specific longitudinal associations and incremental prognostic contribution in adults with cardiovascular-kidney-metabolic (CKM) stages 0-3 remain uncertain.",
-        "方法": "We conducted a 2015 landmark analysis in the China Health and Retirement Longitudinal Study. TyG was evaluated jointly with the atherogenic index of plasma (AIP), non-HDL cholesterol (non-HDL-C), Castelli risk indices I and II (CRI-I and CRI-II), and the lipoprotein combine index (LCI). We examined antecedent 2011 values, 2015 landmark values, and a two-visit time-weighted cumulative measure from 2011 to 2015. The primary analysis family comprised five cumulative dual-high versus dual-low compar",
-        "結果": "Among 4,420 participants with CKM stages 0-3 and valid post-landmark CVD follow-up, 827 developed CVD; endpoint-specific analyses included 4,411 participants with 571 heart-disease events and 4414 with 328 stroke events. For cumulative dual-high exposure, adjusted Cox HRs for CVD ranged from 1.29 (95% CI 1.09-1.52) to 1.45 (1.20-1.74), and Fine-Gray SHRs ranged from 1.28 (1.09-1.50) to 1.43 (1.19-1.72); all primary FDR q values were < 0.003. Secondary stroke estimates were generally larger. The ",
-        "結論": "Higher two-visit cumulative TyG-nTLP burden was associated with incident CVD after accounting for competing death. However, incremental discrimination was small, and shared laboratory components limit claims of biological independence or synergy. These indices may provide additional information for epidemiologic risk characterization, while their incremental clinical predictive value appears limited and warrants further validation."
-      },
-      "相關趨勢": [
-        "研究主題: cardiovascular"
-      ],
-      "關鍵詞": [
-        "CHARLS",
-        "Cardiovascular disease",
-        "Cardiovascular-kidney-metabolic syndrome",
-        "Competing risk",
-        "Non-traditional lipid parameters",
-        "Stroke",
-        "Triglyceride-glucose index"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Male",
-        "Triglycerides",
-        "Female",
-        "Prospective Studies",
-        "Middle Aged",
-        "Biomarkers",
-        "Risk Assessment",
-        "Blood Glucose",
-        "Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42778923/",
-      "DOI": "10.1186/s12933-026-03386-8"
-    },
-    {
-      "pmid": "42772752",
-      "標題": "Development and Validation of a Machine Learning-Based Model for Predicting All-Cause Mortality Risk in Patients With Type 2 Diabetes Mellitus Combined With Hypertension: National Cohort Study.",
-      "期刊": "JMIR medical informatics",
-      "發表日期": "2026 Sep 22",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "Type 2 Diabetes Mellitus Combined With Hypertension: National Cohort Study",
-        "I_介入": "",
-        "C_對照": "light gradient boosting machine (AUC=0",
-        "O_結果": "using area under the curve (AUC)"
-      },
-      "中文摘要": "【研究目的】本研究旨在探討We aimed to develop and validate machine learning-based models to predict all-cause mortality in patients with T2DM and hypertension.\n\n【研究方法】We analyzed data from the National Health and Nutrition Examination Survey from 1999 to 2018 linked with mortality data up to December 31, 2019. Adult participants (aged ≥20 years) with concurrent T2DM and hypertension were included.\n\n【主要結果】A total of 2428 participants were included (mean age 62.05, SE 0.33 years; n=1218, 50.15% female). During a median follow-up of 6.75 (IQR 4.20-8.90) years, among the 2428 patients, 719 (29.6%) deaths occurred. The random forest model demonstrated superior performance (AUC=0.873, 95% CI 0.856-0.\n\n【結論】Our machine learning-based model provides accurate all-cause mortality prediction for patients with T2DM and hypertension, potentially supporting clinical decision-making and risk stratification in this high-risk population.",
-      "結構化摘要": {
-        "背景": "Type 2 diabetes mellitus (T2DM) combined with hypertension significantly increases mortality risk, yet accurate risk prediction models remain limited.",
-        "目的": "We aimed to develop and validate machine learning-based models to predict all-cause mortality in patients with T2DM and hypertension.",
-        "方法": "We analyzed data from the National Health and Nutrition Examination Survey from 1999 to 2018 linked with mortality data up to December 31, 2019. Adult participants (aged ≥20 years) with concurrent T2DM and hypertension were included. Five machine learning algorithms were developed and compared: random forest, light gradient boosting machine, decision tree, extreme gradient boosting, and logistic regression. Model performance was evaluated using area under the curve (AUC), calibration plots, and ",
-        "結果": "A total of 2428 participants were included (mean age 62.05, SE 0.33 years; n=1218, 50.15% female). During a median follow-up of 6.75 (IQR 4.20-8.90) years, among the 2428 patients, 719 (29.6%) deaths occurred. The random forest model demonstrated superior performance (AUC=0.873, 95% CI 0.856-0.891) compared to light gradient boosting machine (AUC=0.785), decision tree (AUC=0.732), extreme gradient boosting (AUC=0.792), and logistic regression (AUC=0.783). Key predictive features included age, ra",
-        "結論": "Our machine learning-based model provides accurate all-cause mortality prediction for patients with T2DM and hypertension, potentially supporting clinical decision-making and risk stratification in this high-risk population."
-      },
-      "相關趨勢": [
-        "診斷技術: machine learning",
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "AI",
-        "NHANES",
-        "National Health and Nutrition Examination Survey",
-        "artificial intelligence",
-        "hypertension",
-        "machine learning",
-        "mortality prediction",
-        "risk stratification",
-        "type 2 diabetes mellitus"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Diabetes Mellitus, Type 2",
-        "Female",
-        "Hypertension",
-        "Middle Aged",
-        "Predictive Learning Models",
-        "Machine Learning",
-        "Male",
-        "Risk Assessment",
-        "Random Forest"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42772752/",
-      "DOI": "10.2196/85557"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42275170/",
+      "DOI": "10.1093/ajrccm/aamag257"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 5,
-      "想法": "目前 'mortality' 是研究熱點 (5 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 17,
+      "想法": "目前 'mortality' 是研究熱點 (17 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "cardiovascular",
+      "頻率": 13,
+      "想法": "目前 'cardiovascular' 是研究熱點 (13 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "hospitalization",
+      "頻率": 6,
+      "想法": "目前 'hospitalization' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "biomarker",
+      "頻率": 4,
+      "想法": "目前 'biomarker' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -541,31 +557,52 @@
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "cardiovascular",
-      "頻率": 3,
-      "想法": "目前 'cardiovascular' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
       "關鍵詞": "quality of life",
+      "頻率": 3,
+      "想法": "目前 'quality of life' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "empagliflozin",
       "頻率": 2,
-      "想法": "目前 'quality of life' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'empagliflozin' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "eGFR decline",
-      "頻率": 1,
-      "想法": "目前 'eGFR decline' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "關鍵詞": "finerenone",
+      "頻率": 2,
+      "想法": "目前 'finerenone' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
-      "關鍵詞": "machine learning",
+      "關鍵詞": "heart failure",
       "頻率": 1,
-      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "heart failure",
+      "頻率": 1,
+      "想法": "'heart failure' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "inflammation",
+      "頻率": 1,
+      "想法": "'inflammation' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
@@ -577,8 +614,8 @@
     {
       "類型": "研究缺口",
       "關鍵詞": "quality of life",
-      "頻率": 2,
-      "想法": "'quality of life' (臨床結局) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "頻率": 3,
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -586,20 +623,6 @@
       "關鍵詞": "eGFR decline",
       "頻率": 1,
       "想法": "'eGFR decline' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
-      "頻率": 3,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "machine learning",
-      "頻率": 1,
-      "想法": "'machine learning' (診斷技術) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
@@ -623,43 +646,45 @@
     {
       "類型": "高影響力研究延伸",
       "關鍵詞": "重要發現複製與延伸",
-      "想法": "本週有 1 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
+      "想法": "本週有 7 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Patient characteristics, treatment patterns and cl"
+        "A cluster randomized controlled trial (GOAL trial)",
+        "Factors Affecting Medical Appointment Adherence am",
+        "Ambulatory Blood Pressure Thresholds and Left Vent"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Humans": 14,
-    "Male": 14,
-    "Female": 14,
-    "Middle Aged": 14,
-    "Aged": 11,
-    "Adult": 8,
-    "Retrospective Studies": 8,
-    "Risk Factors": 5,
-    "Disease Progression": 4,
-    "China": 4,
-    "Prognosis": 4,
-    "Treatment Outcome": 4,
-    "Glomerular Filtration Rate": 3,
-    "Risk Assessment": 3,
-    "Time Factors": 3,
-    "Cohort Studies": 3,
-    "Kidney Calculi": 3,
-    "Acute Kidney Injury": 3,
-    "Quality of Life": 2,
-    "Longitudinal Studies": 2,
-    "Glomerulonephritis, IGA": 2,
-    "Proportional Hazards Models": 2,
-    "Metabolic Syndrome": 2,
-    "Cardio-Renal Syndrome": 2,
-    "Renal Dialysis": 2,
-    "Intensive Care Units": 2,
-    "Postoperative Complications": 2,
-    "Carcinoma, Renal Cell": 1,
-    "United Kingdom": 1,
-    "Kidney Neoplasms": 1
+    "Humans": 60,
+    "Female": 55,
+    "Male": 53,
+    "Middle Aged": 48,
+    "Aged": 40,
+    "Adult": 23,
+    "Retrospective Studies": 22,
+    "Risk Factors": 20,
+    "Treatment Outcome": 16,
+    "Cohort Studies": 13,
+    "Prospective Studies": 13,
+    "Renal Insufficiency, Chronic": 12,
+    "Time Factors": 11,
+    "Diabetes Mellitus, Type 2": 10,
+    "Glomerular Filtration Rate": 10,
+    "Prognosis": 9,
+    "Biomarkers": 9,
+    "Cardiovascular Diseases": 8,
+    "Incidence": 8,
+    "Kidney Failure, Chronic": 8,
+    "Child": 6,
+    "Aged, 80 and over": 6,
+    "Kidney Transplantation": 6,
+    "Risk Assessment": 6,
+    "Diabetic Nephropathies": 6,
+    "Follow-Up Studies": 5,
+    "Renal Dialysis": 5,
+    "Predictive Value of Tests": 5,
+    "Hypertension": 4,
+    "Young Adult": 4
   }
 }
