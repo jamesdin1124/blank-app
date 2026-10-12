@@ -1,79 +1,50 @@
 {
-  "總文章數": 64,
-  "高影響力期刊文章數": 7,
-  "分析日期": "2026-10-05T16:53:23.945977",
+  "總文章數": 22,
+  "高影響力期刊文章數": 1,
+  "分析日期": "2026-10-12T17:29:15.131818",
   "趨勢關鍵詞統計": {
     "研究主題": {
-      "cardiovascular": 13,
-      "heart failure": 1,
-      "inflammation": 1
+      "cardiovascular": 7,
+      "heart failure": 2
     },
     "臨床結局": {
-      "mortality": 17,
-      "hospitalization": 6,
-      "proteinuria": 3,
-      "quality of life": 3,
-      "eGFR decline": 1,
-      "patient-reported outcomes": 1,
+      "mortality": 7,
+      "proteinuria": 2,
+      "hospitalization": 1,
       "ESKD": 1
     },
     "治療方法": {
-      "empagliflozin": 2,
-      "finerenone": 2,
-      "GLP-1": 1
+      "GLP-1": 3,
+      "SGLT2 inhibitor": 1
     },
     "診斷技術": {
-      "biomarker": 4,
-      "metabolomics": 1
+      "biomarker": 1,
+      "machine learning": 1
     }
   },
   "熱門主題": [
     [
-      "mortality",
-      17
-    ],
-    [
       "cardiovascular",
-      13
+      7
     ],
     [
-      "hospitalization",
-      6
+      "mortality",
+      7
     ],
     [
-      "biomarker",
-      4
-    ],
-    [
-      "proteinuria",
+      "GLP-1",
       3
-    ],
-    [
-      "quality of life",
-      3
-    ],
-    [
-      "empagliflozin",
-      2
-    ],
-    [
-      "finerenone",
-      2
     ],
     [
       "heart failure",
-      1
+      2
     ],
     [
-      "inflammation",
-      1
+      "proteinuria",
+      2
     ],
     [
-      "eGFR decline",
-      1
-    ],
-    [
-      "patient-reported outcomes",
+      "hospitalization",
       1
     ],
     [
@@ -81,96 +52,99 @@
       1
     ],
     [
-      "GLP-1",
+      "SGLT2 inhibitor",
       1
     ],
     [
-      "metabolomics",
+      "biomarker",
+      1
+    ],
+    [
+      "machine learning",
       1
     ]
   ],
   "期刊分布": {
-    "Diabetes, obesity & metabolism": 5,
-    "Clinical and experimental nephrology": 4,
-    "International urology and nephrology": 3,
-    "BJOG : an international journal of obstetrics and gynaecology": 2,
-    "Nature reviews. Rheumatology": 2,
-    "Pediatric nephrology (Berlin, Germany)": 2,
-    "Kidney international": 2,
-    "Jornal brasileiro de nefrologia": 2,
-    "Journal of pediatric urology": 2,
-    "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
-    "Clinical kidney journal": 1,
-    "Paediatric anaesthesia": 1,
-    "Journal of pediatrics. Clinical practice": 1,
-    "Ophthalmic epidemiology": 1
+    "Journal of the American Heart Association": 4,
+    "The Journal of clinical psychiatry": 2,
+    "Annals of medicine": 2,
+    "Human reproduction (Oxford, England)": 1,
+    "European journal of trauma and emergency surgery : official publication of the European Trauma Society": 1,
+    "BMJ paediatrics open": 1,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "Med (New York, N.Y.)": 1,
+    "Endocrine": 1,
+    "PLoS medicine": 1,
+    "Journal of nephrology": 1,
+    "Renal failure": 1,
+    "JMIR formative research": 1,
+    "Medicine": 1,
+    "Antimicrobial agents and chemotherapy": 1
   },
   "文章類型分布": {
-    "Journal Article": 64,
-    "Randomized Controlled Trial": 12,
-    "Multicenter Study": 9,
-    "Observational Study": 8,
-    "Comparative Study": 7,
-    "Systematic Review": 6,
-    "Meta-Analysis": 3,
-    "Practice Guideline": 2,
-    "Review": 2,
-    "Validation Study": 2
+    "Journal Article": 22,
+    "Comparative Study": 4,
+    "Multicenter Study": 3,
+    "Observational Study": 2,
+    "Randomized Controlled Trial": 2,
+    "Clinical Trial, Phase II": 1,
+    "Clinical Trial, Phase I": 1,
+    "Systematic Review": 1,
+    "Meta-Analysis": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 60,
-    "Female": 55,
-    "Male": 53,
-    "Middle Aged": 48,
-    "Aged": 40,
-    "Adult": 23,
-    "Retrospective Studies": 22,
-    "Risk Factors": 20,
-    "Treatment Outcome": 16,
-    "Cohort Studies": 13,
-    "Prospective Studies": 13,
-    "Renal Insufficiency, Chronic": 12,
-    "Time Factors": 11,
-    "Diabetes Mellitus, Type 2": 10,
-    "Glomerular Filtration Rate": 10,
-    "Prognosis": 9,
-    "Biomarkers": 9,
-    "Cardiovascular Diseases": 8,
-    "Incidence": 8,
-    "Kidney Failure, Chronic": 8,
-    "Child": 6,
-    "Aged, 80 and over": 6,
-    "Kidney Transplantation": 6,
-    "Risk Assessment": 6,
-    "Diabetic Nephropathies": 6,
-    "Follow-Up Studies": 5,
-    "Renal Dialysis": 5,
-    "Predictive Value of Tests": 5,
-    "Hypertension": 4,
-    "Young Adult": 4
+    "Humans": 20,
+    "Female": 20,
+    "Male": 19,
+    "Middle Aged": 17,
+    "Aged": 12,
+    "Retrospective Studies": 9,
+    "Risk Factors": 8,
+    "Adult": 7,
+    "Incidence": 6,
+    "Risk Assessment": 5,
+    "Prospective Studies": 4,
+    "China": 4,
+    "Cardiovascular Diseases": 4,
+    "Postoperative Complications": 4,
+    "Glucagon-Like Peptide-1 Receptor Agonists": 3,
+    "Renal Insufficiency, Chronic": 3,
+    "Metabolic Syndrome": 3,
+    "Longitudinal Studies": 3,
+    "Time Factors": 3,
+    "Prognosis": 3,
+    "Propensity Score": 3,
+    "Aged, 80 and over": 3,
+    "Kidney": 2,
+    "Child": 2,
+    "Child, Preschool": 2,
+    "Adolescent": 2,
+    "Bipolar Disorder": 2,
+    "Renal Replacement Therapy": 2,
+    "Dipeptidyl-Peptidase IV Inhibitors": 2,
+    "Patient Acceptance of Health Care": 2
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 14,
-      "高影響力期刊文章數": 3,
+      "文章數": 5,
+      "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 2,
-        "Journal of pediatric urology": 2,
-        "BJOG : an international journal of obstetrics and gynaecology": 1,
-        "Nature reviews. Rheumatology": 1,
-        "Clinical kidney journal": 1
+        "Human reproduction (Oxford, England)": 1,
+        "European journal of trauma and emergency surgery : official publication of the European Trauma Society": 1,
+        "The Journal of clinical psychiatry": 1,
+        "BMJ paediatrics open": 1,
+        "Pediatric nephrology (Berlin, Germany)": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 4,
+      "文章數": 17,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Diabetes, obesity & metabolism": 5,
-        "Clinical and experimental nephrology": 4,
-        "International urology and nephrology": 3,
-        "Nutrition, metabolism, and cardiovascular diseases : NMCD": 2,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2
+        "Journal of the American Heart Association": 4,
+        "Annals of medicine": 2,
+        "Med (New York, N.Y.)": 1,
+        "Endocrine": 1,
+        "PLoS medicine": 1
       }
     }
   }
