@@ -1,150 +1,131 @@
 {
-  "總文章數": 22,
+  "總文章數": 13,
   "高影響力期刊文章數": 1,
-  "分析日期": "2026-10-12T17:29:15.131818",
+  "分析日期": "2026-10-19T15:20:11.153713",
   "趨勢關鍵詞統計": {
+    "治療方法": {
+      "SGLT2 inhibitor": 2,
+      "GLP-1": 1
+    },
     "研究主題": {
-      "cardiovascular": 7,
-      "heart failure": 2
+      "fibrosis": 3,
+      "cardiovascular": 1,
+      "inflammation": 1,
+      "heart failure": 1
     },
     "臨床結局": {
-      "mortality": 7,
-      "proteinuria": 2,
-      "hospitalization": 1,
-      "ESKD": 1
-    },
-    "治療方法": {
-      "GLP-1": 3,
-      "SGLT2 inhibitor": 1
-    },
-    "診斷技術": {
-      "biomarker": 1,
-      "machine learning": 1
+      "mortality": 4,
+      "quality of life": 1,
+      "eGFR decline": 1,
+      "hospitalization": 1
     }
   },
   "熱門主題": [
     [
-      "cardiovascular",
-      7
-    ],
-    [
       "mortality",
-      7
+      4
     ],
     [
-      "GLP-1",
+      "fibrosis",
       3
     ],
     [
-      "heart failure",
+      "SGLT2 inhibitor",
       2
     ],
     [
-      "proteinuria",
-      2
+      "GLP-1",
+      1
+    ],
+    [
+      "cardiovascular",
+      1
+    ],
+    [
+      "inflammation",
+      1
+    ],
+    [
+      "heart failure",
+      1
+    ],
+    [
+      "quality of life",
+      1
+    ],
+    [
+      "eGFR decline",
+      1
     ],
     [
       "hospitalization",
       1
-    ],
-    [
-      "ESKD",
-      1
-    ],
-    [
-      "SGLT2 inhibitor",
-      1
-    ],
-    [
-      "biomarker",
-      1
-    ],
-    [
-      "machine learning",
-      1
     ]
   ],
   "期刊分布": {
-    "Journal of the American Heart Association": 4,
-    "The Journal of clinical psychiatry": 2,
-    "Annals of medicine": 2,
-    "Human reproduction (Oxford, England)": 1,
-    "European journal of trauma and emergency surgery : official publication of the European Trauma Society": 1,
-    "BMJ paediatrics open": 1,
-    "Pediatric nephrology (Berlin, Germany)": 1,
-    "Med (New York, N.Y.)": 1,
-    "Endocrine": 1,
-    "PLoS medicine": 1,
-    "Journal of nephrology": 1,
+    "Medicine": 4,
+    "Lancet (London, England)": 1,
+    "Blood": 1,
+    "The American journal of cardiology": 1,
+    "World journal of urology": 1,
+    "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
+    "PloS one": 1,
     "Renal failure": 1,
-    "JMIR formative research": 1,
-    "Medicine": 1,
-    "Antimicrobial agents and chemotherapy": 1
+    "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
+    "BMC nephrology": 1
   },
   "文章類型分布": {
-    "Journal Article": 22,
-    "Comparative Study": 4,
+    "Journal Article": 13,
+    "Randomized Controlled Trial": 3,
     "Multicenter Study": 3,
-    "Observational Study": 2,
-    "Randomized Controlled Trial": 2,
+    "Comparative Study": 2,
+    "Clinical Trial, Phase III": 1,
+    "Equivalence Trial": 1,
     "Clinical Trial, Phase II": 1,
-    "Clinical Trial, Phase I": 1,
-    "Systematic Review": 1,
-    "Meta-Analysis": 1
+    "English Abstract": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 20,
-    "Female": 20,
-    "Male": 19,
-    "Middle Aged": 17,
-    "Aged": 12,
-    "Retrospective Studies": 9,
-    "Risk Factors": 8,
-    "Adult": 7,
-    "Incidence": 6,
-    "Risk Assessment": 5,
-    "Prospective Studies": 4,
-    "China": 4,
-    "Cardiovascular Diseases": 4,
-    "Postoperative Complications": 4,
-    "Glucagon-Like Peptide-1 Receptor Agonists": 3,
-    "Renal Insufficiency, Chronic": 3,
-    "Metabolic Syndrome": 3,
-    "Longitudinal Studies": 3,
-    "Time Factors": 3,
+    "Female": 13,
+    "Humans": 13,
+    "Male": 12,
+    "Middle Aged": 12,
+    "Aged": 10,
+    "Retrospective Studies": 7,
+    "Adult": 5,
+    "Glomerular Filtration Rate": 5,
+    "Risk Factors": 4,
+    "Cohort Studies": 4,
+    "Treatment Outcome": 3,
+    "Disease Progression": 3,
     "Prognosis": 3,
-    "Propensity Score": 3,
-    "Aged, 80 and over": 3,
-    "Kidney": 2,
-    "Child": 2,
-    "Child, Preschool": 2,
-    "Adolescent": 2,
-    "Bipolar Disorder": 2,
-    "Renal Replacement Therapy": 2,
-    "Dipeptidyl-Peptidase IV Inhibitors": 2,
-    "Patient Acceptance of Health Care": 2
+    "Prospective Studies": 3,
+    "China": 3,
+    "Diabetes Mellitus, Type 2": 2,
+    "Glycated Hemoglobin": 2,
+    "Renal Insufficiency, Chronic": 2,
+    "Creatinine": 2,
+    "Postoperative Complications": 2,
+    "Diabetic Nephropathies": 2,
+    "Renal Dialysis": 2,
+    "Acute Kidney Injury": 2,
+    "Proportional Hazards Models": 2,
+    "Longitudinal Studies": 2,
+    "Cardiovascular Diseases": 1,
+    "Heart Disease Risk Factors": 1,
+    "Hypoglycemic Agents": 1,
+    "Insulin Glargine": 1,
+    "Fluorine Compounds": 1
   },
   "按類別統計": {
-    "兒童腎臟學": {
-      "文章數": 5,
+    "成人腎臟學": {
+      "文章數": 13,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Human reproduction (Oxford, England)": 1,
-        "European journal of trauma and emergency surgery : official publication of the European Trauma Society": 1,
-        "The Journal of clinical psychiatry": 1,
-        "BMJ paediatrics open": 1,
-        "Pediatric nephrology (Berlin, Germany)": 1
-      }
-    },
-    "成人腎臟學": {
-      "文章數": 17,
-      "高影響力期刊文章數": 0,
-      "主要期刊": {
-        "Journal of the American Heart Association": 4,
-        "Annals of medicine": 2,
-        "Med (New York, N.Y.)": 1,
-        "Endocrine": 1,
-        "PLoS medicine": 1
+        "Medicine": 4,
+        "Lancet (London, England)": 1,
+        "Blood": 1,
+        "The American journal of cardiology": 1,
+        "World journal of urology": 1
       }
     }
   }
