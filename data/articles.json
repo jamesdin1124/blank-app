@@ -1,4 +1,193 @@
 {
+  "pediatric_nephrology": {
+    "name": "兒童腎臟學",
+    "name_en": "Pediatric Nephrology",
+    "topics": [
+      "急性腎損傷 (AKI)",
+      "慢性腎臟病 (CKD)",
+      "腎病症候群",
+      "腎絲球腎炎",
+      "先天性腎臟異常 (CAKUT)",
+      "血液透析/腹膜透析",
+      "腎臟移植",
+      "泌尿道感染",
+      "遺傳性腎臟病",
+      "高血壓與腎臟"
+    ],
+    "articles": [
+      {
+        "pmid": "42927447",
+        "title": "Short- and mid-term outcomes of hemodialysis vascular access in pediatric patients.",
+        "abstract": "INTRODUCTION: Chronic kidney disease (CKD) in children represents a significant and growing global health burden. This study aims to report the short- and mid-term outcomes of hemodialysis vascular access in pediatric patients. PATIENTS AND METHODS: A prospective cohort study was conducted to assess outcomes in pediatric patients with various types of hemodialysis access. This prospective cohort study included all consecutive pediatric patients with ESRD who presented to the Vascular and Endovascular Surgery Department at a tertiary hospital from October 2022 to October 2023. RESULTS: The study included 50 pediatric patients, with a mean age of 10.5 ± 5.7 years. The cohort was predominantly female 35 (70%), while males accounted for 15 (30%) The overall technical success rate remained high at 45 (90%). The failure rate was 5 (10%). CONCLUSION: Our findings demonstrate that pediatric arteriovenous fistulas (predominantly autogenous), when carefully planned and executed, can achieve high primary success and patency rates, with manageable complications in children with end-stage renal disease.",
+        "authors": [
+          "Shahat Mohammed",
+          "Qwashty Ahmed",
+          "Gamil Alaa",
+          "Ibrahim Mohamed"
+        ],
+        "journal": "The journal of vascular access",
+        "pub_date": "2026 Oct 25",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Dialysis access",
+          "catheters",
+          "prosthetic grafts",
+          "stenosis",
+          "techniques and procedures"
+        ],
+        "mesh_terms": [],
+        "doi": "10.1177/11297298261493667",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42927447/",
+        "fetched_at": "2026-10-26T14:55:02.619905"
+      },
+      {
+        "pmid": "42902631",
+        "title": "Maternal kidney disease and composite kidney outcomes in the offspring.",
+        "abstract": "Maternal chronic kidney disease (CKD) is associated with adverse pregnancy outcomes, but its relationship with long-term offspring kidney health remains uncertain. This retrospective maternal-child cohort study examined whether maternal CKD or reduced kidney function before or during pregnancy was associated with a composite kidney outcome in offspring. Live births in the Taiwan Mother and Child Health cohort from 2007 to 2017 were followed through 2018. In the primary cohort, maternal kidney disease was defined as claims-based CKD meeting chronicity criteria before or during pregnancy; the maternal eGFR subcohort additionally included eGFR-defined reduced kidney function. The primary outcome comprised ICD-defined CKD, reduced eGFR <60 mL/min/1.73 m2 or ≥30% eGFR decline at age ≥2 years, or kidney replacement therapy. Laboratory components were interpreted as reduced kidney function rather than definitive CKD unless diagnostic chronicity was documented. Models adjusted for maternal, pregnancy, offspring, and perinatal covariates. Among 79,036 children, 4,687 (5.9%) met the composite kidney outcome. Maternal kidney disease was associated with modestly higher odds of the composite outcome (aOR, 1.29; 95% CI, 1.00-1.66) and offspring all-cause mortality (aOR, 1.88; 95% CI, 1.15-3.09). Analyses of individual components of the composite outcome, sex-stratified subgroups, and trimester-specific exposure windows were exploratory, imprecise, and not adjusted for multiplicity. Maternal CKD or reduced kidney function may identify dyads who warrant long-term kidney surveillance, although causal pathways require confirmation.",
+        "authors": [
+          "Hsu Chien-Ning",
+          "Li Lung-Chih",
+          "Chien Shao-Ju",
+          "Tain You-Lin"
+        ],
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Maternal kidney disease",
+          "chronic kidney disease",
+          "composite kidney outcome",
+          "intergenerational kidney risk",
+          "offspring",
+          "pregnancy"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Retrospective Studies",
+          "Renal Insufficiency, Chronic",
+          "Glomerular Filtration Rate",
+          "Pregnancy Complications",
+          "Adult",
+          "Male",
+          "Taiwan",
+          "Prenatal Exposure Delayed Effects",
+          "Pregnancy Outcome",
+          "Kidney",
+          "Risk Factors"
+        ],
+        "doi": "10.1080/0886022X.2026.2745220",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902631/",
+        "fetched_at": "2026-10-26T14:55:02.620007"
+      },
+      {
+        "pmid": "42610367",
+        "title": "Prevalence of Fabry disease GLA variants among patients with parapelvic cysts: a Multicenter Italian Cohort Study.",
+        "abstract": "BACKGROUND: Fabry disease is a rare X-linked disorder characterized by the accumulation of sphingolipids in various vital systems, leading to multiple organ damage. As previous data showed the association between Fabry disease and parapelvic cysts, the aim of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts. METHODS: From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients. RESULTS: Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.32%, respectively), two patients with variants of uncertain significance (VUS) (2 males) (0.65%) and three with benign variants (3 females) (0.98%). The overall prevalence of GLA variants in our population was 2.6%, which is 11-fold higher than in CKD patients not on dialysis (ND) (0.24%), and this difference resulted statistically significant (P <.0001; 11.07, 95%CI: 4.89; 25.06). Our results showed a prevalence of GLA variants 200 times higher compared to Italian newborn screening programs. CONCLUSION: Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population. Parapelvic cyst identification, even before clinical manifestations, is crucial for early Fabry disease diagnosis and treatment.",
+        "authors": [
+          "Capuano Ivana",
+          "Riccio Eleonora",
+          "Di Risi Teodolinda",
+          "Buonanno Pasquale",
+          "Gallieni Maurizio",
+          "Cianci Rosario",
+          "Grandaliano Giuseppe",
+          "Cirami Calogero Lino",
+          "Carraro Gianni",
+          "Econimo Laura",
+          "Esposito Pasquale",
+          "Parodi Angelica",
+          "La Manna Gaetano",
+          "Gesualdo Loreto",
+          "Pieruzzi Federico",
+          "Castellano Giuseppe",
+          "Roccatello Dario",
+          "Santoro Domenico",
+          "Battaglia Yuri",
+          "Gangemi Concetta",
+          "Marino Francesco",
+          "Gigliotti Giuseppe",
+          "Pisani Antonio"
+        ],
+        "journal": "Journal of nephrology",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "GLA variants",
+          "Fabry disease",
+          "early diagnosis",
+          "parapelvic cysts"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fabry Disease",
+          "Female",
+          "Male",
+          "Italy",
+          "Prevalence",
+          "alpha-Galactosidase",
+          "Adult",
+          "Middle Aged",
+          "Infant, Newborn",
+          "Young Adult",
+          "Adolescent",
+          "Aged",
+          "Cohort Studies",
+          "Kidney Diseases, Cystic",
+          "Child"
+        ],
+        "doi": "10.1093/joneph/aajag122",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42610367/",
+        "fetched_at": "2026-10-26T14:55:02.620107"
+      },
+      {
+        "pmid": "42913994",
+        "title": "Outcomes Following Kidney Failure From IgA Nephropathy Compared to Diabetic Kidney Disease and Other Glomerular Diseases.",
+        "abstract": "RATIONALE & OBJECTIVE: IgA nephropathy (IgAN) is a major cause of kidney disease worldwide, yet contemporary comparative outcome data following kidney failure are limited. We compared trends in access to kidney transplantation and mortality among patients with kidney failure due to IgAN, to those with diabetic kidney disease (DKD) or other glomerular diseases (GD). STUDY DESIGN: Longitudinal cohort study. SETTING & PARTICIPANTS: Patients with kidney failure initiating maintenance dialysis (1965-2023) due to IgAN, DKD, or other GD in Australia. EXPOSURE: Kidney failure etiology. OUTCOMES: All-cause death, death from cardiovascular disease and cancer, and entry onto the deceased donor kidney transplant waitlist. ANALYTICAL APPROACH: Age-standardized incidence, prevalence, and mortality rates and temporal trends assessed using log-linear regression-derived estimated annual percentage change (EAPC). Associations between kidney failure etiology and outcomes estimated using inverse probability treatment-weight (IPTW)- adjusted Cox proportional hazards models. RESULTS: 44,659 patients (4,925 with IgAN; 15,079 with other GD; 24,655 with DKD) were studied with a median follow-up of 53 months (IQR 23.3-109.8). The age-standardized incidence of IgAN remained stable over the past two decades (EAPC -0.01%, 95% CI - 0.80 to 0.78). Compared with other GD, patients with IgAN experienced lower all-cause (HR 0.69, 95% CI 0.65-0.73; p < 0.001) and cardiovascular (HR 0.67, 95% CI 0.60-0.74; p < 0.001) mortality, and increased rates of being placed on the transplant waitlist (HR 1.55, 95% CI 1.39-1.73; p < 0.001). Compared with IgAN, patients with DKD had higher all-cause (HR 1.58, 95% CI 1.53-1.64, p<0.001) and cardiovascular mortality (HR 1.81, 95% CI 1.71-1.91, p<0.001), lower cancer-related mortality (HR 0.82, 95% CI 0.70-0.95, p=0.009), and lower rates of being placed on the transplant waitlist (HR 0.64, 95% CI 0.60-0.69, p<0.001). LIMITATIONS: Residual confounding, diagnostic misclassification due to variation in biopsy practices. CONCLUSION: Differences in survival and placement onto the kidney transplant waitlist exist across patients with different etiologies of kidney failure. Individuals with IgAN have longer survival and enter the transplant waitlist more often than those with DKD or other GD.",
+        "authors": [
+          "Bagchi Soumita",
+          "Wang Jiayue",
+          "Teixeira-Pinto Armando",
+          "Scholes-Robertson Nicole",
+          "Lim Wai H",
+          "Wong Germaine"
+        ],
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "IgA nephropathy",
+          "diabetic kidney disease",
+          "dialysis",
+          "glomerular disease",
+          "kidney failure",
+          "survival",
+          "transplantation"
+        ],
+        "mesh_terms": [],
+        "doi": "10.1053/j.ajkd.2026.06.028",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913994/",
+        "fetched_at": "2026-10-26T14:55:02.620162"
+      }
+    ],
+    "count": 4,
+    "search_date": "2026-10-26T14:55:02.620218",
+    "days_back": 7
+  },
   "adult_nephrology": {
     "name": "成人腎臟學",
     "name_en": "Adult Nephrology",
@@ -17,342 +206,301 @@
     ],
     "articles": [
       {
-        "pmid": "42815506",
-        "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
-        "abstract": "BACKGROUND: Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events. METHODS: This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA1c) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m2 or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orforglipron maximum tolerated dose (up to 36 mg capsule [equivalent to 17·2 mg tablet]) or injectable titrated insulin glargine, each administered once daily. All participants had established cardiovascular or chronic kidney disease. The primary outcome was time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. Non-inferiority of orforglipron to insulin glargine was declared if the upper limit of the two-sided 95% CI for the hazard ratio (HR; orforglipron vs insulin glargine) was less than 1·8. The primary endpoint and other safety endpoints were assessed in all participants who took at least one dose of assigned treatment using all datapoints from baseline until withdrawal or study completion, regardless of treatment adherence. This trial was registered on ClinicalTrials.gov (NCT05803421) and is completed. FINDINGS: Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male. 2362 (85·9%) participants had established cardiovascular disease and 1033 (37·6%) had chronic kidney disease. Mean baseline age, HbA1c, and BMI were 63·1 years (SD 9·9), 8·2% (1·0), and 33 kg/m2 (6·2), respectively. Over a median follow-up of 2 years, the primary outcome occurred in 57 (4·2%) of 1358 orforglipron participants and 67 (5·0%) of 1343 insulin glargine participants, showing non-inferiority to insulin glargine for MACE-4 (HR 0·84; 95% CI 0·59-1·20; p<0·0001 for non-inferiority). Gastrointestinal adverse events were reported in 851 (62·1%) of 1371 orforglipron participants and 193 (14·2%) of 1355 insulin glargine participants; clinically significant or severe hypoglycaemia (glucose <3 mmol/L [54 mg/dL]) occurred in 93 (6·8%) of 1371 orforglipron participants and 260 (19·2%) of 1355 insulin glargine participants. 62 deaths were reported during the study: 19 (1·4%) of 1371 participants receiving orforglipron and 43 (3·2%) of 1355 participants receiving insulin glargine; all deaths except one (in the insulin glargine group) were deemed unrelated to treatment. INTERPRETATION: In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4. Gastrointestinal adverse events were the most frequent adverse event and most common reason for orforglipron treatment discontinuation with orforglipron, while clinically significant hypoglycaemia occurred less frequently with orforglipron than with insulin glargine. These findings support orforglipron as a potential once-daily, oral treatment option with established cardiovascular safety in people with type 2 diabetes and increased cardiovascular risk. FUNDING: Eli Lilly and Company.",
+        "pmid": "42912115",
+        "title": "Nursing Activities Score in critically ill patients on invasive mechanical ventilation.",
+        "abstract": "OBJECTIVE: to assess the association between invasive mechanical ventilation duration, classified as prolonged and non-prolonged, and nursing workload in critically ill patients. METHOD: a prospective cohort study with adult patients on mechanical ventilation for up to 21 days or more. Nursing workload was measured using the Nursing Activities Score (NAS). Clinical data were collected using a structured questionnaire. A significance level of 5% was adopted. RESULTS: considering 61 patients, there was no significant difference in nursing workload between prolonged and non-prolonged mechanical ventilation according to NAS [111.2 (105.118) vs. 111.8 (107.119); p=0.880], nor was there an association between mechanical ventilation time and this score (AUC=0.512). Prolonged mechanical ventilation was associated with vasoactive drugs (96%; p=0.007) and greater severity of acute kidney injury (KDIGO=3.78%; p=0.009). CONCLUSION: mechanical ventilation duration was not associated with changes in nursing workload, which remained high regardless of the ventilatory support duration.",
         "authors": [
-          "Klein Klara R",
-          "Wysham Carol",
-          "Tuttle Katherine R",
-          "Davies Melanie J",
-          "Cox David",
-          "Chen Jiaxun",
-          "Wu Wen-Shuo",
-          "Denning Max",
-          "Liu Rong",
-          "Ludwig Lisa",
-          "Meskimen Eric R"
+          "Bianchi Larissa Moreira",
+          "Duarte Tayse Tâmara da Paixão",
+          "Ipolito Michelle Zampieri",
+          "Silva Kamilla Grasielle Nunes da",
+          "Santos Walterlânia Silva",
+          "Magro Marcia Cristina da Silva"
         ],
-        "journal": "Lancet (London, England)",
-        "pub_date": "2026 Oct 17",
+        "journal": "Revista brasileira de enfermagem",
+        "pub_date": "2026",
         "pub_types": [
-          "Journal Article",
-          "Randomized Controlled Trial",
-          "Clinical Trial, Phase III",
-          "Multicenter Study",
-          "Equivalence Trial",
-          "Comparative Study"
-        ],
-        "keywords": [],
-        "mesh_terms": [
-          "Aged",
-          "Female",
-          "Humans",
-          "Male",
-          "Middle Aged",
-          "Cardiovascular Diseases",
-          "Diabetes Mellitus, Type 2",
-          "Glycated Hemoglobin",
-          "Heart Disease Risk Factors",
-          "Hypoglycemic Agents",
-          "Insulin Glargine",
-          "Fluorine Compounds",
-          "Oxadiazoles"
-        ],
-        "doi": "10.1016/S0140-6736(26)01865-9",
-        "is_high_impact": true,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815506/",
-        "fetched_at": "2026-10-19T15:20:10.620387"
-      },
-      {
-        "pmid": "42296025",
-        "title": "A phase 2 trial of daratumumab monotherapy for patients with newly diagnosed cardiac stage IIIb AL amyloidosis.",
-        "abstract": "Treatment options for patients with immunoglobulin light chain (AL) amyloidosis and advanced cardiac involvement remain limited. The prospective phase 2 European Myeloma Network 22 trial included patients with previously untreated AL amyloidosis, measurable hematologic disease, and Mayo2004/European cardiac stage IIIB disease to receive daratumumab monotherapy at the standard dose and schedule for up to 2 years (28-day cycles); patients with inadequate response after 3 cycles could additionally receive weekly bortezomib and dexamethasone. The primary end point was 6-month overall survival (OS) rate. Of 40 patients enrolled, 10 (25.0%) received additional treatment with bortezomib and dexamethasone. The 6-month OS rate was 65% (95% confidence interval, 48.2-77.6), and median OS was 10.4 months. The best hematologic response rate (partial response or better) up to 6 months was 75% (very good partial response or better, 47.5%; complete response, 12.5%), with the median time to first and best hematologic response being 1 week and 2.3 months, respectively. Cardiac response rate at 6 months was 30%. Common serious adverse events were cardiac failure (25%), sudden cardiac death (10%), and acute kidney injury (7.5%). The patients' quality of life remained stable throughout the trial treatment and observation. In patients with high-risk, advanced (stage IIIB) AL amyloidosis, daratumumab monotherapy was feasible and well tolerated, achieving rapid hematologic responses and associated with prolonged survival relative to historical cohorts. Cardiac response rates at 6 months were significant, considering advanced cardiac disease. These findings support daratumumab as the backbone of anticlonal therapy in advanced cardiac AL amyloidosis. This trial was registered at www.clinicaltrials.gov as #NCT04131309.",
-        "authors": [
-          "Kastritis Efstathios",
-          "Minnema Monique C",
-          "Dimopoulos Meletios A",
-          "Merlini Giampaolo",
-          "Theodorakakou Foteini",
-          "Fotiou Despina",
-          "Huart Antoine",
-          "Psarros Giorgos",
-          "Vassalou Helen",
-          "Sonneveld Pieter",
-          "Palladini Giovanni"
-        ],
-        "journal": "Blood",
-        "pub_date": "2026 Oct 15",
-        "pub_types": [
-          "Journal Article",
-          "Clinical Trial, Phase II",
-          "Multicenter Study"
+          "Journal Article"
         ],
         "keywords": [],
         "mesh_terms": [
           "Humans",
+          "Respiration, Artificial",
+          "Critical Illness",
+          "Prospective Studies",
           "Female",
           "Male",
-          "Immunoglobulin Light-chain Amyloidosis",
-          "Antibodies, Monoclonal",
-          "Aged",
           "Middle Aged",
-          "Dexamethasone",
-          "Bortezomib",
-          "Aged, 80 and over",
-          "Heart Diseases",
-          "Treatment Outcome",
-          "Survival Rate",
+          "Aged",
+          "Surveys and Questionnaires",
+          "Workload",
+          "Cohort Studies",
           "Adult"
         ],
-        "doi": "10.1182/blood.2025032897",
+        "doi": "10.1590/0034-7167-2025-0390",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296025/",
-        "fetched_at": "2026-10-19T15:20:10.620443"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42912115/",
+        "fetched_at": "2026-10-26T14:55:03.832591"
       },
       {
-        "pmid": "42570833",
-        "title": "Long-term Outcomes of Renal Function Following CTO PCI: Insights on Contrast Exposure.",
-        "abstract": "The impact of contrast volume on long-term renal outcomes after chronic total occlusion (CTO) percutaneous coronary intervention (PCI) remains uncertain, and the causal role of contrast exposure is increasingly questioned, particularly beyond the acute phase. The aim of this study was to evaluate the association between procedural contrast volume and long-term deterioration in renal function among patients undergoing CTO PCI. This retrospective cohort study included consecutive patients undergoing CTO-PCI between 2019 to 2025 and had both baseline and ≥90-day follow-up creatinine measurements available. The main endpoint was persistent kidney dysfunction (≥25% decline in estimated glomerular filtration rate (eGFR)). Other relevant endpoints included Kidney Disease: Improving Global Outcomes (KDIGO) stage progression (≥1 stage), and rapid progression (≥2 stages). Contrast volume was analyzed as a continuous variable and by quartiles. Multivariable regression models and sensitivity analysis (using a ≥40%eGFR decline threshold and baseline chronic kidney disease) were performed. A total of 275 patients were included with a median follow-up of 3.3 years. Renal function significantly declined (median ΔeGFR: -17.0 ml/min/1.73 m²; p < 0.001). Persistent kidney dysfunction occurred in 52.4% of patients, KDIGO stage progression in 60.7% and rapid progression in 12.0%. Contrast volume (median 215 mL) was not independently associated with persistent kidney dysfunction (p = 0.267) and no dose-response relationship was observed across quartiles. Findings were consistent across models for ΔeGFR, KDIGO-based, subgroups and sensitivity analyses. Patient-related factors including age, male sex, hypertension, and diabetes emerged as independent predictors of renal decline. Notably, baseline renal function showed an inverse association with progression (p <0.001), suggesting a \"ceiling effect\" in advanced stages. In patients undergoing CTO-PCI, contrast volume is not independently associated with long-term renal deterioration. Persistent kidney dysfunction appears primarily driven by patient-related factors rather than procedural contrast exposure.",
+        "pmid": "42911966",
+        "title": "Feasibility of a machine learning model for predicting weight gain after kidney transplantation machine learning and weight gain after kidney transplantation.",
+        "abstract": "BACKGROUND: Excessive weight gain after kidney transplantation adversely affects patient and graft outcomes. Machine Learning has been increasingly used to improve risk prediction across a range of transplant-related outcomes, yet its application to post-transplant weight trajectories remains unexplored. This study is the first to evaluate the feasibility of using Machine Learning algorithms to identify predictors of weight gain after kidney transplantation. METHODS: This retrospective cohort study analyzed 374 adult kidney transplant recipients. We developed an Elastic Net regression model with 10-fold cross-validation to predict body weight variation at 12 months post-transplant. The analysis screened a comprehensive set of demographic and clinical variables, including recipient characteristics, donor type, dialysis duration, and pre-transplant hypertension, to identify predictors within the training (75%) and testing (25%) datasets. RESULTS: Mean weight gain was 4.0 ± 7.4 kg. The Elastic Net model retained four predictors in the final model: female sex, deceased donor source, age, and pre-transplant body mass index. However, the model demonstrated limited predictive performance (R2 = 0.10; Mean Absolute Error = 8.7%), indicating that baseline variables explain only a small fraction of the observed variability in weight change. CONCLUSIONS: This pioneering study establishes an analytical benchmark and reveals the informational limits of standard clinical datasets for predicting post-transplant weight gain. While Machine Learning application is feasible, current demographic and clinical variables are insufficient for precise individual prediction. Future models must integrate more granular behavioral and pharmacological data to achieve clinically actionable risk stratification.",
         "authors": [
-          "Testerini Federica Barbara Beatrice",
-          "Giangiacomi Francesco",
-          "Zivelonghi Carlo",
-          "Scott Benjamin",
-          "Convens Carl",
-          "Verheye Stefan",
-          "Bernards Jelle",
-          "Vermeersch Paul",
-          "Agostoni Pierfrancesco"
-        ],
-        "journal": "The American journal of cardiology",
-        "pub_date": "2026 Oct 15",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "chronic kidney disease",
-          "chronic total occlusion",
-          "contrast volume",
-          "contrast-associated acute kidney injury",
-          "percutaneous coronary intervention",
-          "renal function"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Contrast Media",
-          "Percutaneous Coronary Intervention",
-          "Male",
-          "Glomerular Filtration Rate",
-          "Retrospective Studies",
-          "Coronary Occlusion",
-          "Aged",
-          "Female",
-          "Disease Progression",
-          "Renal Insufficiency, Chronic",
-          "Coronary Angiography",
-          "Time Factors",
-          "Follow-Up Studies",
-          "Middle Aged",
-          "Creatinine",
-          "Risk Factors"
-        ],
-        "doi": "10.1016/j.amjcard.2026.08.001",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42570833/",
-        "fetched_at": "2026-10-19T15:20:10.620496"
-      },
-      {
-        "pmid": "42873281",
-        "title": "Safety and complications of upper pole puncture in supine percutaneous nephrolithotomy.",
-        "abstract": "OBJECTIVE: Supine percutaneous nephrolithotomy (PCNL) has gained attention as a viable alternative to the traditional/historical prone approach for the treatment of large renal stones. However, concerns remain regarding the safety and feasibility of upper calyx punctures in the supine position, particularly for upper-pole access. This multicenter, retrospective cohort study evaluated the safety and stone-free rates of upper-pole punctures in supine PCNL, comparing outcomes with middle and lower calyx punctures and with literature on prone PCNL. METHODS: This retrospective study analyzed supine PCNL cases performed between 2009 and 2019 across eight international centers, categorizing patients by calyx of entry (upper, middle, or lower). Patients who required multiple calyx entries were excluded. Demographics, surgical details, and outcomes were recorded, including complications and stone-free rates. We used logistic regression to assess the association between stone-free rates and calyx puncture sites, adjusting for age, gender, Guy's Stone Score, and ASA score. Based on the initial findings, we performed a second multivariable logistic regression among patients undergoing upper calyx puncture using the same covariates. ANOVA was used to compare the means of quantitative variables, and Chi-square tests assessed associations between categorical variables. Bonferroni adjustment was applied when appropriate. RESULTS: Among 989 patients, 10% had upper, 28.5% middle, and 61.5% lower calyx punctures. No significant differences were found in overall complication rates when comparing upper, middle, and lower calyces. Thoracic complications were rare and did not differ significantly across calyces (p = 0.74). Upper calyx punctures had lower stone-free rates (51%) compared to middle (77.7%) and lower (62.8%) punctures (p < 0.001). The overall complication rate did not differ significantly (p = 0.82). According to the logistic regression, patients with a middle puncture site had 2.98 times higher odds of a stone-free outcome than those with an upper puncture site (OR, 2.98; 95% CI, 1.69-5.29). In contrast, patients with a lower puncture site did not have a significant difference in stone-free rates compared to those with an upper puncture (OR = 1.10, 95% CI: 0.64, 1.86, p = 0.7). Among patients undergoing upper calyx puncture, Guy's Stone Score 4 was independently associated with lower odds of achieving stone-free status (OR 0.20, 95% CI 0.04-0.91; p = 0.045). No significant associations were observed for age, gender, or ASA classification. CONCLUSION: Upper calyx punctures showed similar complication rates to middle and lower calyx punctures, with slightly lower stone-free rates likely due to higher stone complexity. These findings support the feasibility, safety, and efficacy of supine PCNL for upper calyx access.",
-        "authors": [
-          "Villanueva-Congote Juliana",
-          "Li Yi W",
-          "Segall Michal",
-          "Gokce Mehmet",
-          "Proietti Silvia",
-          "Giusti Guido",
-          "Garcia Jose Ernesto Torres",
-          "Manzo Braulio",
-          "Yaghoubian Alan",
-          "Gonzalez Mariano",
-          "Ajayi Leye",
-          "Wollin Daniel A",
-          "Eisner Brian H"
-        ],
-        "journal": "World journal of urology",
-        "pub_date": "2026 Oct 14",
-        "pub_types": [
-          "Journal Article",
-          "Multicenter Study"
-        ],
-        "keywords": [
-          "Supine",
-          "Percutaneous nephrolithotomy",
-          "Renal calyx"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Nephrolithotomy, Percutaneous",
-          "Retrospective Studies",
-          "Female",
-          "Male",
-          "Punctures",
-          "Kidney Calculi",
-          "Supine Position",
-          "Postoperative Complications",
-          "Kidney Calices",
-          "Middle Aged",
-          "Patient Positioning",
-          "Adult",
-          "Cohort Studies"
-        ],
-        "doi": "10.1007/s00345-026-06735-0",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42873281/",
-        "fetched_at": "2026-10-19T15:20:10.620542"
-      },
-      {
-        "pmid": "42789323",
-        "title": "Association of Neutrophil Percentage-to-Albumin Ratio (NPAR) With Pathological Features and Long-Term Prognosis in Diabetic Kidney Disease: A Cohort Study.",
-        "abstract": "Growing evidence highlights the central role of inflammation in the onset and progression of DKD. In this study, we investigate the association between the neutrophil percentage-to-albumin ratio (NPAR) and clinicopathological features, as well as long-term renal outcomes, in patients with diabetic kidney disease (DKD). Three hundred five biopsy-confirmed DKD patients with baseline eGFR ≥ 15 mL/min/1.73 m2 were retrospectively enrolled in this study. Baseline clinical and pathological characteristics were compared across NPAR quartiles. The primary outcome was 2-year DKD progression, defined as a > 40% increase in serum creatinine, end-stage renal disease, or all-cause mortality. Multivariable logistic regression, restricted cubic spline (RCS) analysis, and subgroup analyses were conducted to examine the association between the NPAR and kidney outcomes. Subsequently, a prognostic nomogram was constructed for DKD patients incorporating NPAR to stratify individual risk. Higher baseline NPAR quartiles were significantly associated with renal dysfunction and advanced renal pathological lesions. In a subset of renal biopsy specimens, MPO immunostaining demonstrated increased renal neutrophil infiltration in patients with higher NPAR quartiles. Renal MPO expression was positively correlated with mesangial expansion, interstitial fibrosis, and tubular atrophy. Among patients with complete follow-up, 65.3% developed the composite kidney outcome. Compared with the lowest NPAR quartile, multivariable-adjusted odds ratios (95% CIs) for kidney outcomes were 1.68 (0.36-8.15), 6.21 (1.35-33.55), and 6.88 (1.27-46.86) for Q2, Q3, and Q4, respectively. RCS analysis indicated a nonlinear association between NPAR and kidney outcomes, with risk increasing sharply above an NPAR value of 1.38. Subgroup analyses identified significant interactions between NPAR and Kimmelstiel-Wilson nodules as well as SGLT2 inhibitor use on kidney outcomes. A prognostic model incorporating NPAR quartiles, age, total cholesterol, eGFR, and interstitial fibrosis demonstrated good discrimination (AUROC 0.863). In conclusion, elevated NPAR is associated with increased renal neutrophil infiltration, more severe histopathological injury, and adverse renal outcomes in patients with DKD, and independently predicts long-term renal progression.",
-        "authors": [
-          "Li Yang",
-          "Wang Hongyu",
-          "He Wendi",
-          "Fang Yi",
-          "Jin Shi",
-          "Liu Hong",
-          "Li Jie",
-          "Song Nana",
-          "Ding Xiaoqiang",
-          "Dai Yan"
-        ],
-        "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-        "pub_date": "2026 Oct 15",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "diabetic kidney disease",
-          "inflammation",
-          "neutrophil percentage‐to‐albumin ratio",
-          "prognosis",
-          "renal biopsy"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Female",
-          "Male",
-          "Neutrophils",
-          "Diabetic Nephropathies",
-          "Prognosis",
-          "Middle Aged",
-          "Retrospective Studies",
-          "Kidney",
-          "Cohort Studies",
-          "Aged",
-          "Disease Progression",
-          "Serum Albumin",
-          "Glomerular Filtration Rate"
-        ],
-        "doi": "10.1096/fj.202601835RRR",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42789323/",
-        "fetched_at": "2026-10-19T15:20:10.620589"
-      },
-      {
-        "pmid": "42888632",
-        "title": "Comparative outcomes of arteriovenous accesses with and without tunneled hemodialysis catheters: A retrospective cohort study.",
-        "abstract": "This study compared patency rates of arteriovenous accesses with and without concurrent tunneled hemodialysis catheter (THC) use, addressing limited research on combined outcomes. A retrospective cohort analysis was conducted on patients undergoing arteriovenous access creation at a single hospital between January 2021 and December 2022. Primary outcomes were the 6-month primary patency rate and functional dialysis success. Secondary outcomes were the factors associated with each of these endpoints. Statistical analyses employed t tests, chi-square tests, logistic regression, and Kaplan-Meier survival curves. A total of 319 vascular accesses were included. The 6-month patency rate was significantly higher in the access-only group than in the access + THC group (87.04% vs 78.20%, P = .04). THC usage (odds ratio [OR] = 0.49, 95% confidence interval [CI]: 0.25-0.95, P = .03), graft usage (OR = 0.38, 95% CI: 0.18-0.82, P = .01), and higher hemoglobin levels (OR = 0.80, 95% CI: 0.65-0.96, P = .02) were associated with reduced patency rates. Functional dialysis success at 6 months did not differ significantly between groups (87.96% vs 83.89%, P = .21). However, older age (OR = 0.96, 95% CI: 0.93-0.99, P = .01), use of a cubital artery to an autologous vein (OR = 0.39, 95% CI: 0.19-0.82, P = .01) or graft (OR = 0.40, 95% CI: 0.17-0.97, P = .04), and higher hemoglobin levels (OR = 0.81, 95% CI: 0.66-0.99, P = .03) were associated with a lower likelihood of functional dialysis success. Concurrent THC use was independently associated with reduced 6-month primary patency without a corresponding reduction in the short-term delivery of dialysis, suggesting an increased need for interventions to maintain the access. Judicious use of THCs and careful consideration of the vascular access type are important to optimize vascular access outcomes in patients undergoing hemodialysis.",
-        "authors": [
-          "Su Heng",
-          "Lin Ting-Wei",
-          "Chen Jian-Han",
-          "Wu Hsuan-Yin"
-        ],
-        "journal": "Medicine",
-        "pub_date": "2026 Oct 16",
-        "pub_types": [
-          "Journal Article",
-          "Comparative Study"
-        ],
-        "keywords": [
-          "arteriovenous fistula",
-          "arteriovenous graft",
-          "hemodialysis",
-          "patency",
-          "tunneled hemodialysis catheter",
-          "vascular access"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Renal Dialysis",
-          "Retrospective Studies",
-          "Vascular Patency",
-          "Female",
-          "Arteriovenous Shunt, Surgical",
-          "Male",
-          "Middle Aged",
-          "Aged",
-          "Treatment Outcome",
-          "Catheters, Indwelling"
-        ],
-        "doi": "10.1097/MD.0000000000051077",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888632/",
-        "fetched_at": "2026-10-19T15:20:10.620625"
-      },
-      {
-        "pmid": "42862833",
-        "title": "Effectiveness of a self-management intervention on clinical outcomes among patients with type 2 diabetes at high risk for Diabetic Kidney Disease: A Randomised Controlled Trial.",
-        "abstract": "BACKGROUND: Diabetic kidney disease (DKD) is a common complication of type 2 diabetes mellitus (T2DM) and a leading cause of end-stage renal disease, posing substantial health and economic burdens. Early self-management interventions targeting modifiable risk factors are crucial to prevent or slow DKD progression. However, most studies focus on later stages of DKD, leaving a gap in early prevention for high risk of DKD individuals. OBJECTIVE: To evaluate the effectiveness of a structured self-management intervention on clinical outcomes among T2DM patients at high risk of DKD. DESIGN: A prospective, two-arm, randomized controlled trial. SETTING: A tertiary hospital in Shandong Province, China. PARTICIPANTS: 134 patients with T2DM who were classified as being at high risk of DKD using a validated DKD risk prediction model. METHODS: 134 participants were randomized 1:1 to the intervention or control group. The intervention group received a 12-week a structured self-management program and 12-week follow-up. The control group received usual care. Clinical outcomes included hemoglobin A1c (HbA1c), urinary albumin-to-creatinine ratio (UACR), estimated glomerular filtration rate (eGFR), systolic blood pressure (SBP), low-density lipoprotein cholesterol (LDL-C), body mass index (BMI), waist circumference (WC) were collected at baseline (T0), after the 12-week intervention (T1), and at 24 weeks (T2). Generalized estimating equations and intention-to-treat analyses were performed. Sensitivity analyses using multiple imputation were conducted. RESULTS: All participants completed the intervention phase. During the follow-up visits period, 7 participants in the intervention group and 9 participants in the control group were lost to follow-up at T1 (attrition rate: 11.94%), while 5 participants in the intervention group and 4 participants in the control group were lost to follow-up at T2 (attrition rate: 6.71%). No significant differences in baseline sociodemographic or clinical indicators between participants retained and those lost to follow-up (p > 0.05), suggesting data were missing at random. Baseline comparisons between the intervention and control groups revealed no significant differences in demographic or clinical indicators (p > 0.05). Compared with the control group, the intervention group demonstrated significant improvements in HbA1c, eGFR, SBP, and LDL-C, while no significant differences were observed for UACR, BMI, or WC. Sensitivity analyses yielded consistent results. CONCLUSIONS: The self-management intervention effectively improved HbA1c, eGFR, SBP and LDL-C among T2DM patients at high risk of DKD. These findings suggest that integrating structured self-management into routine diabetes care may help improve modifiable risk factors and support early DKD prevention. REGISTRATION: China Clinical Trial Registry (ChiCTR2400092745; registered on 22 November 2024).",
-        "authors": [
-          "Chu Dongmei",
-          "Liu Bingyang",
-          "Soh Kim Lam",
-          "Saidi Hasni Idayu",
-          "Japar Salimah"
+          "de Freitas Júlia de Melo Cardoso",
+          "Ballester Pedro Lemos",
+          "Pedrollo Elis Forcellini",
+          "Corrêa Camila",
+          "Menezes Rafaella Câmara Rocha",
+          "Leitão Cristiane Bauermann",
+          "Souza Gabriela Corrêa"
         ],
         "journal": "PloS one",
         "pub_date": "2026",
         "pub_types": [
-          "Journal Article",
-          "Randomized Controlled Trial"
+          "Journal Article"
         ],
         "keywords": [],
         "mesh_terms": [
           "Humans",
-          "Diabetes Mellitus, Type 2",
-          "Diabetic Nephropathies",
+          "Kidney Transplantation",
+          "Weight Gain",
           "Female",
-          "Middle Aged",
-          "Self-Management",
+          "Machine Learning",
+          "Retrospective Studies",
           "Male",
-          "Glycated Hemoglobin",
-          "Glomerular Filtration Rate",
-          "Risk Factors",
-          "Prospective Studies",
-          "Blood Pressure",
-          "Aged",
-          "Treatment Outcome",
-          "China"
+          "Middle Aged",
+          "Feasibility Studies",
+          "Predictive Learning Models",
+          "Adult",
+          "Prediction Algorithms",
+          "Body Mass Index"
         ],
-        "doi": "10.1371/journal.pone.0360475",
+        "doi": "10.1371/journal.pone.0360501",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42862833/",
-        "fetched_at": "2026-10-19T15:20:10.620665"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42911966/",
+        "fetched_at": "2026-10-26T14:55:03.832679"
       },
       {
-        "pmid": "42876246",
-        "title": "Acute kidney disease after acute kidney injury: incidence, risk factors, and association with ",
-        "abstract": "Acute Kidney Disease (AKD) is defined as acute kidney injury (AKI) persisting for 7 to 90 days and represents a window for interventions to improve renal outcomes. However, data on AKD remain underexplored. This retrospective cohort study at Tongji Hospital, China, included 23,868 adult patients who survived at least one AKI episode between January 2015 and April 2024. Using electronic medical record data, we aimed to quantify the incidence of AKD among AKI survivors, identify independent risk factors, and evaluate the association between AKD and de novo chronic kidney disease (CKD). Among the cohort, 10,884 patients (45.6%) progressed to AKD. Multivariable logistic regression revealed that advanced age, preexisting hypertension, heart failure, cirrhosis, recent diuretic use, hepatorenal syndrome, higher baseline estimated glomerular filtration rate, higher AKI stage, and dialysis-requiring AKI were independent risk factors for AKD. Fine-Gray competing-risk analysis accounting for acute-phase mortality confirmed that higher AKI severity was independently associated with AKD progression. In a subcohort of 6597 patients without preexisting CKD who had at least one year of follow-up, 19.8% developed de novo CKD. Cox proportional hazards analysis demonstrated that patients with AKD had a significantly increased risk of de novo CKD compared to those without AKD (HR 1.92, 95% CI 1.70-2.17). These findings highlight the high proportion of AKD among patients with AKI, and emphasize the importance of early detection and targeted management for high-risk groups. It is critical to strengthen post-discharge renal function monitoring and intervention strategies for AKI patients to improve long-term renal outcomes.",
+        "pmid": "42905570",
+        "title": "Prevalence and Impact of Popliteal Artery Injury Associated with Knee Dislocations, Ligament Injuries, and Peri-Knee Fractures: Analysis of the Nationwide Readmission Database, 2016-2020.",
+        "abstract": "BACKGROUND: Severe knee trauma, including knee dislocations, ligament injuries, and peri-knee fractures, carries a risk of popliteal artery injury (PAI). We aimed to evaluate the prevalence and clinical impact of PAI in adult patients sustaining severe knee trauma. METHODS: This retrospective cohort study included adult inpatients (≥18 years) with peri-knee fracture, knee dislocation, or ligament injury, using data from the United States Nationwide Readmissions Database from 2016 to 2020. Propensity score matching (PSM) was used to balance baseline characteristics. Outcomes included length of stay (LOS), complications, amputations, and 30-day and 90-day unplanned readmissions. Multivariable regression analyses were conducted to estimate adjusted odds ratios (aORs) and 95% confidence intervals (CIs). RESULTS: Among an estimated 211,108 hospitalizations nationwide, the weighted prevalence of PAI was 0.38% (95% CI, 0.33%-0.42%). Knee dislocation was the strongest predictor of PAI. After PSM, PAI was associated with higher risks of any medical complication (aOR 2.56, 95% CI 1.88-3.49), respiratory failure or mechanical ventilation (aOR 3.59, 95% CI 2.15-5.98), acute kidney injury (aOR 2.71, 95% CI 1.76-4.19), and any surgical complication (aOR 4.50, 95% CI 3.40-5.97) as well as increased risk of 30-day unplanned readmission (aOR 1.81, 95% CI 1.21-2.70) and longer LOS (adjusted β 9.15 days, 95% CI 7.57-10.72). CONCLUSIONS: PAI is associated with substantial morbidity and increased healthcare utilization following severe knee trauma, reinforcing the need for comprehensive vascular assessment, particularly in knee dislocation-related injuries. Given the observational nature of this administrative database study, these associations should not be interpreted as causal.",
         "authors": [
-          "Hu Sujia",
-          "Zhao Xingyang",
-          "Cheng Yichun",
-          "Ge Shuwang"
+          "Teng Hsiu-Gwo"
+        ],
+        "journal": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Knee dislocations",
+          "Nationwide Readmission Database",
+          "ligament injuries",
+          "peri-knee fractures",
+          "popliteal artery injury"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Popliteal Artery",
+          "Female",
+          "Male",
+          "Retrospective Studies",
+          "Middle Aged",
+          "Prevalence",
+          "Knee Dislocation",
+          "United States",
+          "Adult",
+          "Databases, Factual",
+          "Aged",
+          "Vascular System Injuries",
+          "Patient Readmission",
+          "Knee Fractures",
+          "Ligaments, Articular",
+          "Length of Stay",
+          "Amputation, Surgical",
+          "Risk Factors",
+          "Knee Injuries"
+        ],
+        "doi": "10.1080/08941939.2026.2749354",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42905570/",
+        "fetched_at": "2026-10-26T14:55:03.832762"
+      },
+      {
+        "pmid": "41905344",
+        "title": "Volume vs intensity of physical activity and risk of cardiovascular and non-cardiovascular chronic diseases.",
+        "abstract": "BACKGROUND AND AIMS: While vigorous physical activity (VPA) is known to provide greater health benefits per unit time than moderate activity, the spectrum of these benefits across different chronic diseases and the relative importance of physical activity (PA) intensity vs volume remain unclear. This study examined associations between the proportion of VPA (%VPA) relative to total volume of PA and the incidence of multiple chronic disease outcomes. METHODS: This prospective population-based cohort study included 96,408 participants (mean age 61.9 years, women: 56.3%) with device-measured data (wrist-worn accelerometers) and 375,730 participants (mean age 56.2 years, women: 52.2%) with self-reported PA data (IPAQ) from the UK Biobank. Main outcomes included incidence of eight chronic diseases: major adverse cardiovascular events (MACE), atrial fibrillation (AFib), type 2 diabetes (T2D), immune-mediated inflammatory diseases, metabolic dysfunction-associated steatotic liver disease (MASLD), chronic respiratory diseases (CRD), chronic kidney disease (CKD), and dementia, as well as all-cause mortality. Cox proportional hazards models were used to estimate adjusted hazard ratios and 95% confidence interval. RESULTS: In the device-measured data, non-linear inverse dose-response relationships were observed between %VPA and all outcomes (all P < .001), and these patterns remained consistent across strata of total PA volume. In multivariable models adjusted for total PA volume, participants with >4% VPA had 29%-61% lower risks of these outcomes compared with those with 0% VPA. Joint analyses and population attributable fraction revealed distinct disease-specific patterns: immune-mediated inflammatory diseases showed very strong intensity-dependence with minimal contribution from PA volume (20.3% for intensity vs 1.0% for volume), while MACE (17.8% vs 6.0%), AFib (16.2% vs 5.0%), CRD (21.4% vs 5.6%), and dementia (32.3% vs 8.1%) demonstrated intensity predominance with modest contribution from PA volume, and T2D (26.6% vs 17.7%), MASLD (22.1% vs 16.6%), CKD (23.0% vs 15.3%), and all-cause mortality (31.4% vs 14.2%) showed more balanced contributions from both intensity and volume. CONCLUSIONS: A higher %VPA, independent of total activity volume, is inversely associated with eight major chronic diseases and all-cause mortality. Intensity consistently demonstrated a higher preventive potential than total PA volume. These findings support, whenever possible, prioritizing higher-intensity activities in clinical and public health interventions aimed at preventing non-communicable diseases.",
+        "authors": [
+          "Wei Jiehua",
+          "Shen Minxue",
+          "Li Shenxin",
+          "Xiao Yi",
+          "Luo Dan",
+          "Ferrari Gerson",
+          "Lee Dong Hoon",
+          "Rezende Leandro F M",
+          "Gill Jason M R",
+          "Ahmadi Matthew N",
+          "Stamatakis Emmanuel",
+          "Chen Xiang"
+        ],
+        "journal": "European heart journal",
+        "pub_date": "2026 Oct 23",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Chronic disease",
+          "Intensity",
+          "Physical activity",
+          "Prospective cohort study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Middle Aged",
+          "Cardiovascular Diseases",
+          "Chronic Disease",
+          "Exercise",
+          "Prospective Studies",
+          "Male",
+          "United Kingdom",
+          "Aged",
+          "Incidence",
+          "Respiratory Tract Diseases",
+          "Diabetes Mellitus, Type 2",
+          "Atrial Fibrillation",
+          "Risk Factors"
+        ],
+        "doi": "10.1093/eurheartj/ehag168",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41905344/",
+        "fetched_at": "2026-10-26T14:55:03.832881"
+      },
+      {
+        "pmid": "42610367",
+        "title": "Prevalence of Fabry disease GLA variants among patients with parapelvic cysts: a Multicenter Italian Cohort Study.",
+        "abstract": "BACKGROUND: Fabry disease is a rare X-linked disorder characterized by the accumulation of sphingolipids in various vital systems, leading to multiple organ damage. As previous data showed the association between Fabry disease and parapelvic cysts, the aim of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts. METHODS: From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients. RESULTS: Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.32%, respectively), two patients with variants of uncertain significance (VUS) (2 males) (0.65%) and three with benign variants (3 females) (0.98%). The overall prevalence of GLA variants in our population was 2.6%, which is 11-fold higher than in CKD patients not on dialysis (ND) (0.24%), and this difference resulted statistically significant (P <.0001; 11.07, 95%CI: 4.89; 25.06). Our results showed a prevalence of GLA variants 200 times higher compared to Italian newborn screening programs. CONCLUSION: Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population. Parapelvic cyst identification, even before clinical manifestations, is crucial for early Fabry disease diagnosis and treatment.",
+        "authors": [
+          "Capuano Ivana",
+          "Riccio Eleonora",
+          "Di Risi Teodolinda",
+          "Buonanno Pasquale",
+          "Gallieni Maurizio",
+          "Cianci Rosario",
+          "Grandaliano Giuseppe",
+          "Cirami Calogero Lino",
+          "Carraro Gianni",
+          "Econimo Laura",
+          "Esposito Pasquale",
+          "Parodi Angelica",
+          "La Manna Gaetano",
+          "Gesualdo Loreto",
+          "Pieruzzi Federico",
+          "Castellano Giuseppe",
+          "Roccatello Dario",
+          "Santoro Domenico",
+          "Battaglia Yuri",
+          "Gangemi Concetta",
+          "Marino Francesco",
+          "Gigliotti Giuseppe",
+          "Pisani Antonio"
+        ],
+        "journal": "Journal of nephrology",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "GLA variants",
+          "Fabry disease",
+          "early diagnosis",
+          "parapelvic cysts"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fabry Disease",
+          "Female",
+          "Male",
+          "Italy",
+          "Prevalence",
+          "alpha-Galactosidase",
+          "Adult",
+          "Middle Aged",
+          "Infant, Newborn",
+          "Young Adult",
+          "Adolescent",
+          "Aged",
+          "Cohort Studies",
+          "Kidney Diseases, Cystic",
+          "Child"
+        ],
+        "doi": "10.1093/joneph/aajag122",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42610367/",
+        "fetched_at": "2026-10-26T14:55:03.832997"
+      },
+      {
+        "pmid": "42584019",
+        "title": "Early exercise therapy for acute nephrotic syndrome: a randomised clinical trial.",
+        "abstract": "BACKGROUND: In adults with acute nephrotic syndrome (NS), physical function often declines; however, limited evidence on the efficacy and safety of exercise therapy leads to its avoidance due to fears of exacerbated proteinuria and renal deterioration. This study aimed to assess whether early exercise therapy enhances physical function without elevating risks of non-remission or worsening kidney function. METHODS: This single-centre randomised controlled trial enrolled hospitalised adults receiving glucocorticoid therapy for NS. Participants were randomised (1:1) to exercise therapy or standard care. The primary outcome was peak oxygen uptake (peak VO2) at baseline and 6 weeks. The secondary outcome was non-remission at 6 weeks (proteinuria ≥0.3 g/day). Analyses used multiple imputation for missing data, analysis of covariance adjusted for baseline, and modified Poisson regression. RESULTS: Twenty-seven participants were recruited (early intervention, n = 13; standard care, n = 14). Peak VO2 increased significantly in the early exercise group (Δ = 3.45 mL/kg/min; 95% confidence interval [CI], 1.22-5.67) but not in the standard care group (Δ = 1.00 mL/kg/min; 95% CI, -1.14 to 3.14). Adjusted between-group difference at 6 weeks was 2.46 mL/kg/min (95% CI, -0.12 to 5.03). Risk ratio for non-remission was 0.673 (95% CI, 0.266-1.703), with no significant intergroup difference. CONCLUSION: Early exercise therapy in acute NS improved exercise tolerance clinically, although the primary outcome between-group difference was not statistically significant. No evidence indicated increased non-remission risk. CLINICAL TRIAL REGISTRATION: This trial was registered with the University Hospital Medical Information Network Clinical Trials Registry (UMIN-CTR) (registration number: UMIN000038250; registration date: October 9, 2019).",
+        "authors": [
+          "Hirano Yuma",
+          "Fujikura Tomoyuki",
+          "Yamaguchi Tomoya",
+          "Nagashima Masaaki",
+          "Hasui Makoto",
+          "Takashima Shunji",
+          "Deng Yi",
+          "Yamauchi Katsuya"
+        ],
+        "journal": "Journal of nephrology",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "keywords": [
+          "early exercise therapy",
+          "nephrotic syndrome",
+          "non-remission risk",
+          "physical function"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Nephrotic Syndrome",
+          "Female",
+          "Male",
+          "Exercise Therapy",
+          "Middle Aged",
+          "Adult",
+          "Treatment Outcome",
+          "Acute Disease",
+          "Time Factors",
+          "Oxygen Consumption",
+          "Glucocorticoids",
+          "Aged"
+        ],
+        "doi": "10.1093/joneph/aajag129",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584019/",
+        "fetched_at": "2026-10-26T14:55:03.833076"
+      },
+      {
+        "pmid": "42928114",
+        "title": "Clinical characteristics and prognosis of IgA nephropathy with predominant light chain deposition.",
+        "abstract": "To compare the clinicopathological features, treatment response, and renal outcomes of patients with IgA nephropathy (IgAN) with κ-dominant, κ-λ co-deposition, or λ-dominant light-chain deposition. This retrospective, single-centre cohort study included 105 patients with primary IgAN who underwent their first native-kidney biopsy. Twenty-one patients with κ-dominant deposition were matched to 42 patients with κ-λ co-deposition and 42 patients with λ-dominant deposition based on age, sex, 24-hour urinary protein excretion, and baseline serum creatinine. The final matching ratio was 1:2:2. The primary renal endpoint was a sustained ≥30% increase in serum creatinine from baseline. During a median follow-up of 25 months (IQR, 18-36), 21 patients reached the renal endpoint. Time to treatment response did not differ significantly among the three groups (log-rank p = 0.0707). However, renal progression-free survival differed significantly among the light-chain deposition groups (log-rank p = 0.0046). After adjustment for sex, age, 24-hour urinary protein excretion, and baseline eGFR, a higher κ deposition ratio remained associated with a lower hazard of renal progression (HR [per 1-percentage-point increase] 0.96; 95% CI: 0.94-0.99; p = 0.011). A higher κ light-chain deposition ratio was associated with a lower risk of renal progression in IgAN. κ predominance may be a pathological marker of a distinct and possibly less aggressive immune-complex deposition pattern.",
+        "authors": [
+          "Liu Xiang",
+          "He Wenhui",
+          "Chen Xinyu",
+          "Liu Hong",
+          "Wang Anni",
+          "Tang Xuanli",
+          "Jiang Xue",
+          "Yu Jin"
         ],
         "journal": "Renal failure",
         "pub_date": "2026 Dec",
@@ -360,251 +508,429 @@
           "Journal Article"
         ],
         "keywords": [
-          "Acute kidney injury",
-          "acute kidney disease",
-          "chronic kidney disease",
-          "incidence",
-          "risk factors"
+          "IgA nephropathy",
+          "complement activation",
+          "light chain deposition",
+          "prognostic analysis"
         ],
         "mesh_terms": [
           "Humans",
-          "Acute Kidney Injury",
-          "Risk Factors",
-          "Incidence",
+          "Glomerulonephritis, IGA",
+          "Female",
+          "Male",
           "Retrospective Studies",
-          "Female",
-          "Renal Insufficiency, Chronic",
-          "China",
-          "Male",
-          "Middle Aged",
-          "Glomerular Filtration Rate",
-          "Aged",
-          "Disease Progression",
-          "Proportional Hazards Models"
-        ],
-        "doi": "10.1080/0886022X.2026.2745291",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42876246/",
-        "fetched_at": "2026-10-19T15:20:10.620706"
-      },
-      {
-        "pmid": "42880916",
-        "title": "[Correlation between acute kidney injury diagnosed by serum creatinine and urine output criteria and short-term prognosis in critically ill patients following non-cardiac surgery].",
-        "abstract": "OBJECTIVE: To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between even mild elevations in Scr and clinical outcomes furthermore. METHODS: This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included. According to Kidney Disease: Improving Global Outcomes (KDIGO) guideline, AKI patients were classified into two groups: the AKI-Scr group (those meeting the Scr elevation criteria) and the AKI-UO group (those fulfilling only the UO reduction criteria). The primary outcome was in-hospital mortality in patients with AKI, and the secondary outcomes were major renal adverse events, post-operative renal replacement therapy (RRT), postoperative complications, postoperative mechanical ventilation time, ICU stay, postoperative hospital stay, total hospital stay, and total medical costs. Multivariate Logistic regression analysis was used to identify risk factors of hospitalized death in critically ill patients with AKI following non-cardiac surgery. RESULTS: A total of 1020 non-cardiac surgical patients admitted to the ICU were enrolled, among whom 429 were diagnosed with AKI. There were 91 cases in the AKI-Scr group and 338 cases in the AKI-UO group. The primary study endpoint: no statistically significant difference in in-hospital mortality was observed between the AKI-Scr and AKI-UO groups (5.5% vs. 2.1%, P>0.05). The secondary study endpoints: compared with the AKI-UO group, the patients in the AKI-Scr group had a higher incidence of major renal adverse events (9.8% vs. 4.4%), postoperative RRT (4.4% vs. 0.3%) and postoperative complications (50.5% vs. 24.0%, all P < 0.05), a significantly longer duration of postoperative mechanical ventilation (12.0 d vs. 7.5 d), ICU stay (2 d vs. 1 d), postoperative hospital stay (14 d vs. 9 d) and total hospital stay (21 d vs.17 d, all P < 0.05), and a significantly higher total medical expenditure (112000 yuan vs. 89000 yuan, P<0.001). Multivariate Logistic regression analysis showed that postoperative RRT (OR=33.164, 95%CI: 1.305-842.794, P=0.034) and sepsis during hospitalization (OR=23.096, 95%CI: 4.242-125.175, P < 0.001) were independent risk factors for hospitalized death in the critically ill patients with postoperative AKI. Compared with the ΔScr≤24% patients (Scr increased by less than 24% from baseline within 7 d), even in the patients with only a minor elevation in Scr (ΔScr increase of 25%-49% from baseline but < 26.5μmol/L), the incidence of postoperative complications was significantly higher (48.6% vs. 19.2%, P < 0.001), along with prolonged ICU stay [1(1, 3) d vs. 1(1, 2) d], postoperative hospital stay (13 d vs. 9 d), and total hospital stay (23 d vs. 16 d, all P < 0.05). Compared with the non-AKI group, the incidence of in-hospital mortality (2.1% vs. 0.3%, P < 0.05) and postoperative complications (24.0% vs. 18.3%, P < 0.05) was higher in the AKI-UO group, and the ICU stay [1(1, 3) d vs. 1(1, 2) d, P < 0.001] was longer. CONCLUSION: In critically ill patients with AKI following non-cardiac surgery, the short-term prognosis of patients with AKI whose diagnosis was mainly based on increased Scr was worse than patients who only met the diagnostic criteria of oliguria. Even a mild elevation in serum creatinine was associated with adverse patient outcomes.",
-        "authors": [
-          "Xie Fangfei",
-          "Xie Min",
-          "Zhou Weijie",
-          "Li Nan",
-          "Li Shuangling"
-        ],
-        "journal": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
-        "pub_date": "2026 Oct 18",
-        "pub_types": [
-          "English Abstract",
-          "Journal Article"
-        ],
-        "keywords": [
-          "Acute kidney injury",
-          "Critical illness",
-          "Intensive care units",
-          "Postoperative care",
-          "Prognosis"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Acute Kidney Injury",
-          "Critical Illness",
-          "Postoperative Complications",
-          "Male",
           "Prognosis",
-          "Female",
-          "Prospective Studies",
+          "Immunoglobulin kappa-Chains",
+          "Adult",
+          "Immunoglobulin lambda-Chains",
+          "Kidney",
           "Creatinine",
-          "Hospital Mortality",
-          "Intensive Care Units",
-          "Aged",
-          "Middle Aged",
-          "Length of Stay"
+          "Glomerular Filtration Rate",
+          "Biopsy",
+          "Disease Progression",
+          "Progression-Free Survival",
+          "Middle Aged"
         ],
-        "doi": "",
+        "doi": "10.1080/0886022X.2026.2745216",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880916/",
-        "fetched_at": "2026-10-19T15:20:10.620753"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928114/",
+        "fetched_at": "2026-10-26T14:55:03.833153"
       },
       {
-        "pmid": "42888582",
-        "title": "Association of baseline non-severe anemia with clinical outcomes following the first recorded diagnosis of systemic sclerosis: A matched cohort study.",
-        "abstract": "Systemic sclerosis (SSc) carries the highest mortality among systemic autoimmune diseases, yet the prognostic significance of anemia around the time of the first recorded SSc diagnosis is unclear. We examined whether baseline anemia is associated with early mortality and complications. This retrospective matched cohort study identified female adults with a first recorded SSc diagnosis between January 2010 and December 2024 from the TriNetX Research Network. Patients were required to have at least 5 years of pre-index observation without a documented SSc diagnosis. The network comprised 140 healthcare organizations, with approximately 70% of patients in the United States across all 9 census regions and 30% at international sites. Anemia was defined as hemoglobin (Hb) ≥8.0 and <12.0 g/dL and non-anemia as ≥12.0 g/dL, measured within ±30 days of diagnosis. For the Hb-stratified analysis, the anemia cohort was categorized as Hb ≥10.0 to <12.0 g/dL or ≥8.0 to <10.0 g/dL. One-to-one propensity score matching balanced baseline characteristics, and Cox proportional hazards models estimated hazard ratios (HRs) with 95% confidence intervals (CIs). The primary outcome was all-cause mortality during days 31 to 365 among patients surviving the 30-day landmark period; secondary outcomes were sepsis, acute kidney injury, intensive care unit admission, pulmonary fibrosis, and elevated C-reactive protein (≥10 mg/L). After matching, 5410 patients remained in each cohort. Baseline anemia was significantly associated with higher 1-year mortality (HR, 2.54; 95% CI, 1.99-3.22; P < .001) and with increased risks of sepsis (HR, 3.20; 95% CI, 2.38-4.30), acute kidney injury (HR, 2.24; 95% CI, 1.80-2.78), intensive care unit admission (HR, 1.92; 95% CI, 1.47-2.51), and elevated C-reactive protein (HR, 1.55; 95% CI, 1.37-1.74; all P < .001); no significant association was observed for pulmonary fibrosis (HR, 1.06; 95% CI, 0.96-1.17; P = .229). Associations persisted in sensitivity analyses and over 3-year follow-up. Mortality risk showed a graded pattern across Hb strata (Hb ≥10.0-<12.0 g/dL: HR, 1.66; Hb ≥8.0-<10.0 g/dL: HR, 3.33). Baseline anemia was associated with increased mortality and acute systemic complications following the first recorded SSc diagnosis; these observational findings warrant prospective validation.",
+        "pmid": "42696417",
+        "title": "Crescents in native kidney biopsies from patients with IgA nephropathy and the risk of recurrence after kidney transplantation: a retrospective cohort study, systematic literature review and meta-analysis of observational studies.",
+        "abstract": "BACKGROUND: IgA nephropathy (IgAN) is associated with a high risk of kidney failure. Whenever this occurs, the best treatment option is kidney transplantation. IgAN recurrence in the kidney allograft may increase the risk of allograft loss. The association of glomerular crescents in native IgAN is a negative prognostic factor for the progression to kidney failure. The aim of our study was to clarify whether the presence of crescents in native kidney biopsies represents a risk factor for IgAN recurrence in renal allografts. METHODS: The association between glomerular crescents in native kidney biopsies and IgAN recurrence was investigated in IgAN patients who underwent kidney transplantation at Lausanne University Hospital from 2003 to 2019. A systematic literature review was performed in MEDLINE, Embase, Cochrane CENTRAL, Web of Science and PMC from inception to November 2025, excluding reviews. Aggregate data were analyzed in a meta-analysis. The overall Risk Ratio (RR) with their corresponding 95% confidence interval (95% CI) was obtained via the Hartung-Knapp-Sidik-Jonkman adjustment method, after verifying heterogeneity (I2). Reporting bias was visualized in a funnel plot using STATA. RESULTS: The Lausanne cohort included 63 patients with IgAN who underwent kidney transplantation. We found no association between glomerular crescents in native kidney biopsies and IgA recurrence in the renal allograft. Five additional cohorts were included in our meta-analysis, ultimately merging data from 311 patients, of whom 23% with recurrent IgAN. Crescent prevalence ranged from 12 to 62%, confirming the absence of association with an increased risk of IgAN recurrence [RR 1.53 (95% CI: 0.40-5.90), P = .41]. CONCLUSIONS: Glomerular crescents, especially when present in more than 25% of viable glomeruli, remain an unfavorable prognostic factor for the progression of IgAN to kidney failure; however, they may not represent a risk factor for disease recurrence in renal allografts.",
         "authors": [
-          "Lai Yi-Chen",
-          "Weng Hsiu-Lan",
-          "Hung Kuo-Chuan",
-          "Teng I-Chia",
-          "Lan Kuo-Mao",
-          "Chen I-Wen"
+          "Guzzo Gabriella",
+          "Al-Gobari Muaamar",
+          "Jaques Cécile",
+          "Teta Daniel",
+          "Pascual Manuel",
+          "Herrera-Gomez Francisco"
         ],
-        "journal": "Medicine",
-        "pub_date": "2026 Oct 16",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "acute kidney injury",
-          "anemia",
-          "mortality",
-          "sepsis",
-          "systemic sclerosis"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Female",
-          "Scleroderma, Systemic",
-          "Anemia",
-          "Retrospective Studies",
-          "Middle Aged",
-          "Aged",
-          "Prognosis",
-          "Hemoglobins",
-          "Cohort Studies",
-          "Proportional Hazards Models",
-          "C-Reactive Protein",
-          "Adult"
-        ],
-        "doi": "10.1097/MD.0000000000051159",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888582/",
-        "fetched_at": "2026-10-19T15:20:10.620791"
-      },
-      {
-        "pmid": "42875751",
-        "title": "Sustained potassium control and recurrent hyperkalemia during individualized potassium-guided sodium zirconium cyclosilicate titration in maintenance hemodialysis: a post hoc analysis of a randomized trial.",
-        "abstract": "BACKGROUND: A mean predialysis potassium value at a single visit does not show whether the same patient remains controlled across consecutive months or repeatedly crosses hyperkalemic thresholds. We evaluated sustained patient-level potassium control and recurrent hyperkalemia during individualized potassium-guided sodium zirconium cyclosilicate (SZC) therapy on non-dialysis days. METHODS: This exploratory post hoc analysis used data from a previously reported single-center, open-label randomized trial of 116 patients with chronic hyperkalemia (58 per group). The primary outcome was sustained response during months 3-6, which required all four scheduled predialysis potassium measurements after the long interdialytic interval to be available, at least three of the four values to be within 4.0-5.0 mmol/L, and no unplanned hemodialysis triggered by potassium ≥ 6.5 mmol/L during the evaluation period. Missing measurements were classified as nonresponse. Adjusted risk ratios (aRRs) were estimated using modified Poisson regression with robust standard errors. RESULTS: The primary outcome occurred in 25/58 (43.1%) SZC-treated participants and 8/58 (13.8%) controls (aRR 3.02, 95% confidence interval [CI] 1.49-6.14). Sustained response within 4.0-5.5 mmol/L occurred in 38/58 (65.5%) and 22/58 (37.9%), respectively (aRR 1.74, 95% CI 1.19-2.54). At least two scheduled potassium values ≥ 5.5 mmol/L occurred in 11/58 (19.0%) and 36/58 (62.1%) (aRR 0.31, 95% CI 0.18-0.55). The adjusted incidence rate ratio for visits with potassium ≥ 5.5 mmol/L was 0.36 (95% CI 0.24-0.54). Complete-case and conservative extreme-case missing-data analyses were directionally consistent with the main analysis. CONCLUSIONS: Individualized potassium-guided SZC therapy was associated with a higher probability of meeting the sustained biochemical potassium-control criterion at scheduled monthly measurements and with fewer recurrent biochemical hyperkalemic excursions. Clinical outcomes were not evaluated in the present analysis; therefore, the observed biochemical improvements should not be interpreted as evidence of clinical benefit. TRIAL REGISTRATION: Chinese Clinical Trial Registry, ChiCTR2600119050. Registered on 14 February 2026; retrospectively registered.",
-        "authors": [
-          "Wang Haiming",
-          "Zhou Wei",
-          "Jiang Yan"
-        ],
-        "journal": "BMC nephrology",
-        "pub_date": "2026 Oct 12",
+        "journal": "Journal of nephrology",
+        "pub_date": "2026 Oct 22",
         "pub_types": [
           "Journal Article",
-          "Randomized Controlled Trial"
+          "Systematic Review",
+          "Meta-Analysis"
         ],
         "keywords": [
-          "Hyperkalemia",
-          "Long interdialytic interval",
-          "Post hoc analysis",
-          "Renal dialysis",
-          "Sodium zirconium cyclosilicate",
-          "Treatment outcome"
+          "IgAN recurrence",
+          "crescentic glomerulonephritis",
+          "kidney transplantation",
+          "meta-analysis"
         ],
         "mesh_terms": [
-          "Hyperkalemia",
           "Humans",
-          "Potassium",
-          "Silicates",
+          "Glomerulonephritis, IGA",
+          "Kidney Transplantation",
+          "Recurrence",
+          "Biopsy",
+          "Risk Factors",
+          "Retrospective Studies",
+          "Female",
+          "Adult",
+          "Observational Studies as Topic",
+          "Middle Aged",
+          "Male",
+          "Kidney Glomerulus",
+          "Kidney",
+          "Risk Assessment",
+          "Allografts"
+        ],
+        "doi": "10.1093/joneph/aajag169",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696417/",
+        "fetched_at": "2026-10-26T14:55:03.833226"
+      },
+      {
+        "pmid": "42897130",
+        "title": "Real-world renoprotective effects of polyethylene glycol-loxenatide in type 2 diabetes: a multicenter, ambispective cohort study.",
+        "abstract": "Patients with type 2 diabetes mellitus and chronic kidney disease face persistent risks despite standard care. Polyethylene glycol-loxenatide lacks real-world renoprotective evidence in high-risk Chinese populations relative to non-incretin-based standard care. This multicenter, ambispective cohort study enrolled 3305 patients with type 2 diabetes mellitus, renal impairment, and elevated cardiovascular risk at six Chinese tertiary institutions (median follow-up 36.4 months; trial registration: ChiCTR2300073001). Data were extracted via an artificial intelligence-enhanced pipeline. Co-primary analyzes comprised multivariable-adjusted Cox regression and 1:1 propensity score matching (332 per group); pre-specified landmark analyzes at 6 and 12 months addressed immortal time bias. Polyethylene glycol-loxenatide was associated with a reduced risk of the primary kidney composite outcome in the original cohort (hazard ratio [HR], 0.49; 95% CI, 0.25-0.95; P = 0.035), which was corroborated in the propensity score matched cohort (HR, 0.44; 95% CI, 0.20-0.97; P = 0.043) and progressive across 6-month (HR, 0.40; 95% CI, 0.19-0.84) and 12-month (HR, 0.33; 95% CI, 0.14-0.75) landmarks. While a reduction in 3-point major adverse cardiovascular events was observed in the unmatched cohort (HR, 0.60; 95% CI, 0.43-0.85; P = 0.004), this association was not sustained in the matched analysis (HR, 0.92; 95% CI, 0.57-1.48; P = 0.735). In conclusion, long-term therapy was associated with an attenuated risk of major renal events. Given the null findings in the matched cohort, the cardiovascular observations are exploratory and require randomized confirmation.",
+        "authors": [
+          "Ye Junjun",
+          "Li Jilin",
+          "Chen Yongsong",
+          "Chen Fengwu",
+          "Zhu Dan",
+          "Zhang Chuangyan",
+          "Chen Qianyi",
+          "Tian Yu",
+          "Yang Shuhui",
+          "Xu Wencan",
+          "Xie Bin",
+          "Chen Zhe-Sheng",
+          "Hou Kaijian"
+        ],
+        "journal": "Signal transduction and targeted therapy",
+        "pub_date": "2026 Oct 20",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Polyethylene Glycols",
+          "Male",
+          "Middle Aged",
+          "Aged",
+          "Renal Insufficiency, Chronic",
+          "Cardiovascular Diseases"
+        ],
+        "doi": "10.1038/s41392-026-02945-5",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42897130/",
+        "fetched_at": "2026-10-26T14:55:03.833289"
+      },
+      {
+        "pmid": "42766312",
+        "title": "Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act.",
+        "abstract": "IMPORTANCE: Among patients with kidney failure, kidney transplant is associated with better survival and quality of life compared with maintenance dialysis. The 21st Century Cures Act expanded Medicare Advantage eligibility to individuals with end-stage kidney disease (ESKD), with limited evidence about access to transplant in Medicare Advantage plans. OBJECTIVE: To compare kidney transplant and wait-listing rates between Medicare Advantage and traditional Medicare beneficiaries with ESKD in the first 3 years after the 21st Century Cures Act. DESIGN, SETTING, AND PARTICIPANTS: Retrospective cohort study of Medicare beneficiaries aged 18 to 74 years with ESKD who had not received kidney transplant in the prior 3 years from January 1, 2021, through December 31, 2023. EXPOSURE: Enrollment in Medicare Advantage vs traditional Medicare. MAIN OUTCOMES AND MEASURES: The primary outcome was kidney transplant. The secondary outcome was incident (new) wait-listing. Models adjusted for demographic characteristics, dual Medicare-Medicaid eligibility, duration of ESKD, socioeconomic status, and hospital referral region. RESULTS: The study population included 630 848 Medicare beneficiaries with ESKD (mean age, 57.9 [SD, 11.0] years; 40.9% female; 35.2% Black; and 19.4% Hispanic). Over 14.8 million person-months, Medicare Advantage beneficiaries had lower transplant rates than those in traditional Medicare (2.51 vs 4.60 per 1000 person-months; adjusted rate ratio [aRR], 0.71; 95% CI, 0.69-0.72). Absolute differences were widest among the youngest beneficiaries (aged 18-44 years) and were stable across calendar years (aRRs: 0.71 [95% CI, 0.68-0.73] in 2021; 0.70 [95% CI, 0.68-0.73] in 2022; and 0.70 [95% CI, 0.68-0.72] in 2023). Incident wait-listing was also lower in Medicare Advantage (3.05 vs 4.64 per 1000 person-months; aRR, 0.77; 95% CI, 0.75-0.78). Among beneficiaries wait-listed at baseline or placed on a wait list during observation, Medicare Advantage enrollees had lower transplant rates (16.59 vs 20.85 per 1000 person-months; aRR, 0.91; 95% CI, 0.90-0.92). CONCLUSIONS AND RELEVANCE: In the first 3 years following the 21st Century Cures Act, Medicare Advantage beneficiaries with ESKD had substantially lower transplant and wait-listing rates than traditional Medicare beneficiaries. Policy oversight may be needed to monitor access for this critical, high-value treatment for kidney failure among the rapidly growing Medicare Advantage population.",
+        "authors": [
+          "Shah Ankur D",
+          "Dana Beth A",
+          "Brazier Joan F",
+          "Tyler Denise A",
+          "Kim Daeho",
+          "Nguyen Kevin H",
+          "Meyers David J",
+          "Drewry Kelsey",
+          "Lee Yoojin",
+          "Wilk Adam S",
+          "Mehrotra Rajnish",
+          "Gadbois Emily A",
+          "Rivera-Hernandez Maricruz",
+          "Patzer Rachel E",
+          "Trivedi Amal N"
+        ],
+        "journal": "JAMA",
+        "pub_date": "2026 Oct 20",
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "keywords": [],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Health Services Accessibility",
+          "Kidney Failure, Chronic",
+          "Kidney Transplantation",
+          "Medicare",
+          "Medicare Part C",
+          "Retrospective Studies",
+          "United States",
+          "Waiting Lists",
+          "Dual Medicare Medicaid Eligibility",
+          "Social Class"
+        ],
+        "doi": "10.1001/jama.2026.14391",
+        "is_high_impact": true,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766312/",
+        "fetched_at": "2026-10-26T14:55:03.833367"
+      },
+      {
+        "pmid": "42928039",
+        "title": "Trends in incident hemodialysis access and mortality in China: results from China Renal Data System 2000-2024.",
+        "abstract": "BACKGROUNDS: Large‑scale multicenter data on vascular access among Chinese incident hemodialysis (HD) patients are limited. We explored temporal trends of initial vascular access and its relationship with all‑cause mortality. METHODS: This retrospective cohort study was conducted using the China Renal Data System, enrolling incident HD patients from January 2000 to April 2024. Vascular access trends and distribution at HD initiation were analyzed. RESULTS: 16,717 patients were enrolled (mean age 55.62 ± 10.93 years; 61.54% male; mean follow‑up 64.41 months). At HD initiation, 29.17% of patients used arteriovenous fistula/graft (AVF/AVG), while 70.83% used central venous catheter (CVC), comprising 60.78% with a maturing AVF/AVG and 10.06% with CVC alone. AVF/AVG use increased from 26.24% in 2015 to 35.77% in 2024, while CVC-only use decreased from 16.16% to 8.27%. Mortality rates per 100 person-years were 4.15 (95% confidence interval [CI] 3.93 - 4.38), 7.24 (95% CI 7.00 - 7.49), and 15.08 (95% CI 14.07 - 16.15) in the AVF/AVG, CVC with maturing AVF/AVG, and CVC-only groups, respectively. In the adjusted Cox model, patients using CVC with a maturing AVF/AVG or CVC alone exhibited 36% and 91% higher all-cause mortality risks, respectively, compared with those using AVF/AVG. CONCLUSIONS: Over the 25-year period, initial vascular access among Chinese incident HD patients gradually shifted from CVC to AVF/AVG, reflecting ongoing and considerable improvements in vascular access practice in China. CVC use at HD initiation was associated with higher all-cause mortality compared with AVF/AVG. These findings support early AVF/AVG creation in end-stage kidney disease patients to avoid CVC use at HD initiation.",
+        "authors": [
+          "Gan Wenyuan",
+          "Zhu Fan",
+          "Zeng Xingruo",
+          "Chen Wenli",
+          "Mao Huihui",
+          "Shao Danni",
+          "Su Licong",
+          "Zhan Peiyan"
+        ],
+        "journal": "Renal failure",
+        "pub_date": "2026 Dec",
+        "pub_types": [
+          "Journal Article"
+        ],
+        "keywords": [
+          "Incident hemodialysis patients",
+          "epidemiological survey",
+          "mortality",
+          "vascular access"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Renal Dialysis",
+          "China",
+          "Retrospective Studies",
+          "Female",
+          "Arteriovenous Shunt, Surgical",
+          "Male",
+          "Middle Aged",
+          "Kidney Failure, Chronic",
+          "Aged",
+          "Adult",
+          "Catheterization, Central Venous",
+          "Central Venous Catheters"
+        ],
+        "doi": "10.1080/0886022X.2026.2747546",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928039/",
+        "fetched_at": "2026-10-26T14:55:03.833437"
+      },
+      {
+        "pmid": "42927069",
+        "title": "HbA1c and LDL-C Time in Therapeutic Range: A Study on All-Cause Mortality in Older Adults with Type 2 Diabetes Mellitus and Chronic Kidney Disease.",
+        "abstract": "INTRODUCTION: Whether long-term attainment of glycated hemoglobin (HbA1c) and low-density lipoprotein cholesterol (LDL-C) targets improves prognosis in older adults with type 2 diabetes mellitus (T2DM) and chronic kidney disease (CKD) remains unclear. We used time in therapeutic range (TTR) to quantify sustained glycemic and lipid control and examined its association, and interaction, with all-cause mortality. RESEARCH DESIGN AND METHODS: This retrospective multicenter cohort study, based on the Tianjin Health Big Data Platform, included 2005 older (≥65 years) and 5973 younger (<65 years) adults with T2DM-CKD. HbA1c-TTR (target <7.0%) and LDL-TTR (target <1.8 mmol/L) were calculated using the Rosendaal method. After Cox-LASSO covariate selection, multivariable Cox models with and without an interaction term were built, supplemented by RCS, subgroup analyses, and landmark and time-varying covariate sensitivity analyses. RESULTS: Over a median follow-up of 4.56 years, 211 older adults (10.5%) died. Without an interaction term, LDL-TTR (per 10-percentage-point increase) was associated with lower mortality (HR 0.934, P=0.003), while HbA1c-TTR was not (HR 0.983, P=0.459); with the interaction term, the HbA1c-TTR × LDL-TTR interaction was significant (HR 1.016, P=0.006). Adjusted RCS showed a significant nonlinear association for LDL-TTR (P nonlinear=0.020) but not for HbA1c-TTR overall (P=0.231). In the younger cohort, both main effects were significant, but the interaction was not (P=0.124). The interaction remained significant in the time-varying covariate model (HR 1.013, P=0.019) but not in the landmark analysis or under the alternative 6.5-8.0% HbA1c definition, under which LDL-TTR's main effect remained significant. CONCLUSIONS: In older adults with T2DM and CKD, higher LDL-TTR was independently associated with lower mortality, and a significant HbA1c-TTR × LDL-TTR interaction suggested that the inverse association of one TTR measure with mortality was attenuated at higher levels of the other. This interaction was absent in the younger cohort and under an alternative HbA1c target (6.5-8.0%), and was inconsistent across sensitivity analyses (significant with time-varying covariates, HR 1.013, P=0.019; non-significant in a landmark analysis, P=0.968). These exploratory findings do not support changing current management targets and require prospective validation.",
+        "authors": [
+          "Wang Xiaolong",
+          "Yang Jian",
+          "Wang Qian",
+          "Ye Zhenglin",
+          "Feng Zhe",
+          "Dong Zheyi"
+        ],
+        "journal": "Clinical interventions in aging",
+        "pub_date": "2026",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "all-cause mortality",
+          "chronic kidney disease",
+          "glycemic control",
+          "lipid control",
+          "older adults",
+          "time in therapeutic range",
+          "type 2 diabetes mellitus"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Renal Insufficiency, Chronic",
+          "Retrospective Studies",
+          "Aged",
+          "Female",
+          "Male",
+          "Cholesterol, LDL",
+          "Middle Aged",
+          "Proportional Hazards Models",
+          "Time Factors",
+          "China"
+        ],
+        "doi": "10.2147/CIA.S646150",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42927069/",
+        "fetched_at": "2026-10-26T14:55:03.833507"
+      },
+      {
+        "pmid": "42919210",
+        "title": "Predictors of physical performance decline in patients receiving maintenance hemodialysis: a prospective observational study.",
+        "abstract": "OBJECTIVE: To identify predictors of physical performance decline in patients receiving maintenance hemodialysis. METHODS: This prospective observational study included patients receiving maintenance hemodialysis. Participants underwent assessment of physical performance using the Short Physical Performance Battery (SPPB), the 60-second sit-to-stand (60s-STS) test, handgrip strength, bone mineral density (BMD) by dual-energy X-ray absorptiometry (DEXA), and clinical and laboratory variables. Participants were classified according to changes in SPPB score between baseline and follow-up. The minimal detectable change (MDC) of the SPPB was used as the criterion for defining physical performance decline. Statistical analysis included Student's t-test, the Mann-Whitney test, and chi-square tests. Univariable logistic regression and multivariable penalized logistic regression with Firth correction were used to identify predictors of physical performance decline. RESULTS: Of the 103 participants, 18 (17.5%) experienced physical performance decline after a mean follow-up of 18.6 ± 10.1 months. Compared with those who maintained physical performance, participants with physical performance decline were older and had lower total and femoral bone mineral density and poorer performance on the 60s-STS test at baseline. In the multivariable penalized logistic regression analysis, lower femoral BMD (OR: 0.997; 95% CI: 0.991-0.999) and longer hemodialysis vintage (OR: 1.009; 95% CI: 1.001-1.039) were independently associated with physical performance decline. CONCLUSION: This prospective study showed that lower femoral bone mineral density and longer hemodialysis vintage were independently associated with physical performance decline in patients receiving maintenance hemodialysis. These findings underscore the potential value of longitudinal physical performance assessment and may help identify patients at greater risk of functional decline.",
+        "authors": [
+          "Madeira Elisângela Andrade Assis",
+          "Santos Joyce Noelly Vitor",
+          "Silva Vitória Emanuelli Rodrigues",
+          "Martins Inara Caroline Marcelino",
+          "Rodrigues Vanessa Gomes Brandão",
+          "Silva Lage Vanessa Kelly da",
+          "Machado Ana Heloísa Santos",
+          "de Castro Pereira Júlia Garcia",
+          "Alves Frederico Lopes",
+          "Prates Maria Cecília Sales Mendes",
+          "Maciel Emílio Henrique Barroso",
+          "Costa Henrique Silveira",
+          "de Alcantara Marcus Alessandro",
+          "Neves Camila Danielle Cunha",
+          "de Moura Regina Márcia Faria",
+          "Taiar Redha",
+          "Lacerda Ana Cristina Rodrigues",
+          "Figueiredo Pedro Henrique Scheidt",
+          "Mendonça Vanessa Amaral"
+        ],
+        "journal": "BMC nephrology",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "keywords": [
+          "Bone mineral density",
+          "Chronic kidney disease",
+          "Hemodialysis",
+          "Physical performance",
+          "SDG 3: good health and well-being"
+        ],
+        "mesh_terms": [
+          "Humans",
           "Renal Dialysis",
           "Female",
-          "Male",
-          "Aged",
-          "Recurrence"
-        ],
-        "doi": "10.1186/s12882-026-05446-3",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42875751/",
-        "fetched_at": "2026-10-19T15:20:10.620826"
-      },
-      {
-        "pmid": "42888618",
-        "title": "Effect of uric acid and estimated glomerular filtration rate on the Fibrosis-4 index: A cross-sectional and cohort analysis.",
-        "abstract": "Hepatic steatosis and fibrosis present a significant public health burden, especially in China. Emerging evidence suggests an association between liver fibrosis and kidney function, indicating a potential relationship among uric acid (UA) levels, estimated glomerular filtration rate (eGFR), and the Fibrosis-4 (FIB-4) index. This retrospective cohort study investigates the correlation between UA, estimated GFR, and FIB-4 index in Chinese adults with metabolic dysfunction-associated steatotic liver disease (MASLD) using cross-sectional and longitudinal analyses. A total of 5051 adults with MASLD were included from 8857 individuals initially screened at the International Healthcare Center, Fourth Affiliated Hospital, Zhejiang University School of Medicine. The main outcome measure was the FIB-4 index. Among the 5051 participants (75.4% male; mean age, 42.3 years), the mean baseline eGFR was 98.7 mL/min/1.73 m2. Participants with lower eGFR had significantly older age and higher body mass index, systolic blood pressure, triglycerides, UA levels, and FIB-4 index than those with higher eGFR (P < .001 for all). In multivariable Cox regression analyses, each 1-standard deviation decrease in eGFR was associated with a 21% higher risk of an increased FIB-4 index (hazard ratio [HR], 1.21; 95% confidence interval [CI], 1.14-1.29; P < .001). Hyperuricemia (UA ≥ 420 μmol/L) was independently associated with a 38% higher risk of elevated FIB-4 (HR, 1.38; 95% CI: 1.23-1.55; P < .001). In the unadjusted model, a significant nonlinear dose-response relationship was observed between eGFR and FIB-4 (P for nonlinear trend < .001). However, after progressive adjustment for demographic variables, family history, and metabolic covariates, the nonlinear signal was markedly attenuated. Mediation analysis demonstrated that UA partially mediated the association between eGFR and FIB-4, accounting for 6.88% of the total effect. Reduced eGFR and hyperuricemia were independently associated with an elevated FIB-4 index in adults with MASLD, with a nonlinear relationship indicating a greater liver fibrosis risk in individuals with moderate to severe renal impairment (eGFR < 60 mL/min/1.73 m2). Partial mediation by UA suggests that metabolic dysregulation contributes to the kidney-liver interaction. Routine assessment of eGFR and UA may improve liver fibrosis risk stratification in patients with MASLD.",
-        "authors": [
-          "Xu Weina",
-          "Chen Danxiang",
-          "Lou Saiyun",
-          "Wu Jiannan",
-          "Liu Yinshan",
-          "Liu Ruiqi",
-          "Chen Hanjie"
-        ],
-        "journal": "Medicine",
-        "pub_date": "2026 Oct 16",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "Fibrosis-4 index",
-          "chronic kidney disease",
-          "estimated glomerular filtration rate",
-          "liver fibrosis",
-          "uric acid"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Glomerular Filtration Rate",
-          "Uric Acid",
-          "Male",
-          "Female",
-          "Cross-Sectional Studies",
-          "Adult",
-          "Retrospective Studies",
-          "Liver Cirrhosis",
-          "Middle Aged",
-          "China",
-          "Longitudinal Studies",
-          "Fatty Liver",
-          "Cohort Studies"
-        ],
-        "doi": "10.1097/MD.0000000000051217",
-        "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888618/",
-        "fetched_at": "2026-10-19T15:20:10.620864"
-      },
-      {
-        "pmid": "42888627",
-        "title": "Persistent hyperparathyroidism and its predictive factors in end-stage renal disease patients after kidney transplantation: A prospective study.",
-        "abstract": "Hyperparathyroidism (HPT) may persist in patients after kidney transplantation (KT). A better understanding of which patients are likely to have persistent HPT after KT would help in the development of optimal management strategies. Our aim was to examine the prevalence of persistent HPT after KT in a contemporary cohort and to identify risk factors associated with persistent HPT at 6 months. We followed 104 KT subjects in a longitudinal prospective cohort at Cho Ray Hospital, Vietnam, from October 2023 to May 2025. Persistent HPT was defined as a parathyroid hormone (PTH) level of 150 pg/mL at 6 months after KT. Among the 104 patients, the prevalence of persistent HPT at 6 months was 58.65%. The average PTH levels pretransplant and at 6 months posttransplant were 375.70 (IQR = 259.00-603.25) pg/mL and 167.95 (IQR = 112.53-227.30) pg/mL, respectively. Patients with persistent HPT had significantly higher baseline PTH (median 489 vs 273, P < .001) and alkaline phosphatase levels (median 102.0 vs 89.5, P = .025), and also experienced longer durations of chronic kidney disease (median 5.0 vs 2.0, P = .007) and dialysis therapy (2.0 vs 1.0, P < .001). Higher pretransplant intact PTH was independently associated with persistent HPT across both multivariable models, whereas the association with dialysis duration was significant only when categorized as ≥1 year. Our findings suggest that high pretransplant intact PTH independently predicts persistent HPT at 6 months, whereas dialysis duration is only significant when it reaches 1 year or longer.",
-        "authors": [
-          "Lam Kim-Ngan Huynh",
-          "Phan Hen Huu",
-          "Thai Sam Minh",
-          "Do Minh Duc"
-        ],
-        "journal": "Medicine",
-        "pub_date": "2026 Oct 16",
-        "pub_types": [
-          "Journal Article"
-        ],
-        "keywords": [
-          "kidney transplant",
-          "persistent parathyroidism"
-        ],
-        "mesh_terms": [
-          "Humans",
-          "Kidney Transplantation",
-          "Female",
           "Prospective Studies",
-          "Parathyroid Hormone",
           "Male",
-          "Kidney Failure, Chronic",
-          "Risk Factors",
+          "Physical Functional Performance",
+          "Bone Density",
           "Middle Aged",
-          "Adult",
-          "Hyperparathyroidism",
-          "Alkaline Phosphatase",
-          "Vietnam",
-          "Prevalence",
-          "Longitudinal Studies"
+          "Absorptiometry, Photon",
+          "Hand Strength",
+          "Aged",
+          "Kidney Failure, Chronic"
         ],
-        "doi": "10.1097/MD.0000000000051216",
+        "doi": "10.1186/s12882-026-05361-7",
         "is_high_impact": false,
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888627/",
-        "fetched_at": "2026-10-19T15:20:10.620900"
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919210/",
+        "fetched_at": "2026-10-26T14:55:03.833620"
+      },
+      {
+        "pmid": "42598914",
+        "title": "Anti-PLA2R antibody levels are associated with thromboembolism risk in individuals with membranous nephropathy and hypoalbuminemia.",
+        "abstract": "BACKGROUND: Studies to evaluate markers of thrombotic risk in individuals with high-risk membranous nephropathy (MN) are needed. We hypothesized that high anti-phospholipase A2 receptor (PLA2R) titers at the time of severe hypoalbuminemia, reflecting ongoing immunologic disease activity, may be associated with a higher risk of thrombotic complications. METHODS: We conducted a multicenter retrospective cohort study of individuals with membranous nephropathy and serum albumin <2.5 g/dL and evaluated risk factors for first thrombotic events. RESULTS: Sixty-seven individuals met the inclusion criteria. Median serum creatinine was 1.2 mg/dL (Interquartile range [IQR] 0.9-1.6), median urine protein-to-creatinine ratio (UPCR) was 11.9 g/g (IQR 8.5-16.5), and median nadir serum albumin level was 1.9 g/dL (IQR 1.6-2.2). Twenty-four individuals (36%) received no thromboprophylaxis, 20 (30%) received prophylaxis with only antiplatelets, and 23 (34%) received anticoagulation prophylaxis. Thrombotic events occurred in 11 individuals (16%) with incidence rates of 0.11, 0.10, and 0.02 per person-year in the no prophylaxis, antiplatelet, and anticoagulation groups, respectively. In individuals with anti-PLA2R antibody-positive MN who did not receive anticoagulation thromboprophylaxis, higher anti-PLA2R antibody levels were associated with a higher risk of developing thrombotic complications (adjusted Hazard Ratio [HR] = 1.51 per 10 RU/mL increase in PLA2R, 95% Confidence Interval [CI]: 1.10-2.09, P = .012) after adjusting for serum albumin nadir and age. CONCLUSIONS: Higher anti-PLA2R antibody levels at the time of hypoalbuminemia are associated with a higher risk of thrombotic complications in individuals with anti-PLA2R-positive MN.",
+        "authors": [
+          "Al Jurdi Ayman",
+          "El Mouhayyar Christopher",
+          "Yatim Karim",
+          "Efe Orhan",
+          "Muhsin Saif A",
+          "Riella Leonardo V",
+          "Zonozi Reza",
+          "Laliberte Karen",
+          "Niles John L",
+          "Jeyabalan Anushya"
+        ],
+        "journal": "Journal of nephrology",
+        "pub_date": "2026 Oct 22",
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "keywords": [
+          "anticoagulation",
+          "membranous nephropathy",
+          "nephrotic syndrome",
+          "thrombosis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anticoagulants",
+          "Autoantibodies",
+          "Biomarkers",
+          "Glomerulonephritis, Membranous",
+          "Hypoalbuminemia",
+          "Incidence",
+          "Platelet Aggregation Inhibitors",
+          "Receptors, Phospholipase A2",
+          "Retrospective Studies",
+          "Risk Assessment",
+          "Risk Factors",
+          "Thromboembolism",
+          "Time Factors"
+        ],
+        "doi": "10.1093/joneph/aajag121",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42598914/",
+        "fetched_at": "2026-10-26T14:55:03.833710"
+      },
+      {
+        "pmid": "42925319",
+        "title": "Rifampicin-soaked versus bovine prostheses in the management of aortic graft infections: a retrospective single-center cohort study.",
+        "abstract": "BACKGROUND: Aortic vascular graft and endograft infections (aortic VGEI) remain a rare but life-threatening complication following aortic reconstruction. This retrospective study compares outcomes between bovine pericardial graft prostheses and rifampicin-soaked Dacron grafts. METHODS: In this retrospective single-center cohort study, we analyzed 62 patients between January 2018 and December 2025 for aortic vascular graft or endograft infection requiring graft explantation and in-situ reconstruction. Patients received either a bovine pericardial graft (n=21) or a rifampicin-soaked Dacron prosthesis (n=41). Survival, treatment failure, perioperative variables, and microbiology were analyzed. RESULTS: Patients in the bovine and rifampicin groups were comparable in terms of age (72.57 vs. 73.58 years, p = 0.685) and sex distribution (85.71% vs. 73.17% male, p = 0.346). BMI, preoperative dialysis, and aortic clamping time were higher in the bovine group. Four treatment failures, defined as persistent or recurrent infection of the reconstructed aortic segment, occurred during follow-up; all were observed after reconstruction with rifampicin-soaked Dacron (4/41, 9.8%), whereas no treatment failure occurred in the bovine pericardial group (0/21). In-hospital mortality was comparable between groups (n=3:14.3% vs. n=8: 19.5%, p = 0.735). Kaplan-Meier analysis demonstrated no significant difference in survival (p = 0.256) or treatment failure rate (p = 0.833). Candida spp. were the most frequent pathogens (27.8%) and significantly associated with secondary aorto-enteric fistula (p=0.003). CONCLUSION: Survival and treatment failure rates were comparable, with a trend toward fewer infection-related complications after bovine pericardial grafting. Despite use in more complex cases, bovine grafts may represent a promising biological alternative.",
+        "authors": [
+          "Strzoda Viktoria Weronika",
+          "Yordanov Miroslav Dimitrov",
+          "Oberhuber Alexander",
+          "Ibrahim Abdulhakim"
+        ],
+        "journal": "Langenbeck's archives of surgery",
+        "pub_date": "2026 Oct 23",
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "keywords": [
+          "Aortic graft infection",
+          "Candida",
+          "bovine graft",
+          "prosthetic graft infection",
+          "rifampicin-soaked graft"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Retrospective Studies",
+          "Rifampin",
+          "Humans",
+          "Prosthesis-Related Infections",
+          "Female",
+          "Blood Vessel Prosthesis",
+          "Cattle",
+          "Animals",
+          "Aged",
+          "Bioprosthesis",
+          "Blood Vessel Prosthesis Implantation",
+          "Anti-Bacterial Agents",
+          "Pericardium",
+          "Polyethylene Terephthalates",
+          "Treatment Outcome"
+        ],
+        "doi": "10.1007/s00423-026-04349-z",
+        "is_high_impact": false,
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925319/",
+        "fetched_at": "2026-10-26T14:55:03.833779"
       }
     ],
-    "count": 13,
-    "search_date": "2026-10-19T15:20:10.621021",
+    "count": 15,
+    "search_date": "2026-10-26T14:55:03.834001",
     "days_back": 7
   }
 }

@@ -1,57 +1,32 @@
 {
-  "總文章數": 13,
+  "總文章數": 19,
   "高影響力期刊文章數": 1,
-  "分析日期": "2026-10-19T15:20:11.153713",
+  "分析日期": "2026-10-26T14:55:04.335767",
   "趨勢關鍵詞統計": {
-    "治療方法": {
-      "SGLT2 inhibitor": 2,
-      "GLP-1": 1
+    "臨床結局": {
+      "mortality": 6,
+      "eGFR decline": 1,
+      "hospitalization": 1,
+      "proteinuria": 1,
+      "quality of life": 1,
+      "ESKD": 1
     },
     "研究主題": {
-      "fibrosis": 3,
-      "cardiovascular": 1,
-      "inflammation": 1,
-      "heart failure": 1
+      "cardiovascular": 3
     },
-    "臨床結局": {
-      "mortality": 4,
-      "quality of life": 1,
-      "eGFR decline": 1,
-      "hospitalization": 1
+    "診斷技術": {
+      "machine learning": 1,
+      "artificial intelligence": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      4
-    ],
-    [
-      "fibrosis",
-      3
-    ],
-    [
-      "SGLT2 inhibitor",
-      2
-    ],
-    [
-      "GLP-1",
-      1
+      6
     ],
     [
       "cardiovascular",
-      1
-    ],
-    [
-      "inflammation",
-      1
-    ],
-    [
-      "heart failure",
-      1
-    ],
-    [
-      "quality of life",
-      1
+      3
     ],
     [
       "eGFR decline",
@@ -60,72 +35,104 @@
     [
       "hospitalization",
       1
+    ],
+    [
+      "proteinuria",
+      1
+    ],
+    [
+      "quality of life",
+      1
+    ],
+    [
+      "ESKD",
+      1
+    ],
+    [
+      "machine learning",
+      1
+    ],
+    [
+      "artificial intelligence",
+      1
     ]
   ],
   "期刊分布": {
-    "Medicine": 4,
-    "Lancet (London, England)": 1,
-    "Blood": 1,
-    "The American journal of cardiology": 1,
-    "World journal of urology": 1,
-    "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
+    "Journal of nephrology": 5,
+    "Renal failure": 3,
+    "The journal of vascular access": 1,
+    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+    "Revista brasileira de enfermagem": 1,
     "PloS one": 1,
-    "Renal failure": 1,
-    "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
-    "BMC nephrology": 1
+    "Journal of investigative surgery : the official journal of the Academy of Surgical Research": 1,
+    "European heart journal": 1,
+    "Signal transduction and targeted therapy": 1,
+    "JAMA": 1,
+    "Clinical interventions in aging": 1,
+    "BMC nephrology": 1,
+    "Langenbeck's archives of surgery": 1
   },
   "文章類型分布": {
-    "Journal Article": 13,
-    "Randomized Controlled Trial": 3,
-    "Multicenter Study": 3,
+    "Journal Article": 19,
+    "Multicenter Study": 5,
     "Comparative Study": 2,
-    "Clinical Trial, Phase III": 1,
-    "Equivalence Trial": 1,
-    "Clinical Trial, Phase II": 1,
-    "English Abstract": 1
+    "Randomized Controlled Trial": 1,
+    "Systematic Review": 1,
+    "Meta-Analysis": 1,
+    "Observational Study": 1
   },
   "MeSH詞彙頻率": {
-    "Female": 13,
-    "Humans": 13,
-    "Male": 12,
-    "Middle Aged": 12,
-    "Aged": 10,
-    "Retrospective Studies": 7,
-    "Adult": 5,
-    "Glomerular Filtration Rate": 5,
-    "Risk Factors": 4,
-    "Cohort Studies": 4,
-    "Treatment Outcome": 3,
-    "Disease Progression": 3,
-    "Prognosis": 3,
+    "Humans": 17,
+    "Female": 17,
+    "Male": 17,
+    "Middle Aged": 15,
+    "Aged": 13,
+    "Adult": 12,
+    "Retrospective Studies": 10,
+    "Risk Factors": 5,
+    "Renal Insufficiency, Chronic": 3,
+    "Kidney": 3,
+    "Prevalence": 3,
+    "Young Adult": 3,
+    "Adolescent": 3,
+    "Cohort Studies": 3,
     "Prospective Studies": 3,
-    "China": 3,
-    "Diabetes Mellitus, Type 2": 2,
-    "Glycated Hemoglobin": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Creatinine": 2,
-    "Postoperative Complications": 2,
-    "Diabetic Nephropathies": 2,
-    "Renal Dialysis": 2,
-    "Acute Kidney Injury": 2,
-    "Proportional Hazards Models": 2,
-    "Longitudinal Studies": 2,
-    "Cardiovascular Diseases": 1,
-    "Heart Disease Risk Factors": 1,
-    "Hypoglycemic Agents": 1,
-    "Insulin Glargine": 1,
-    "Fluorine Compounds": 1
+    "Kidney Transplantation": 3,
+    "Diabetes Mellitus, Type 2": 3,
+    "Time Factors": 3,
+    "Kidney Failure, Chronic": 3,
+    "Glomerular Filtration Rate": 2,
+    "Fabry Disease": 2,
+    "Italy": 2,
+    "alpha-Galactosidase": 2,
+    "Infant, Newborn": 2,
+    "Kidney Diseases, Cystic": 2,
+    "Child": 2,
+    "United States": 2,
+    "Cardiovascular Diseases": 2,
+    "Incidence": 2,
+    "Treatment Outcome": 2
   },
   "按類別統計": {
+    "兒童腎臟學": {
+      "文章數": 4,
+      "高影響力期刊文章數": 0,
+      "主要期刊": {
+        "The journal of vascular access": 1,
+        "Renal failure": 1,
+        "Journal of nephrology": 1,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1
+      }
+    },
     "成人腎臟學": {
-      "文章數": 13,
+      "文章數": 15,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Medicine": 4,
-        "Lancet (London, England)": 1,
-        "Blood": 1,
-        "The American journal of cardiology": 1,
-        "World journal of urology": 1
+        "Journal of nephrology": 4,
+        "Renal failure": 2,
+        "Revista brasileira de enfermagem": 1,
+        "PloS one": 1,
+        "Journal of investigative surgery : the official journal of the Academy of Surgical Research": 1
       }
     }
   }

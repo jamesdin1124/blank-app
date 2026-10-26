@@ -1,25 +1,35 @@
 {
-  "報告日期": "2026-10-19T15:20:11.176154",
+  "報告日期": "2026-10-26T14:55:04.339642",
   "報告週期": "過去 7 天",
   "執行摘要": {
-    "總文章數": 13,
+    "總文章數": 19,
     "高影響力期刊文章數": 1,
     "主要發現": [
-      "本週熱門研究主題: mortality (4篇), fibrosis (3篇), SGLT2 inhibitor (2篇)",
-      "高影響力期刊發表 1 篇，包括: Lancet (London, England)",
-      "高品質證據: 3 篇 RCT, 0 篇統合分析"
+      "本週熱門研究主題: mortality (6篇), cardiovascular (3篇), eGFR decline (1篇)",
+      "高影響力期刊發表 1 篇，包括: JAMA",
+      "高品質證據: 1 篇 RCT, 1 篇統合分析"
     ]
   },
   "分類統計": {
+    "兒童腎臟學": {
+      "文章數": 4,
+      "高影響力期刊文章數": 0,
+      "主要期刊": {
+        "The journal of vascular access": 1,
+        "Renal failure": 1,
+        "Journal of nephrology": 1,
+        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1
+      }
+    },
     "成人腎臟學": {
-      "文章數": 13,
+      "文章數": 15,
       "高影響力期刊文章數": 1,
       "主要期刊": {
-        "Medicine": 4,
-        "Lancet (London, England)": 1,
-        "Blood": 1,
-        "The American journal of cardiology": 1,
-        "World journal of urology": 1
+        "Journal of nephrology": 4,
+        "Renal failure": 2,
+        "Revista brasileira de enfermagem": 1,
+        "PloS one": 1,
+        "Journal of investigative surgery : the official journal of the Academy of Surgical Research": 1
       }
     }
   },
@@ -27,35 +37,11 @@
     "熱門主題": [
       [
         "mortality",
-        4
-      ],
-      [
-        "fibrosis",
-        3
-      ],
-      [
-        "SGLT2 inhibitor",
-        2
-      ],
-      [
-        "GLP-1",
-        1
+        6
       ],
       [
         "cardiovascular",
-        1
-      ],
-      [
-        "inflammation",
-        1
-      ],
-      [
-        "heart failure",
-        1
-      ],
-      [
-        "quality of life",
-        1
+        3
       ],
       [
         "eGFR decline",
@@ -64,519 +50,494 @@
       [
         "hospitalization",
         1
+      ],
+      [
+        "proteinuria",
+        1
+      ],
+      [
+        "quality of life",
+        1
+      ],
+      [
+        "ESKD",
+        1
+      ],
+      [
+        "machine learning",
+        1
+      ],
+      [
+        "artificial intelligence",
+        1
       ]
     ],
     "趨勢關鍵詞": {
-      "治療方法": {
-        "SGLT2 inhibitor": 2,
-        "GLP-1": 1
+      "臨床結局": {
+        "mortality": 6,
+        "eGFR decline": 1,
+        "hospitalization": 1,
+        "proteinuria": 1,
+        "quality of life": 1,
+        "ESKD": 1
       },
       "研究主題": {
-        "fibrosis": 3,
-        "cardiovascular": 1,
-        "inflammation": 1,
-        "heart failure": 1
+        "cardiovascular": 3
       },
-      "臨床結局": {
-        "mortality": 4,
-        "quality of life": 1,
-        "eGFR decline": 1,
-        "hospitalization": 1
+      "診斷技術": {
+        "machine learning": 1,
+        "artificial intelligence": 1
       }
     },
     "期刊分布": {
-      "Medicine": 4,
-      "Lancet (London, England)": 1,
-      "Blood": 1,
-      "The American journal of cardiology": 1,
-      "World journal of urology": 1,
-      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology": 1,
+      "Journal of nephrology": 5,
+      "Renal failure": 3,
+      "The journal of vascular access": 1,
+      "American journal of kidney diseases : the official journal of the National Kidney Foundation": 1,
+      "Revista brasileira de enfermagem": 1,
       "PloS one": 1,
-      "Renal failure": 1,
-      "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences": 1,
-      "BMC nephrology": 1
+      "Journal of investigative surgery : the official journal of the Academy of Surgical Research": 1,
+      "European heart journal": 1,
+      "Signal transduction and targeted therapy": 1,
+      "JAMA": 1,
+      "Clinical interventions in aging": 1,
+      "BMC nephrology": 1,
+      "Langenbeck's archives of surgery": 1
     },
     "文章類型": {
-      "Journal Article": 13,
-      "Randomized Controlled Trial": 3,
-      "Multicenter Study": 3,
+      "Journal Article": 19,
+      "Multicenter Study": 5,
       "Comparative Study": 2,
-      "Clinical Trial, Phase III": 1,
-      "Equivalence Trial": 1,
-      "Clinical Trial, Phase II": 1,
-      "English Abstract": 1
+      "Randomized Controlled Trial": 1,
+      "Systematic Review": 1,
+      "Meta-Analysis": 1,
+      "Observational Study": 1
     }
   },
   "重點文章": [
     {
-      "pmid": "42815506",
-      "標題": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
-      "期刊": "Lancet (London, England)",
-      "發表日期": "2026 Oct 17",
-      "研究類型": "隨機對照試驗",
+      "pmid": "42766312",
+      "標題": "Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act.",
+      "期刊": "JAMA",
+      "發表日期": "2026 Oct 20",
+      "研究類型": "研究",
       "PICO": {
-        "P_族群": "type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3",
-        "I_介入": "up to three glucose-lowering medications (metformin",
-        "C_對照": "insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3",
-        "O_結果": "time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable an"
+        "P_族群": "kidney failure",
+        "I_介入": "kidney transplant in the prior 3 years from January 1",
+        "C_對照": "maintenance dialysis",
+        "O_結果": "S AND MEASURES: The primary outcome was kidney transplant"
       },
-      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events.\n\n【研究方法】This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories.\n\n【主要結果】Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male.\n\n【結論】In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4.",
+      "中文摘要": "【研究目的】本世代研究旨在探討To compare kidney transplant and wait-listing rates between Medicare Advantage and traditional Medicare beneficiaries with ESKD in the first 3 years after the 21st Century Cures Act.\n\n【主要結果】The study population included 630 848 Medicare beneficiaries with ESKD (mean age, 57.9 [SD, 11.0] years; 40.9% female; 35.2% Black; and 19.4% Hispanic). Over 14.8 million person-months, Medicare Advantage beneficiaries had lower transplant rates than those in traditional Medicare (2.51 vs 4.\n\n【結論】AND RELEVANCE: In the first 3 years following the 21st Century Cures Act, Medicare Advantage beneficiaries with ESKD had substantially lower transplant and wait-listing rates than traditional Medicare beneficiaries.",
       "結構化摘要": {
-        "背景": "Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events.",
-        "方法": "This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA1c) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m2 or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orf"
+        "目的": "To compare kidney transplant and wait-listing rates between Medicare Advantage and traditional Medicare beneficiaries with ESKD in the first 3 years after the 21st Century Cures Act. DESIGN, SETTING, AND PARTICIPANTS: Retrospective cohort study of Medicare beneficiaries aged 18 to 74 years with ESKD who had not received kidney transplant in the prior 3 years from January 1, 2021, through December 31, 2023. EXPOSURE: Enrollment in Medicare Advantage vs traditional Medicare. MAIN OUTCOMES AND MEAS",
+        "結果": "The study population included 630 848 Medicare beneficiaries with ESKD (mean age, 57.9 [SD, 11.0] years; 40.9% female; 35.2% Black; and 19.4% Hispanic). Over 14.8 million person-months, Medicare Advantage beneficiaries had lower transplant rates than those in traditional Medicare (2.51 vs 4.60 per 1000 person-months; adjusted rate ratio [aRR], 0.71; 95% CI, 0.69-0.72). Absolute differences were widest among the youngest beneficiaries (aged 18-44 years) and were stable across calendar years (aRRs",
+        "結論": "AND RELEVANCE: In the first 3 years following the 21st Century Cures Act, Medicare Advantage beneficiaries with ESKD had substantially lower transplant and wait-listing rates than traditional Medicare beneficiaries. Policy oversight may be needed to monitor access for this critical, high-value treatment for kidney failure among the rapidly growing Medicare Advantage population."
       },
       "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
-        "治療方法: GLP-1",
-        "研究主題: cardiovascular"
+        "臨床結局: quality of life",
+        "臨床結局: ESKD"
       ],
       "關鍵詞": [],
       "MeSH詞彙": [
+        "Adolescent",
+        "Adult",
         "Aged",
         "Female",
         "Humans",
         "Male",
         "Middle Aged",
-        "Cardiovascular Diseases",
-        "Diabetes Mellitus, Type 2",
-        "Glycated Hemoglobin",
-        "Heart Disease Risk Factors",
-        "Hypoglycemic Agents"
+        "Young Adult",
+        "Health Services Accessibility",
+        "Kidney Failure, Chronic"
       ],
       "是否高影響力期刊": true,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42815506/",
-      "DOI": "10.1016/S0140-6736(26)01865-9"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42766312/",
+      "DOI": "10.1001/jama.2026.14391"
     },
     {
-      "pmid": "42880916",
-      "標題": "[Correlation between acute kidney injury diagnosed by serum creatinine and urine output criteria and short-term prognosis in critically ill patients following non-cardiac surgery].",
-      "期刊": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
-      "發表日期": "2026 Oct 18",
+      "pmid": "42927447",
+      "標題": "Short- and mid-term outcomes of hemodialysis vascular access in pediatric patients.",
+      "期刊": "The journal of vascular access",
+      "發表日期": "2026 Oct 25",
       "研究類型": "研究",
       "PICO": {
-        "P_族群": "AKI",
+        "P_族群": "various types of hemodialysis access",
         "I_介入": "",
-        "C_對照": "only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery",
-        "O_結果": "in-hospital mortality in patients with AKI, and the secondary outcomes were major renal adverse events, post-operative renal replacement therapy (RRT), postoperative complications, postoperative mecha"
+        "C_對照": "",
+        "O_結果": ""
       },
-      "中文摘要": "【研究目的】本世代研究旨在探討To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between eve...\n\n【研究方法】This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included.\n\n【主要結果】A total of 1020 non-cardiac surgical patients admitted to the ICU were enrolled, among whom 429 were diagnosed with AKI. There were 91 cases in the AKI-Scr group and 338 cases in the AKI-UO group.\n\n【結論】In critically ill patients with AKI following non-cardiac surgery, the short-term prognosis of patients with AKI whose diagnosis was mainly based on increased Scr was worse than patients who only met the diagnostic criteria of oliguria.",
+      "中文摘要": "【研究目的】本世代研究旨在探討to report the short- and mid-term outcomes of hemodialysis vascular access in pediatric patients. PATIENTS AND\n\n【研究方法】A prospective cohort study was conducted to assess outcomes in pediatric patients with various types of hemodialysis access. This prospective cohort study included all consecutive pediatric patients with ESRD who presented to the Vascular and Endovascular Surgery Department at a tertiary hospital fr...\n\n【主要結果】The study included 50 pediatric patients, with a mean age of 10.5 ± 5.7 years. The cohort was predominantly female 35 (70%), while males accounted for 15 (30%) The overall technical success rate remained high at 45 (90%). The failure rate was 5 (10%).\n\n【結論】Our findings demonstrate that pediatric arteriovenous fistulas (predominantly autogenous), when carefully planned and executed, can achieve high primary success and patency rates, with manageable complications in children with end-stage renal disease.",
       "結構化摘要": {
-        "目的": "To analyze the correlation between acute kidney injury (AKI) diagnosed by elevated serum creatinine (Scr) versus only meeting the urine output (UO) reduction criteria and short-term adverse outcomes in critically ill patients following non-cardiac surgery, and to evaluate the association between even mild elevations in Scr and clinical outcomes furthermore.",
-        "方法": "This study was a secondary analysis of data from a prospective cohort study. A total of 1020 non-cardiac surgery adults admitted to the intensive care unit (ICU) of Peking University First Hospital from May 20, 2019 to March 7, 2022 were included. According to Kidney Disease: Improving Global Outcomes (KDIGO) guideline, AKI patients were classified into two groups: the AKI-Scr group (those meeting the Scr elevation criteria) and the AKI-UO group (those fulfilling only the UO reduction criteria).",
-        "結果": "A total of 1020 non-cardiac surgical patients admitted to the ICU were enrolled, among whom 429 were diagnosed with AKI. There were 91 cases in the AKI-Scr group and 338 cases in the AKI-UO group. The primary study endpoint: no statistically significant difference in in-hospital mortality was observed between the AKI-Scr and AKI-UO groups (5.5% vs. 2.1%, P>0.05). The secondary study endpoints: compared with the AKI-UO group, the patients in the AKI-Scr group had a higher incidence of major renal",
-        "結論": "In critically ill patients with AKI following non-cardiac surgery, the short-term prognosis of patients with AKI whose diagnosis was mainly based on increased Scr was worse than patients who only met the diagnostic criteria of oliguria. Even a mild elevation in serum creatinine was associated with adverse patient outcomes."
-      },
-      "相關趨勢": [
-        "臨床結局: mortality",
-        "臨床結局: hospitalization"
-      ],
-      "關鍵詞": [
-        "Acute kidney injury",
-        "Critical illness",
-        "Intensive care units",
-        "Postoperative care",
-        "Prognosis"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Acute Kidney Injury",
-        "Critical Illness",
-        "Postoperative Complications",
-        "Male",
-        "Prognosis",
-        "Female",
-        "Prospective Studies",
-        "Creatinine",
-        "Hospital Mortality"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42880916/",
-      "DOI": ""
-    },
-    {
-      "pmid": "42888632",
-      "標題": "Comparative outcomes of arteriovenous accesses with and without tunneled hemodialysis catheters: A retrospective cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Oct 16",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "患有 Renal Dialysis 的病人",
-        "I_介入": "",
-        "C_對照": "78",
-        "O_結果": "s were the 6-month primary patency rate and functional dialysis success"
-      },
-      "中文摘要": "【摘要】This study compared patency rates of arteriovenous accesses with and without concurrent tunneled hemodialysis catheter (THC) use, addressing limited research on combined outcomes.",
-      "結構化摘要": {
-        "完整摘要": "This study compared patency rates of arteriovenous accesses with and without concurrent tunneled hemodialysis catheter (THC) use, addressing limited research on combined outcomes. A retrospective cohort analysis was conducted on patients undergoing arteriovenous access creation at a single hospital between January 2021 and December 2022. Primary outcomes were the 6-month primary patency rate and functional dialysis success. Secondary outcomes were the factors associated with each of these endpoints. Statistical analyses employed t tests, chi-square tests, logistic regression, and Kaplan-Meier survival curves. A total of 319 vascular accesses were included. The 6-month patency rate was significantly higher in the access-only group than in the access + THC group (87.04% vs 78.20%, P = .04). THC usage (odds ratio [OR] = 0.49, 95% confidence interval [CI]: 0.25-0.95, P = .03), graft usage (OR = 0.38, 95% CI: 0.18-0.82, P = .01), and higher hemoglobin levels (OR = 0.80, 95% CI: 0.65-0.96, P"
+        "方法": "A prospective cohort study was conducted to assess outcomes in pediatric patients with various types of hemodialysis access. This prospective cohort study included all consecutive pediatric patients with ESRD who presented to the Vascular and Endovascular Surgery Department at a tertiary hospital from October 2022 to October 2023.",
+        "結果": "The study included 50 pediatric patients, with a mean age of 10.5 ± 5.7 years. The cohort was predominantly female 35 (70%), while males accounted for 15 (30%) The overall technical success rate remained high at 45 (90%). The failure rate was 5 (10%).",
+        "結論": "Our findings demonstrate that pediatric arteriovenous fistulas (predominantly autogenous), when carefully planned and executed, can achieve high primary success and patency rates, with manageable complications in children with end-stage renal disease."
       },
       "相關趨勢": [],
       "關鍵詞": [
-        "arteriovenous fistula",
-        "arteriovenous graft",
-        "hemodialysis",
-        "patency",
-        "tunneled hemodialysis catheter",
-        "vascular access"
+        "Dialysis access",
+        "catheters",
+        "prosthetic grafts",
+        "stenosis",
+        "techniques and procedures"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42927447/",
+      "DOI": "10.1177/11297298261493667"
+    },
+    {
+      "pmid": "41905344",
+      "標題": "Volume vs intensity of physical activity and risk of cardiovascular and non-cardiovascular chronic diseases.",
+      "期刊": "European heart journal",
+      "發表日期": "2026 Oct 23",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": ">4% VPA had 29%-61% lower risks of these outcomes compared with those with 0% VPA",
+        "I_介入": "",
+        "C_對照": "intensity of physical activity and risk of cardiovascular and non-cardiovascular chronic diseases",
+        "O_結果": "s included incidence of eight chronic diseases: major adverse cardiovascular events (MACE), atrial fibrillation (AFib), type 2 diabetes (T2D), immune-mediated inflammatory diseases, metabolic dysfunct"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討While vigorous physical activity (VPA) is known to provide greater health benefits per unit time than moderate activity, the spectrum of these benefits across different chronic diseases and the relative importance of physical activity (PA) intensity vs volume remain unclear.\n\n【研究方法】This prospective population-based cohort study included 96,408 participants (mean age 61.9 years, women: 56.3%) with device-measured data (wrist-worn accelerometers) and 375,730 participants (mean age 56.2 years, women: 52.2%) with self-reported PA data (IPAQ) from the UK Biobank.\n\n【主要結果】In the device-measured data, non-linear inverse dose-response relationships were observed between %VPA and all outcomes (all P < .001), and these patterns remained consistent across strata of total PA volume.\n\n【結論】A higher %VPA, independent of total activity volume, is inversely associated with eight major chronic diseases and all-cause mortality. Intensity consistently demonstrated a higher preventive potential than total PA volume.",
+      "結構化摘要": {
+        "背景": "AND AIMS: While vigorous physical activity (VPA) is known to provide greater health benefits per unit time than moderate activity, the spectrum of these benefits across different chronic diseases and the relative importance of physical activity (PA) intensity vs volume remain unclear. This study examined associations between the proportion of VPA (%VPA) relative to total volume of PA and the incidence of multiple chronic disease outcomes.",
+        "方法": "This prospective population-based cohort study included 96,408 participants (mean age 61.9 years, women: 56.3%) with device-measured data (wrist-worn accelerometers) and 375,730 participants (mean age 56.2 years, women: 52.2%) with self-reported PA data (IPAQ) from the UK Biobank. Main outcomes included incidence of eight chronic diseases: major adverse cardiovascular events (MACE), atrial fibrillation (AFib), type 2 diabetes (T2D), immune-mediated inflammatory diseases, metabolic dysfunction-as",
+        "結果": "In the device-measured data, non-linear inverse dose-response relationships were observed between %VPA and all outcomes (all P < .001), and these patterns remained consistent across strata of total PA volume. In multivariable models adjusted for total PA volume, participants with >4% VPA had 29%-61% lower risks of these outcomes compared with those with 0% VPA. Joint analyses and population attributable fraction revealed distinct disease-specific patterns: immune-mediated inflammatory diseases s",
+        "結論": "A higher %VPA, independent of total activity volume, is inversely associated with eight major chronic diseases and all-cause mortality. Intensity consistently demonstrated a higher preventive potential than total PA volume. These findings support, whenever possible, prioritizing higher-intensity activities in clinical and public health interventions aimed at preventing non-communicable diseases."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Chronic disease",
+        "Intensity",
+        "Physical activity",
+        "Prospective cohort study"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Cardiovascular Diseases",
+        "Chronic Disease",
+        "Exercise",
+        "Prospective Studies",
+        "Male",
+        "United Kingdom",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/41905344/",
+      "DOI": "10.1093/eurheartj/ehag168"
+    },
+    {
+      "pmid": "42925319",
+      "標題": "Rifampicin-soaked versus bovine prostheses in the management of aortic graft infections: a retrospective single-center cohort study.",
+      "期刊": "Langenbeck's archives of surgery",
+      "發表日期": "2026 Oct 23",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "",
+        "I_介入": "either a bovine pericardial graft (n=21) or a rifampicin-soaked Dacron prosthesis (n=41)",
+        "C_對照": "bovine prostheses in the management of aortic graft infections: a retrospective single-center cohort study",
+        "O_結果": "associated with secondary aorto-enteric fistula (p=0"
+      },
+      "中文摘要": "【研究背景】Aortic vascular graft and endograft infections (aortic VGEI) remain a rare but life-threatening complication following aortic reconstruction. This retrospective study compares outcomes between bovine pericardial graft prostheses and rifampicin-soaked Dacron grafts.\n\n【研究方法】In this retrospective single-center cohort study, we analyzed 62 patients between January 2018 and December 2025 for aortic vascular graft or endograft infection requiring graft explantation and in-situ reconstruction.\n\n【主要結果】Patients in the bovine and rifampicin groups were comparable in terms of age (72.57 vs. 73.58 years, p = 0.685) and sex distribution (85.71% vs. 73.17% male, p = 0.346). BMI, preoperative dialysis, and aortic clamping time were higher in the bovine group.\n\n【結論】Survival and treatment failure rates were comparable, with a trend toward fewer infection-related complications after bovine pericardial grafting. Despite use in more complex cases, bovine grafts may represent a promising biological alternative.",
+      "結構化摘要": {
+        "背景": "Aortic vascular graft and endograft infections (aortic VGEI) remain a rare but life-threatening complication following aortic reconstruction. This retrospective study compares outcomes between bovine pericardial graft prostheses and rifampicin-soaked Dacron grafts.",
+        "方法": "In this retrospective single-center cohort study, we analyzed 62 patients between January 2018 and December 2025 for aortic vascular graft or endograft infection requiring graft explantation and in-situ reconstruction. Patients received either a bovine pericardial graft (n=21) or a rifampicin-soaked Dacron prosthesis (n=41). Survival, treatment failure, perioperative variables, and microbiology were analyzed.",
+        "結果": "Patients in the bovine and rifampicin groups were comparable in terms of age (72.57 vs. 73.58 years, p = 0.685) and sex distribution (85.71% vs. 73.17% male, p = 0.346). BMI, preoperative dialysis, and aortic clamping time were higher in the bovine group. Four treatment failures, defined as persistent or recurrent infection of the reconstructed aortic segment, occurred during follow-up; all were observed after reconstruction with rifampicin-soaked Dacron (4/41, 9.8%), whereas no treatment failur",
+        "結論": "Survival and treatment failure rates were comparable, with a trend toward fewer infection-related complications after bovine pericardial grafting. Despite use in more complex cases, bovine grafts may represent a promising biological alternative."
+      },
+      "相關趨勢": [
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "Aortic graft infection",
+        "Candida",
+        "bovine graft",
+        "prosthetic graft infection",
+        "rifampicin-soaked graft"
+      ],
+      "MeSH詞彙": [
+        "Male",
+        "Retrospective Studies",
+        "Rifampin",
+        "Humans",
+        "Prosthesis-Related Infections",
+        "Female",
+        "Blood Vessel Prosthesis",
+        "Cattle",
+        "Animals",
+        "Aged"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42925319/",
+      "DOI": "10.1007/s00423-026-04349-z"
+    },
+    {
+      "pmid": "42610367",
+      "標題": "Prevalence of Fabry disease GLA variants among patients with parapelvic cysts: a Multicenter Italian Cohort Study.",
+      "期刊": "Journal of nephrology",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "parapelvic cysts: a Multicenter Italian Cohort Study",
+        "I_介入": "",
+        "C_對照": "the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients",
+        "O_結果": "the association between Fabry disease and parapelvic cysts"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts.\n\n【研究方法】From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patie...\n\n【主要結果】Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.\n\n【結論】Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population.",
+      "結構化摘要": {
+        "背景": "Fabry disease is a rare X-linked disorder characterized by the accumulation of sphingolipids in various vital systems, leading to multiple organ damage. As previous data showed the association between Fabry disease and parapelvic cysts, the aim of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts.",
+        "方法": "From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients.",
+        "結果": "Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.32%, respectively), two patients with variants of uncertain significance (VUS) (2 males) (0.65%) and three with benign variants (3 females) (0.98%). The overall prevalence of GLA variants in our population was 2.6%, which is 11-fold higher tha",
+        "結論": "Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population. Parapelvic cyst identification, even before clinical manifestations, is crucial for early Fabry disease diagnosis and treatment."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "GLA variants",
+        "Fabry disease",
+        "early diagnosis",
+        "parapelvic cysts"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Fabry Disease",
+        "Female",
+        "Male",
+        "Italy",
+        "Prevalence",
+        "alpha-Galactosidase",
+        "Adult",
+        "Middle Aged",
+        "Infant, Newborn"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42610367/",
+      "DOI": "10.1093/joneph/aajag122"
+    },
+    {
+      "pmid": "42913994",
+      "標題": "Outcomes Following Kidney Failure From IgA Nephropathy Compared to Diabetic Kidney Disease and Other Glomerular Diseases.",
+      "期刊": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "kidney failure due to IgAN",
+        "I_介入": "",
+        "C_對照": "Diabetic Kidney Disease and Other Glomerular Diseases",
+        "O_結果": "using log-linear regression-derived estimated annual percentage change (EAPC)"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討IgA nephropathy (IgAN) is a major cause of kidney disease worldwide, yet contemporary comparative outcome data following kidney failure are limited. We compared trends in access to kidney transplantation and mortality among patients with kidney failure due to IgAN, to those with diabetic kidney dise...\n\n【主要結果】44,659 patients (4,925 with IgAN; 15,079 with other GD; 24,655 with DKD) were studied with a median follow-up of 53 months (IQR 23.3-109.8). The age-standardized incidence of IgAN remained stable over the past two decades (EAPC -0.01%, 95% CI - 0.80 to 0.78).\n\n【結論】Differences in survival and placement onto the kidney transplant waitlist exist across patients with different etiologies of kidney failure. Individuals with IgAN have longer survival and enter the transplant waitlist more often than those with DKD or other GD.",
+      "結構化摘要": {
+        "目的": "IgA nephropathy (IgAN) is a major cause of kidney disease worldwide, yet contemporary comparative outcome data following kidney failure are limited. We compared trends in access to kidney transplantation and mortality among patients with kidney failure due to IgAN, to those with diabetic kidney disease (DKD) or other glomerular diseases (GD). STUDY DESIGN: Longitudinal cohort study. SETTING & PARTICIPANTS: Patients with kidney failure initiating maintenance dialysis (1965-2023) due to IgAN, DKD,",
+        "結果": "44,659 patients (4,925 with IgAN; 15,079 with other GD; 24,655 with DKD) were studied with a median follow-up of 53 months (IQR 23.3-109.8). The age-standardized incidence of IgAN remained stable over the past two decades (EAPC -0.01%, 95% CI - 0.80 to 0.78). Compared with other GD, patients with IgAN experienced lower all-cause (HR 0.69, 95% CI 0.65-0.73; p < 0.001) and cardiovascular (HR 0.67, 95% CI 0.60-0.74; p < 0.001) mortality, and increased rates of being placed on the transplant waitlis",
+        "結論": "Differences in survival and placement onto the kidney transplant waitlist exist across patients with different etiologies of kidney failure. Individuals with IgAN have longer survival and enter the transplant waitlist more often than those with DKD or other GD."
+      },
+      "相關趨勢": [
+        "研究主題: cardiovascular",
+        "臨床結局: mortality"
+      ],
+      "關鍵詞": [
+        "IgA nephropathy",
+        "diabetic kidney disease",
+        "dialysis",
+        "glomerular disease",
+        "kidney failure",
+        "survival",
+        "transplantation"
+      ],
+      "MeSH詞彙": [],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42913994/",
+      "DOI": "10.1053/j.ajkd.2026.06.028"
+    },
+    {
+      "pmid": "42610367",
+      "標題": "Prevalence of Fabry disease GLA variants among patients with parapelvic cysts: a Multicenter Italian Cohort Study.",
+      "期刊": "Journal of nephrology",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "parapelvic cysts: a Multicenter Italian Cohort Study",
+        "I_介入": "",
+        "C_對照": "the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients",
+        "O_結果": "the association between Fabry disease and parapelvic cysts"
+      },
+      "中文摘要": "【研究目的】本世代研究旨在探討of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts.\n\n【研究方法】From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patie...\n\n【主要結果】Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.\n\n【結論】Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population.",
+      "結構化摘要": {
+        "背景": "Fabry disease is a rare X-linked disorder characterized by the accumulation of sphingolipids in various vital systems, leading to multiple organ damage. As previous data showed the association between Fabry disease and parapelvic cysts, the aim of our work was to evaluate the prevalence of GLA variants in patients with parapelvic cysts.",
+        "方法": "From November 2022 to September 2024, we conducted a multicenter cohort study on patients referred to 15 Italian Nephrology Units. The prevalence of GLA variants among patients with parapelvic cysts was compared to the prevalence of Fabry disease in newborns and in chronic kidney disease (CKD )patients.",
+        "結果": "Among 306 enrolled patients with parapelvic cysts, we identified seven different variants in the GLA gene in eight patients (4 females, 4 males) (1.3%, 1.3%, respectively): three patients with two different pathogenic variants (2 males, 1 female) (0.65%, 0.32%, respectively), two patients with variants of uncertain significance (VUS) (2 males) (0.65%) and three with benign variants (3 females) (0.98%). The overall prevalence of GLA variants in our population was 2.6%, which is 11-fold higher tha",
+        "結論": "Our study is the first to analyze the prevalence of GLA variants in patients with parapelvic cysts, showing results that are significantly higher compared to CKD-ND patients and the general population. Parapelvic cyst identification, even before clinical manifestations, is crucial for early Fabry disease diagnosis and treatment."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "GLA variants",
+        "Fabry disease",
+        "early diagnosis",
+        "parapelvic cysts"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Fabry Disease",
+        "Female",
+        "Male",
+        "Italy",
+        "Prevalence",
+        "alpha-Galactosidase",
+        "Adult",
+        "Middle Aged",
+        "Infant, Newborn"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42610367/",
+      "DOI": "10.1093/joneph/aajag122"
+    },
+    {
+      "pmid": "42584019",
+      "標題": "Early exercise therapy for acute nephrotic syndrome: a randomised clinical trial.",
+      "期刊": "Journal of nephrology",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "隨機對照試驗",
+      "PICO": {
+        "P_族群": "acute nephrotic syndrome (NS)",
+        "I_介入": "",
+        "C_對照": "standard care",
+        "O_結果": "peak oxygen uptake (peak VO2) at baseline and 6 weeks"
+      },
+      "中文摘要": "【研究目的】本隨機對照試驗旨在探討ed to assess whether early exercise therapy enhances physical function without elevating risks of non-remission or worsening kidney function.\n\n【研究方法】This single-centre randomised controlled trial enrolled hospitalised adults receiving glucocorticoid therapy for NS. Participants were randomised (1:1) to exercise therapy or standard care. The primary outcome was peak oxygen uptake (peak VO2) at baseline and 6 weeks.\n\n【主要結果】Twenty-seven participants were recruited (early intervention, n = 13; standard care, n = 14). Peak VO2 increased significantly in the early exercise group (Δ = 3.45 mL/kg/min; 95% confidence interval [CI], 1.22-5.67) but not in the standard care group (Δ = 1.00 mL/kg/min; 95% CI, -1.14 to 3.14).\n\n【結論】Early exercise therapy in acute NS improved exercise tolerance clinically, although the primary outcome between-group difference was not statistically significant. No evidence indicated increased non-remission risk.",
+      "結構化摘要": {
+        "背景": "In adults with acute nephrotic syndrome (NS), physical function often declines; however, limited evidence on the efficacy and safety of exercise therapy leads to its avoidance due to fears of exacerbated proteinuria and renal deterioration. This study aimed to assess whether early exercise therapy enhances physical function without elevating risks of non-remission or worsening kidney function.",
+        "方法": "This single-centre randomised controlled trial enrolled hospitalised adults receiving glucocorticoid therapy for NS. Participants were randomised (1:1) to exercise therapy or standard care. The primary outcome was peak oxygen uptake (peak VO2) at baseline and 6 weeks. The secondary outcome was non-remission at 6 weeks (proteinuria ≥0.3 g/day). Analyses used multiple imputation for missing data, analysis of covariance adjusted for baseline, and modified Poisson regression.",
+        "結果": "Twenty-seven participants were recruited (early intervention, n = 13; standard care, n = 14). Peak VO2 increased significantly in the early exercise group (Δ = 3.45 mL/kg/min; 95% confidence interval [CI], 1.22-5.67) but not in the standard care group (Δ = 1.00 mL/kg/min; 95% CI, -1.14 to 3.14). Adjusted between-group difference at 6 weeks was 2.46 mL/kg/min (95% CI, -0.12 to 5.03). Risk ratio for non-remission was 0.673 (95% CI, 0.266-1.703), with no significant intergroup difference.",
+        "結論": "Early exercise therapy in acute NS improved exercise tolerance clinically, although the primary outcome between-group difference was not statistically significant. No evidence indicated increased non-remission risk. CLINICAL TRIAL REGISTRATION: This trial was registered with the University Hospital Medical Information Network Clinical Trials Registry (UMIN-CTR) (registration number: UMIN000038250; registration date: October 9, 2019)."
+      },
+      "相關趨勢": [
+        "臨床結局: proteinuria"
+      ],
+      "關鍵詞": [
+        "early exercise therapy",
+        "nephrotic syndrome",
+        "non-remission risk",
+        "physical function"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Nephrotic Syndrome",
+        "Female",
+        "Male",
+        "Exercise Therapy",
+        "Middle Aged",
+        "Adult",
+        "Treatment Outcome",
+        "Acute Disease",
+        "Time Factors"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42584019/",
+      "DOI": "10.1093/joneph/aajag129"
+    },
+    {
+      "pmid": "42696417",
+      "標題": "Crescents in native kidney biopsies from patients with IgA nephropathy and the risk of recurrence after kidney transplantation: a retrospective cohort study, systematic literature review and meta-analysis of observational studies.",
+      "期刊": "Journal of nephrology",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "統合分析",
+      "PICO": {
+        "P_族群": "IgA nephropathy and the risk of recurrence after kidney transplantation: a retrospective cohort study",
+        "I_介入": "option is kidney transplantation",
+        "C_對照": "",
+        "O_結果": ""
+      },
+      "中文摘要": "【研究目的】本統合分析旨在探討of our study was to clarify whether the presence of crescents in native kidney biopsies represents a risk factor for IgAN recurrence in renal allografts.\n\n【研究方法】The association between glomerular crescents in native kidney biopsies and IgAN recurrence was investigated in IgAN patients who underwent kidney transplantation at Lausanne University Hospital from 2003 to 2019.\n\n【主要結果】The Lausanne cohort included 63 patients with IgAN who underwent kidney transplantation. We found no association between glomerular crescents in native kidney biopsies and IgA recurrence in the renal allograft.\n\n【結論】Glomerular crescents, especially when present in more than 25% of viable glomeruli, remain an unfavorable prognostic factor for the progression of IgAN to kidney failure; however, they may not represent a risk factor for disease recurrence in renal allografts.",
+      "結構化摘要": {
+        "背景": "IgA nephropathy (IgAN) is associated with a high risk of kidney failure. Whenever this occurs, the best treatment option is kidney transplantation. IgAN recurrence in the kidney allograft may increase the risk of allograft loss. The association of glomerular crescents in native IgAN is a negative prognostic factor for the progression to kidney failure. The aim of our study was to clarify whether the presence of crescents in native kidney biopsies represents a risk factor for IgAN recurrence in r",
+        "方法": "The association between glomerular crescents in native kidney biopsies and IgAN recurrence was investigated in IgAN patients who underwent kidney transplantation at Lausanne University Hospital from 2003 to 2019. A systematic literature review was performed in MEDLINE, Embase, Cochrane CENTRAL, Web of Science and PMC from inception to November 2025, excluding reviews. Aggregate data were analyzed in a meta-analysis. The overall Risk Ratio (RR) with their corresponding 95% confidence interval (95",
+        "結果": "The Lausanne cohort included 63 patients with IgAN who underwent kidney transplantation. We found no association between glomerular crescents in native kidney biopsies and IgA recurrence in the renal allograft. Five additional cohorts were included in our meta-analysis, ultimately merging data from 311 patients, of whom 23% with recurrent IgAN. Crescent prevalence ranged from 12 to 62%, confirming the absence of association with an increased risk of IgAN recurrence [RR 1.53 (95% CI: 0.40-5.90), ",
+        "結論": "Glomerular crescents, especially when present in more than 25% of viable glomeruli, remain an unfavorable prognostic factor for the progression of IgAN to kidney failure; however, they may not represent a risk factor for disease recurrence in renal allografts."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "IgAN recurrence",
+        "crescentic glomerulonephritis",
+        "kidney transplantation",
+        "meta-analysis"
+      ],
+      "MeSH詞彙": [
+        "Humans",
+        "Glomerulonephritis, IGA",
+        "Kidney Transplantation",
+        "Recurrence",
+        "Biopsy",
+        "Risk Factors",
+        "Retrospective Studies",
+        "Female",
+        "Adult",
+        "Observational Studies as Topic"
+      ],
+      "是否高影響力期刊": false,
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42696417/",
+      "DOI": "10.1093/joneph/aajag169"
+    },
+    {
+      "pmid": "42919210",
+      "標題": "Predictors of physical performance decline in patients receiving maintenance hemodialysis: a prospective observational study.",
+      "期刊": "BMC nephrology",
+      "發表日期": "2026 Oct 22",
+      "研究類型": "研究",
+      "PICO": {
+        "P_族群": "physical performance decline",
+        "I_介入": "",
+        "C_對照": "those who maintained physical performance",
+        "O_結果": "that lower femoral bone mineral density and longer hemodialysis vintage were independently associated with physical performance decline in patients receiving maintenance hemodialysis"
+      },
+      "中文摘要": "【研究目的】本研究旨在探討To identify predictors of physical performance decline in patients receiving maintenance hemodialysis.\n\n【研究方法】This prospective observational study included patients receiving maintenance hemodialysis. Participants underwent assessment of physical performance using the Short Physical Performance Battery (SPPB), the 60-second sit-to-stand (60s-STS) test, handgrip strength, bone mineral density (BMD) by dual-e...\n\n【主要結果】Of the 103 participants, 18 (17.5%) experienced physical performance decline after a mean follow-up of 18.6 ± 10.1 months. Compared with those who maintained physical performance, participants with physical performance decline were older and had lower total and femoral bone mineral density and poore...\n\n【結論】This prospective study showed that lower femoral bone mineral density and longer hemodialysis vintage were independently associated with physical performance decline in patients receiving maintenance hemodialysis.",
+      "結構化摘要": {
+        "目的": "To identify predictors of physical performance decline in patients receiving maintenance hemodialysis.",
+        "方法": "This prospective observational study included patients receiving maintenance hemodialysis. Participants underwent assessment of physical performance using the Short Physical Performance Battery (SPPB), the 60-second sit-to-stand (60s-STS) test, handgrip strength, bone mineral density (BMD) by dual-energy X-ray absorptiometry (DEXA), and clinical and laboratory variables. Participants were classified according to changes in SPPB score between baseline and follow-up. The minimal detectable change ",
+        "結果": "Of the 103 participants, 18 (17.5%) experienced physical performance decline after a mean follow-up of 18.6 ± 10.1 months. Compared with those who maintained physical performance, participants with physical performance decline were older and had lower total and femoral bone mineral density and poorer performance on the 60s-STS test at baseline. In the multivariable penalized logistic regression analysis, lower femoral BMD (OR: 0.997; 95% CI: 0.991-0.999) and longer hemodialysis vintage (OR: 1.00",
+        "結論": "This prospective study showed that lower femoral bone mineral density and longer hemodialysis vintage were independently associated with physical performance decline in patients receiving maintenance hemodialysis. These findings underscore the potential value of longitudinal physical performance assessment and may help identify patients at greater risk of functional decline."
+      },
+      "相關趨勢": [],
+      "關鍵詞": [
+        "Bone mineral density",
+        "Chronic kidney disease",
+        "Hemodialysis",
+        "Physical performance",
+        "SDG 3: good health and well-being"
       ],
       "MeSH詞彙": [
         "Humans",
         "Renal Dialysis",
-        "Retrospective Studies",
-        "Vascular Patency",
-        "Female",
-        "Arteriovenous Shunt, Surgical",
-        "Male",
-        "Middle Aged",
-        "Aged",
-        "Treatment Outcome"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42888632/",
-      "DOI": "10.1097/MD.0000000000051077"
-    },
-    {
-      "pmid": "42888582",
-      "標題": "Association of baseline non-severe anemia with clinical outcomes following the first recorded diagnosis of systemic sclerosis: A matched cohort study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Oct 16",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "a first recorded SSc diagnosis between January 2010 and December 2024 from the TriNetX Research Network",
-        "I_介入": "",
-        "C_對照": "",
-        "O_結果": "all-cause mortality during days 31 to 365 among patients surviving the 30-day landmark period; secondary outcomes were sepsis, acute kidney injury, intensive care unit admission, pulmonary fibrosis, a"
-      },
-      "中文摘要": "【主要結果】warrant prospective validation.",
-      "結構化摘要": {
-        "完整摘要": "Systemic sclerosis (SSc) carries the highest mortality among systemic autoimmune diseases, yet the prognostic significance of anemia around the time of the first recorded SSc diagnosis is unclear. We examined whether baseline anemia is associated with early mortality and complications. This retrospective matched cohort study identified female adults with a first recorded SSc diagnosis between January 2010 and December 2024 from the TriNetX Research Network. Patients were required to have at least 5 years of pre-index observation without a documented SSc diagnosis. The network comprised 140 healthcare organizations, with approximately 70% of patients in the United States across all 9 census regions and 30% at international sites. Anemia was defined as hemoglobin (Hb) ≥8.0 and <12.0 g/dL and non-anemia as ≥12.0 g/dL, measured within ±30 days of diagnosis. For the Hb-stratified analysis, the anemia cohort was categorized as Hb ≥10.0 to <12.0 g/dL or ≥8.0 to <10.0 g/dL. One-to-one propensi"
-      },
-      "相關趨勢": [
-        "研究主題: fibrosis",
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "acute kidney injury",
-        "anemia",
-        "mortality",
-        "sepsis",
-        "systemic sclerosis"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Female",
-        "Scleroderma, Systemic",
-        "Anemia",
-        "Retrospective Studies",
-        "Middle Aged",
-        "Aged",
-        "Prognosis",
-        "Hemoglobins",
-        "Cohort Studies"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42888582/",
-      "DOI": "10.1097/MD.0000000000051159"
-    },
-    {
-      "pmid": "42888618",
-      "標題": "Effect of uric acid and estimated glomerular filtration rate on the Fibrosis-4 index: A cross-sectional and cohort analysis.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Oct 16",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "metabolic dysfunction-associated steatotic liver disease (MASLD) using cross-sectional and longitudinal analyses",
-        "I_介入": "uric acid and estimated glomerular filtration rate",
-        "C_對照": "",
-        "O_結果": "measure was the FIB-4 index"
-      },
-      "中文摘要": "【摘要】Hepatic steatosis and fibrosis present a significant public health burden, especially in China. Emerging evidence suggests an association between liver fibrosis and kidney function, indicating a potential relationship among uric acid (UA) levels, estimated glomerular filtration rate (eGFR), and the ...",
-      "結構化摘要": {
-        "完整摘要": "Hepatic steatosis and fibrosis present a significant public health burden, especially in China. Emerging evidence suggests an association between liver fibrosis and kidney function, indicating a potential relationship among uric acid (UA) levels, estimated glomerular filtration rate (eGFR), and the Fibrosis-4 (FIB-4) index. This retrospective cohort study investigates the correlation between UA, estimated GFR, and FIB-4 index in Chinese adults with metabolic dysfunction-associated steatotic liver disease (MASLD) using cross-sectional and longitudinal analyses. A total of 5051 adults with MASLD were included from 8857 individuals initially screened at the International Healthcare Center, Fourth Affiliated Hospital, Zhejiang University School of Medicine. The main outcome measure was the FIB-4 index. Among the 5051 participants (75.4% male; mean age, 42.3 years), the mean baseline eGFR was 98.7 mL/min/1.73 m2. Participants with lower eGFR had significantly older age and higher body mass "
-      },
-      "相關趨勢": [
-        "研究主題: fibrosis"
-      ],
-      "關鍵詞": [
-        "Fibrosis-4 index",
-        "chronic kidney disease",
-        "estimated glomerular filtration rate",
-        "liver fibrosis",
-        "uric acid"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Glomerular Filtration Rate",
-        "Uric Acid",
-        "Male",
-        "Female",
-        "Cross-Sectional Studies",
-        "Adult",
-        "Retrospective Studies",
-        "Liver Cirrhosis",
-        "Middle Aged"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42888618/",
-      "DOI": "10.1097/MD.0000000000051217"
-    },
-    {
-      "pmid": "42888627",
-      "標題": "Persistent hyperparathyroidism and its predictive factors in end-stage renal disease patients after kidney transplantation: A prospective study.",
-      "期刊": "Medicine",
-      "發表日期": "2026 Oct 16",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "persistent HPT had significantly higher baseline PTH (median 489 vs 273",
-        "I_介入": "",
-        "C_對照": "273",
-        "O_結果": "higher baseline PTH (median 489 vs 273"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討was to examine the prevalence of persistent HPT after KT in a contemporary cohort and to identify risk factors associated with persistent HPT at 6 months. We followed 104 KT subjects in a longitudinal prospective cohort at Cho Ray Hospital, Vietnam, from October 2023 to May 2025.\n\n【主要結果】suggest that high pretransplant intact PTH independently predicts persistent HPT at 6 months, whereas dialysis duration is only significant when it reaches 1 year or longer.",
-      "結構化摘要": {
-        "完整摘要": "Hyperparathyroidism (HPT) may persist in patients after kidney transplantation (KT). A better understanding of which patients are likely to have persistent HPT after KT would help in the development of optimal management strategies. Our aim was to examine the prevalence of persistent HPT after KT in a contemporary cohort and to identify risk factors associated with persistent HPT at 6 months. We followed 104 KT subjects in a longitudinal prospective cohort at Cho Ray Hospital, Vietnam, from October 2023 to May 2025. Persistent HPT was defined as a parathyroid hormone (PTH) level of 150 pg/mL at 6 months after KT. Among the 104 patients, the prevalence of persistent HPT at 6 months was 58.65%. The average PTH levels pretransplant and at 6 months posttransplant were 375.70 (IQR = 259.00-603.25) pg/mL and 167.95 (IQR = 112.53-227.30) pg/mL, respectively. Patients with persistent HPT had significantly higher baseline PTH (median 489 vs 273, P < .001) and alkaline phosphatase levels (median"
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "kidney transplant",
-        "persistent parathyroidism"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Kidney Transplantation",
         "Female",
         "Prospective Studies",
-        "Parathyroid Hormone",
         "Male",
-        "Kidney Failure, Chronic",
-        "Risk Factors",
+        "Physical Functional Performance",
+        "Bone Density",
         "Middle Aged",
-        "Adult"
+        "Absorptiometry, Photon",
+        "Hand Strength"
       ],
       "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42888627/",
-      "DOI": "10.1097/MD.0000000000051216"
-    },
-    {
-      "pmid": "42296025",
-      "標題": "A phase 2 trial of daratumumab monotherapy for patients with newly diagnosed cardiac stage IIIb AL amyloidosis.",
-      "期刊": "Blood",
-      "發表日期": "2026 Oct 15",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "newly diagnosed cardiac stage IIIb AL amyloidosis",
-        "I_介入": "additional treatment with bortezomib and dexamethasone",
-        "C_對照": "",
-        "O_結果": ""
-      },
-      "中文摘要": "【主要結果】support daratumumab as the backbone of anticlonal therapy in advanced cardiac AL amyloidosis. This trial was registered at www.clinicaltrials.gov as #NCT04131309.",
-      "結構化摘要": {
-        "完整摘要": "Treatment options for patients with immunoglobulin light chain (AL) amyloidosis and advanced cardiac involvement remain limited. The prospective phase 2 European Myeloma Network 22 trial included patients with previously untreated AL amyloidosis, measurable hematologic disease, and Mayo2004/European cardiac stage IIIB disease to receive daratumumab monotherapy at the standard dose and schedule for up to 2 years (28-day cycles); patients with inadequate response after 3 cycles could additionally receive weekly bortezomib and dexamethasone. The primary end point was 6-month overall survival (OS) rate. Of 40 patients enrolled, 10 (25.0%) received additional treatment with bortezomib and dexamethasone. The 6-month OS rate was 65% (95% confidence interval, 48.2-77.6), and median OS was 10.4 months. The best hematologic response rate (partial response or better) up to 6 months was 75% (very good partial response or better, 47.5%; complete response, 12.5%), with the median time to first and b"
-      },
-      "相關趨勢": [
-        "臨床結局: quality of life"
-      ],
-      "關鍵詞": [],
-      "MeSH詞彙": [
-        "Humans",
-        "Female",
-        "Male",
-        "Immunoglobulin Light-chain Amyloidosis",
-        "Antibodies, Monoclonal",
-        "Aged",
-        "Middle Aged",
-        "Dexamethasone",
-        "Bortezomib",
-        "Aged, 80 and over"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42296025/",
-      "DOI": "10.1182/blood.2025032897"
-    },
-    {
-      "pmid": "42570833",
-      "標題": "Long-term Outcomes of Renal Function Following CTO PCI: Insights on Contrast Exposure.",
-      "期刊": "The American journal of cardiology",
-      "發表日期": "2026 Oct 15",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "275 patients were included with a median follow-up of 3",
-        "I_介入": "(PCI) remains uncertain",
-        "C_對照": "",
-        "O_結果": "declined (median ΔeGFR: -17"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討of this study was to evaluate the association between procedural contrast volume and long-term deterioration in renal function among patients undergoing CTO PCI.\n\n【主要結果】were consistent across models for ΔeGFR, KDIGO-based, subgroups and sensitivity analyses. Patient-related factors including age, male sex, hypertension, and diabetes emerged as independent predictors of renal decline.",
-      "結構化摘要": {
-        "完整摘要": "The impact of contrast volume on long-term renal outcomes after chronic total occlusion (CTO) percutaneous coronary intervention (PCI) remains uncertain, and the causal role of contrast exposure is increasingly questioned, particularly beyond the acute phase. The aim of this study was to evaluate the association between procedural contrast volume and long-term deterioration in renal function among patients undergoing CTO PCI. This retrospective cohort study included consecutive patients undergoing CTO-PCI between 2019 to 2025 and had both baseline and ≥90-day follow-up creatinine measurements available. The main endpoint was persistent kidney dysfunction (≥25% decline in estimated glomerular filtration rate (eGFR)). Other relevant endpoints included Kidney Disease: Improving Global Outcomes (KDIGO) stage progression (≥1 stage), and rapid progression (≥2 stages). Contrast volume was analyzed as a continuous variable and by quartiles. Multivariable regression models and sensitivity analy"
-      },
-      "相關趨勢": [
-        "臨床結局: eGFR decline"
-      ],
-      "關鍵詞": [
-        "chronic kidney disease",
-        "chronic total occlusion",
-        "contrast volume",
-        "contrast-associated acute kidney injury",
-        "percutaneous coronary intervention",
-        "renal function"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Contrast Media",
-        "Percutaneous Coronary Intervention",
-        "Male",
-        "Glomerular Filtration Rate",
-        "Retrospective Studies",
-        "Coronary Occlusion",
-        "Aged",
-        "Female",
-        "Disease Progression"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42570833/",
-      "DOI": "10.1016/j.amjcard.2026.08.001"
-    },
-    {
-      "pmid": "42789323",
-      "標題": "Association of Neutrophil Percentage-to-Albumin Ratio (NPAR) With Pathological Features and Long-Term Prognosis in Diabetic Kidney Disease: A Cohort Study.",
-      "期刊": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-      "發表日期": "2026 Oct 15",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "diabetic kidney disease (DKD)",
-        "I_介入": "",
-        "C_對照": "the lowest NPAR quartile",
-        "O_結果": "2-year DKD progression, defined as a > 40% increase in serum creatinine, end-stage renal disease, or all-cause mortality"
-      },
-      "中文摘要": "【結論】, elevated NPAR is associated with increased renal neutrophil infiltration, more severe histopathological injury, and adverse renal outcomes in patients with DKD, and independently predicts long-term renal progression.",
-      "結構化摘要": {
-        "結論": ", elevated NPAR is associated with increased renal neutrophil infiltration, more severe histopathological injury, and adverse renal outcomes in patients with DKD, and independently predicts long-term renal progression."
-      },
-      "相關趨勢": [
-        "治療方法: SGLT2 inhibitor",
-        "研究主題: inflammation",
-        "研究主題: fibrosis",
-        "臨床結局: mortality"
-      ],
-      "關鍵詞": [
-        "diabetic kidney disease",
-        "inflammation",
-        "neutrophil percentage‐to‐albumin ratio",
-        "prognosis",
-        "renal biopsy"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Female",
-        "Male",
-        "Neutrophils",
-        "Diabetic Nephropathies",
-        "Prognosis",
-        "Middle Aged",
-        "Retrospective Studies",
-        "Kidney",
-        "Cohort Studies"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42789323/",
-      "DOI": "10.1096/fj.202601835RRR"
-    },
-    {
-      "pmid": "42873281",
-      "標題": "Safety and complications of upper pole puncture in supine percutaneous nephrolithotomy.",
-      "期刊": "World journal of urology",
-      "發表日期": "2026 Oct 14",
-      "研究類型": "研究",
-      "PICO": {
-        "P_族群": "required multiple calyx entries",
-        "I_介入": "of large renal stones",
-        "C_對照": "middle (77",
-        "O_結果": "the safety and stone-free rates of upper-pole punctures in supine PCNL"
-      },
-      "中文摘要": "【研究目的】本世代研究旨在探討Supine percutaneous nephrolithotomy (PCNL) has gained attention as a viable alternative to the traditional/historical prone approach for the treatment of large renal stones.\n\n【研究方法】This retrospective study analyzed supine PCNL cases performed between 2009 and 2019 across eight international centers, categorizing patients by calyx of entry (upper, middle, or lower). Patients who required multiple calyx entries were excluded.\n\n【主要結果】, we performed a second multivariable logistic regression among patients undergoing upper calyx puncture using the same covariates. ANOVA was used to compare the means of quantitative variables, and Chi-square tests assessed associations between categorical variables.\n\n【結論】Upper calyx punctures showed similar complication rates to middle and lower calyx punctures, with slightly lower stone-free rates likely due to higher stone complexity. These findings support the feasibility, safety, and efficacy of supine PCNL for upper calyx access.",
-      "結構化摘要": {
-        "目的": "Supine percutaneous nephrolithotomy (PCNL) has gained attention as a viable alternative to the traditional/historical prone approach for the treatment of large renal stones. However, concerns remain regarding the safety and feasibility of upper calyx punctures in the supine position, particularly for upper-pole access. This multicenter, retrospective cohort study evaluated the safety and stone-free rates of upper-pole punctures in supine PCNL, comparing outcomes with middle and lower calyx punct",
-        "方法": "This retrospective study analyzed supine PCNL cases performed between 2009 and 2019 across eight international centers, categorizing patients by calyx of entry (upper, middle, or lower). Patients who required multiple calyx entries were excluded. Demographics, surgical details, and outcomes were recorded, including complications and stone-free rates. We used logistic regression to assess the association between stone-free rates and calyx puncture sites, adjusting for age, gender, Guy's Stone Sco",
-        "結果": "Among 989 patients, 10% had upper, 28.5% middle, and 61.5% lower calyx punctures. No significant differences were found in overall complication rates when comparing upper, middle, and lower calyces. Thoracic complications were rare and did not differ significantly across calyces (p = 0.74). Upper calyx punctures had lower stone-free rates (51%) compared to middle (77.7%) and lower (62.8%) punctures (p < 0.001). The overall complication rate did not differ significantly (p = 0.82). According to t",
-        "結論": "Upper calyx punctures showed similar complication rates to middle and lower calyx punctures, with slightly lower stone-free rates likely due to higher stone complexity. These findings support the feasibility, safety, and efficacy of supine PCNL for upper calyx access."
-      },
-      "相關趨勢": [],
-      "關鍵詞": [
-        "Supine",
-        "Percutaneous nephrolithotomy",
-        "Renal calyx"
-      ],
-      "MeSH詞彙": [
-        "Humans",
-        "Nephrolithotomy, Percutaneous",
-        "Retrospective Studies",
-        "Female",
-        "Male",
-        "Punctures",
-        "Kidney Calculi",
-        "Supine Position",
-        "Postoperative Complications",
-        "Kidney Calices"
-      ],
-      "是否高影響力期刊": false,
-      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42873281/",
-      "DOI": "10.1007/s00345-026-06735-0"
+      "PubMed連結": "https://pubmed.ncbi.nlm.nih.gov/42919210/",
+      "DOI": "10.1186/s12882-026-05361-7"
     }
   ],
   "研究想法": [
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "mortality",
-      "頻率": 4,
-      "想法": "目前 'mortality' 是研究熱點 (4 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "fibrosis",
-      "頻率": 3,
-      "想法": "目前 'fibrosis' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "SGLT2 inhibitor",
-      "頻率": 2,
-      "想法": "目前 'SGLT2 inhibitor' 是研究熱點 (2 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "GLP-1",
-      "頻率": 1,
-      "想法": "目前 'GLP-1' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 6,
+      "想法": "目前 'mortality' 是研究熱點 (6 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
       "類型": "熱門主題延伸",
       "關鍵詞": "cardiovascular",
-      "頻率": 1,
-      "想法": "目前 'cardiovascular' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "inflammation",
-      "頻率": 1,
-      "想法": "目前 'inflammation' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "heart failure",
-      "頻率": 1,
-      "想法": "目前 'heart failure' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
-      "建議研究類型": "觀察性研究 / 回顧性分析"
-    },
-    {
-      "類型": "熱門主題延伸",
-      "關鍵詞": "quality of life",
-      "頻率": 1,
-      "想法": "目前 'quality of life' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "頻率": 3,
+      "想法": "目前 'cardiovascular' 是研究熱點 (3 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
@@ -594,39 +555,80 @@
       "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "研究缺口",
-      "關鍵詞": "SGLT2 inhibitor",
-      "頻率": 2,
-      "想法": "'SGLT2 inhibitor' (治療方法) 目前研究較少 (2 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "GLP-1",
+      "類型": "熱門主題延伸",
+      "關鍵詞": "proteinuria",
       "頻率": 1,
-      "想法": "'GLP-1' (治療方法) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
+      "想法": "目前 'proteinuria' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
     },
     {
-      "類型": "研究缺口",
-      "關鍵詞": "fibrosis",
-      "頻率": 3,
-      "想法": "'fibrosis' (研究主題) 目前研究較少 (3 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
-      "建議研究類型": "系統性回顧 / 前瞻性研究"
-    },
-    {
-      "類型": "研究缺口",
-      "關鍵詞": "cardiovascular",
+      "類型": "熱門主題延伸",
+      "關鍵詞": "quality of life",
       "頻率": 1,
-      "想法": "'cardiovascular' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "目前 'quality of life' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "ESKD",
+      "頻率": 1,
+      "想法": "目前 'ESKD' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "machine learning",
+      "頻率": 1,
+      "想法": "目前 'machine learning' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "熱門主題延伸",
+      "關鍵詞": "artificial intelligence",
+      "頻率": 1,
+      "想法": "目前 'artificial intelligence' 是研究熱點 (1 篇相關文章)，可考慮：\n1. 在本地族群中驗證相關發現\n2. 結合其他熱門主題進行交叉研究\n3. 針對特定亞群進行深入分析",
+      "建議研究類型": "觀察性研究 / 回顧性分析"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "eGFR decline",
+      "頻率": 1,
+      "想法": "'eGFR decline' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
     },
     {
       "類型": "研究缺口",
-      "關鍵詞": "inflammation",
+      "關鍵詞": "hospitalization",
       "頻率": 1,
-      "想法": "'inflammation' (研究主題) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "想法": "'hospitalization' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
       "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "proteinuria",
+      "頻率": 1,
+      "想法": "'proteinuria' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "quality of life",
+      "頻率": 1,
+      "想法": "'quality of life' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "研究缺口",
+      "關鍵詞": "ESKD",
+      "頻率": 1,
+      "想法": "'ESKD' (臨床結局) 目前研究較少 (1 篇)，\n可能是新興或未被充分探索的領域，可考慮：\n1. 文獻回顧以了解現有證據\n2. 前瞻性觀察研究\n3. 與既有研究主題結合",
+      "建議研究類型": "系統性回顧 / 前瞻性研究"
+    },
+    {
+      "類型": "跨領域研究",
+      "關鍵詞": "兒童腎臟學 + 成人腎臟學",
+      "想法": "考慮進行兒童至成人的長期追蹤研究：\n1. 兒童期腎臟疾病對成年後的影響\n2. 早期介入對長期預後的效果\n3. 生命歷程觀點的腎臟病研究",
+      "建議研究類型": "長期追蹤世代研究"
     },
     {
       "類型": "方法學創新",
@@ -645,41 +647,41 @@
       "關鍵詞": "重要發現複製與延伸",
       "想法": "本週有 1 篇高影響力期刊文章，可考慮：\n1. 在本地族群中驗證這些發現\n2. 探索可能的機轉\n3. 研究是否有族群差異",
       "相關文章": [
-        "Cardiovascular safety of orforglipron versus insul"
+        "Medicare Advantage Enrollment and Access to Kidney"
       ],
       "建議研究類型": "驗證性研究 / 機轉研究"
     }
   ],
   "MeSH詞彙分析": {
-    "Female": 13,
-    "Humans": 13,
-    "Male": 12,
-    "Middle Aged": 12,
-    "Aged": 10,
-    "Retrospective Studies": 7,
-    "Adult": 5,
-    "Glomerular Filtration Rate": 5,
-    "Risk Factors": 4,
-    "Cohort Studies": 4,
-    "Treatment Outcome": 3,
-    "Disease Progression": 3,
-    "Prognosis": 3,
+    "Humans": 17,
+    "Female": 17,
+    "Male": 17,
+    "Middle Aged": 15,
+    "Aged": 13,
+    "Adult": 12,
+    "Retrospective Studies": 10,
+    "Risk Factors": 5,
+    "Renal Insufficiency, Chronic": 3,
+    "Kidney": 3,
+    "Prevalence": 3,
+    "Young Adult": 3,
+    "Adolescent": 3,
+    "Cohort Studies": 3,
     "Prospective Studies": 3,
-    "China": 3,
-    "Diabetes Mellitus, Type 2": 2,
-    "Glycated Hemoglobin": 2,
-    "Renal Insufficiency, Chronic": 2,
-    "Creatinine": 2,
-    "Postoperative Complications": 2,
-    "Diabetic Nephropathies": 2,
-    "Renal Dialysis": 2,
-    "Acute Kidney Injury": 2,
-    "Proportional Hazards Models": 2,
-    "Longitudinal Studies": 2,
-    "Cardiovascular Diseases": 1,
-    "Heart Disease Risk Factors": 1,
-    "Hypoglycemic Agents": 1,
-    "Insulin Glargine": 1,
-    "Fluorine Compounds": 1
+    "Kidney Transplantation": 3,
+    "Diabetes Mellitus, Type 2": 3,
+    "Time Factors": 3,
+    "Kidney Failure, Chronic": 3,
+    "Glomerular Filtration Rate": 2,
+    "Fabry Disease": 2,
+    "Italy": 2,
+    "alpha-Galactosidase": 2,
+    "Infant, Newborn": 2,
+    "Kidney Diseases, Cystic": 2,
+    "Child": 2,
+    "United States": 2,
+    "Cardiovascular Diseases": 2,
+    "Incidence": 2,
+    "Treatment Outcome": 2
   }
 }
