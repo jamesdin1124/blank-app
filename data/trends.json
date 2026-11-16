@@ -1,66 +1,53 @@
 {
-  "總文章數": 57,
-  "高影響力期刊文章數": 7,
-  "分析日期": "2026-11-02T17:56:10.215569",
+  "總文章數": 13,
+  "高影響力期刊文章數": 0,
+  "分析日期": "2026-11-16T18:01:18.459982",
   "趨勢關鍵詞統計": {
     "臨床結局": {
-      "mortality": 18,
-      "proteinuria": 4,
-      "quality of life": 3,
-      "hospitalization": 2,
-      "eGFR decline": 2,
-      "ESKD": 1
-    },
-    "研究主題": {
-      "cardiovascular": 8,
-      "fibrosis": 3,
-      "inflammation": 2,
-      "personalized": 2,
-      "oxidative stress": 1,
-      "heart failure": 1
+      "mortality": 4,
+      "proteinuria": 2,
+      "hospitalization": 2
     },
     "診斷技術": {
-      "genetic testing": 1,
-      "biomarker": 1,
-      "artificial intelligence": 1
+      "biomarker": 3,
+      "machine learning": 2
+    },
+    "研究主題": {
+      "cardiovascular": 3,
+      "heart failure": 2,
+      "inflammation": 2
     },
     "治療方法": {
-      "empagliflozin": 3,
-      "finerenone": 1,
-      "dapagliflozin": 1
+      "finerenone": 1
     }
   },
   "熱門主題": [
     [
       "mortality",
-      18
-    ],
-    [
-      "cardiovascular",
-      8
-    ],
-    [
-      "proteinuria",
       4
     ],
     [
-      "quality of life",
+      "biomarker",
       3
     ],
     [
-      "fibrosis",
+      "cardiovascular",
       3
     ],
     [
-      "empagliflozin",
-      3
+      "proteinuria",
+      2
     ],
     [
       "hospitalization",
       2
     ],
     [
-      "eGFR decline",
+      "machine learning",
+      2
+    ],
+    [
+      "heart failure",
       2
     ],
     [
@@ -68,124 +55,85 @@
       2
     ],
     [
-      "personalized",
-      2
-    ],
-    [
-      "ESKD",
-      1
-    ],
-    [
-      "oxidative stress",
-      1
-    ],
-    [
-      "heart failure",
-      1
-    ],
-    [
-      "genetic testing",
-      1
-    ],
-    [
-      "biomarker",
-      1
-    ],
-    [
-      "artificial intelligence",
-      1
-    ],
-    [
       "finerenone",
-      1
-    ],
-    [
-      "dapagliflozin",
       1
     ]
   ],
   "期刊分布": {
-    "Diabetes, obesity & metabolism": 4,
-    "Pediatric nephrology (Berlin, Germany)": 3,
-    "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-    "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
-    "Clinical and experimental nephrology": 2,
-    "Hepatology (Baltimore, Md.)": 2,
-    "The Journal of surgical research": 2,
-    "Urologia": 2,
-    "American heart journal": 2,
-    "Paediatric anaesthesia": 1,
-    "Brain, behavior, and immunity": 1,
-    "Diabetologia": 1,
-    "The Cochrane database of systematic reviews": 1,
+    "European heart journal": 2,
+    "Kidney360": 1,
+    "European journal of nutrition": 1,
+    "Journal of physical activity & health": 1,
+    "Renal failure": 1,
+    "Medicine": 1,
+    "BMC nephrology": 1,
+    "Clinical and experimental hypertension (New York, N.Y. : 1993)": 1,
+    "PloS one": 1,
     "The New England journal of medicine": 1,
-    "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases": 1
+    "Signal transduction and targeted therapy": 1,
+    "Sleep & breathing = Schlaf & Atmung": 1
   },
   "文章類型分布": {
-    "Journal Article": 57,
-    "Multicenter Study": 16,
-    "Randomized Controlled Trial": 9,
-    "Comparative Study": 6,
-    "Meta-Analysis": 4,
-    "Systematic Review": 3,
-    "Observational Study": 3,
-    "Clinical Trial, Phase II": 2,
-    "Review": 1,
-    "Equivalence Trial": 1
+    "Journal Article": 13,
+    "Multicenter Study": 4,
+    "Randomized Controlled Trial": 3,
+    "Observational Study": 2,
+    "Equivalence Trial": 1,
+    "Comparative Study": 1,
+    "Clinical Trial, Phase III": 1,
+    "Clinical Trial, Phase II": 1
   },
   "MeSH詞彙頻率": {
-    "Humans": 57,
-    "Female": 53,
-    "Male": 53,
-    "Middle Aged": 48,
-    "Aged": 38,
-    "Retrospective Studies": 28,
-    "Adult": 27,
-    "Risk Factors": 20,
-    "Treatment Outcome": 17,
-    "Glomerular Filtration Rate": 14,
-    "Prospective Studies": 13,
-    "Kidney Transplantation": 10,
-    "Renal Insufficiency, Chronic": 10,
-    "Prognosis": 10,
-    "Acute Kidney Injury": 9,
-    "Cohort Studies": 8,
-    "Cardiovascular Diseases": 7,
-    "Postoperative Complications": 6,
-    "Adolescent": 6,
-    "Follow-Up Studies": 6,
-    "Time Factors": 6,
-    "Incidence": 5,
-    "Recurrence": 5,
-    "Disease Progression": 5,
-    "Renal Dialysis": 5,
-    "Child": 4,
-    "Child, Preschool": 4,
-    "Graft Survival": 4,
-    "Albuminuria": 4,
-    "Aged, 80 and over": 4
+    "Humans": 11,
+    "Female": 11,
+    "Male": 11,
+    "Middle Aged": 10,
+    "Adult": 6,
+    "Aged": 6,
+    "Prospective Studies": 4,
+    "Retrospective Studies": 4,
+    "Risk Factors": 3,
+    "Glomerular Filtration Rate": 2,
+    "Logistic Models": 2,
+    "Treatment Outcome": 2,
+    "Postoperative Complications": 2,
+    "Acute Kidney Injury": 2,
+    "Biomarkers": 2,
+    "Cohort Studies": 2,
+    "Young Adult": 2,
+    "Hospitalization": 2,
+    "Pregnancy": 1,
+    "Fatty Acids, Omega-3": 1,
+    "Japan": 1,
+    "Animals": 1,
+    "Child": 1,
+    "Seafood": 1,
+    "Maternal Nutritional Physiological Phenomena": 1,
+    "Fishes": 1,
+    "Kidney": 1,
+    "Diet": 1,
+    "Prenatal Exposure Delayed Effects": 1,
+    "Extracorporeal Membrane Oxygenation": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 7,
+      "文章數": 3,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Pediatric nephrology (Berlin, Germany)": 3,
-        "Paediatric anaesthesia": 1,
-        "Brain, behavior, and immunity": 1,
-        "Diabetologia": 1,
-        "The Cochrane database of systematic reviews": 1
+        "Kidney360": 1,
+        "European journal of nutrition": 1,
+        "Journal of physical activity & health": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 50,
-      "高影響力期刊文章數": 7,
+      "文章數": 10,
+      "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Diabetes, obesity & metabolism": 4,
-        "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association": 3,
-        "American journal of kidney diseases : the official journal of the National Kidney Foundation": 2,
-        "Clinical and experimental nephrology": 2,
-        "Hepatology (Baltimore, Md.)": 2
+        "European heart journal": 2,
+        "Renal failure": 1,
+        "Medicine": 1,
+        "BMC nephrology": 1,
+        "Clinical and experimental hypertension (New York, N.Y. : 1993)": 1
       }
     }
   }
