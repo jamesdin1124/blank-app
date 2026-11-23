@@ -1,139 +1,114 @@
 {
   "總文章數": 13,
   "高影響力期刊文章數": 0,
-  "分析日期": "2026-11-16T18:01:18.459982",
+  "分析日期": "2026-11-23T19:55:32.568219",
   "趨勢關鍵詞統計": {
-    "臨床結局": {
-      "mortality": 4,
-      "proteinuria": 2,
-      "hospitalization": 2
-    },
-    "診斷技術": {
-      "biomarker": 3,
-      "machine learning": 2
-    },
-    "研究主題": {
-      "cardiovascular": 3,
-      "heart failure": 2,
-      "inflammation": 2
-    },
     "治療方法": {
       "finerenone": 1
+    },
+    "研究主題": {
+      "cardiovascular": 2,
+      "oxidative stress": 1
+    },
+    "臨床結局": {
+      "mortality": 2,
+      "eGFR decline": 2
     }
   },
   "熱門主題": [
     [
-      "mortality",
-      4
-    ],
-    [
-      "biomarker",
-      3
-    ],
-    [
       "cardiovascular",
-      3
-    ],
-    [
-      "proteinuria",
       2
     ],
     [
-      "hospitalization",
+      "mortality",
       2
     ],
     [
-      "machine learning",
-      2
-    ],
-    [
-      "heart failure",
-      2
-    ],
-    [
-      "inflammation",
+      "eGFR decline",
       2
     ],
     [
       "finerenone",
       1
+    ],
+    [
+      "oxidative stress",
+      1
     ]
   ],
   "期刊分布": {
-    "European heart journal": 2,
-    "Kidney360": 1,
-    "European journal of nutrition": 1,
-    "Journal of physical activity & health": 1,
+    "The Journal of clinical endocrinology and metabolism": 2,
+    "Medicine": 2,
+    "Pediatric nephrology (Berlin, Germany)": 1,
+    "Pediatric research": 1,
+    "European heart journal": 1,
+    "Journal of the American Heart Association": 1,
     "Renal failure": 1,
-    "Medicine": 1,
-    "BMC nephrology": 1,
-    "Clinical and experimental hypertension (New York, N.Y. : 1993)": 1,
-    "PloS one": 1,
-    "The New England journal of medicine": 1,
-    "Signal transduction and targeted therapy": 1,
-    "Sleep & breathing = Schlaf & Atmung": 1
+    "Urolithiasis": 1,
+    "Annals of medicine": 1,
+    "World journal of urology": 1,
+    "Nephrologie & therapeutique": 1
   },
   "文章類型分布": {
     "Journal Article": 13,
     "Multicenter Study": 4,
-    "Randomized Controlled Trial": 3,
-    "Observational Study": 2,
-    "Equivalence Trial": 1,
-    "Comparative Study": 1,
-    "Clinical Trial, Phase III": 1,
-    "Clinical Trial, Phase II": 1
+    "Observational Study": 3,
+    "Comparative Study": 3,
+    "Systematic Review": 1,
+    "Randomized Controlled Trial": 1,
+    "English Abstract": 1
   },
   "MeSH詞彙頻率": {
     "Humans": 11,
-    "Female": 11,
     "Male": 11,
     "Middle Aged": 10,
-    "Adult": 6,
-    "Aged": 6,
-    "Prospective Studies": 4,
-    "Retrospective Studies": 4,
-    "Risk Factors": 3,
-    "Glomerular Filtration Rate": 2,
-    "Logistic Models": 2,
-    "Treatment Outcome": 2,
-    "Postoperative Complications": 2,
+    "Female": 10,
+    "Aged": 9,
+    "Retrospective Studies": 6,
+    "Risk Factors": 4,
+    "Adult": 4,
+    "Cohort Studies": 3,
+    "Renal Insufficiency, Chronic": 3,
+    "Treatment Outcome": 3,
+    "Glomerular Filtration Rate": 3,
+    "Incidence": 2,
+    "Risk Assessment": 2,
+    "Recurrence": 2,
     "Acute Kidney Injury": 2,
-    "Biomarkers": 2,
-    "Cohort Studies": 2,
-    "Young Adult": 2,
-    "Hospitalization": 2,
-    "Pregnancy": 1,
-    "Fatty Acids, Omega-3": 1,
-    "Japan": 1,
-    "Animals": 1,
-    "Child": 1,
-    "Seafood": 1,
-    "Maternal Nutritional Physiological Phenomena": 1,
-    "Fishes": 1,
-    "Kidney": 1,
-    "Diet": 1,
-    "Prenatal Exposure Delayed Effects": 1,
-    "Extracorporeal Membrane Oxygenation": 1
+    "Kidney Neoplasms": 2,
+    "Follow-Up Studies": 1,
+    "Frailty": 1,
+    "HIV Infections": 1,
+    "Longitudinal Studies": 1,
+    "Prognosis": 1,
+    "Sex Hormone-Binding Globulin": 1,
+    "Testosterone": 1,
+    "Hyperkalemia": 1,
+    "Diabetes Mellitus, Type 2": 1,
+    "Naphthyridines": 1,
+    "Mineralocorticoid Receptor Antagonists": 1,
+    "Potassium": 1,
+    "Diabetic Nephropathies": 1
   },
   "按類別統計": {
     "兒童腎臟學": {
-      "文章數": 3,
+      "文章數": 2,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "Kidney360": 1,
-        "European journal of nutrition": 1,
-        "Journal of physical activity & health": 1
+        "Pediatric nephrology (Berlin, Germany)": 1,
+        "Pediatric research": 1
       }
     },
     "成人腎臟學": {
-      "文章數": 10,
+      "文章數": 11,
       "高影響力期刊文章數": 0,
       "主要期刊": {
-        "European heart journal": 2,
-        "Renal failure": 1,
-        "Medicine": 1,
-        "BMC nephrology": 1,
-        "Clinical and experimental hypertension (New York, N.Y. : 1993)": 1
+        "The Journal of clinical endocrinology and metabolism": 2,
+        "Medicine": 2,
+        "European heart journal": 1,
+        "Journal of the American Heart Association": 1,
+        "Renal failure": 1
       }
     }
   }
